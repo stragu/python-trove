@@ -1,0 +1,3460 @@
+
+
+23rd Report of the
+Senate Select Committee on Superannuation
+SUPERANNUATION
+SURCHARGE
+LEGISLATION
+Parliament of the Commonwealth of Australia
+Canberra
+March 1997
+
+
+
+
+Twenty-third Report of the
+Senate Select Committee on Superannuation
+SUPERANNUATION SURCHARGE
+LEGISLATION
+Parliament of the Commonwealth of Australia
+Canberra
+March 1997
+
+
+© Commonwealth of Australia 1997
+ISBN 0 642 25127 4
+This document was produced from camera-ready copy prepared by the Senate Select
+Committee on Superannuation Secretariat, and printed by the Senate Printing Unit,
+Parliament House, Canberra.
+
+
+Members of the Committee
+MEMBERS OF THE COMMITTEE:
+Secretariat Staff:
+Address:
+Telephone:
+Facsimile:
+The Senate
+Parliament House
+CANBERRA ACT 2600
+(06) 277 3439
+(06) 277 5719
+This report is also available on the Internet at: http://senate.aph.gov.au
+
+
+
+
+CONTENTS
+CHAPTER 1 OVERVIEW
+Introduction.1
+Conduct of the Inquiry.2
+Summary of views.3
+Structure of this report.>
+CHAPTER 2 THE SURCHARGE LEGISLATION.
+Introduction.
+How are surcharge payments calculated?.
+How will the surcharge be collected?.
+Other major features of this legislation.
+How does the surcharge alter the taxation of superannuation?.
+Combined effect of tax plus surcharge.
+Taxation of Eligible Termination Payments (ETPs).
+The Bills.
+Superannuation Contributions Surcharge (Assessment and Collection) Bill.
+Superannuation Contributions Surcharge (Consequential Amendments) Bill.
+Schedule 1 - Amendments to the Income Tax Assessment Act.
+Schedule 2 - Amendments to the Retirement Savings Accounts Act.
+Schedule 3 - Amendments to the Superannuation Industry (Supervision) Act.
+Schedule 4 - Amendments to the Superannuation (Resolution of Complaints) Act
+Schedule 5 - Amendments to the Taxation (Interest on Overpayments and Early
+Payments) Act.
+Superannuation Contributions Surcharge Imposition Bill.
+Termination Payments Surcharge (Assessment and Collection) Bill.
+Part 1 - Preliminary details.
+Part 2 - Liability to surcharge.
+Part 3 - Assessment and collection of surcharge.
+Part 4 - Recovery of unpaid surcharge and advance instalments.
+Part 5 - Administration.
+Part 6 - Miscellaneous.
+Termination Payments Surcharge Imposition Bill.
+Superannuation Contributions Surcharge (Application to the Commonwealth) Bill..
+Superannuation Contributions Surcharge (Application to the Commonwealth -
+Reduction of Benefits) Bill.
+.7
+.7
+.7
+. 8
+. 9
+10
+10
+10
+13
+13
+13
+13
+14
+14
+14
+15
+16
+16
+16
+17
+17
+17
+17
+18
+18
+CHAPTER 3 CONSTITUTIONAL ISSUES
+Possible Invalidity.
+Taxation on the Property of a State.
+Discrimination between the States.
+Remuneration of Federal Justices.
+Other Issues Relating to the Judiciary.
+Constitutional Authority.
+Acquisition of Property.
+19
+19
+21
+22
+23
+24
+25
+26
+
+
+CHAPTER 4 THE PROPOSED COLLECTION MECHANISM.29
+Issues in relation to the proposed collection mechanism.29
+Complexity.29
+Efficiency.31
+Compliance costs of superannuation providers.33
+Employers' costs.35
+Superannuation providers' compliance costs - equity implications.36
+Superannuation providers' compliance costs - liquidity implications.37
+ATO's collection costs.39
+The advance instalments system.39
+Government position.40
+CHAPTER 5 TARGETING AND EQUITY.43
+Introduction.43
+Tax File Number collection.44
+Government and ATO initiatives to facilitate use of TFNs.47
+Definition of assessable income.49
+Government position on assessable income.50
+Uneven income patterns.52
+Other issues.53
+Costs to non-target members.53
+Effective tax rates.54
+Alternative methods of addressing equity issues.55
+CHAPTER 6 ALTERNATIVES TO THE PROPOSED COLLECTION MECHANISM. 57
+Alternative collection mechanisms.57
+Government position.61
+CHAPTER 7 REVENUE.63
+Financial implications.63
+Members who have retired since the surcharge announcement.63
+Avoidance.64
+Repackaging.64
+Other issues.66
+CHAPTER 8 PRIVACY.67
+Overview.67
+Another extension to the use of TFNs.67
+Voluntary quotation principle.68
+Opting in or out?.69
+TFNs held by superannuation funds/employers.70
+TFNs held by the ATO.70
+Personal information not covered by privacy laws.70
+Safeguards.72
+Monitoring privacy compliance by the superannuation industry.72
+CHAPTER 9 DEFINED BENEFITS SCHEMES AND ACTUARIAL STANDARDS.... 75
+Introduction.75
+
+
+Notional Employer Contributions.76
+Commutation Rules.70
+Particular Schemes.XO
+Military.XO
+Possible Alternatives.X1
+Govermnent position.XI
+CHAPTER 10 CONCLUSIONS AND RECOMMENDATIONS.X3
+Government Senators' conclusions and recommendation.X3
+Non-Government Senators' conclusions and recommendations.X-4
+That the surcharge is a tax.X7
+Eligible Termination Payments (ETPs).SS
+Defined Benefits Schemes.SO
+Guidelines.SO
+The proposed collection mechanism and alternatives.SO
+Recommendations.01
+Conclusion.02
+Australian Democrat Senators' supplementary conclusions and recommendationsOf
+Appendix 1 - List of Written Submissions
+Appendix 2 - List of Witnesses at Public Hearings
+Appendix 3 - List of Committee Reports
+
+
+
+
+CHAPTER 1
+OVERVIEW
+Introduction
+1.1 On Budget night, 20 August 1996, the Treasurer, the Hon. Peter Costello
+MP, announced that the Government would introduce a surcharge of up to 15
+per cent on all future tax deductible contributions made to superannuation
+funds or Retirement Savings Accounts providers by or for high income earners,
+including those who salary sacrifice.1 This surcharge is to be phased in
+commencing at the $70 000 assessable income level, reaching a maximum of
+15 percent at $85 000.
+1.2 Giving effect to this decision, on 13 February 1997, the Government
+introduced the following Bills into the House of Representatives:
+. Superannuation Contributions Surcharge (Assessment and
+Collection) Bill 1997;
+. Superannuation Contributions Surcharge (Consequential
+Amendments) Bill 1997;
+. Superannuation Contributions Surcharge Imposition Bill 1997;
+. Termination Payments Surcharge (Assessment and Collection) Bill
+1997;and
+. Termination Payments Surcharge Imposition Bill 1997.
+1.3 On 6 March 1997, the Government introduced a further two Bills:
+. Superannuation Contributions Surcharge (Application to the
+Commonwealth) Bill 1997; and
+. Superannuation Contributions Surcharge (Application to the
+Commonwealth - Reduction of Benefits) Bill 1997
+1.4 In the second reading speech for the Superannuation Contributions
+Surcharge (Assessment and Collection Bill) 1997, the Parliamentary Secretary
+(Cabinet) to the Prime Minister, the Hon. Chris Miles MP, advised the House
+of Representatives that the surcharge legislation is:
+1
+Press release by the Treasurer, the Hon. Peter Costello, MP, 20 August 1996.
+
+
+CHAPTER 1
+...this government's response to ensure that the superannuation
+system is more equitable for all Australians, while also ensuring
+that superannuation remains an attractive savings option.2
+1.5 Mr Miles told the House that the Government considered that the
+superannuation system was inequitably biased in favour of high income
+earners. He said that high income earners have been benefiting from the
+concessional taxation treatment of superannuation to a much greater extent than
+low income earners.
+1.6 The surcharge is also a significant revenue item in the Budget. The
+Government estimates that the revenue impact of the package of surcharge
+legislation will be $434 million in 1997-98, $500 million in 1998-99 and $526
+million in 1999-2000.’
+Conduct of the Inquiry
+1.7 On 26 February 1997, the Senate referred the provisions of the first five
+Bills to the Senate Select Committee on Superannuation for examination and
+report by 18 March 1997.
+1.8 The Committee advertised the reference on Monday 3 March, setting a
+closing date for submissions of 7 March.
+1.9 On 6 March, the Senate referred the provisions of the latter two Bills to
+the Committee and extended the reporting date by two days, to Thursday 20
+March 1997.
+1.10 The Committee received in excess of 70 submissions and other responses
+to the inquiry. A list of submissions made to the inquiry appears at Appendix 1.
+1.11 Two public hearings were held, in Sydney on 10 March and Canberra on
+11 March. A list of witnesses who appeared at those hearings is at Appendix 2.
+1.12 The Committee records its thanks to those persons and organisations who
+made submissions within the very tight time constraints imposed and gave
+evidence at the hearings at short notice.
+House of Representatives, Hansard, 13 February 1997, p. 625
+House of Representatives, Hansard, 13 February 1997, p. 625.
+
+
+Summary of views
+1.13 Submissions and evidence received by the Committee were
+overwhelmingly critical of the surcharge legislation. Not unexpectedly, the
+legislation was criticised by representatives of the superannuation industry and
+high income earners. However, representatives of several State Governments,
+industry representatives including the Business Council of Australia, the Metal
+Trades Industry Association of Australia, the accounting professions, the
+Judiciary and representatives of the Defence forces and other public sector
+employees also commented adversely on the surcharge proposal.
+1.14 There were many calls for the surcharge legislation to be rejected
+outright.
+1.15 Several witnesses and submittors contended that the legislation would
+lead to a severe further loss in confidence in superannuation, already damaged
+by a lack of stability in this area for several years.
+1.16 Comments made by Mr Grahame Willis of the Metal Trades Industry
+Association summarised many of the views that were put to the Committee:
+Mr Willis: From the contact that we have had with our members, and I have
+no reason to believe other than that they are representative of employers
+generally, I believe there is widespread concern, frustration and, in some cases,
+even anger with both the direction of this measure and the context in which it
+arose. That was an expectation of no change from the taxation arrangements on
+superannuation and a belief that the time must come when we create stability-
+in policy settings for superannuation. Clearly, if this process of incessant
+change is to continue, there will be no community confidence in
+superannuation at all. We believe that has enormous long-term ramifications
+for this country.4
+1.17 It was argued that superannuation could no longer be regarded as an
+attractive investment vehicle for retirement saving and that those who could
+repackage their remuneration would do so, minimising their participation in
+superannuation to that required by law. Persons who held this view contended
+that for this reason, the Government's revenue targets for this measure may not
+be achievable. Others however argued that repackaging may not necessarily be
+attractive or feasible in the larger corporations.
+4
+Evidence, p. 160,
+
+
+1.18 The State Governments of New South Wales and South Australia and
+Mr Dennis Rose AM, QC, appearing on behalf of the Business Council of
+Australia, raised constitutional issues.
+1.19 Evidence was received that many lower and middle income earners
+would also be required to pay surcharge because they failed to understand the
+necessity of providing tax file numbers (TFNs) to their superannuation funds
+and because of the way assessable income is to be calculated.
+1.20 Similarly, several contributors to the inquiry contended that including
+termination payments would require many lower income people to pay the
+surcharge.
+1.21 Many contributors to the inquiry singled out the surcharge collection
+mechanism for critical comment. This was held to be excessively complex,
+cumbersome and costly.
+1.22 Members leaving superannuation funds prior to receipt of an assessment
+was identified as creating administrative difficulties for funds. It was argued
+that the additional requirements to pay an advance surcharge compounded
+these problems.
+1.23 It was pointed out that all superannuation and RSA holders will bear a
+portion of the considerable costs associated with collecting the surcharge,
+although only a small proportion of those who hold superannuation, estimated
+to be approximately 355 000, will be directly affected by the surcharge. The
+Australian Taxation Office will also have to cross match several million tax file
+numbers to determine liability, at considerable administrative cost.
+1.24 Several submissions contended that the surcharge proposal effectively
+results in tax rates on deductible employer superannuation contributions that
+are significantly greater than the highest personal tax rates.
+1.25 It was argued that the surcharge would be difficult to administer fairly in
+respect of defined benefit schemes, particularly unfunded schemes. It is
+impossible to determine the extent to which the surcharge will affect benefits
+associated with such schemes until an "actuarial standard" is released, and the
+Committee received a number of expressions of anxiety about this.
+1.26 The system under which the ATO notifies funds of surcharge liabilities
+of individual members means that trustees can infer information about
+members' incomes. It was suggested that this has privacy implications.
+
+
+1.27 The Committee received a number of suggestions about how the
+Government could more effectively achieve its objectives to improve equit\
+through other means.
+1.28 While expressing reservations about the concept of the surcharge, several
+submittors accepted the Government's right to pursue policy objectives in this
+area, including improving equity and collecting revenue. However, they argued
+that there are a number of alternative approaches to achieving these objectives.
+They contended that these would be simpler and more efficient to administer
+and decrease the likelihood of lower income earners outside the intended
+surcharge target group having to pay surcharge.
+Structure of this report
+1.29 The next chapter of this report, Chapter 2, describes the surcharge in
+detail, explains how the surcharge will be calculated, who will pay it and how it
+will be collected. It also briefly places the surcharge in the context of the
+evolving taxation treatment of superannuation. The Chapter then explains the
+structure and objectives of each of the Bills before the Committee.
+1.30 Chapters 3 to 9 set out the major issues identified by the Committee in its
+examination of the legislation, and report on the nature of the arguments raised
+in submissions and evidence. The issues examined by the Committee in these
+chapters include:
+. Constitutional issues;
+. Collection method and administration;
+. Targeting and equity;
+. Alternative collection proposals;
+. Revenue;
+. Privacy; and
+. Defined benefit schemes and the actuarial standard.
+1.31 Chapter 10 consists of the separate conclusions and recommendations of
+the Government and non-government Committee members.
+
+
+
+
+CHAPTER 2
+THE SURCHARGE LEGISLATION
+Introduction
+2.1 The package of legislation introduced by the Government imposes a
+surcharge of up to 15 per cent on all employer and deductible personal
+superannuation contributions made by, or for, high income earners with
+assessable incomes over $70 000. The legislation also imposes a similar surcharge
+payment on "golden handshakes".
+2.2 The thresholds at which liability for surcharge commences and reaches its
+maximum will be indexed from 1997-98 to the increase in full-time adult
+average weekly ordinary times earnings.
+2.3 The surcharge is to have effect from budget night 1996 and applies to
+contributions made after the budget announcement. Accordingly, the surcharge
+does not affect any superannuation contributions or termination payments made
+prior to that night, regardless of the income of the recipient.
+2.4 About 355 000 taxpayers are expected to be affected by the surcharge.1
+2.5 An important feature of the legislation is that the superannuation provider,
+not the employee, is liable to pay the surcharge.
+How are surcharge payments calculated?
+2.6 Liability for surcharge in respect of superannuation contributions and
+termination payments commences at an "assessable income" of $70 000.
+Effectively, it increases by 1 per cent for each additional $1 000 of assessable
+income above the $70 000 threshold, reaching a maximum of 15 per cent at
+$85 000. For example, a person with an assessable income level of $75 500 will
+be liable for a surcharge of 5.5 percent on their employer and/or deductible
+superannuation contributions.
+2.7 "Assessable income" for the purposes of the surcharge is defined in the
+legislation to mean taxable income plus all employer and tax deductible
+personal superannuation contributions. The definition of assessable income also
+House of Representatives, Hansard, 13 February 1997, p. 625
+
+
+CHAPTER 2
+includes termination payments, with some exceptions as described later in the
+chapter.
+2.8 Defined benefits schemes require a different approach to assessing
+surcharge liabilities. If the contributions are held under a defined benefits
+scheme, the surcharge is payable on an amount calculated by reference to a
+notional surchargeable contributions factor determined for the member and the
+member's annual salary for the purposes of the scheme."
+2.9 Unfunded defined benefits schemes, such as those that apply to
+parliamentarians, the judiciary and many State and Commonwealth public
+sector employees, are not funded until the benefit is paid. Accordingly, the
+surcharge cannot be collected from these schemes each year.
+2.10 To address this issue, the Government has decided that the surcharge
+liability in respect of individuals in these schemes is to be accumulated and will
+be payable by the superannuation provider at the time the affected member's
+benefit commences to be paid. ’ Interest will be payable on the accumulated
+debt, and will be charged at the 10 year bond rate, currently 7.94 per cent.4
+How will the surcharge be collected?
+2.11 Each year, superannuation providers will be required to send to the
+Australian Taxation Office (ATO) details of contributions received in relation to
+each member. The reporting date will be 31 October each year.
+2.12 The legislation enables the providers to seek tax file numbers from
+members for this purpose. While there is no obligation on members to provide
+their TFNs, contributions made on their behalf and termination payments will be
+surcharged at the full rate of 15 per cent if the TFN is not supplied to the
+provider.
+2.13 The legislation also contains a number of provisions to facilitate the
+provision of TFNs. (See paras 2.37 - 2.41 below)
+2.14 Having received the TFNs, the ATO will then cross match the
+information supplied by superannuation providers with tax returns lodged by
+taxpayers. When the ATO determines that a member's assessable income is over
+the surcharge threshold and there is a surcharge liability, the ATO will assess
+Superannuation Contributions Surcharge (Assessment and Collection) Bill 1997, Part 1
+House of Representatives, Hansard, 13 February 1997, p. 625.
+Financial Review, 18 March 1997.
+4
+
+
+the amount of surcharge and will periodically send assessments to the provider
+who holds the member's contributions.
+2.15 The superannuation provider must then debit the member's
+superannuation account with the surcharge liability and send the amount owing
+to the ATO within one month of the assessment.
+2.16 The legislation also provides for payment of an advance instalment of
+surcharge liability from 1998, payable on 15 June of each year. The advance
+instalment will be 50 per cent of the surcharge assessed in the previous year.
+2.17 In the second reading speech, Mr Miles advised the House that the
+Government had considered several alternative measures of collecting the
+surcharge that have been suggested. He said that the alternatives suggested all
+involve an unacceptable increase in compliance costs for employers, small
+business and all Australians. He explained the Government's position in the
+following terms:
+A number of these alternatives involve transferring the reporting obligation
+from superannuation funds to the significantly larger number of employers. I he
+government believes this would represent a substantial increase in the
+compliance burden of small business.
+Significantly, the administrative requirements on superannuation funds under
+the government's approach are essentially similar to the processes that
+superannuation funds already undertake as part of their normal business
+operations. Against this background the government has decided not to depart
+from the broad approach to collection of the surcharge outlined on budget
+night.?
+Other major features of this legislation
+2.18 Other significant features of this legislation include:
+. a provision that allows trustees to reduce member's benefits in order
+to allow for payment of surcharge or advance payment. I his
+provision overrides any rules in trust instruments that may have
+otherwise prevented trustees from reducing benefits;
+5 House of Representatives, Hansard, 13 February 1997, p. 625
+
+
+. provisions that permit borrowings where surcharge assessments or
+instalment payments cannot be readily met from fund assets;
+. the SIS Act is amended to allow the quotation, provision and use of
+TFNs. This amendment is intended to maximise the use of TFNs
+quoted to trustees in order to minimise the number of surcharge
+assessments raised purely due to the non-quotation of TFNs.
+How does the surcharge alter the taxation of superannuation?
+Combined effect of tax plus surcharge
+2.19 Deductible contributions made by employers and self employed persons
+to superannuation funds are currently taxed at a rate of 15 per cent. This tax was
+introduced in May 1988. The surcharge will raise the effective rate of taxation
+on contributions for persons with an assessable income in excess of $70 000 to
+30 per cent.
+Taxation of Eligible Termination Payments fETPs)
+2.20 The taxation treatment of ETPs is highly complex and the following is a
+brief summary of the current taxation regime.
+2.21 ETPs include amounts payable on retirement, such as superannuation
+payments, other than pensions or annuities, and also other amounts paid to a
+person on ceasing employment, such as 'golden handshakes' and payment for
+unused sick leave.
+2.22 The taxation treatment of ETPs changed considerably in 1983. Prior to
+that date, ETPs were generally taxed at the rate of 5 per cent. For ETPs that
+relate to service after 1 July 1983, there are a number of components of the
+payment which are taxed at different rates. Without addressing each component,
+the effective result is that ETPs qualify for concessional tax treatment and are
+taxed at between 20 per cent and 30 per cent depending on the mix of
+components in the ETP.
+2.23 There is further concessional tax treatment for those who receive an ETP
+at age 55 or later. Such people will be taxed at either a zero rate or 15 per cent,
+depending on the component of the ETP. This concession only applies to a
+certain threshold, currently approximately $86 500.
+
+
+The Bills
+2.24 The surcharge legislation consists of the following Bills:
+. Superannuation Contributions Surcharge (Assessment and
+Collection) Bill 1997;
+. Superannuation Contributions Surcharge (Consequential
+Amendments) Bill 1997;
+. Superannuation Contributions Surcharge Imposition Bill 1997;
+. Termination Payments Surcharge (Assessment and Collection) Bill
+1997;
+. Termination Payments Surcharge Imposition Bill 1997;
+. Superannuation Contributions Surcharge (Application to the
+Commonwealth) Bill 1997; and
+. Superannuation Contributions Surcharge (Application to the
+Commonwealth - Reduction of Benefits) Bill 1997
+Superannuation Contributions Surcharge (Assessment and Collection) Bill
+2.25 This Bill provides for the assessment and collection of the surcharge on
+superannuation contributions paid to superannuation providers in respect ot
+"high income" individuals. The Bill has seven parts, the features of which are
+described in the following paragraphs.
+2.26 Part 1 of the Bill includes a simplified outline of the Bill.
+2.27 Part 2 sets out the liability to surcharge and the advance payment system.
+This section:
+. sets 1 July 1996 as the date at which liability for the surcharge
+commences;
+. establishes $70 000, indexed to average weekly earnings, as the
+"adjusted taxable income" level at which surcharge commences;
+. defines who is liable to pay the surcharge;
+. defines surchargeable contributions;
+. establishes an advance instalment system for surcharge liability tor
+the following year; and
+. establishes who is liable to pay the advance instalment.
+
+
+2.28 Part 3 of the Bill:
+. sets out the superannuation provider's obligations to provide
+statements to the Commissioner for Taxation (who is to assess the
+level of surcharge), other providers and members;
+. establishes a provision for surcharge payable by members of defined
+benefits funds to be deferred until benefits are paid. The amount
+owing is to be indexed to the Treasury bond rate;
+. sets out the ATO's powers to amend assessments, including the
+power to require interest to be paid to the Commonwealth in the
+event that insufficient surcharge is paid.
+2.29 Part 3 also gives the Commissioner for Taxation power to use tax file
+numbers for the purposes of the legislation and describes how objections against
+assessments are to be resolved.
+2.30 Part 4 of the Bill deals with the recovery of unpaid surcharge, advance
+instalments, interest or late payment penalties.
+2.31 Part 5 of the Bill deals with administration including secrecy provisions
+and the divulgence of information.
+2.32 Part 6 of the Bill contains miscellaneous provisions. Key provisions
+include:
+. details of information a superannuation provider must provide to the
+Commissioner of Taxation;
+. a provision that allows superannuation providers to reduce members'
+benefits on account of payment of surcharge or advance payment,
+overriding any provisions in trust instruments that may have
+prevented any such reduction of benefits;
+• establishment of standards of evidence, rights of access to premises
+and the powers of the Commissioner to obtain information and
+documents;
+• standards of records to be kept and retained by the superannuation
+provider.
+2.33 Part 7 of the Bill contains the definitions used for the purposes of the Act.
+
+
+Superannuation Contributions Surcharge (Consequential
+Amendments) Bill
+2.34 This Bill makes consequential amendments to five Acts as a result of the
+decision to introduce the surcharge. It consists of five schedules, each dealing
+with amendments to a particular Act. The Acts amended are as follows:
+. Income Tax Assessment Act 1936
+• Retirement Savings Accounts Act 1997
+. Superannuation Industry (Supervision) Act 1993
+• Superannuation (Resolution of Complaints) Act 1993
+. Taxation (Interest on Overpayments and Early Payments) Act 1993
+2.35 Key features of this Bill are as follows:
+Schedule 1 - amendments to the Income Tax Assessment Act
+2.36 Amendments in Schedule 1 extend the use of the Tax File Number (TIN)
+system to allow TFNs quoted for superannuation or taxation purposes to be used
+for surcharge purposes. Where a TFN is quoted to a superannuation fund for the
+purpose of calculating tax to be deducted from an early termination payment
+(ETP), that quotation will be taken as having been quoted for the purposes of
+the surcharge legislation.
+Schedule 2 - amendments to the Retirement Savings Accounts Act
+2.37 Schedule 2 amends Part 11 of the RSA Act to provide for the quotation,
+provision and use of the TFNs of RSA holders and applicants for the purposes
+of the legislation. These amendments are designed to avoid individuals being
+subject to the surcharge simply because they have not provided their TFN to the
+RSA provider.
+Schedule 3 - amendments to the Superannuation Industry (Supervision) Act
+2.38 Schedule 3 deals with the use of TFNs for surcharge purposes. It permits
+super fund members to quote TFNs directly to the fund or scheme trustees lor
+the purposes of the surcharge. Trustees are enabled to request members' TFNs.
+2.39 The schedule includes provisions that permit borrowings where surcharge
+assessments or instalment payments cannot be readily met from fund assets.
+
+
+2.40 Part 25A of the SIS Act is amended to allow the quotation, provision and
+use of TFNs to maximise the use of TFNs quoted to trustees in order to
+minimise the number of surcharge assessments raised purely due to the non-
+quotation of TFNs.
+2.41 Effectively, this means that where an employee has already quoted a TFN
+to an employer fund for the purposes of the SIS legislation, the employer may
+pass the TFN on to the trustee, provided the employee has the option of
+objecting. The employer must give the employee 30 days notice of intention to
+pass on the TFN and if the employee does not respond, consent will be taken as
+having been granted. Similarly, the trustee is permitted to pass the TFN on to
+another trustee, RSA provider or the ATO, subject to the permission of the
+beneficiary.
+Schedule 4 - amendments to the Superannuation (Resolution of Complaints ) Act
+2.42 Amendments in this schedule enable the Superannuation Complaints
+t ribunal to deal with complaints about the calculation of superannuation
+contributions subject to the surcharge.
+Schedule 5 - Amendments to the Taxation (Interest on Overpayments and Early
+Payments) Act
+2.43 Amendments in this schedule provide that where a person has paid the
+assessed amount of surcharge and as a result of an amendment, the surcharge
+liability is reduced, then the Commissioner for Taxation pays interest on the
+amount of the reduction.
+2.44 The rate of interest payable is 4 per cent less than would have been
+payable than the rate of interest provided for in Section 214 of the Income Tax
+Assessment Act.
+2.45 It is important to note that no interest is payable in respect of amendments
+made as a result of the late provision of TFNs. For example, if an individual
+does not supply a TFN and consequently is required to pay the surcharge, no
+interest is payable on any amendment made if and when the TFN is eventually
+provided. In such a situation, the Commissioner will simply refund the
+surcharge payment.
+Superannuation Contributions Surcharge Imposition Bill
+2.46 This Bill imposes the surcharge and declares the rate at which it is to be
+collected.
+
+
+2.47 Under the provisions of this Bill, liability for surcharge commences when
+a member's adjusted taxable income exceeds $70 000. The rate at which the
+surcharge is imposed rises by 1 percentage point per $1 000. For example, an
+individual with an adjusted taxable income of $82 500 is liable for a surcharge
+of 12.5 percent.
+2.48 If the members' adjusted taxable income is $85 000 or more, the rate of
+surcharge is 15 per cent of his or her surchargeable contributions. This amount
+is indexed by movements in average weekly earnings.
+2.49 Section 5(3) provides that if a member has not provided a TFN and the
+Commissioner for Taxation has not found it out by other means (for example,
+through the provisions described in paragraphs 2.37 to 2.41 above), the rate of
+surcharge is set at the maximum of 15 per cent, regardless of income level.
+Termination Payments Surcharge (Assessment and Collection) Bill
+2.50 This Bill provides for the assessment and collection of surcharge on
+'golden handshakes'. These are described as
+...termination payments that are funded by an employer rather than through the
+superannuation system.
+2.51 The Bill includes provisions that are intended to avoid any retrospective
+application of the surcharge to golden handshakes. A transitional measure will
+apply to golden handshakes received within five years of the 1996-97 budget
+announcement. The surchargeable portion is only that part ot the golden
+handshake which relates to the employee's post 20 August 1996 service with the
+particular employer.7
+2.52 The Bill is divided into six parts:
+. Part 1 - Preliminary details;
+. Part 2 - Liability to surcharge;
+. Part 3 - Assessment and collection of surcharge;
+. Part 4 - Recovery of unpaid surcharge and advance instalments;
+. Part 5 - Administration; and
+. Part 6 - Miscellaneous.
+6 House of Representatives, Hansard, 13 February 1997, p. 627.
+House of Representatives, Hansard, 13 February 1997, p. 627.
+7
+
+
+Part 1 - Preliminary details
+2.53 This part that provides an outline of the objects and purpose of the Bill.
+Part 2 - Liability to surcharge
+2.54 This part has the following functions:
+. identifies the amounts that will be subject to surcharge;
+. explains when surcharge is payable;
+. identifies who will be liable to pay the surcharge; and
+. outlines transitional arrangements that affect the amount subject to
+the surcharge.
+2.55 Key features include:
+. the Bill relies on S27A(1) of the Income Tax Assessment Act for the
+definition of eligible termination payments (ETPs) subject to
+surcharge;
+. the tax free amount of bona fide redundancy payments and approved
+early retirement scheme payments are not considered to be ETPs and
+are not surchargeable;
+• Adjusted taxable income is defined as the sum of:
+the taxable income for that financial year and
+surchargeable contributions, unless already included in
+taxable income because they have been paid out as an ETP;
+• Accordingly, receipt of an ETP can place a taxpayer in the
+surchargeable adjusted taxable income bracket;
+• Surcharge on termination payments is only payable for that portion
+of employment after budget night 1996. However, this provision
+only applies to payments up to 20 August 2001. Payments after that
+date will be fully surchargeable unless the taxpayer had entered into
+a written agreement before 7.30pm, 20 August 1996, specifically
+recognising the employee's entitlement to be paid an ETP on
+termination of employment.
+Part 3 - Assessment and collection of surcharge
+2.56 The provisions of this section:
+• establish how and when assessments of the surcharge are to be made
+by the Commissioner for Taxation;
+
+
+. outline the conditions under which amended assessments of the
+surcharge may be made and when interest will be payable;
+. allow for objections against assessments of surcharge; and
+. provide for TFNs to facilitate the effective administration of the
+Act.8
+Part 4 - Recovery of unpaid surcharge and advance instalments
+2.57 The purpose of the provisions of this part of the Bill is to provide for;
+. late payment penalties;
+. recovery of unpaid amounts of surcharge, interest and late payment
+penalties;
+. application of payment to debts; and
+. review of decisions not to remit late payment penalties and interest.
+Part 5 - Administration
+2.58 This part of the Bill provides for:
+. the general administration of the Act;
+. an annual report to be given to Parliament on the operation of the
+Act; and
+. the protection of information obtained under the Act.
+Part 6 - Miscellaneous.
+2.59 The provisions in this part set out a number of standard requirements tor:
+. evidence;
+. access to premises;
+. obtaining information and evidence;
+. record keeping requirements;
+. application of the criminal code; and
+. regulations.
+Termination Payments Surcharge Imposition Bill
+2.60 This is a short Bill that imposes the surcharge on termination payments. It
+provides for a method of determining the rate at which termination payments
+8 Explanatory Memorandum
+
+
+surcharge must be paid that is similar to that in the Superannuation
+Contributions Surcharge Imposition Bill.
+Superannuation Contributions Surcharge (Application to the
+Commonwealth) Bill
+2.61 This Bill is intended to ensure that the superannuation contributions
+surcharge applies to all non-contributory superannuation schemes operated by
+the Commonwealth. In particular, the Bill is intended to address the
+circumstances of judges appointed by the Commonwealth. The Bill provides
+that the trustee of such a scheme is not to be taken to be an officer, authority or
+agent of the Commonwealth.
+2.62 This Bill also provides that the Minister for Finance may give directions
+in relation to the discharge of superannuation contributions surcharge liability of
+the trustee of certain Commonwealth unfunded defined benefit superannuation
+schemes. Compliance with a direction by the Minister for Finance in relation to
+the discharge of surcharge liability is taken to be a payment of surcharge by the
+trustee.9
+Superannuation Contributions Surcharge (Application to the
+Commonwealth - Reduction of Benefits) Bill
+2.63 The Bill provides that the trustee of a Commonwealth non-contributory
+unfunded defined benefits superannuation scheme may reduce a member's
+benefits to pay a superannuation contributions surcharge liability.
+2.64 The provisions of this Bill are particularly intended to address provisions
+of the Constitution that protect the remuneration of a current judge from
+reduction during his or her continuation in office. This Bill ensures that new
+appointees are subject to the surcharge and is intended to ensure that the
+application of the surcharge does not result in a contravention of the
+Constitution.10
+9 House of Representatives, Hansard, 6 March 1997, p. 1818.
+10 House of Representatives, Hansard, 6 March 1997, p. 1819.
+
+
+CHAPTER 3
+CONSTITUTIONAL ISSUES
+CONSTITUTIONAL ISSUES
+Possible Invalidity
+3.1 In a document supplied to the Committee, Mr Dennis Rose AM, QC, of
+Blake Dawson Waldron, Solicitors, and making a submission on behalf of the
+Business Council of Australia, submitted that the Superannuation Contributions
+Surcharge (Assessment and Collection) Bill 1997, if enacted, would breach the
+Constitution. As the proposed Act is a central part of the surcharge scheme, if it
+was found to be invalid the current legislative scheme would be inoperable.
+3.2 Mr Rose's argument is based on the premise that the proposed legislation
+relies either on the taxation power contained in paragraph 51 (ii) of the
+Constitution or on the power to legislate on matters incidental to the exercise of
+a power vested in the Commonwealth to legislate for a matter (paragraph
+51(xxxix) of the Constitution). If the surcharge is based on the taxation power,
+Mr Rose argued that clause 34 of the Superannuation Contributions Surcharge
+(Assessment and Collection) Bill 1997 is probably invalid and that this would
+result in the remainder of the Bill being invalid as it:
+...would clearly be inseverable from the provisions of the proposed
+Act imposing liabilities on the [superannuation] providers to pay
+surcharge and advanced instalments.1
+3.3 Clause 34 provides:
+If a superannuation provider makes a payment under this Act in discharge of a
+liability of the provider for surcharge or advance payment on a member’s
+surchargeable contributions, then, dispite anything in any trust instrument,
+contract or other document or in any legislation, the provider may reduce any
+benefits accruing to or for the member after 20 August 1996 by the amount
+paid.
+3.4 Mr Rose argues that this will breach certain decisions of the High Court,
+the most recent being that in MacCormick v Federal Commissioner oj Taxation
+(1984) 158 CLR 622. An essential point to Mr Rose's argument is the
+difference between a liability to pay taxation and an obligation to collect
+Document presented to the Committee on 11 March 1997.
+
+
+taxation that is payable by another person. In a submission to the Committee
+Mr Rose argues:
+Clause 34 is probably not within the taxation or related "incidental" powers.
+Given the imposition of a tax on person A, it is not within those powers for the
+Commonwealth to require another person B to pay the amount of the tax to the
+Commonwealth...2
+3.5 In relation to the surcharge, this would mean that although the surcharge
+is levied on members with assessable income and superannuation contributions
+above the threshold (currently $70 000), clause 34 will provide that the
+superannuation provider is liable to pay the surcharge on behalf of the
+members, rather than only be responsible for collecting the surcharge from the
+members.
+3.6 In oral evidence given to the Committee, Mr Rose made the distinction
+between the surcharge, where the superannuation provider can be liable to pay
+the surcharge, and the PAYE taxation system where the employer is obliged to
+collect taxation from their employees.3
+3.7 Representatives of the Australian Taxation Office (ATO) agreed in oral
+evidence given to the Committee that the proposed surcharge was based on
+paragraph 51 (ii) of the Constitution and that they were not aware of a similar
+tax collection method.4 When asked to give a view on the submission by Mr
+Rose, the Australian Tax Office representatives expressed the view that such a
+question should be put to the Attorney-General's Department.5
+3.8 The Chairman of the Committee wrote to the Attorney-General, the
+Hon. Daryl Williams AM, QC, MP, offering him the opportunity to comment
+on Mr Rose's opinion. The Committee understands that Mr Williams intends to
+respond. However, this response was not received prior to this report being sent
+for printing.
+Ibid.
+Evidence, p. S214.
+Evidence, p. S289.
+Evidence, p. S288.
+
+
+Taxation on the Property of a State
+3.9 Section 114 of the Constitution provides, in part, that the Commonwealth
+is not to:
+...impose any tax on property of any kind belonging to a State.
+3.10 Submissions made by both the State of New South Wales (N.S.W.) and
+South Australia (S.A.) argued that the proposed surcharge could be in breach of
+section 114 as it applied to certain State superannuation schemes.
+3.11 The Superannuation Industry (Supervision) Act 1993 (SIS Act) contains
+the concept that certain superannuation funds are 'Constitutionally protected'
+funds. According to the explanatory memorandum to the Bill which introduced
+the concept, a Constitutionally protected fund will be one where the assets of
+the fund belong to a State government. The SIS ACT contains provisions for
+the Income Tax Regulations to prescribe that a fund is a Constitutionally
+protected fund, but to date no such regulations have been made.
+3.12 In oral evidence given to the Committee by a representative of the
+N.S.W2 Government, the representative stated:
+Under section 114 of the Commonwealth Constitution the property of a State
+may not be taxed. Some superannuation funds are actually styled as
+superannuation funds but do not consist of a separate fund. Instead they consist
+of an account within a consolidated fund of a state. It is our understanding that
+these funds were constitutionally protected and therefore not subject to tax.1
+3.13 According to the N.S.W. Government written submission to the
+Committee:
+There appears to be no constitutional or legal basis upon which the levy of the
+surcharge can be made in the way proposed on the 'constitutionally protected'
+funds. The Commonwealth attempt to sweep aside the protection of State
+property in this way has very wide ramifications beyond superannuation, and
+is viewed with great concern by the States.7
+3.14 In response to questions that the surcharge may be imposed on the
+individual rather than the fund, (where it can be argued that for defined benefits
+schemes which apply to most State government employees that the surcharge is
+Evidence, p. SI3.
+Submission No. 22, p. 5.
+
+
+payable by the individual at the time they retire and so cease to be an employee
+of the State), the N.S.W. Government representatives replied:
+That is certainly a question that would have to be considered. Yes, it is
+certainly a way of saying that this is not a tax on the State.8
+3.15 The South Australian Government oral submission noted that the
+Commonwealth Treasurer had written to the States requesting that they
+cooperate with the implementation of the surcharge in relation to
+Constitutionally protected funds.9 The issue of State involvement has raised the
+question of whether the State Parliaments will be able to pass complementary
+legislation, particularly where the State government does not have a majority in
+both Houses of the Parliament in the majority of States where there are two
+Houses of Parliament.
+Discrimination between the States
+3.16 Paragraph 51 (ii) of the Constitution (the taxation power) provides that
+the Commonwealth may legislate in regard of 'taxation, but so as to not
+discriminate between the States or parts of States'. The N.S.W. Government
+submission notes:
+The experience of public sector superannuation funds, Australia wide, is that
+States:
+(a) fully fund or fully unfund their superannuation funds; or
+(b) fully fund some funds but not others; or
+(c) partially fund.10
+3.17 The N.S.W. Government submission then argues that the different
+treatment of accumulation and unfunded schemes will result in the surcharge
+being levied unevenly amongst the various State schemes. Within a State,
+superannuation providers will also be treated differently resulting in
+discrimination between parts of a State. This raises the question of whether
+section 114 of the Constitution has been breached."
+Evidence, p. 8, 9.
+Evidence, p. 13.
+10 Submission No. 22, p. 4
+11 Ibid
+
+
+3.18 The issue of whether the proposed surcharge will offend section 1 14 of
+the Constitution was also raised in a submission made by the Judicial
+Remuneration Coordinating Committee. That Committee stated in its
+submission in relation to the payment of judicial pensions, which are paid from
+the State revenue:
+In South Australia (and, so far as I am aware, some other States as
+well), judicial pensions are payable by the Treasurer, direct from
+the consolidated revenue which, by virtue of the relevant statute, is
+appropriated for that purpose. There is no separate pension fund.
+The effect of the proposed legislation is to attempt to attach the
+proposed surcharge to the consolidated revenue of the State in a
+manner which appears to offend section 114 of the Constitution.12
+Remuneration of Federal Justices
+3.19 Paragraph 72(iii) of the Constitution provides that for Justices of the
+High Court and other courts created by the Commonwealth Parliament they:
+...shall receive such remuneration as the Parliament may fix; but the
+remuneration shall not be diminished during their continuance in office.
+3.20 The Parliament has established a number of courts, including the Federal
+Court and the Family Court. Following the argument being put that the
+surcharge would have the effect of reducing the remuneration of current
+Federal justices, the Government introduced the Superannuation Contribution
+Surcharge (Application to the Commonwealth) Bill 1997 and the
+Superannuation Contribution Surcharge (Application to the Commonwealth -
+Reduction of Benefits) Bill 1997.
+3.21 The effect of the two Bills is that the surcharge will not be payable in
+respect of currently serving Federal justices but will apply to new
+appointments. The President of the Association of Australian Magistrates, Mr
+Somes, made the point in oral evidence given to the Committee that the
+application of the surcharge to only newly appointed justices and to currently
+serving and newly appointed classes of other judicial officers, would result in
+the situation of people doing the same work, ie. presiding over a court and
+making judicial decisions, but receiving less final remuneration. In his evidence
+Mr Somes stated:
+If it is true that Federal judges currently serving are to be exempted - and one
+would have to assume that it is because of the Constitutional concerns - then it
+12 Submission No. 64, p. 2.
+
+
+is difficult to see how people who do precisely the same work, but perhaps at a
+slightly different level, can be treated in any different way.13
+3.22 The Association further argued that to be equitable, if the exemption is to
+apply to Federal justices, magistrates should also be exempted from the
+surcharge.14
+Other Issues Relating to the Judiciary
+3.23 It has been submitted to the Committee that the same principle that
+applies to the protection of the remuneration of Federal justices equally applies
+to members of the State judiciary. The Judicial Remuneration Coordinating
+Committee stated in its submission:
+However, precisely the same constitutional principle applies to judges of the
+States. This is a principle that has been respected by Parliaments in the
+common law world for many years. It may be, as a result of the decision of the
+High Court in Kable v DPP that the same principle applies to the State
+judiciary by virtue of the Australian Constitution.15
+3.24 The argument that the proposed surcharge should not apply to members
+of the State judiciary was also raised in a submission by the Bar Association of
+Queensland. In its submission the Association stated:
+If serving Federal judges are constitutionally protected from the imposition of
+the surcharge it would be highly discriminatory and inequitable if the
+surcharge were to apply to equivalent State judges. but it is a clear and
+indefensible discrimination.16
+3.25 The Judicial Remuneration Coordinating Committee also raised the
+possibility that the proposed surcharge could effect the willingness of members
+of the legal profession to accept judicial appointments. They argue that
+members of the judiciary are appointed from the best of the practicing
+profession and that appointment results in a significant loss of earnings. This,
+however, is compensated to a degree by the judicial pension schemes. They
+further argue that if the value of the pension is reduced, there may be difficulty
+in attracting the best members of the profession to the judiciary.17 The same
+13 Evidence, p. 166.
+14 Ibid.
+15 Submission No. 64, p. 2.
+16 Submission No. 71, p. 1.
+17 Ibid., p. 3
+
+
+point is made in a submission by the Stipendiary Magistrates Association of
+South Australia.18
+3.26 Submissions from judicial representatives also raise the issue of members
+of the judiciary being appointed on an expected remuneration package, a
+substantial proportion of which relates to their pension entitlements. The value
+of this package will be affected by the surcharge. Various submissions on this
+matter have stated:
+Presently judicial officers have accepted appointment on the express basis of a
+remuneration package which included the present pension entitlements.|l)
+We, as no doubt most members of unfunded defined benefits schemes,
+commenced our employment and membership of the relevant superannuation
+scheme , with the expectation .... that our fixed compulsory contributions to
+the scheme would be available to us on retirement, subject to the imposition of
+the reasonable and universal rates of tax on the ultimate lump sum."
+3.27 The possibility of the surcharge interfering with judicial independence
+under the separation of powers doctrine was raised in the submission made by
+the Magistrates Association of the ACT. The Association argued that they
+exercise Federal jurisdiction at times and that:
+It follows that the proposed diminution in our remuneration by the
+Commonwealth Parliament during our continuance in office will, when we are
+exercising federal jurisdiction, operate as an interference with our
+independence by the executive and legislative arms ot the Federal
+Government.21
+3.28 Following this argument, it may also be argued that any increase in
+taxation or the Medicare levy will also serve to reduce the net remuneration of
+judicial officers and so interfere with judicial independence.
+Constitutional Authority
+3.29 Members of the Committee sought information on the Constitutional
+basis for the proposed surcharge from representatives of the A10. I he
+representatives made the initial point that the Constitutional basis for proposed
+18 Submission No. 5, p.2.
+19 Submission No. 64, p. 3
+20 Submission No. 36.
+21 Ibid.
+
+
+legislation is a matter for the Attorney-General's Department and the Office of
+Parliamentary Counsel.
+3.30 The ATO representatives also noted that they had not received advice
+regarding the Constitutional authority of the proposed surcharge prior to the
+submission by Mr Rose (see above), other than advice relating to the
+application of the surcharge to Federal judges and the States. The
+representatives also noted that they would need to check files to determine the
+exact position regarding advice they had received.22
+3.31 However, when questioned as to which Constitutional power would be
+relied upon to support the proposed surcharge, a representative put forward the
+view that:
+The bill as a whole, I understand, is based on section 51, part II.23
+3.32 Paragraph 51 (ii) [the power referred to above] of the Constitution allows
+the Commonwealth to make laws with respect to taxation. The advice sought
+by the ATO relating to the Constitutional authority of the proposed surcharge
+was sought in relation to the imposition of the surcharge on members of the
+Federal judiciary, rather than on the basis of the Constitutional authority
+relating to the Bill implementing the surcharge. An ATO representative
+informed the Committee that:
+The question on which we sought advice concerned whether the imposition of
+the surcharge was in breach of section 72 of the constitution, which relates to
+the appointment and remuneration of judges.24
+Acquisition of Property
+3.33 The representative of Bramex Super Pty Ltd, Mr Ross Ramsay, raised the
+issue of whether the proposed surcharge would amount to an acquisition of
+property on other than just terms, which is prohibited by paragraph 51(xxxi) of
+the Constitution. Mr Ramsay appeared as a representative of one of over
+120 000 excluded superannuation funds (ie. funds with fewer than 5 members
+and which make up the majority of superannuation funds in Australia). Mr
+Ramsay argued that:
+If it is not a tax, it is surely unconstitutional anyway because it is an
+expropriation of assets without any other compensation.25
+22 Evidence, p. S285-288
+23 Ibid., p. S304
+24 Ibid., p. S306
+
+
+3.34 The result of Mr Ramsay's argument would be that the proposed
+surcharge is either Constitutionally valid under paragraph 51 (ii) (the taxation
+power) or otherwise would be invalid.
+25 Ibid., p. S242
+
+
+
+
+CHAPTER 4
+THE PROPOSED COLLECTION MECHANISM
+Issues in relation to the proposed collection mechanism
+4.1 Many of the submissions to the Committee, and witnesses before it.
+addressed the surcharge's proposed collection mechanism. There was criticism
+of the proposed collection mechanism focussing on the issues of complexity,
+efficiency, and cost (encompassing the compliance costs to superannuation
+providers, and employers' costs, and also the collection costs to the Australian
+Taxation Office (ATO)). The Committee also received opinions in relation to
+the advance instalments system.
+4.2 Criticism of the proposed collection mechanism was frequently made in
+the context of supporting an alternative collection mechanism. Alternatives to
+the proposed collection mechanism are considered in Chapter 6. This chapter
+firstly considers comment on the proposed collection mechanism in relation to
+complexity, efficiency and cost. The chapter then turns to the specific issue of
+the advance instalments system.
+4.3 This chapter does not consider the proposed collection mechanism for
+unfunded defined benefits schemes, which differs from that for other schemes.
+In respect of unfunded defined benefits schemes it is proposed that the
+surcharge liability will be accumulated, and will be payable when the affected
+member's benefit commences to be paid.1 Surcharge cannot be collected from
+unfunded defined benefits schemes each year as liability is assessed, as such
+schemes are not funded until the benefit is paidf The Committee examines
+defined benefits schemes in Chapter 9.
+Complexity
+4.4 It was expressed to the Committee that simplicity should be a
+fundamental objective of superannuation policy. Mrs Glenese Keavney of the
+Financial Planning Association of Australia stated to the Committee that it:
+1 Hansard, House of Representatives, 13 February 1997, p. 626.
+Hansard, House of Representatives, 13 February 1997, p. 626.
+
+
+CHAPTER 4
+... is important in broad policy that there should be simplicity where possible
+or certainly the removal of undue complexity. We believe that the complexity
+of the [surcharge] legislation means that few are going to understand the
+operation of the surcharge, again damaging people's confidence in the super
+system as they feel that they have no control over their benefits.3
+4.5 Mr Peter Downes of Jacques Martin drew attention to a speech by the
+current Treasurer, the Hon. Peter Costello, MP, given in November 1995:
+At that time, Mr Costello said he had three tenets for a superannuation system
+under a Liberal government. They were: there should be certainty; there
+should be confidence; and, above all, there should be simplicity.
+1 think they were admirable qualities in a superannuation system. But if I was
+going to do anything at all to depart from those principles, what I would do
+would be introduce a concept like this surcharge.4
+4.6 The issue of complexity was seen as being relevant not only for large
+superannuation providers, large employers or industry representatives.
+Mr Ross Ramsay is a director of the trustee company of the superannuation
+fund Bramex Super Pty Ltd, which is an excluded fund. Mr Ramsay told the
+Committee that although the collection mechanism was a far more important
+issue for large companies than for excluded funds:
+1 would qualify that remark to some degree, that is, operating an excluded fund
+is no picnic, it requires a lot of attention to meet all the regulatory
+requirements of the ISC and the tax office and to do the fundamental thing of
+making sure the investment performs. All those are difficult tasks, without
+having any additional regulatory requirements on top.5
+4.7 Mr Grahame Willis of the Metal Trades Industry Association of Australia
+(MTIA) told the Committee that:
+If as a community we are genuine in our pursuit of industrial competitiveness
+in Australian industry, it is essential that we urgently reduce the level and
+complexity of regulation presently imposed by government. This is
+particularly true in relation to the small business sector....
+Yet, rather than providing relief, this measure will add further complexity and
+cost for employers and trustees. As an example of that problem, in one area
+alone, the collection of tax file numbers, the initial government guidelines run
+3 Evidence, p. 114.
+4 Evidence, p. 28.
+Evidence, p. 246.
+5
+
+
+to almost 40 pages and they raise five separate legal responsibilities for
+employers and trustees.6
+Efficiency
+4.8 A number of submissions and witnesses drew attention to the amount of
+information required to flow between superannuation providers, members and
+the ATO, as a result of the assessment of surcharge being carried out by the
+ATO, rather than by self-assessment. Mr Philip Ho, a certified practising
+accountant, submitted to the Committee that:
+Our 'self assessment' system of income tax collection is recognised as a cost
+effective and innovative system of revenue collection by foreign governments.
+7
+We should leam from what we have done right.
+4.9 The Australian Institute of Superannuation Trustees (AIST) submitted to
+the Committee that:
+Huge amounts of data will be unnecessarily collected and passed backwards
+and forwards between the funds and the Australian Tax Office (ATO) for fund
+members who will never legitimately have to pay the surcharge.
+4.10 Ms Robyn Quinn of the New South Wales Premier's Department told the
+Committee that:
+Every superannuation fund member will pay a charge for the purpose of
+sending the information about them to Canberra in order that someone can
+assess that there is no surcharge payable".
+4.11 The Committee was provided with varying figures on the size of the
+superannuation industry. These figures were nevertheless of the same order of
+magnitude. The AMP Society submitted that the superannuation industry
+administers 15-16 million superannuation accounts for over 7 million
+Australians in approximately 140 000 superannuation funds.10 I he Insurance
+and Superannuation Commission (ISC) has stated that at the end of September
+6 Evidence, p. 155.
+7 Submission 13, Mr Ho, p. 3.
+8 Submission 6, AIST. p. 1.
+9 Evidence, p. 24.
+10 Submission 27, AMP Society, p. 1
+
+
+1996 there were 16.2 million superannuation accounts.11 According to the ISC
+there were 138 849 superannuation funds as at June 1996.12
+4.12 Mr Deane Prior of the Treasurer's Office, South Australian Government,
+told the Committee that:
+Proposed surcharge administrative arrangements will not work because of the
+huge amount of unnecessary information to be given to the tax office. Under
+the proposal, it is proposed that the superannuation funds provide detail to the
+tax office in respect of absolutely every member of a superannuation fund. It is
+proposed that there be some matching up, through the tax file system, of a
+person's accrual with the income which is recorded in the tax office. The tax
+office then will report back to the superannuation fund on who has a
+superannuation liability. Quite frankly, we cannot see how this can work.13
+4.13 Mr John Ward of William M. Mercer Pty Ltd., told the Committee of one
+instance that made him question the matching exercise required by the
+proposed collection mechanism:
+I personally have already experienced the matching capability of the tax office.
+A year or so ago 1 was advised by the child support arm of the tax office that
+they had matched me with my supposed ex-wife and supposed former children
+and that I had to pay them so many thousand dollars a year for child support.
+They had matched me because I had the same name as the delinquent husband
+and my birth date was reasonably close to his. The fact that I had lived in
+Melbourne for many years and my supposed wife and children were based in
+Queensland did not seem to ring any warning bells. That particular case was
+almost a laughing matter, although it could have been quite serious when my
+real wife opened the mail.14
+4.14 Mr Michael Forsdick of Coopers and Lybrand stated to the Committee
+that:
+... we believe that this system as currently proposed is inefficient because of
+the requirement to match the data from nine million taxpayers received
+separately via their tax returns to the ... records of those 140,000 funds in order
+11 Insurance and Superannuation Commission, Insurance and Superannuation Commission Bulletin,
+September 1996, p. 22. This figure was referred to by Jacques Martin and the Association of
+Superannuation Funds of Australia (ASFA): Submission 10, Jacques Martin, p. 3; Submission 23,
+ASFA, p. 10.
+12 Insurance and Superannuation Commission, Insurance and Superannuation Commission Bulletin,
+September 1996, p. 29.
+13 Evidence, p. 15.
+14 Evidence, p. 181.
+
+
+only to determine a surcharge for some 350,000 people. It seems to be a
+sledgehammer cracking a nut, and it will have major cost implications.1'
+4.15 Mr Peter Downes of Jacques Martin suggested to the Committee that the
+proposed collection mechanism could be amended to make it more efficient as
+follows:
+We think it would be far more sensible if the tax office looked at people who
+had, say, $45,000 of income in the previous financial year and sought
+information from funds on just those people. They are the people, almost
+exclusively, who are going to be caught by the surcharge.16
+Compliance costs of superannuation providers
+4.16 The issue of the costs of compliance with the surcharge legislation
+(compliance costs) for superannuation providers and employers' costs has
+several facets. The Committee was provided with estimates of compliance
+costs to superannuation providers. Employer organisations informed the
+Committee of costs for employers, both because of the proposed collection
+mechanism, and other potential additional costs. The Committee was made
+aware of potential equity implications for members resulting from
+superannuation providers' compliance costs. Concern was also expressed about
+the implications of compliance costs for the liquidity of superannuation
+providers.
+4.17 The Association of Superannuation Funds of Australia (ASFA) disputed
+the statement in the Second Reading Speech to the Superannuation
+Contributions Surcharge (Assessment and Collection) Bill 1997 that "the
+administrative requirements on superannuation funds under the Government's
+approach are essentially similar to the processes that superannuation funds
+already undertake as part of their normal business operations". ASf A claimed
+that the "administrative processes which will need to be put into place are
+essentially new".17
+4.18 Several witnesses told the Committee that superannuation providers
+would face significant administration costs in complying with the surcharge.
+Mr Prior of the Treasurer's Office, South Australian Government, told the
+Committee that in respect of S.A. Government superannuation funds:
+15 Evidence, p. 79.
+16 Evidence, p. 32.
+17 Submission 23, ASFA, p. 10.
+
+
+We have not |>ut a figure on it, but we know very clearly that it would be a
+huge burden.
+4.19 Ms Quinn of the New South Wales Premier's Department told the
+Committee that the estimated cost for N.S.W. Government employee schemes
+(not judges' and parliamentarians' schemes) would be a million dollars in the
+first year and approximately $200,000 per annum thereafter.19
+4.20 Mr Richard Gilbert of the Investment Funds Association of Australia
+(IFA) told the Committee that IFA estimated that the set-up costs for its
+member companies would be $26 million.20
+4.21 Mr Downes of Jacques Martin told the Committee that the proposed
+collection mechanism:
+...is an extremely expensive way of collecting government revenue. We
+estimate that it would probably add something like 15 per cent of the current
+cost of administration to lump sum schemes. For defined benefit schemes, it
+may be more expensive again.
+4.22 Mr Ian Court of Australian Institute of Superannuation Trustees (AIST)
+explained the information technology related costs which superannuation
+providers would incur in complying with the surcharge:
+...there will be significant systems modifications to deal with it. The first thing
+is the receipt of the tax file numbers. The second thing is the searching of
+member accounts to deduct the surcharge and sending all of the information to
+the tax office, with the details of each member. Where the surcharge is paid
+incorrectly and is subsequently returned, it then has to incur further transaction
+costs to be placed back into the member's account.
+There is a range of these administrative systems issues which are going to have
+a significant cost to them. To give you some order of scale, and I am just
+thinking of some examples off the top of my head, to terminate a member's
+18 Evidence, p. 26.
+19 Evidence, p. 26.
+20 Evidence, p. 120.
+21 Evidence, p. 29.
+
+
+account costs the fund about $28; to carry out a transaction is somewhere
+between $5 and $10. These numbers can add up very significantly."
+4.23 The AMP Society estimated that;
+the implementation costs across the total membership of superannuation funds
+is likely to exceed $100 million with an on-going cost of at least $20-30
+million".23
+4.24 ASFA submitted that "current estimates for the cost of establishing and
+administering the surcharge have ranged between $30 and over $100 million a
+year to the superannuation industry.24
+Employers' costs
+4.25 Costs to superannuation providers would flow on to some employers,
+according to the Business Council of Australia (BCA). Mr Vernon Winley of
+the BCA told the Committee:
+... where funds are company sponsored, the employer generally bears the
+administrative costs to the fund, so that the highly expensive implementation
+approach proposed will increase the cost for employers, directly counter to the
+government's stated intention of not increasing costs for employers. ^
+4.26 ASFA claimed that the Government was trying to draw "a somewhat
+artificial distinction ... between funds and employers" and submitted that it "is
+common practice in many areas of corporate funds for employers to assist in
+covering administrative costs associated with superannuation".
+4.27 The BCA also noted that compliance costs would not be borne by
+employers paying contributions to industry funds, creating "a signi(icant
+horizontal inequity among employers, based on the type of funds they pay
+contributions to".27
+4.28 Employer representatives stated that another potential cost could arise
+from employees demanding that employers meet the surcharge. I his cost
+22 Evidence, p. 228.
+23 Submission 27, AMP Society, p. 1
+24 Submission 23, ASFA, p. 10.
+25 Evidence, p. 210.
+26 Submission 23, ASFA, p. 12.
+27 Submission 32, BCA, p. 3
+
+
+would not be specifically a compliance cost, but rather be a potential additional
+cost due to the surcharge itself. Mr Willis of the MTIA told the Committee
+that:
+I would not want to foreshadow, on the available evidence, that there is any
+possibility of substantial disputation on this issue, but I certainly do not
+discount the strong possibility that in an enterprise bargaining framework these
+issues will be discussed".
+4.29 Mr Willis added that this issue had already arisen in enterprise
+bargaining involving MTIA members, but that, given that there was still
+uncertainty as to the final form of the surcharge legislation, there was no
+discernible pattern of outcomes so far.29
+4.30 Mr Winley of the BCA also noted that there may be industrial
+disputation to persuade employers to pay the surcharge for employees/0
+Furthermore, Mr Winley stated that in respect of defined benefit funds
+employers may (depending on the provisions of industrial instruments, trust
+deeds or contracts of employment) be contractually or industrially committed
+to making such payment.''1
+Superannuation providers' compliance costs - equity implications
+4.31 The Committee was made aware of potential equity implications for
+members resulting from superannuation providers' compliance costs. This
+point was made by AIST as follows:
+The costs of administering the surcharge will fall on all fund members, not just
+those who have a responsibility to pay the surcharge. Costs will be shared
+among all fund members, poor as well as rich. This is an inequitable cross-
+subsidy which will be very much resented by millions of fund members.32
+4.32 The HOST-PLUS Superannuation Fund stated in its submission that:
+HOST-PLUS draws its members from the hospitality industry. The majority
+of members are employed on a part-time or causal basis. Full time members
+would rarely receive in excess of $30,000 per annum - we would anticipate no
+28 Evidence, p. 157.
+29 Evidence, p. 157.
+30 Evidence, pp. 218-219.
+31 Evidence, p. 218.
+32 Submission 6, A1ST, p. 1
+
+
+more of [sic] a handful of members who would attract a liability for the
+surcharge.
+In spite of this, HOST-PLUS will be forced to meet the costs involved in
+obtaining Tax File Numbers, reporting to the ATO and to members,
+calculating surcharge liability, debiting accounts and dealing with
+requirements in relation to over and under-payment.33
+4.33 In relation to the compliance costs for superannuation funds, Mr Court of
+A1ST told the Committee that:
+One thing we emphasise very strongly is that, with superannuation funds, all of
+the assets belong to the members and therefore any costs to the fund must be
+deducted from members' accounts. So we want to make it clear that it is not as
+if large superannuation funds have resources to bear these sorts of costs
+independent of their members.34
+4.34 The Committee received information on the issue of whether all
+members would pay for the compliance costs of superannuation providers.
+ASFA submitted that administration costs "will likely be borne by all members
+of funds, not just by those for whom the surcharge will be payable".0 A
+number of other witnesses expressed the same concern to the Committee.
+4.35 Mr Court of AIST questioned whether it was fair to spread the cost over
+all members:
+It just does not seem to me, as a trustee, to be fair or reasonable to expect my
+lower income earning members to pay collection costs for the higher income
+earners. So that will be the second major problem for me as a superannuation
+trustee.36
+Superannuation providers' compliance costs - liquidity implications
+4.36 Concern was also expressed about the implications of compliance costs
+for the liquidity of superannuation providers. ASFA submitted that
+"superannuation funds will have less 'patient capital' for investment purposes as
+they need to remain liquid to pay potential surcharge liabilities".37
+33 Submission 59, HOST-PLUS Superannuation Fund, p. 1
+34 Evidence, p. 224.
+35 Submission 23, ASFA, p. 10.
+36 Evidence, p. 229.
+37 Submission 23, ASFA, p. 7.
+
+
+4.37 Mr Court of AIST told the Committee that requiring superannuation
+funds to keep assets in cash would disrupt their investment strategies; by
+diverting assets away from long term investments this would impose an
+additional cost on all members.38
+4.38 The Superannuation Contributions Surcharge (Consequential
+Amendments) Bill 1997 would, as set out in Schedule 3 to the Bill, amend the
+Superannuation Industry (Supervision) Act 1993. These amendments permit
+the trustee of a regulated superannuation fund to borrow money in order to
+make a required payment of surcharge or advance instalment which the trustee
+would otherwise have not been able to make. Such borrowing must not be for a
+period exceeding 90 days and the total amount borrowed must not exceed 10
+per cent of the value of the assets of the fund.
+4.39 The Committee was informed that liquidity problems associated with the
+surcharge were accentuated by the application of the surcharge in cases of non-
+availability of the Tax File Number (TFN, considered in Chapter 5), and by the
+surcharge's advance instalments system (discussed further below).
+4.40 The issue of liquidity appeared to be of significant concern to public
+offer funds. Ms Melinda Howes of the IFA explained to the Committee the
+effect of non-availability of TFNs in the first year of operation of the surcharge
+(which would apply to all superannuation providers):
+... if we get a 40 per cent response rate [to requests for TFNs] in the first year,
+which is probably optimistic, then 60 per cent of the fund will not have given
+us their TFN and 60 per cent of people will have a surcharge liability of 15 per
+cent, plus another 7l/z per cent advance surcharge. That is 221/2 per cent of each
+person's contributions for 60 per cent of the fund. So that could quite
+potentially be more than 10 per cent of the fund that the borrowing
+requirement allows.i9
+4.41 Given the ATO's statements to the Committee in relation to the collection
+of TFNs (which were made after Ms Howes' appearance), it may be that
+Ms Howes' expectation of a superannuation fund paying surcharge liability in
+respect 60 per cent of fund members in the first year should be revised.40 This
+issue is discussed in Chapter 5. Nevertheless, Ms Howes' evidence does draw
+attention to concern as to how the TFN provisions will affect superannuation
+38 Evidence, p. 221.
+39 Evidence, pp. 126-127.
+40 See Evidence, pp. 292-294.
+
+
+providers' liquidity, and also how public offer funds in particular may be
+affected.
+4.42 Dr Michaela Anderson of ASFA told the Committee that the advance
+instalments system could affect liquidity as follows:
+The surcharge is likely ... to lead to a liquidity problem for funds because of
+the need to hold reserves to cover an advance instalment. This would occur
+particularly at one point in the year where there is the second group assessment
+and the advance instalment coming at the same time. Around 15 June seems to
+be what we have called the 'double whammy' time where many funds could
+have liquidity problems 41
+ATO's collection costs
+4.43 The ATO informed the Committee that its projected collection costs for
+the surcharge are $3 million in the first year, $6 million in the second year and
+$3 million the year after. Mr Michael Monaghan, First Assistant Commissioner
+(Superannuation) advised that he expects these resources to be sufficient for the
+present legislation. However, he indicated that the ATO would have to re-
+evaluate the situation if any changes were made.
+The advance instalments system
+4.44 The Committee received expressions of view in relation to the advance
+instalments system. The issue of the advance instalments system's potential
+effects on liquidity is discussed above. Mr Downes of Jacques Martin told the
+Committee that:
+I do not know how funds are going to do their accounting, set allocation rates
+and the like when we constantly have money coming and going through the
+requirement to make provisional payments when people, let us face it, could
+have left the scheme in the meantime.43
+4.45 AIST submitted to the Committee that the advance instalments system:
+41 Evidence, p. 63.
+42 Evidence, p. 298
+43 Evidence, p. 32.
+
+
+...will impose financial disadvantage upon many men and women who because
+of variable income patterns may have been liable to pay the surcharge in one
+44
+year, but do not have to pay the surcharge in the following year.
+4.46 AIST recommended that the advance instalments system be deleted from
+the Surcharge Bills, or if this was not adopted, that "a simple variation be
+introduced to allow the advance payment to be varied in the same way that
+Provisional Tax payments may be varied".45
+4.47 Mr Murray Wyatt, representing the Australian Society of Certified
+Practicing Accountants, considered that the multiple assessments associated
+with the advance instalments system would impose a considerable
+administrative burden on the funds. He explained:
+In relation to the assessments, it is going to be really a matter of endless ones.
+The surcharge assessments will be sent three times a year. Depending on the
+size of your fund, if you have got a medium fund you will get four tax
+assessments and three surcharge assessments so you will have seven
+assessments to the fund in any given year.
+...if the fund has to have a poor income year, the surcharge amount is going to
+go out of cash flow. So, in general, the impost on small business and the
+paperwork created will push people 46
+Government position
+4.48 The Government view is that the administrative requirements for the
+surcharge are essentially similar to processes which are already part of
+superannuation funds' normal business operations.
+4.49 The Hon. Chris Miles, MP, Parliamentary Secretary (Cabinet) to the
+Prime Minister, stated in the Second Reading Speech to the Superannuation
+Contributions Surcharge (Assessment and Collection) Bill 1997 that:
+The administrative requirements on superannuation funds under the
+government's approach are essentially similar to the processes that
+superannuation funds already undertake as part of their normal business
+operations.47
+44 Submission 6, AI ST, p. 3.
+45 Submission 6, A 1ST, p. 4.
+46 Evidence, p. 93.
+47 House of Representatives, Hansard, 13 February 1997, p. 625
+
+
+4.50 The Government considers that reductions in compliance costs can be
+achieved by aligning surcharge requirements with the normal operations of
+superannuation funds, for example including seeking tax file numbers (TFNs)
+for surcharge purposes in annual member statements.48 "Recent changes in
+superannuation administration (for example, extending the use of TFNs for
+superannuation purposes, and electronic reporting of member details to
+establish and operate the register of lost members) will also reduce compliance
+* .. 49
+costs .
+4.51 The Hon. Chris Miles, MP, stated in the Second Reading Speech to the
+Superannuation Contributions Surcharge (Assessment and Collection) Bill
+1997 that alternative measures of collecting the surcharge have been put to the
+Government, which has given careful consideration to those suggestions.
+4.52 The Government view is that the alternatives suggested all involve an
+unacceptable increase in compliance costs for employers, small business and all
+Australians. Mr Miles said that a number of these alternatives involve
+transferring the reporting obligation from superannuation funds to the
+significantly larger number of employers. The Government believes this would
+represent a substantial increase in the compliance burden of small business.
+4.53 The Government has stated that it:
+...remains committed to ongoing consultation with the superannuation industry
+to further reduce compliance costs associated with the surcharge and other
+aspects of superannuation.51
+48 Explanatory Memorandum to the Superannuation Contributions Surcharge (Assessment and Collection)
+Bill 1997, p. I.
+49 Explanatory Memorandum to the Superannuation Contributions Surcharge (Assessment and Collection)
+Bill 1997, p. 2.
+50 Hansard, House of Representatives, 13 February 1997, p. 626.
+51 Explanatory Memorandum to the Superannuation Contributions Surcharge (Assessment and Collection)
+Bill 1997, p. 2.
+
+
+
+
+CHAPTER 5
+TARGETING AND EQUITY
+Introduction
+5.1 As noted in Chapter 1 of this report, the Government regards the
+introduction of the surcharge as a significant means of addressing current
+inequities that exist in superannuation, in particular, the greater level of
+advantage derived from the system by higher income earners.
+5.2 Accordingly, the Government has set the threshold at which liability for
+the surcharge commences at a relatively high level, $70 000.
+5.3 However, the Committee received a considerable volume of opinion
+during the inquiry, that argued that many people who are not in the target group
+would be required to pay the surcharge. Submissions and evidence identified
+two aspects that they considered would cause the surcharge to catch people it
+was not intended to affect. These were:
+. the requirement to provide tax file numbers; and
+. the definition of assessable income.
+5.4 Several witnesses and submissions also questioned whether the surcharge
+legislation adequately addressed the Government's equity objectives, arguing
+that the surcharge proposal itself created new potential inequities. It was also
+suggested that there are a number of better methods of addressing equity issues
+in the superannuation system, particularly in regard to the taxation ol benefits.
+5.5 Areas of potential inequity identified in evidence included the following:
+. non-target fund members would be required to meet compliance
+costs, not just those targeted;
+. persons with uneven income patterns, such as farmers, women who
+have taken breaks in their careers to have children, and owners ol
+many small businesses, may be subject to the surcharge, although, it
+averaged over several years, their incomes would be less than the
+surcharge target group;
+
+
+CHAPTERS
+. the surcharge may produce high effective tax rates in some
+circumstances; and
+. persons in unfunded defined benefits schemes would have a
+surcharge levied against their retirement benefits with interest,
+although their employers will have never paid contributions towards
+their benefits. Conversely, some considered that the system placed
+defined benefit scheme members at an advantage over members of
+accumulation funds. (The Committee examines defined benefit
+funds in Chapter 9)
+Tax File Number collection
+5.6 The proposed collection method for the surcharge requires the ATO to
+carry out a cross matching exercise between taxation returns and tax file
+numbers (TFNs) provided to the ATO by superannuation providers. Under the
+provisions of the legislation, the providers are authorised to collect members'
+TFNs and send them to the ATO. If a member does not provide a TFN,
+surcharge is levied at the full rate of 15 per cent, regardless of the income of the
+member.
+5.7 The Committee was told that this provision would lead to very large
+numbers of non-target taxpayers being charged the highest rate of surcharge.
+The Committee was advised that there are likely to be very substantial
+difficulties associated with collecting TFNs, for reasons that included the
+following:
+. employees will not understand the requirement to supply TFNs;
+. previous low levels of response to written requests to supply TFNs;
+. some employees will refuse to supply TFNs; and
+. funds do not have current addresses for large proportions of their
+members.
+5.8 Ms Louise Sylva, representing AMP Financial Services, was one of
+several witnesses who explained that many low income people would be caught
+by the surcharge because they thought it did not apply to them and did not
+comprehend the need to supply TFNs:
+When I say there are difficulties in getting tax file numbers from a lot of low
+income members I mean that they believe that the surcharge is just for high
+income earners. When you ask them for their tax file number they do not
+realise that there is any need for them to pass it on because they believe the
+
+
+surcharge is designed for high income earners and they are not affected. Most
+of them would not realise that they will be if they do not supply it.'
+5.9 Several witnesses emphasised that the funds faced considerable
+difficulties in communicating the need to supply TFNs. A lack of English skills
+on the part of some fund members, particularly in some industry funds, was
+identified as a contributor to this problem.
+5.10 Another major difficulty is that funds have no means of tracing some of
+their members because the funds do not have current address details. Mr Peter
+Downes of Jacques Martin explained:
+...in some of our funds we do not know where 10 or 20 per cent of the
+membership are, in funds of a million people. We do not know how we contact
+them to collect their tax file numbers. That is just the beginning. Sometimes 20
+per cent of our membership we cannot contact to ask and, at least initially, we
+2
+expect very high non-reporting from those that we can ask.
+5.11 Trustees of a number of funds told the Committee that they had
+encountered great difficulty in gathering TFNs in the past, despite repeated
+attempts to do so. All witnesses who gave evidence on this issue expected that
+initial compliance rates would be low and accordingly, many people outside the
+target group would be liable for the surcharge. The following selection ot
+quotes illustrate the concerns expressed.
+5.12 Mr Grahame Willis of the Metal Trades Industry Association, speaking
+about the Superannuation Trust of Australia, of which he is a director,
+commented:
+In that fund, which has 300,000 members, we have been seeking now for
+almost two years to collect the tax file numbers of the fund members. Our
+success rate to date is approximately 11.000 out of 300,000.
+5.13 Mr Ian Silk, Australian Retirement Fund, who indicated that less than
+two per cent of members had adjustable taxable incomes of $70 000 or more
+commented:
+1 Evidence, p. 48-9,
+2 Evidence, p. 36.
+3 Evidence, p. 158.
+
+
+...it would be staggering to our fund if we received a 20 per cent response
+4
+rate.
+5.14 Mr Brett Westbrook, Fund Secretary, Transport Workers Union
+Superannuation Fund commented:
+Our estimates, as I indicated before, are that we are likely to receive only a 30
+per cent response rate in the next 12 months. In our quick calculations, that
+indicates that from our fund up to $7 million will be collected and paid to the
+tax office that is not necessarily surchargeable.
+5.15 For many people in accumulation funds, receipt of a statement at the end
+of the year showing that they had been surcharged may operate as a prompt to
+comply with the legislation. However, Ms Robin Quinn, representing the NSW
+Government, advised the Committee that members of defined benefit schemes
+may not receive such a prompt and therefore will be unaware of the surcharge
+debt that will accumulate if they do not supply TFNs. She noted:
+We have large numbers of people who will not understand the
+need to provide a tax file number. In a defined benefit
+arrangement, which is unfunded, they will not even be aware that
+this debt account is accruing away in the background. Until some
+big event like seeing the tax bill happens, it will not really mean
+anything to them. That would be our assessment of the behavioural
+nature of people.6
+5.16 Mr Westbrook summarised the concerns of many who gave evidence
+about the possiblity that low income earners may be liable for the surcharge
+because they had not supplied TFNs. He told the Committee that such persons
+could ill-afford the surcharge:
+From a trustee's point of view, we do not want to see our members
+paying a 15 per cent surcharge amount when the majority of them
+are on low incomes and cannot afford to pay that sort of amount.
+Given that in a lot of cases their only retirement savings are in the
+4 Evidence, p. 262.
+5 Evidence, p. 309.
+Evidence, p. 12.
+6
+
+
+TWU fund, or similar funds of that nature, we want to try to
+maximise their end benefit, not reduce it.7
+5.17 Mr Richard Gilbert of the Investment Funds of Association of Australia,
+acknowledged that members could avoid paying surcharge relatively simply, if
+they complied with the provisions of the legislation that require TFNs to be
+provided. However, in the following exchange with Senator Alan Ferguson, he
+indicated that the complexity of today's superannuation system is a barrier:
+Senator FERGUSON: There is nothing stopping them giving their tax file
+number, is there?
+Mr Gilbert: Provided the communication system is optimal, that
+is right. However, as I said in the submission, superannuation is a
+very complex system and we are adding another layer to it. We
+anticipate that, in this first instance, what is the percentage?
+Ms Howes: Around 40 per cent would be a good response rate for
+TFNs.8
+5.18 As indicated in the preceding paragraphs, most witnesses who gave
+evidence on this matter indicated that they expected a low response rate to
+written requests for members to provide TFNs. The Committee also received
+evidence that funds considered that there were difficulties associated with
+collecting TFNs by phone, because of the requirement to advise members ot
+their rights to refuse information. Ms Noelle Kelleher, appearing before the
+Committee representing the Australian Society of Certified Practicing
+Accountants, told the Committee:
+Could I add a comment on the collection of TFNs over the phone. A lot of
+funds are not prepared to use that method because they have no proof that they
+have actually read the statement to the member, which is a concern because it
+means that that method is just not a method that is being used.
+Government and ATO initiatives to facilitate use of TFNs
+5.19 The legislation contains a number of measures to facilitate the wider use
+of TFNs to avoid persons who are not in the surcharge target group from
+paying the surcharge. These provisions are described in Chapter 2 ot this
+report.
+7 Evidence, p. 312
+8 Evidence, p. 125
+Evidence, p. 96.
+9
+
+
+5.20 Officers of the Australian Taxation Office also provided the Committee
+with information about measures to minimise lower income earners being
+inadvertently caught.
+5.21 Mr Chris Casey, Assistant Commissioner, Superannuation Systems,
+described a number of the strategies that the ATO will adopt to maximise the
+provision of TFNs:
+Firstly, we will be including a special insert into Taxpack which will advise
+people of their ability to quote their tax file numbers, and the implications
+from a surcharge point of view of them not quoting their tax file numbers. We
+will also be including with income tax assessment notices a further note,
+saying the same thing. After funds have reported to us on 15 December, with
+their details of member contributions, we will be allowing funds to continue to
+report to us up until probably May, at this stage, for any additional tax file
+numbers that they have collected.10
+5.22 Another strategy is the use of employment declaration forms to make a
+match between a person and their employers' name and address, in order to
+address the issue of non-current address details of fund members. Mr Casey
+cautioned, however, that while the legislation allowed such a use of
+information, the ATO had not yet discussed with industry the possibility of
+including employer details on the reports due on 15 December.11
+5.23 Mr Michael Monaghan emphasised that the ATO was very conscious of
+the TFN issue and is working actively to overcome the problems that have been
+identified:
+...we are looking, virtually every day, at the changing situation in relation to
+the tax file number issue and the communication of it. We see it as being very
+important and we are building strategies as to how we will get that message
+out. ...We have been canvassing dealing with tax agents to get to excluded
+funds, we are canvassing the extent to which we can use administrators'
+dealings with employers and employees; and, to the extent that we believe we
+need other means such as press or radio, we will certainly be looking at all
+those things.
+5.24 Mr Monaghan told the Committee that the ATO did not underestimate
+the difficulties associated with TFN collection, including problems associated
+with obtaining TFNs from persons who had communication difficulties:
+10 Evidence, p. 292.
+!l Evidence, p. 3 13.
+12 Evidence, p. 294.
+
+
+We are not understating the difficulty of getting to some of the sectors in the
+community to explain the message to them, but I am saying we are taking the
+responsibility on to do that.
+We will do everything we can to ensure that people are aware that that is an
+implication of choosing not to quote your tax file number or of us being unable
+to match you otherwise.
+Definition of assessable income
+5.25 For the purposes of administering the surcharge, the definition of
+assessable income includes certain termination payments or 'golden
+handshakes'. The Committee received evidence that the inclusion of
+termination payments and a number of other items in the definition of
+assessable income would result in lower income persons being incorrectly
+targeted for surcharge payments.
+5.26 Mr Kevin Casey, representing the AMP Society, was amongst those who
+argued that the inclusion of termination payments in assessable income would
+make many people who were not high income earners liable for the surcharge.
+He commented that persons who had just lost their jobs and received a
+redundancy payment could find themselves in this category:
+It means that there are going to be a number of people who will be tipped over
+the $70,000 and will get a surprise in respect of this. People who would
+otherwise not regard themselves as high income earners will get included
+because a number of these other payments— redundancy payments, lor
+instance— are included in the adjusted taxable income. There is an allowance
+for the tax free component, but there will certainly be circumstances where, in
+respect of the surcharge, somebody who has lost their job becomes a high
+income earner because of the payment that is made in respect of that and will
+be subject to additional liability.14
+5.27 Similarly, ASFA and others contended that the inclusion of ETPs in
+assessable income meant that many people in their year of retirement will
+suddenly find themselves classified as high income earners. ASP A
+acknowledged that the tax free portion of an employer redundancy payment is
+excluded, but offered the opinion that public sector employees who took a
+redundancy package would be particularly hard hit:
+13 Evidence, p. 296.
+14 Evidence, p. 56.
+
+
+...public sector employees on a salary of $40 000 who receive a redundancy
+payment from a superannuation fund of over $30 000 will be treated as high
+income earners, even though they may take years to get another job.
+5.28 ASFA concluded that the inclusion of ETPs and other "lumpy income"
+has the potential to apply the surcharge on low and middle income Australians,
+despite the express objects of the main Bill for the surcharge to be assessed and
+collected on 'high income individuals'.16
+5.29 Mr Raymond Stephens, representing William M. Mercer Pty Ltd, was
+also among those who contended that the inclusion of eligible termination
+payments (ETPs) gave rise to a number of anomalies. He advised the
+Committee that the treatment of ETPs under this legislation differed from how
+other tax legislation treated these payments. He noted that:
+... eligible termination payments and unused leave payments are excluded from
+the income used in other tax legislation where income is intended to reflect the
+normal level of income rather than the effect of one-off lump sum payments.17
+5.30 Mr Stephens suggested that removing these one-off lump sums would
+eliminate a number of anomalies and simplify a number of provisions in the
+Bills.
+Government position on assessable income
+5.31 The Committee sought information from officers of the ATO on this
+issue. Mr Mark O'Connor, Executive Officer, Legislative Services, explained
+the Government's policy decision in the following terms:
+The policy that was announced on budget night is that the adjusted taxable
+income measure, as is detailed in the definition of that term in the Bills, is
+normal taxable income plus surchargeable contributions....Eligible termination
+payments, the specific components of that amount, are included in the
+assessable income and become taxable income. With taxable income, I have
+just explained that it is assessable income less all allowable deductions. So, as
+the formula for adjusted taxable income includes assessable income plus
+surcharge or contributions, then those ETPs, to the extent they are paid in the
+year, would add to adjusted taxable income.
+15 ASFA submission, p. 15.
+16 ASFA submission, p. 15
+17 Evidence, p. 180.
+18 Evidence, p. 298.
+
+
+5.32 The ATO advised that bona fide redundancy payments were not included
+in the assessment, Mr Anthony Regan, Acting Tax Counsel, Legislative
+Services, stating that:
+If the payment is a bona fide redundancy payment then that is not
+included in assessable income up to tax-free limits. If you are
+talking about a redundancy situation, then it would not necessarily
+be the case.19
+5.33 In his press release on the Budget, the Treasurer explained the
+Government's position with regard to golden handshakes. He said that the
+definition of'golden handshakes' for the purposes of the surcharge:
+... this definition would not include bona fide redunduncy and approved early
+retirement payments to the extent to which they are within the income tax
+exemption levels.20
+5.34 The Treasurer noted that from 1 July 1994 bona fide redunduncy and
+approved early retirement payments have been exempt from income tax tip to a
+limit which is indexed annually to average weekly ordinary time earnings, l or
+the 1996-97 year the income tax exemption limits are $4348 plus $2174 per
+year of completed service with the employer.
+5.35 The Treasurer advised that he considered these limits to be generous
+enough to ensure that the majority of such payments would be outside the
+scope of the golden handshake definition entirely. However, he emphasised that
+it w'as necessary to include the excess of payments over these limits in the
+definition to prevent such payments being used as a method of avoiding the
+surcharge.
+5.36 There are also transitional measures in the Bill to ensure there is no
+retrospective application of the surcharge to golden handshakes received within
+five years of the budget announcement.
+5.37 The Government is of the view that this is a balanced approach which
+should:
+ensure the surcharge will not apply retrospectively; and
+19 Evidence, p. 299.
+20 The Hon. Peter Costello, MP, Treasurer, Press release no.5, 5 Feb 1997,p. 3
+
+
+. reduce the potential for golden handshakes to be exploited as a
+means of surcharge avoidance.
+Uneven income patterns
+5.38 In its submission to the Committee, ASFA noted that ATO statistics
+show that over 100 000 individuals a year average their income for income tax
+purposes. ASFA told the Committee that the legislation apparently contains no
+provision for averaging of income or contributions for surcharge purposes.
+5.39 ASFA and a number of other witnesses told the Committee that there are
+a number of professions where income levels varied greatly from year to year,
+and a single year's assessable income did not give an accurate indication of
+their true situation. Examples of persons who fall into this category include
+primary producers, sports people, artists, musicians, consultants and other self-
+employed people. Ms Rosemary Vilgan of ASFA told the Committee that:
+They are not really high income earners if one averages their income, but the
+averaging provisions are not to be made available in this legislation."1
+5.40 Representatives of the Institute of Chartered Accountants made a similar
+point in respect of operators of small businesses. Mr Robert Brown, National
+Councillor, told the Committee that due to variations in the profitability of
+many small businesses, small business operators generally have a very small
+window of opportunity to contribute to superannuation. He argued that
+imposing the surcharge on these individuals severely limits their ability to
+provide for their retirement needs.22
+5.41 Ms Glenese Keavney of the Financial Planning Association (FPA) was
+among those who shared Mr Brown's concerns about small businesses:
+1 believe that small businesses are not always in a position to be able to make
+contributions. It is not just that they are looking for a window of opportunity.
+It is really that they are constrained to a large extent by the cash flows of their
+business.23
+5.42 Several witnesses argued that women were particularly penalised. For
+example, ASFA told the Committee that many women with career gaps and
+perhaps a late start in the higher paid part of the labour force will find it
+21 Evidence, p. 64.
+22 Evidence, pp. 88-89.
+23 Evidence, p. 117.
+
+
+difficult to catch up, particularly with age based limits on contributions. ASFA
+argued that these groups need to be encouraged to use their 'good years' to save
+for retirement. ~4
+5.43 Evidence given by Ms Keavney succinctly summarises the position of
+many who expressed concerns about the impact of the surcharge on people with
+uneven income patterns:
+People have uneven patterns of contributions because quite often they do not
+have the capacity in some years...
+Cases of that are women, who tend to have a shorter working life and.
+therefore, do not have the capacity for regular disciplined contribution over a
+long working time. If they are going to try to make larger contributions in later
+years, they are going to be penalised for attempting to catch up and make
+themselves more in a position to provide for themselves.
+...A similar pattern emerges with consultants and self-employed people who
+can have fluid employment circumstances. Farmers can have lumpy income
+patterns and professionals, such as sport people, may have a limited working
+life where they have to attempt to accelerate their savings for retirement.
+Potentially, all of those people are penalised by the impact of the surcharge. If
+they attempt to avoid the surcharge, they are going to end up with inadequate
+superannuation to fund their retirement. I do not believe a broad policy-
+objective would be to have more people unable to fund their own retirement.*^
+Other issues
+Costs to non-target members
+5.44 As described in Chapter 4, the Committee received a considerable
+volume of evidence concerning the allocation of compliance costs across
+superannuation fund memberships. Witnesses and submittors pointed out that a
+substantial proportion of the compliance costs would be borne by persons who
+were outside the surcharge target group.
+5.45 Submittors questioned the equity of such an arrangement, as increases in
+fund operating costs would reduce the benefit paid to all members of the fund,
+not just those in the higher assessable income brackets.
+24 ASFA submission, p. 14
+25 Evidence, p. 117.
+
+
+Effective tax rates
+5.46 The Committee received several submissions that argued that the
+imposition of the surcharge imposed excessively high overall rates of tax on
+some individuals.
+5.47 There were several different aspects to this concern. Mr Deane Prior,
+appearing on behalf of the South Australian Government, illustrated his point
+with the example of a judge on the South Australian judges' pension scheme:
+...we assume that the judge serves 15 years. Because of their salary they would
+be over the surcharge threshold. As soon as they become a judge that person
+would have a liability of $384,500 after serving 15 years. Once again, that
+person would be paying the top marginal tax rates on their pension when they
+commence a pension. What this amounts to, as I said before, is an 85 per cent
+marginal tax rate on that amount of additional superannuation benefit over
+$70,000. We do not believe this is an equitable tax."
+5.48 Mr Raymond Stevens, a Director and Principal of William M. Mercer
+Pty. Ltd., was among a number of others who argued that the surcharge in some
+circumstances led to unacceptably high rates of tax. Mr Stevens told the
+Committee that:
+For example, where a benefit exceeds the reasonable benefit limit, the overall
+tax on contributions can be 64 per cent. With a pension benefit, the overall tax
+can be 54 per cent even where the benefit is below the reasonable benefit limit.
+All of those rates are far higher than the maximum personal tax rate..."7
+5.49 William M. Mercer developed their example in detail in their submission
+to the Committee as follows:
+• Super contributions are already subject to 15% tax;
+• If a benefit exceeds the RBL and the excess is taken as a lump sum,
+the excess amount is subject to a further tax of 48.7%. Where the
+full 15% surcharge also applies, the overall tax on the contribution
+is 64% - far higher than the highest marginal rate of 48.7%;
+. In the case of a benefit taken as a pension, the overall tax on a
+contribution where the full 15% surcharge applies can be as high as
+26 Evidence, p. 16.
+27 Evidence, p. 183
+
+
+53.5% even where the benefit does not exceed the RBL. Where the
+benefit exceeds the RBL the overall tax can be as high as 64%.“x
+Alternative methods of addressing equity issues
+5.50 The Committee received a large number of suggestions for alternative
+approaches to addressing equity issues within the superannuation system
+which, it was argued, would be more effective than the approach in the
+surcharge legislation. Briefly, these suggestions can be categorised as follows:
+. a tax on the benefits rather than a tax on the contributions;
+. a progressive scale of contribution surcharge which would apply
+across all income ranges;
+. to apply the surcharge only to deductible contributions, as was
+originally announced, and to achieve this by limiting actual notional
+contributions subject to the surcharge to age based limits applicable
+on an individual member basis within accumulation funds,or on a
+global basis for defined benefit funds; and
+. to use the 1-a-w law tax cuts to leave the 15 per cent in place for
+high income earners and to lower the income tax rates on
+superannuation for low income earners to 10 per cent.
+5.51 Time constraints on the inquiry and preparation of this report prevent the
+Committee from explaining these suggestions in any detail.
+:8 Submission, William. M Mercer Pty Ltd, p. 13
+
+
+
+
+CHAPTER 6
+ALTERNATIVES TO THE
+PROPOSED COLLECTION MECHANISM
+Alternative collection mechanisms
+6.1 The Committee received many submissions in favour of alternatives to
+the proposed collection mechanism (considered in Chapter 4). In particular, the
+Committee received many submissions centred on the use of individuals' group
+certificates as the surcharge collection mechanism. This was described to the
+Committee as the 'oft-repeated alternative collection mechanism'.1
+6.2 The Business Council of Australia (BCA) recommended the following
+alternative collection mechanism:
+. the employer would provide superannuation contribution details via
+group certificates;
+• the employee would lodge his or her annual income tax return
+including the contribution details indicated on the group certificate
+(lodged with the return);
+. the Australian Taxation Office (ATO) would levy surcharge, where
+applicable, as part of the annual assessment; and
+. the employee would meet the surcharge by the following
+alternatives:
+-offsetting the surcharge against any tax refund due; or
+-paying the surcharge directly; or
+-passing the liability to the superannuation fund to make the
+payment by debiting his or her account."
+6.3 The Association of Superannuation Funds of Australia (ASFA) also
+proposed an alternative collection mechanism in essentially the same terms as
+those of the BCA.3
+1 Submission 21, Australian Society of Certified Practising Accountants (CPAs), p. 1
+2 Submission 32, BCA, p. 3.
+Submission 23, ASFA, p. 11.
+3
+
+
+CHAPTER 6
+6.4 Coopers and Lybrand made a similar suggestion to that described above,
+but instead of allowing the individual to choose how the surcharge is paid,
+Coopers and Lybrand suggested that the ATO issue the surcharge assessment to
+the individual's current superannuation fund, which would remit the surcharge
+liability to the ATO.4
+6.5 William M. Mercer Pty Ltd (Mercer) also supported employers advising
+employees of the superannuation contributions paid on their behalf, but stated,
+however:
+This would not necessarily be on the employee's group certificate but could be
+provided in some other form. The member would then submit these details
+with his or her tax return.5
+6.6 Mercer supported giving individuals the choice to pay surcharge liability
+directly, or to pass it on to their current superannuation fund.
+6.7 Mercer also suggested that:
+...the employer only report contribution details for members earning more than
+a specified level, say $40,000 pa, meaning that well over half the workforce
+would not be involved in the information collection mechanism.7
+6.8 The Committee notes that a number of other bodies also supported the
+utilisation of group certificates for the surcharge collection mechanism,
+including:
+the AMP Society;
+the Australian Council of Trade Unions (ACTU);
+the Australian Society of CPAs;10
+the Institute of Actuaries of Australia;11
+Jacques Martin;12
+4 Submission 30, Coopers and Lybrand, p. 5.
+5 Submission 9, Mercer, p. 6.
+6 Submission 9, Mercer, p. 5.
+7 Submission 9, Mercer, p. 6.
+8 Submission 27, AMP Society, pp. 4-5.
+9 Submission 52, ACTU, pp. 2, 5.
+10 Submission 21, Australian Society of CPAs, p. 1.
+11 Submission 39, Institute of Actuaries of Australia, Attachment, pp. 7-8.
+12 Submission 10, Jacques Martin, p. 3.
+
+
+. the Life Insurance and Superannuation Association of Australia Inc
+(LISA);13 and
+• the Metal Trades Industry Association of Australia (MTIA).13
+6.9 The Committee was informed by proponents of group certificate
+collection mechanism alternatives that such a mechanism would have a number
+of advantages over the proposed collection mechanism, including:
+• being more efficient;
+• providing the Government with payments earlier; and
+• being less intrusive to privacy.
+6.10 It was also contended that the compliance costs for employers would not
+be inappropriate.
+6.11 Mrs Louise Matthews of Coopers and Lybrand argued the issue of
+efficiency to the Committee as follows. She said that by collecting the
+surcharge through the group certificate system would eliminate the need for the
+ATO to match data:
+The 15 million records that would need to be flowing from 140,000 funds on
+those six million taxpayers would not need to be collected, collated and
+matched with tax file numbers to the nine million tax returns. That is
+eliminating what we think is a very cumbersome approach to the surcharge
+legislation, especially from the point of view of administration for the tax
+office."
+6.12 Mr Peter Foxton of ASFA compared the timing of payments under the
+proposed collection mechanism with timing of payments utilising the group
+certificate system, telling the Committee that:
+The surcharge payments will not be made by a taxpayer's super fund until a
+long time after a taxpayer's income tax assessment has issued. For 1996-97 for
+instance, you have surcharge payment dates of mid-April and mid-June in the
+following year. For future years, it is going to be mid-September, mid-March
+the following year and then mid-June. The majority of revenue collections will
+be at the later of these dates and I suggest that the mid-June payment is where
+the bulk of the surcharge is going to be collected.
+If you compare that with the alternative process that is being put up by the
+superannuation industry, under that system the surcharge could be collected
+13 Evidence, pp. 148-149.
+14 Evidence, p. 159; Submission 20, MTIA, Annexure A, p. 1.
+15 Evidence, p. 80.
+
+
+around the same time as the tax assessment is issued or soon thereafter. The
+normal requirements for payment of the tax that comes out of a tax assessment
+could apply to the payment of a surcharge, either from a superannuation fund
+or from the individual, and that would mean that the surcharge would be
+collected by the government months earlier.16
+6.13 Submissions to the Committee stated that an alternative collection
+mechanism utilising group certificates would be less intrusive to privacy than
+the proposed collection mechanism.
+6.14 ASFA submitted that the alternative approach "avoids privacy issues
+since the surcharge is worked out between the ATO and the taxpayer".17
+6.15 The Australian Society of CPAs submitted that an alternative collection
+mechanism utilising group certificates would "encourage greater protection of
+individual privacy".18
+6.16 The Privacy Commissioner, Ms Moira Scollay, told the Committee that
+options had been explored to reduce the surcharge's intrusion on privacy:
+The range of options, I believe, has been considered, to try and reduce the
+impact of the matching of 12 million cases for a return of 350,000 people
+actively involved in paying the surcharge. We would have preferred a system
+that was less privacy intrusive, but my understanding is that both the industry
+and the ATO have been agonising through options for months and months and
+have been involving my office in those consultations, and that no other
+feasible option has been able to be produced...19
+6.17 It was contended that the compliance costs which an alternative
+collection mechanism utilising group certificates would place on employers
+would not be inappropriate. ASFA noted that:
+Under new age based limits ... applying from 20 August 1996, currently
+outlined in Tax Law Amendment Bill No 2 1997, employers using
+accumulation funds are required to calculate superannuation contributions for
+each employee in order to receive a tax deduction. Therefore, employers
+already have superannuation details available for most of their employees
+which could be easily transmitted on to the group certificate.'0
+16 Evidence, p. 62.
+17 Submission 23, ASFA, p. 11.
+18 Submission 21, Australian Society of CPAs, p. 1.
+19 Evidence, p. 130.
+20 Submission 23, ASFA, p. 12 (emphasis in original).
+
+
+6.18 The AMP Society submitted to the Committee that, given the amendment
+described above:
+...the employer must record and retain this [contribution] information and the
+only additional cost required for the alternative proposal is the cost associated
+with including the amount paid on the group certificate.21
+6.19 The AMP Society submitted that "this additional (and marginalised) cost
+is more than outweighed by the cost savings achieved by not requiring the
+superannuation funds to report".22
+6.20 The Committee understands that if an alternative collection mechanism
+utilising group certificates were to be used instead of the proposed collection
+mechanism, then there would have to be careful consideration of the varying
+ways of implementing such a general approach. Given the time constraints of
+this report, the Committee considers it sufficient to note here that a number of
+bodies stated that the surcharge could be collected by an alternative collection
+mechanism utilising group certificates.
+Government position
+6.21 The question of alternative collection mechanisms was addressed by the
+Hon. Chris Miles, MP, Parliamentary Secretary (Cabinet) to the Prime Minister,
+in the Second Reading Speech to the Superannuation Contributions Surcharge
+(Assessment and Collection) Bill 1997, as follows:
+Alternative measures of collecting the surcharge have been put to the
+government. The government has given careful consideration to those
+suggestions. The alternatives suggested all involve an unacceptable increase in
+compliance costs for employers, small business and all Australians. A number
+of these alternatives involve transferring the reporting obligation from
+superannuation funds to the significantly larger number ot employers. I he
+government believes this would represent a substantial increase in the
+compliance burden of small business.
+Significantly, the administrative requirements on superannuation funds under
+the government's approach are essentially similar to the processes that
+superannuation funds already undertake as part of their normal business
+operations. Against this background the government has decided not to depart
+21 Submission 27, AMP Society, p. 5
+22 Submission 27, AMP Society, p. 5
+
+
+from the broad approach to collection of the surcharge outlined on budget
+night.2’
+6.22 In evidence to the Committee, the ATO was asked questions in relation
+to the Government's position on alternative collection mechanisms. In the
+context of discussing the difficulties in collecting Tax File Numbers (TFNs)
+from people from culturally and linguistically diverse backgrounds, and from
+people living in remote areas, the Committee asked the ATO if such problems
+could have been overcome by an alternative collection mechanism. Mr Michael
+Monaghan of the ATO replied as follows:
+I think our position there is that the government has announced the way in
+which it wishes this policy to be implemented, and we are proceeding to do
+that.24
+6.23 Mr Monaghan was asked if alternative collection methods had been
+examined, and if so, what difference in costs would apply if an alternative
+collection method was used. He stated that other collection methods had been
+examined, but that the role of the ATO was to implement government policy
+and that the Government had confirmed the way in which it wished the
+surcharge to be implemented.2^
+6.24 The Committee asked the ATO if it was prepared to make its assessment
+of alternative collection mechanisms available to the Committee. Mr Monaghan
+replied that the assessment is "subject of advice to the government", but that the
+Committee's request could be passed on.26 At the time of writing this report the
+Committee had not received a response to this matter from the ATO.
+23 Hansard, House of Representatives, 13 February 1997, p. 626.
+24 Evidence, p. 296.
+25 Evidence, p. 297.
+26 Evidence, p. 298.
+
+
+CHAPTER 7
+REVENUE
+Financial implications
+7.1 The explanatory memorandum to the Superannuation Contributions
+(Assessment and Collection) Bill 1997 states that the proposed surcharge will
+raise $434 million in 1997-98, $500 million in 1998-99 and $526 million in
+1999-2000. The measure is therefore significant in its effect on the
+Government's revenue and the Budget outcome.
+Members who have retired since the surcharge announcement
+7.2 The Government proposes that the surcharge apply from the date it was
+announced, that is, 20 August 1996. Since that time a number of people will
+have either changed their superannuation fund or left the workforce. The
+position regarding the surcharge for members who have changed their
+superannuation fund is relatively straightforward as the preservation rules
+relating to superannuation require the amount to be given to another
+superannuation provider until the person leaves the workforce. The surcharge
+can then be collected from the new superannuation provider.
+7.3 For those who have left the workforce, the superannuation provider will
+not have the member's funds from which to deduct the surcharge if it becomes
+payable after the legislation has passed and the member has left the workforce
+and withdrawn their funds from the superannuation provider.
+7.4 In such cases, it is proposed that the surcharge liability for the period
+between commencement of the surcharge and the person ceasing to have an
+adjusted taxable income (ie. their assessable income and superannuation
+contributions) above the threshold amount (currently $70 000) will be collected
+from the person involved. In oral evidence given to the Committee, a
+representative of the Australian Taxation Office stated:
+In the case of those people who have left the system, yes, we will be looking to
+those people for payment. In the case of people who have moved from fund to
+fund, there would be a fund with their contributions and contributions
+information. I do not know the exact break up of the number of retirees who
+have gone straight out of the system, but there would be a workload and we are
+
+
+CHAPTER 7
+aware of that. The termination payments have been reported to us through the
+systems already in place.1
+7.5 On the issue of the effect the proposed surcharge would have on those
+who have retired and arranged their financial affairs in the time between the
+announcement of the proposed surcharge and the enactment of the legislation,
+the same representative replied:
+The ATO is quite used to dealing with the collection of moneys, and I guess
+we will take a sensible and pragmatic approach. There will be time for
+payment and other arrangements-not forgetting, of course, that a lot of these
+people we are talking about are high income earners....2
+Avoidance
+7.6 The issue was raised before the Committee of measures that could be
+used to prevent avoidance of the proposed surcharge. While the Income Tax
+Assessment Act 1936 contains substantial anti-avoidance provisions in Part IVA
+of that Act, these provisions only apply to taxes imposed under that Act and the
+proposed surcharge is to be imposed under the legislation referred to the
+Committee, rather than the Income Tax Assessment Act 1936. A representative
+of the Australian Taxation Office stated:
+To be precise, I think the commissioner, Mr Carmody, indicated that it would
+be naive of people to assume that we would not be keeping an eye on the
+situation and we would not be advising government. I do not recall him talking
+about anti-avoidance measures as such because people are obviously entitled
+to arrange their remuneration within the law. It is not a case of an avoidance
+exercise; it is more a case of them arranging their packages as they see fit.3
+Repackaging
+7.7 In evidence, several witnesses and submittors told the Committee that the
+proposed surcharge may lead to some people, whose income makes them
+subject to the surcharge, seeking to alter their remuneration package in such a
+way so that their adjusted taxable income is less than the surcharge liability
+threshold.
+1 Hansard, Superannuation Select Committee 11 March 1997, S281
+2 Ibid.
+3 Ibid., S302
+
+
+7.8 As noted above in the evidence given by the Australian Taxation Office,
+changes to the remuneration package may be made within the current laws and
+would not amount to avoidance. There have been a number of suggested
+methods by which salary could be repackaged to reduce the adjusted taxable
+income below the threshold.
+7.9 The most likely means of achieving the reduction in adjusted taxable
+income is to reduce the assessable income of the person. This can be achieved
+through making greater deductions to negative gearing of both property and
+shares, or by reducing the contributions to superannuation that exceed the rate
+required under the Superannuation Guarantee legislation.
+7.10 There is also the possibility of part of a remuneration package being
+taken as fringe benefits provided by the employer, which would be taxed at the
+employers tax rate, which is lower than the potential marginal tax rates that
+apply to certain people liable to the surcharge (see below).
+7.11 In a submission to the Committee, the Association of Superannuation
+Funds of Australia (ASFA) stated:
+The revenue figures seem to assume that these high income earners will not
+change their savings patterns and will continue to contribute to superannuation
+at the same rate.
+Recent evidence shows that people do change their behaviour and that this can
+compromise the integrity of the budget figures as evidenced in the shortfall in
+company tax.
+A recent survey by the Institute of Company Directors found that over 40% of
+company directors stated that they would not make voluntary contributions to
+superannuation after the introduction of the surcharge.4
+7.12 However, some oral evidence given to the Committee suggested that
+repackaging salary may not be attractive. A representative of William M.
+Mercer Pty Ltd stated:
+Part of the problem one has to think about is that it is one thing for someone
+whose normal taxable income, if I could put it that way, if they took no action,
+was, say, $90 000, to take some action to get it down below $70 000. If you
+are talking about someone whose taxable income plus contributions is $200
+000, the action that person has to take is much more extreme. Some people
+have suggested that people could use negative gearing, for example, to reduce
+it. If you work out how much interest you have to be paying on a negative
+4
+Submission No. 23, p. 8
+
+
+gearing proposal to get your income down from $ 200 000 to $70 000, it needs
+to be enormously large and probably very risky
+7.13 Similar doubts were expressed by Mr Ross Ramsay. In oral evidence to
+the Committee, Mr Ramsay stated:
+I have my doubts about negative gearing. That has been much touted. Negative
+gearing is an inherently risky procedure. People are saving for their retirement
+where I think the risk needs to be limited. I would say that such switching
+would be more into the area of fringe benefits and retention within company
+structures where the tax payable is 36% up front....
+Other issues
+7.14 A number of witnesses and submitters argued that the proposed
+surcharge will reduce the incentive for people to contribute to superannuation
+above the level required by the Superannuation Guarantee legislation. They
+argued that superannuation will be seen as a less attractive savings vehicle than
+before the proposed surcharge was announced. With fewer voluntary
+superannuation contributions from people above the adjusted tax threshold,
+there may be an impact on the Government's revenue. The Association of
+Superannuation Funds of Australia stated in their submission to the Committee:
+The surcharge on contributions will reduce incentives to contribute to
+superannuation....7
+7.15 ASFA cast doubt on whether the Government's revenue goals will be
+achieved from the stated target group, arguing that the estimates do not appear
+to take into account behavioural changes by high income earners.8
+5 Hansard, Superannuation Select Committee 11 March 1997, S19I
+6 Ibid., p. S246.
+Submission No. 23, p. 3.
+Submission No. 23, p. 3.
+7
+
+
+CHAPTER 8
+PRIVACY
+Overview
+8.1 The issue of privacy arises in relation to the surcharge legislation because
+of the method by which an individual's surcharge liability is assessed. In order
+to determine whether an individual's adjusted taxable income exceeds the
+$70 000 surcharge liability threshold, details of an individual's superannuation
+contributions need to be matched with the individual's income by using his or
+her tax file number (TFN).
+8.2 While originally TFNs were used only for income tax purposes, over
+recent years the use of TFNs has been extended to other areas such as child
+support, higher education contributions and taxation on superannuation
+payouts.1 The use of TFNs for the administration of the superannuation
+surcharge represents a further significant extension of the allowable uses of
+TFNs," the privacy implications of which were raised by the Privacy
+Commissioner in her submission to the Committee. Her concerns included:
+. a general concern about the further extension of the use of the TFN;
+. the impact of the extension on the 'voluntary quotation' principle;
+. the transfer of personal information to organisations not covered by
+privacy laws; and
+. the possibility that superannuation providers will be able to deduce
+the total income of their members from the surcharge assessments
+provided by the Australian Taxation Office (ATO).
+8.3 Each of these concerns is discussed below.
+Another extension to the use of TFNs
+8.4 Members of the Committee questioned the Privacy Commissioner about
+her views on the latest extension to the allowable uses of TFNs, in particular.
+Submission 29, p. 2.
+Submission 29, p. 3
+2
+
+
+CHAPTER 8
+her apparent acquiescence in the face of the Government's decision to go ahead
+with the legislation despite privacy concerns.
+8.5 The Privacy Commissioner, Ms Scollay, indicated that under the Privacy
+Act:
+... there is both the requirement for me to highlight issues around privacy,
+which we have been doing actively all the way through this process, plus
+balancing that with the administrative need for efficient and effective
+3
+processes.
+8.6 Ms Scollay stressed that her acquiescence with regards to the use of
+TFNs for the administration of the superannuation surcharge should not be seen
+as support for the extension:
+On every occasion on which the tax file number has been looked at being
+extended, you can expect to see concern from me. I would never want you to
+assume that you could say that I am quite happy about it.4
+8.7 Mr Nigel Waters from the Privacy Commissioner's Office added that,
+while the Office had communicated their concerns about the legislation to the
+Government, once the decision had been taken to continue, the Commissioner's
+role became one of minimising the privacy intrusiveness of the legislation.5 Mr
+Waters emphasised that the balance between privacy and administrative
+efficiency was set by Parliament.
+8.8 Ms Scollay indicated that:
+...when it seems that the parliament is making a decision that it is
+going down an administrative efficiency route, then my job is to
+make sure that, given that it is then as little privacy intrusive as
+possible and the safeguards are there, the way it is administered
+will give as much credence to privacy principles as we possibly
+can.6
+Voluntary quotation principle
+8.9 Concerns about the possible misuse of tax file numbers prompted the
+introduction of specific guidelines on the collection, storage, use and disclosure
+of TFNs. One of the principles embodied in these guidelines is that an
+3
+Evidence, p. 131.
+4 Evidence, p. 134.
+5 Evidence, p. 132.
+Evidence, p. 134.
+6
+
+
+individual should have the right to choose whether or not to quote his or her
+TFN. This principle is referred to as the 'voluntary quotation' principle.7
+8.10 The Privacy Commissioner expressed concern that the legislation
+requires all superannuation fund members to quote their TFNs, regardless of
+whether their income falls below the surcharge liability threshold, or be liable
+to pay the surcharge.8 This situation brings into question the principle of
+'voluntary quotation' because individuals who choose not to quote their TFN
+are subject to a penalty.
+8.11 To ensure that the 'voluntary quotation' principle is adhered to, an
+individual must be given the opportunity to object to his or her TFN being used
+for a purpose other than the one for which it was provided. There are two ways
+in which this can be achieved: the 'opt in' approach or the 'opt out' approach.
+Opting in or out?
+8.12 An 'opt in' approach requires the active consent of an individual tor a
+proposed course of action. That is, where an individual is notified ot a
+particular course of action, the individual must formally respond and indicate
+his or her agreement. An 'opt out' approach refers to a situation where no
+formal response is made to a notification of a particular course ol action, and
+that failure to respond is taken to imply agreement with the proposed action.
+8.13 The Privacy Commissioner indicated that her preference was tor the 'opt
+in' approach. The 'opt out' approach, in her opinion:
+...represents a number of risks to privacy, including the possibility
+that individuals will fail to exercise their choice because of lack ot
+information, inadequate understanding, or inertia.
+8.14 The Privacy Commissioner stressed the importance of providing
+individuals with sufficient information on why the TFN is needed, what it will
+be used for and the consequences of not providing the TFN, to enable them to
+make an informed choice about whether or not to quote their tax file numbers.
+This information should be reinforced by means of a public education
+n
+campaign.
+7 Submission 29, p. 2.
+8 Submission 29, p. 3
+9 Submission 29, p. 4.
+10 Submission 29, p. 4
+11 Submission 29, p. 4; Evidence, p. 137.
+
+
+TFNs held by superannuation funds/employers
+8.15 Where an individual has already provided his or her TFN to a
+superannuation fund for other superannuation purposes, the fund is required to
+notify the individual of its intention to forward the individual's TFN to the ATO
+for the purpose of administering the surcharge. The individual has 30 days in
+which to respond, after which time, if no objection has been raised, the TFN is
+forwarded to the ATO. Where an employer has an individual's TFN for
+superannuation purposes, the same procedure must be followed.
+8.16 When questioned at a public hearing of the Committee about the use of
+the 'opt out' approach in these circumstances, Mr Waters indicated that:
+where the [tax file number] is already held for superannuation
+purposes, opt out is considered an adequate basis for using it for
+the surcharge.12
+8.17 However, in cases where an individual has provided his or her TFN to an
+employer for taxation purposes, Mr Waters added that:
+the tax office's view to date has been that an opt in would be
+required, and that is the subject of current discussions about
+whether that is necessary’ or not.13
+TFNs held by the A TO
+8.18 Where the Tax Office has an individual's TFN, the Tax Office requires
+the individual's consent to pass on the TFN to the superannuation provider in
+order to streamline future matching. The Privacy Commissioner indicated that
+this 'opt in' approach is her preferred approach. She added, however, that:
+...if that is going to be administratively disadvantageous to the
+people—where they end up with a surcharge when they should
+not—then we are again prepared to talk to the tax office about
+whether opt out is not going to disadvantage people.14
+Personal information not covered by privacy laws
+8.19 In her submission to the Committee, the Privacy Commissioner
+expressed concern that personal information, particularly information relating
+12 Evidence, p. 139
+13 Evidence, p. 139.
+14 Evidence, p. 140.
+
+
+to income, will be provided to organisations not covered by privacy laws.
+Currently, superannuation providers do not fall within the jurisdiction of the
+Privacy Act.15
+8.20 A related concern arises where the trustee of a superannuation fund is an
+employee of the same company as the individual who has been assessed for his
+or her surcharge liability. The trustee may in fact sit in the desk next to that
+individual. The information provided to the trustee would enable the trustee to
+determine with a fair degree of accuracy the taxable income of his or her fellow
+employee.16
+8.21 A submission by William M. Mercer Pty Ltd summarised this issue
+succinctly:
+The proposed system will give the trustees of superannuation funds
+considerable information about each member's taxable income. The
+information will enable trustees (who will include employer and member
+elected representatives) to determine:
+• whether the member's taxable income exceeds $85,000;
+. the exact taxable income if it is between $70,000 and $85,000;
+• whether the member's taxable income is less than $70,00
+8.22 Mercer argued that there is no way under the proposed system that this
+can be avoided unless the member declines to provide a TFN. However,
+non provision of a TFN will result in the fund incurring a surcharge each year.
+Further, there is no interest payable by the ATO in respect of surcharge
+assessments subsequently reduced because of the later provision of a I f N.
+8.23 Mercer concluded that: "This makes the maintenance of privacy a very
+costly exercise for superannuation fund members."
+8.24 When questioned about the possibility of superannuation funds deducing
+their members' level of income from the surcharge assessments provided by the
+ATO, Ms Scollay replied that:
+Level of income is about the most privacy sensitive piece of data, from our
+research, that exists in the community. The community is very concerned
+about income and there is always a concern when income information moves
+15 Submission 29, p. 5.
+16 Evidence, eg pp. 188, 228; Submission 9, pp. 5-6
+17 Submission 9. pp. 5-6.
+18 Submission 9, p. 6.
+
+
+into another sphere. So I thought it was necessary to register that concern in
+my submission and in my oral evidence today, that whenever there is a broader
+use of income than has been used in the past it is a privacy concern.19
+Safeguards
+8.25 The Privacy Commissioner was questioned about whether there were
+sufficient safeguards under current superannuation legislation to protect against
+the misuse of TFNs and unauthorised disclosure of personal information, and
+whether any such safeguards were as strict as those contained in the income tax
+law.
+8.26 Ms Scollay indicated that she had been assured that the Superannuation
+Industry (Supervision) Act 1993 (the SIS Act) provided sufficient safeguards
+and penalties for unauthorised disclosure. However, in a supplementary
+submission, the Commissioner advised that while there were safeguards to
+protect personal information held by superannuation providers:
+...these protections are not of the same level as those found in either the
+Privacy Act or the secrecy provisions in the Income Tax Assessment Act.20
+8.27 The Commissioner advised that this situation could be overcome by
+applying all privacy principles in the Privacy Act to superannuation providers
+with respect to the administration of the surcharge,21 or by including in the
+surcharge legislation provisions for a Minister to make principles (disallowable
+instruments) on matters including the acquisition, storage, use and disclosure of
+personal information held by superannuation funds. Penalties for failure to
+comply with any such principles should also be included in the legislation.22
+Monitoring privacy compliance by the superannuation industry
+8.28 Under the superannuation surcharge legislation, there is no role for the
+Privacy Commissioner to monitor the privacy compliance of superannuation
+providers. When questioned on this issue, Ms Scollay commented that if the
+19 Evidence, p. 142.
+20 Supplementary Submission. 14 March 1997, p. 2.
+21 Supplementary Submission, 14 March 1997, p. 2.
+22 Supplementary Submission, 14 March 1997, p. 2.
+
+
+Privacy Commissioner had that role it would provide an extra safeguard and
+easier access to a complaints mechanism.23
+8.29 In her supplementary submission, the Privacy Commissioner indicated
+that if required to monitor privacy compliance, her office would need either a
+modest increase in resources or would have to divert some existing resources
+away from other tasks.-4
+23 Evidence, p. 143.
+24 Supplementary Submission, 14 March 1997, p. 3
+
+
+
+
+CHAPTER 9
+DEFINED BENEFITS SCHEMES AND ACTUARIAL
+STANDARDS
+Introduction
+9.1 A defined benefits fund is one in which the final benefit payable to a
+member does not wholly depend on the earnings of the fund, as is the case with
+accumulation funds where benefits are based on employer and employee
+contributions and the fund's earnings. There are a variety of defined benefits
+funds.
+9.2 Generally, the final benefit depends on the final wage or salary of the
+member and the number of years that the member has been in the fund. A
+number of defined benefits funds are 'unfunded', as the employer does not make
+regular contributions to the fund, although the member does, and the final
+benefit, other than the member's contributions and interest, is paid by the
+employer.
+9.3 Common examples of such funds are those relating to the public sector,
+(ie. most public servants) and Members of Parliament. In such funds there is no
+calculation of the value of the employer contribution and the interest earned on
+the employer's contributions had they been made.
+9.4 Another variety of defined benefit fund is that where both the employer
+and the employee contribute to the fund but the final benefit payable is not
+based on the earnings of the fund. Rather, a certain level of benefits is payable
+regardless of the earnings of the fund. Such funds are known as funded defined
+benefits funds.
+9.5 While there are no difficulties with calculating the value of the
+employer's contributions and the total earnings of the fund in funded schemes,
+the employer's ultimate contribution is unknown as the defined benefit payable
+may be significantly above the amount of the fund's earnings. The most
+common example of such schemes are public sector funds that are not exempt
+funds for the purpose of the Superannuation Industry (Supervision) Act 1993.
+9.6 A final variety of defined benefits funds are funds in which the employer
+is responsible for all contributions to the fund, such as Superannuation
+Guarantee contributions, and the employer pays a benefit that is defined, again
+usually by the final salary and years of service. Such funds are, again, unfunded
+
+
+CHAPTER 9
+schemes. An example of such funds are those applicable to members of the
+judiciary in certain States.
+9.7 The proposed surcharge threshold, currently $70 000, is based on the
+assessable income of the person plus superannuation contributions made in
+respect of the member. This presents problems in unfunded defined benefits
+schemes where the actual value of the employer's contributions to the final
+benefit is not known.
+9.8 In relation to unfunded schemes, the Superannuation Contributions
+Surcharge (Assessment and Collection) Bill 1997 defines an unfunded defined
+benefits scheme to be a scheme where some or all of the funds necessary to pay
+the defined benefit will need to be contributed to the fund by the employer
+when the benefit becomes payable.
+9.9 For such schemes, an amount, known as the notional surcharge amount,
+is to be added to a debit account of the member and this amount, plus interest
+calculated at the 10 year Treasury bond rate, is to be deducted from the
+member's account when benefits become payable. The amount that is to be
+deducted could be very substantial and will increase with income.
+9.10 The submission by the Judicial Remuneration Coordinating Committee
+suggested that for a Supreme Court judge with a 15 year surcharge liability the
+amount could be as high as $270 000.1 Such an amount would be deducted
+from the benefits payable to the person when they left the fund. Evidence
+presented to the Committee raised a number of points in relation to the
+proposed surcharge as it relates to defined benefits schemes.
+9.11 The Association of Superannuation Funds of Australia stated in its
+submission to the Committee:
+There may be potential to recognise vesting at the level of the individual in
+defined benefits schemes but the treatment of contributions for surcharge
+purposes for defined benefit funds remains unclear."
+Notional Employer Contributions
+9.12 The notional employer contribution (NEC) is to be used to assist in the
+calculation of the amount that is to be debited to a member's account. Under the
+Superannuation Contributions Surcharge (Assessment and Collection) Bill
+1 Submission No. 64, p. 4.
+Submission No. 23, ASFA, p. 15
+2
+
+
+1997, the NEC for a year will be as certified by an eligible actuary according to
+Australian actuarial practice.
+9.13 The Institute of Actuaries of Australia and the Deputy Australian
+Government Actuary advised the Committee that the Government has
+requested the Actuarial Advisory Committee, to prepare guidelines for the
+calculation of the NEC. The Actuarial Advisory Committee comprises
+representatives of the Institute of Actuaries of Australia, the Australian
+Taxation Office and the Australian Government Actuary.3
+9.14 It is not clear what the guidelines will contain and whether there will be
+one guideline for an entire fund or different sub-sets of guidelines for different
+classes of members within the fund. On this issue, Mr Ward, representing
+William M. Mercer Pty Ltd, indicated that:
+Actuaries will find it very difficult to come up with a fair and equitable
+approach in defined benefits funds. Yet the problems do not only rest with
+4
+defined benefits funds; they also cross the bounds into accumulation funds.
+9.15 In regard to the general principles to be used in regard to determining the
+NEC, Mr Francis of the Institute of Actuaries of Australia stated that:
+I believe the principles for determining a notional surchargeable contribution
+for an unfunded defined benefits scheme are virtually the same as those
+relating to a funded defined benefits scheme: it is still necessary to make your
+best estimate assumptions about what is going to happen in the future.
+9.16 Evidence given to the Committee indicated a number of possible
+approaches to calculating the NEC in respect of a member of a fund, being
+either individual calculation, which would be very costly; creating separate
+rules for various classes of members; or, the simplest method, introducing a
+single rule that would apply to all members of funds. In relation to the last
+method, Mr Ward stated:
+If, on the other hand, the institute and the government agree there will be a
+standard formula that applies, using some form of actuarial mumbo jumbo
+behind it, it may be somewhat cheaper, but then it will be far more difficult to
+3 Evidence, p. SI94.
+4 Ibid., p. 185.
+Ibid., p. 258.
+5
+
+
+say that that was the most equitable approach for a particular fund benefit
+design and a particular fund membership.
+9.17 The question of equity should a standard formula be used was also raised
+by members of the Committee with the probability of there being those who
+would be advantaged by the application of a standard rule and those who would
+be disadvantaged.
+9.18 The issue of the timing for the issue of the guidelines relating to the
+calculation of the NEC was also raised. Mr Francis of the Institute of Actuaries
+of Australia, when questioned as to when the guidelines were likely to be
+available, stated:
+But I certainly do understand your point that the legislation is silent on the
+issue, and that the timing is such that, if the intentions are met, the act will be
+7
+passed before these guidelines are finalised and known to you.
+9.19 Another issue raised is whether the notional debit calculated under the
+NEC can be adjusted when the defined benefit actually becomes payable and
+what will happen in the situation where the notional debit exceeds the actual
+amount of surcharge payable. When the proposition was put to the Deputy
+Australian Government Actuary that there will be no adjustment between the
+notional debit and the actual surcharge payable, he replied that "I expect that to
+be the case."8
+9.20 The proposed role of the actuaries in determining the rate at which the
+NEC is to be calculated was also raised before the Committee. The argument
+has been put that the substantial role to be performed by the actuaries is, in
+effect, a delegation of the Commonwealth's power and that the amount of
+surcharge payable may ultimately be determined by actuaries. The Bar
+Association of Queensland submitted that:
+Any surcharge or tax which depends for its computation on matters to be
+determined by persons other than the Parliament is seriously able to be argued
+as an impermissible delegation of the taxing powers of the Commonwealth
+Parliament.
+6 Evidence, p. 185.
+7 Evidence, p. 254.
+8 Evidence, p. 202.
+Submission No. 71, p.2,
+9
+
+
+9.21 The submission made to the Committee by the Association of
+Superannuation Funds of Australia (ASFA) also supported this view,
+commenting that:
+...the scheme as currently proposed will have a private, professional body, the
+Institute of Actuaries, and individual actuaries effectively setting tax rates for
+individuals.
+Commutation Rules
+9.22 The deeds of superannuation funds generally provide for benefits to be
+payable as either a lump sum or a pension and provide for a pension to be
+commuted to a lump sum or a lump sum to be commuted to a pension. The
+rates at which the commutation occur are defined in the trust deed of the fund.
+9.23 There are some funds that do not allow the commutation of a pension to a
+lump sum, principally where there are no employee contributions (some funds
+mainly relating to members of the judiciary). The issue has been raised of the
+effect of the surcharge on the rate of commutation that will apply to defined
+benefits schemes where the amount of surcharge payable exceeds any lump
+sum entitlement of the member. In such a case part or all of the member's
+pension entitlement would need to be commuted to enable the surcharge to be
+paid when the surcharge liability arises, which will be at the time the member
+leaves the fund.
+9.24 The issue is whether the commutation rate in the fund's deed, if such a
+rate exists, would be the same as that determined under the proposed surcharge
+scheme or whether the proposed surcharge commutation rate would override
+that in the fund's deed.
+9.25 The Deputy Australian Government Actuary submitted that the
+commutation rate for the surcharge would be determined by actuaries. He
+expressed the opinion that for defined benefits funds there could be a difference
+between the commutation factor contained in the deed and the one required for
+payment of the surcharge. The Deputy Australian Government Actuary stated:
+Certainly, it is common in the unfunded public sector for those factors not to
+be true commutation factors. In the private sector, most commutation factors
+are closer to the truth. 11
+10 Submission No. 23, p. 15
+11 Ibid., p. S199.
+
+
+When you get to retirement, it would require a change to the legislation under
+which the super funds are set up. You would have to be able to commute on
+that basis; it would not be part of this legislation.
+9.26 The possibility of legislation altering the commutation factor of a public
+sector defined benefits scheme to allow a sufficient proportion of a pension to
+enable the deferred surcharge to be paid was the issue raised by the Deputy
+Australian Government Actuary.
+Particular Schemes
+9.27 Concerns have also been raised about the effect of the surcharge on
+certain superannuation schemes.
+Military
+9.28 A submission to the Committee by the Armed Forces Federation of
+Australia raises a number of issues regarding the potential impact of the
+proposed surcharge on members of the armed forces. One issue relates to the
+position of members who voluntarily discharge themselves from the services
+prior to completing 20 years service. The submission states:
+These members do not qualify for retirement pay. They receive a refund of
+their own contributions and their entitlement to the 3% productivity benefit
+and the Superannuation Guarantee Charge top-up is rolled over until the
+member reaches 55. Under this scheme the member would be liable for a
+surcharge on benefits he/she will never receive. The Federation strongly
+asserts it is unjust to include the DFRDB [this is one of the superannuation
+schemes applicable to military personal which was superseded for new
+members by a new scheme] in notional employer benefit in calculating the
+13
+superannuation surcharge for these members.
+9.29 The submission also argues that when the new scheme was introduced in
+1991, the Government gave an "Iron Clad Guarantee" that members of the
+Defence Force Retirement and Death Benefits Scheme (DFRDB) 'would not be
+touched'.
+9.30 The final point made in the submission is that:
+12 Ibid
+Submission No. 51
+
+
+Although allowances are not to be included to increase superannuation
+benefits, the very same allowances will be used to assess the members' liability
+for a superannuation surcharge.14
+9.31 The arguments relating to DFRDB and the allowances were also
+supported in a submission made by the Returned and Services League of
+Australia Limited.15
+Possible Alternatives
+9.32 In its submission to the Committee, the Institute of Actuaries of Australia
+suggested that for defined benefits funds it should be possible for a member to
+pay their notional surcharge each year and therefore avoid the consequences of
+compounding interest on their notional debit (ie. where interest is payable on
+the interest accumulated in the debt). While the amount of the notional
+surcharge may be difficult to calculate, this could be addressed in the actuarial
+guidelines. In its submission, the Institute of Actuaries of Australia stated:
+Employers could be given an option of paying a 'surcharge contribution' to the
+fund each year to allow progressive payment, rather than an accumulation of a
+debt. We note that this may involve a deferral of revenue.
+9.33 The same argument could also be made in respect of a member ol a
+superannuation provider who wished to pay an annual amount ot surcharge
+rather than see a debt accumulate.
+Government position
+9.34 The Government's position in regard to defined benefits funds was
+outlined by the Treasurer in a Press Release dated 5 February 1997. The Press
+Release stated, in part:
+The same broad administrative arrangements for the annual surcharge
+assessment will apply to both funded and unfunded defined benefits funds. I he
+principal issue in relation to defined benefits funds is the method tor
+determining the annual employer contribution in respect of each employee.
+14 Ibid.
+15 Submission No. 55.
+16 Submission No. 39, pp. 6-7.
+
+
+9.35 The Press Release then explained the role of the NEC and continued:
+The Government believes this is the most practicable approach to adopt. This
+method will be flexible enough to apply to a diversity of funds regardless of
+the degree of funding or the form in which benefits are provided. It is capable
+of providing a smooth progression of contribution rates, avoiding the volatility
+of actual contributions and the discontinuities possible in vested benefit
+approaches. Submissions to the Actuarial Advisory Committee indicated that
+there is a significant support for an actuarially determined contribution rate in
+the superannuation industry.
+9.36 Regarding the role of actuaries, the Press Release noted that a certificate
+relating to the amount of the NEC was to be prepared in relation to members of
+defined benefits funds and continued:
+The certificate would be prepared by a qualified actuary acting under
+professional standards. In this regard, the government has requested the
+Institute of Actuaries of Australia to prepare in consultation with the
+Australian Government Actuary and the ATO, an actuarial standard on this
+issue.
+9.37 The Explanatory Memorandum to the Superannuation Contributions
+Surcharge (Assessment and Collection) Bill 1997, in a section dealing with the
+application of the surcharge to defined benefits funds, states:
+Unfunded defined benefits schemes will receive assessments each year. They
+will not be required to pay the surcharge at this time.
+Instead unfunded defined benefits schemes will be required to maintain a
+surcharge debt account for each member of the scheme. Each year the provider
+will be required to debit the account of each member who is affected by the
+surcharge. The amount debited to the account will be the amount of surcharge
+assessed for that year17.
+9.38 The Explanatory Memorandum then addressed the issue of the interest
+payable on such debits and stated:
+This is to be achieved by debiting the account with an amount using the 10
+year Treasury bond rate.18
+17 Explanatory Memorandum to the Superannuation Contributions Surcharge (Assessment and Collection)
+Bill 1997, p. 25.
+18 Ibid.
+
+
+CHAPTER 10
+CONCLUSIONS AND RECOMMENDATIONS
+Government Senators’ conclusions and recommendation
+10.1 The following paragraphs are the views of Senator John Watson
+(Chairman) and Senators Alan Ferguson and Julian McGauran.
+10.2 The Government Senators acknowledge all those persons who wrote
+letters, prepared submissions and gave oral evidence at the public hearings.
+10.3 The views have been fully considered by the Government. The
+Government Senators believe no better alternative collection mechanism to the
+proposed arrangements has been identified from the extensive consultations.
+10.4 The Government Senators note the Treasurer's comments that the
+Government will review the constitutional opinion offered by Mr Dennis Rose
+AM, QC.
+10.5 The current concessional treatment of superannuation tends to favour
+higher income earners at the expense of lower income earners.
+10.6 The Government Senators believe it is a proper and legitimate objective
+to reduce inequity in Australia's superannuation system, and this will be
+achieved through the surcharge legislation.
+Recommendation
+Government Senators therefore recommend that the Bills be passed, subject to
+the technical amendments to be put forward by the Government.
+Senator John Watson Senator Alan Ferguson
+Chairman
+Senator Julian McGauran
+
+
+CHAPTER 10
+Non-Government Senators’ Conclusions and Recommendations
+10.7 The following paragraphs are the views of Senators Lyn Allison, Stephen
+Conroy, Chris Evans and the Hon. Nick Sherry (Deputy Chairman).
+10.8 Labor Opposition and Australian Democrat Senators note a previous
+policy statement made by the current Treasurer, the Hon. Peter Costello, MP, in
+November 1995. Mr Peter Downes of Jacques Martin drew this to the attention
+of the Committee:
+At that time, Mr Costello said he had three tenets for a superannuation system
+under a Liberal government. They were: there should be certainty; there
+should be confidence; and, above all, there should be simplicity.
+I think they were admirable qualities in a superannuation system. But if I was
+going to do anything at all to depart from those principles, what I would do
+would be introduce a concept like this surcharge.1
+10.9 Labor Opposition and Australian Democrat Senators note that on the
+John Laws program on 25 February 1997 Mr Costello, the Treasurer called the
+surcharge a tax.
+10.10 This was later repeated by Senator Kemp who called the surcharge a tax
+on the PM program on 12 March 1997.
+10.11 Labor Opposition and Australian Democrat Senators believe that it is
+critical for the 15 per cent superannuation tax to be treated as a tax, in order for
+the Parliament to be assured that the legislation is in fact within the
+Constitutional powers of the Parliament.
+10.12 Labor Opposition and Australian Democrat Senators note the
+Prime Minister's pre-election commitment to "not increase or introduce any
+new taxes."
+10.13 Labor Opposition and Australian Democrat Senators are firmly of the
+view that it is entirely inappropriate for the Government to require the
+Parliament to pass legislation which may in fact be unconstitutional, in order
+for the Government to maintain their election commitment.
+I
+Evidence, p. 28.
+
+
+10.14 The Coalition's election policy on superannuation, released in February
+1996, echoed these intentions, with the clear commitment that there would be
+no change to the 15 per cent tax on employer contributions, and that:
+....a Coalition Government will retain the current taxation treatment of
+superannuation, including the 15% rebate incentive for income taken in
+pension form2.
+10.15 Commitments to provide certainty in retirement incomes policy were
+provided in the social security policy,3 the older Australians policy,4 and also in
+the Prime Minister's undertaking in his Campaign Launch speech not to
+introduce new taxes or increase existing ones. The superannuation tax
+surcharge breaches each of these four policy commitments.
+10.16 The Treasurer defended the introduction of the measure, the largest
+single taxation revenue measure introduced in the 1996 Budget, in his Budget
+speech as a measure "designed to make superannuation fairer." He said:
+A major deficiency of the current system is that tax benefits for superannuation
+are overwhelmingly biased in favour of high income earners. For a person on
+the top tax rate, superannuation is a 33 percentage point tax concession while
+a person earning $20 000 receives a 5 percentage point tax concession. High
+income earners can take added advantage through salary sacrifice
+arrangements that are not available to lower income earners. The Government
+is remedying this situation.5
+10.17 The unfair nature of superannuation tax concessions has been the subject
+of considerable comment by many industry bodies and commentators,
+including ACOSS6 and EPAC7.
+10.18 Labor Opposition and Australian Democrat Senators support the stated
+intention of the Government to move to correct the inequities in the taxation ot
+superannuation, although note that the surcharge would, even il fully
+implemented, only partially achieve this purpose, while opening up new
+inequities.
+2 "Super for Ail - Security and Flexibility in Retirement" Coalition Superannuation Policy Statement, p. 16
+3 "A Social Security Safety Net" Coalition Social Security Policy, p. 12.
+4 "Security for Older Australians" Coalition Policy, p. 3.
+5 Costello, P. "Budget Speech", August 20 1996, p.10
+6 Submission 58, pp.12-5.
+7 Pender H and Ross S "Taxation, Regulation and Private Savings in Australia" EPAC Jan 1994;
+"Economic Effects of an Ageing Population" EPAC Council Paper No 29 1988.
+
+
+10.19 Labor Opposition and Australian Democrat Senators believe that the
+surcharge's proposed collection mechanism is inefficient. Labor Opposition and
+Australian Democrat Senators note the statement to the Committee by Mr
+Vernon Winley of the Business Council of Australia (BCA) that:
+... from the initial announcement of the surcharge, the council has
+been extremely concerned about the workability, the administrative
+costs and the fairness of the proposed implementation
+arrangements. In principle, a tax that has either disproportionately
+high compliance costs or disproportionately high collection costs is
+a bad tax on the economy. The implementation approach proposed
+for this surcharge fails both of those criteria, making it doubly a
+bad tax. Likewise, an implementation approach that is inequitable,
+as we believe this one is, creates a bad tax.8
+10.20 The New South Wales Government made an extremely interesting
+observation regarding the intention of the Bills and their interaction with
+privacy laws.
+10.21 The New South Wales Government expressed concern that the Bills may
+be beyond the Parliament's constitutional taxation power and incidental power.
+10.22 As currently drafted, the Bills may be construed as having as their
+primary intention the collecting and collating of information. The surcharge
+acts in this analysis as the penalty for failing to provide such information. By
+tailing to provide information the individual is subjected to a tax of 15 per cent.
+10.23 If this is indeed the intention of the Bills, it would seem that the
+Parliament is beyond the scope of its constitutional power in relation to the
+incidental power. Indeed Bills intending to effect this outcome would possibly
+constitute the most substantial legislative invasion of privacy laws ever enacted
+in Australia.
+10.24 Labor Opposition and Australian Democrat Senators are concerned that
+the superannuation tax seeks to overturn the voluntary quotation principle in
+respect to TFN's.
+10.25 Labor Opposition and Australian Democrat Senators believe that it is a
+fundamental principle of Australian society that individuals are able to choose
+whether they quote their tax file number to non-government organisations who
+are not subject to privacy laws, without fear of being subjected to a punitive
+penalty tax.
+Evidence, p. 210.
+
+
+10.26 If the collection mechanism of the tax were to be amended to the
+alternative collection mechanism then there would be no requirement for
+individuals to disclose their tax file number to the superannuation funds.
+10.27 Labor Opposition and Australian Democrat Senators are concerned that
+the failure of the Government to adopt this position of amending the collection
+mechanism will result in a number of implications for privacy laws which may
+not be appropriate or supported by the Australian community.
+That the surcharge is a tax
+10.28 The superannuation surcharge was the largest single revenue measure in
+the 1996/7 Budget. The Budget Papers clearly categorise the revenue to be
+raised on superannuation contributions as being part of Income Tax
+collections9, citing a key factor underlying growth in the 1997 forward
+estimates as:
+....the increase in superannuation contributions tax for higher income earners111.
+10.29 Evidence given to the Committee by the ATO stated that the power to be
+relied upon for the imposition of the Bill is paragraph 51 (ii) of the Constitution,
+which is the taxation power.11
+10.30 Mr Dennis Rose AM, QC, on behalf of the BCA, also supported this
+argument on the basis that the surcharge is a tax. In his advice, he indicated
+that, in his opinion, there were no other Constitutional powers which could
+support the Constitutional authority of the surcharge, including the corporations
+power.
+10.31 Mr Ross Ramsay, a trustee of the Superannuation Fund Bramex Super
+Pty Ltd, made the point that if the taxation power is not relied upon, the
+surcharge would amount to the acquisition of property on other than just terms
+and so breach paragraph 5 l(xxxi) of the Constitution.
+10.32 The surcharge has all the attributes of a tax. These include:
+. compulsory payment, including for those who do not provide their
+TFN; and
+9 Budget Paper 1996/7 No 1, pp.4-28
+10 ibid pp. 4-45.
+11 Evidence, p. 304.
+
+
+. no service provided in return for the payment.
+10.33 It cannot therefore be called a fee for service. It doesn't matter whether a
+measure is described as a tax: whether it is a tax depends on the nature of the
+impost. For example, the training guarantee levy and the superannuation
+guarantee levy are both based on the tax power even though called levies. If the
+Government is relying on paragraph 51 (ii) of the Constitution, then the
+surcharge is clearly a tax.
+10.34 None of the witnesses who appeared before the Committee justified the
+Constitutional basis of the surcharge other than on the grounds that it was a tax.
+Notwithstanding the constitutional basis of the measure and the categorisation
+by both Treasury and the Tax Office, the Government continues to deny that
+the measure is indeed a tax increase. For example, the Assistant Treasurer told
+the Senate on March 18 1997 that:
+A tax is a tax and a surcharge is a surcharge.A tax is defined as a
+compulsory unrequited payment demanded by government for its support. A
+surcharge is defined as an additional charge.12
+10.35 This continuing denial of the true nature of the increase in
+superannuation contributions tax contained in this legislation and attempts to
+cloak its true taxing effect are contributing to the administrative problems
+caused by the legislation.
+Eligible Termination Payments (ETPs)
+10.36 The application of the surcharge to ETPs will result in great injustice and
+will not only affect the Government's proposed target group of high income
+earners. If a person on a low or middle income accumulates long service leave
+over a number of years, they will receive a payment on leaving the workforce
+that is likely to put them into the income group liable for the surcharge. They
+will then face losing 15% of their entire ETP even though it has been
+accumulated for a large number of years. Where is the equity argument?
+10.37 However, Labor Opposition and Australian Democrat Senators recognise
+that there are situations where large ETPs are paid to some people, such as
+company directors, and that even with the proposed surcharge in place, such
+measures as 'golden handshakes' could be used to result in a tax rate lower than
+12 Senator Rod Kemp, in response to a Question from Senator Sherry, Senate Hansard March 18 1997,
+p.1601.
+
+
+would otherwise apply if the payment is disguised as an ETP rather than
+normal income.
+10.38 There is therefore a need for anti-avoidance measures to be contained in
+the surcharge. As the surcharge is not imposed under the Income Tea-
+Assessment Act 1936 (ITAA), the anti-avoidance rules in Part IVA of that Act
+will not apply. This view was supported by the ATO.13 The Bills should be
+amended to include anti-avoidance provisions or be called a tax and imposed
+under the ITAA so that Part IVA applies.
+10.39 The Bills will increase the tax paid on ETPs which are currently
+concessionally taxed under the ITAA, and if the Government want to increase
+the rate of tax on ETPs, why doesn't it increase the rates contained in the
+ITAA?
+Defined Benefits Schemes
+10.40 The impact on members of defined benefits schemes will be severe. They
+will not only have to pay the surcharge, if liable, but will also be paying interest
+on this amount. As there is no ability for an employer or employee to pay off
+the surcharge as it accrues, they will also have to pay compound interest, even
+if willing to pay off the amount on a yearly basis as the tax liability accrues.
+Where is the choice for members and isn't the Government supposedly about
+providing choice for members of the community?
+Guidelines
+10.41 The actuarial guidelines have not been released and evidence to the
+Committee is that they will not be finalised before the proposed passage of the
+Bills.14 The guidelines are crucial to the operation and impact of the Bills yet
+the Parliament is expected to pass the legislation without having seen the
+guidelines.
+The proposed collection mechanism and alternatives
+10.42 Many witnesses and submissions drew attention to the cost of the
+proposed collection mechanism. Comments included the following:
+13 Evidence p. 302.
+14 Evidence, p. 254
+
+
+Huge amounts of data will be unnecessarily collected and passed backwards
+and forwards between the funds and the Australian Tax Office (ATO) for fund
+members who will never legitimately have to pay the surcharge.1'
+Every superannuation fund member will pay a charge for the purpose of
+sending the information about them to Canberra in order that someone can
+assess that there is no surcharge payable.16
+10.43 Labor Opposition and Australian Democrat Senators note the submission
+of the Investment Funds Association (IFA) that:
+... if the Government treated this initiative as a tax on each individual and not
+as a surcharge on superannuation fund members, the overly elaborate yet
+17
+unsophisticated procedures would not have been necessary.
+10.44 Labor Opposition and Australian Democrat Senators note the widespread
+support for an alternative collection mechanism utilising group certificates.
+Many bodies supported the use of group certificates for the surcharge collection
+mechanism, including:
+• the AMP Society;18
+. the Association of Superannuation Funds of Australia (ASFA);19
+• the Australian Council of Trade Unions (ACTU);20
+• the Australian Society of CPAs;21
+BCA;22
+• Coopers and Lybrand;23
+• the Institute of Actuaries of Australia;24
+• Jacques Martin;25
+• the Life Insurance and Superannuation Association of Australia Inc
+(LISA);26 and
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+Submission 6, Australian Institute of Superannuation Trustees (AIST), p. I.
+Ms Robyn Quinn of the New South Wales Premier's Department, Evidence, p. 24.
+Submission 26, IFA, p. 7.
+Submission 27, AMP Society, pp. 4-5.
+Submission 23, ASFA. p. 1 I.
+Submission 52, ACTU, pp. 2, 5.
+Submission 21, Australian Society of CPAs, p. 1.
+Submission 32, BCA, p. 3.
+Submission 30, Coopers and Lybrand, p. 5.
+Submission 39, Institute of Actuaries of Australia, Attachment, pp. 7-8.
+Submission 10, Jacques Martin, p. 3.
+
+
+. the Metal Trades Industry Association of Australia (MTIA).27
+10.45 Labor Opposition and Australian Democrat Senators believe that the
+advance instalments system adds another layer of complexity to an already
+unnecessarily complex collection mechanism. The advance instalments system
+will be highly disruptive to the investment practices of superannuation
+providers. Dr Michaela Anderson of ASFA told the Committee that:
+The surcharge is likely ... to lead to a liquidity problem for funds because of
+the need to hold reserves to cover an advance instalment. This would occur
+particularly at one point in the year where there is the second group assessment
+and the advance instalment coming at the same time. Around 15 June seems to
+be what we have called the 'double whammy' time where many funds could
+have liquidity problems.28
+Recommendations
+10.46 Labor Opposition and Australian Democrat Senators recommend that the
+equitable principle of the 15 per cent tax surcharge be supported.
+10.47 Labor Opposition and Australian Democrat Senators recommend that an
+alternative collection mechanism utilising group certificates be adopted, and
+that the advance instalments system not be adopted. As the surcharge Bills are
+currently framed every single superannuation member will pay - through high
+administration costs and lost opportunities to funds for long-term investment -
+for the inefficiencies of a collection mechanism that is targeted at only
+approximately 350,000 people.
+10.48 Labor Opposition and Australian Democrat Senators recommend that
+unpaid leave and termination payments contained in prescribed industrial
+instruments be excluded from the definition of assessable income. Unusual
+payments (eg. golden handshakes) should be included in the definition of
+assessable income where they have been received after August 20 1996.
+10.49 Labor Opposition and Australian Democrat Senators support the
+recommendation, made as part of an alternative collection mechanism utilising
+group certificates, that individuals be allowed to nominate how they pay their
+surcharge liability, for example: by offsetting the surcharge against any tax
+refund due; or paying the surcharge directly; or passing the liability to the
+26 Evidence, pp. 148-149.
+27 Evidence, p. 159; Submission 20, MTIA, Annexure A, p. 1.
+28 Evidence, p. 63.
+
+
+superannuation fund to make the payment by debiting his or her account. Labor
+Opposition and Australian Democrat Senators note that an approach along
+these lines has been suggested by both the BCA and ASFA.29
+10.50 Labor Opposition and Australian Democrat Senators are concerned that
+the Australian Tax Office's proposed approach of collecting surcharge on a
+proportional basis from superannuation funds in cases where an individual
+holds accounts with more than one fund will lead to additional administrative
+work which could have been avoided by allowing individuals to nominate how
+they would wish to pay their surcharge liability.30 This will be a particular
+issue in relation to small accounts.
+Conclusion
+10.51 The problems with the collection mechanism proposed by the
+Government appear to stem from a determination to muddy the true nature of
+the surcharge by requiring a second party (ie. the funds) to pay a tax imposted
+on the first party (ie. the high income earner). The convoluted nature of the
+resultant legislation flows from the reluctance of the Government to concede
+that the largest revenue measure in the 1996 Budget, categorised by Treasury in
+the Budget Papers as part of Income Tax collections^ is in fact, a tax.
+10.52 The problems identified by the Committee could be solved by admitting
+that the surcharge is a tax and implementing it as a tax under the ITAA. This
+would allow the implementation of the Government's objective of reducing
+inequities in superannuation taxation concessions to be achieved, while
+reducing the massive compliance costs associated with the legislation.
+Senator Lyn Allison
+Senator Chris Evans
+Senator Stephen Conroy
+Senator the Hon. Nick Sherry
+Deputy Chairman
+29 Submission 32, BCA, p. 3; Submission 23, ASFA, p. I 1.
+30 On the proposed ATO approach see Evidence, pp. 301 -302.
+31 Budget Paper 1996-7 No. 1. pp. 4-28.
+
+
+AUSTRALIAN DEMOCRAT SENATORS' SUPPLEMENTARY
+CONCLUSIONS AND RECOMMENDATIONS
+10.53 The following paragraphs are the views of Senator Lyn Allison on behalf
+of the Australian Democrats and are in addition to the conclusions and
+recommendations above.
+10.54 The Australian Democrats strongly support a fairer taxation system for
+superannuation. Indeed, we have been calling for an increase in tax paid by
+high income earners for several years because the current concessional
+treatment of superannuation contributions provides a disproportionate benefit
+for high income earners. The following table illustrates:
+(* Assumes 6 per cent employer contribution)
+(a) On current tax rules (b) With proposed 15% Surcharge
+10.55 Under the flat rate contributions tax, the more a person earns, the bigger
+the benefit. Given that superannuation tax concessions are now worth more
+than $6.4 billion a year, this means a very large chunk of tax revenue is being
+diverted to high income earners. This defeats one of the arguments in favour ot
+concessional tax treatment of superannuation ie. that encouraging employees to
+save for retirement through tax concessions will ultimately reduce reliance on
+the pension.
+10.56 This is because the tax benefits under the current scheme are biggest lor
+those least likely to be on the pension. The current unfair nature ot the
+superannuation contributions tax has been extensively canvassed by a wide
+range of organisations such as EPAC reports32, the Committee for Economic
+32 Pender H and Ross S "Taxation, Regulation and Private Savings in Australia" EPAC Jan 1994,
+"Economic Effects of an Ageing Population" EPAC Council Paper No 29 1988.
+
+
+Development^3, ACOSSj4 and Access Economics, and by a wide range of
+commentators including economist Professor John Head, commentators Brian
+Toohey and Eva Cox and former Treasury Deputy Secretary and member of the
+National Commission of Audit, John Fraser. ACOSS estimates that someone
+earning a salary of $90,000 will receive tax concessions worth three times as
+much as the eventual pension drawn by someone earning average weekly
+earnings.
+10.57 Research by the Australian Democrats have shown the tax system is also
+tilted against women because men tend to enjoy much higher incomes. About
+74 per cent of super tax concessions flow to men and just 26 per cent to
+women. This is despite the fact that women constitute 55 per cent of the post-
+age 60 population0.
+10.58 The research also showed that the 6.9 per cent of the population with an
+income above $50,000 received 33.2 per cent of the $6 billion of tax
+concessions. By contrast, the 22 per cent of people earning less than $21,000
+earned just 3.2 per cent.
+10.59 It is clear that the reform proposed by the Government still fall well short
+of delivering a fair superannuation contributions tax. The tax system will still
+be unfairly skewed toward high income earners while low income earners will
+receive little benefit from concessional tax treatment.
+10.60 Not just is the Government's proposed surcharge administratively
+cumbersome and constitutionally questionable, it also fails the primary
+objective set by the Treasurer in his Budget Speech of delivering a fair
+superannuation taxation regime.
+10.61 A much fairer process would be to tax all employer superannuation
+contributions through the PAYE tax system with a flat rebate (eg. 15-20 per
+cent) available to all contributors off their marginal tax rates. This would have
+the added bonus of appearing clearly as a tax rebate for super implying
+concessional treatment rather than as a contributions tax implying punitive
+treatment.
+10.62 The evidence presented to this inquiry confirms that it would be possible
+to develop an administratively simple system for identification and payment of
+33 Argy F "An Australia that Works: A Vision for the Future" CEDA August 1993.
+34 Submission 58, pp. 12-15.
+35 Kemot C "Briefing Paper on Women, Superannuation, Tax Concessions and the Pension" Sep 1994. p.2
+
+
+superannuation contribution taxes through the group certificate system, a
+conclusion already reached by this Committee in 1992.36
+10.63 It is also noted that the Coalition proposed a similar charge to
+superannuation taxation prior in their 1993 Election Policy, although the 1996
+Election Policy proposed retention of the current 15 per cent contributions tax.
+10.64 The Australian Democrats recommend that the Government give
+consideration to further reform of superannuation taxation concessions to
+provide full equality of treatment across all income groups.
+SENATOR LYN ALLISON
+36 Fourth Report of the Senate Select Committee on Superannuation Dec 1992, pp.82-4,
+
+
+
+
+APPENDIX 1
+LIST OF WRITTEN SUBMISSIONS
+
+
+LIST OF WRITTEN SUBMISSIONS
+
+
+
+
+
+
+APPENDIX 2
+LIST OF WITNESSES AT PUBLIC HEARINGS
+SYDNEY, 10 MARCH 1997
+Dr Michaela Anderson, Director, Policy and Research, Association of Superannuation
+Funds of Australia
+Dr Mark Blair, Consultant, Association of Superannuation Funds of Australia
+Mr Robert Brown, National Councillor, Institute of Chartered Accountants
+Mr Kevin Casey, National Manager Client Services, AMP Society
+Mr Stephen Child, Member, Retirement Savings Committee, Life Investment and
+Superannuation Association of Australia
+Mr John Ciacciarelli, Technical Services Manager, Retail Financial Services, AMP
+Society
+Mr Ross Clare, Principal Researcher, Association of Superannuation Funds of Australia
+Mr Peter Downes, Manager, Government Business Development, Jacques Martin
+Mr Bruce Finlay, Senior Legal Officer (Superannuation), Premier's Department, New
+South Wales State Government
+Mr Michael Forsdick, Partner. Coopers and Lybrand
+Mr Peter Foxton, Federal President, Association of Superannuation Funds of Australia
+Mr Richard Gilbert, Executive Director, Investment Funds Association
+Ms Melinda Howes, IFA representative from ATO Regulatory Working Group.
+Investment Funds Association
+Mr Martin Jilovsky, Principal Consultant, Jacques Martin
+Mrs Glenese Keavney, FPA Legislation and Regulations Committee, Financial
+Planning Association of Australia Ltd
+Ms Noelle Kelleher, Member of the Superannuation Centre of Excellence. Australian
+Society of Certified Practising Accountants
+Mrs Annabelle Kline, Executive Officer, Investment Funds Association
+
+
+LIST OF WITNESSES A T PUBLIC HEARINGS
+Mrs Judy Lind, Executive Officer, Superannuation Research and Development,
+Australian Taxation Office
+Mr John Maroney, Executive Director, Life Investment and Superannuation
+Association of Australia
+Mrs Louise Matthews, National Superannuation Technical Consultant, Coopers and
+Lybrand
+Miss Alison Miller, FPA Legislation and Regulations Committee, Financial Planning
+Association of Australia Ltd
+Mr Deane Prior, Director, Superannuation (Policy and Legislation), Treasurer's Office,
+South Australian Government
+Ms Robyn Quinn, Manager Super Policy, New South Wales Premier's Department
+Ms Susan Ryan, Executive Director, Association of Superannuation Funds of Australia
+Ms Moira Scollay, Privacy Commissioner
+Ms Louise Sylva, Manager, Public Affairs, AMP Financial Services
+Mr William Tuck, Director Public Profile, Institute of Chartered Accountants
+Mrs Rosemary Vilgan, Deputy Federal President (Technical and Regulations),
+Association of Superannuation Funds of Australia
+Mr Nigel Waters. Head, Privacy Branch, Privacy Commissioner's Office
+Mr Grahame Willis, Director - Finance and Administration, Metal Trades Industry
+Association of Australia
+Mr Murray Wyatt, Chairman of the Superannuation Centre of Excellence, Australian
+Society of Certified Practising Accountants
+CANBERRA, 11 MARCH 1997
+Mr Leo Bator. Assistant Commissioner. Australian Taxation Office
+Mr Chris Casey, Assistant Commissioner, Superannuation Systems, Australian
+Taxation Office
+Mr Ronald Cahill, Chief Magistrate of the ACT, President, ACT Magistrates'
+Association
+Mr Ian Court, President, Australian Institute of Superannuation Trustees
+
+
+Mr Kevin Deeves, Deputy Australian Government Actuary, Insurance and
+Superannuation Commission
+Mr Paul Francis, Convenor, Superannuation Practice Committee, Institute of Actuaries
+of Australia
+Ms Erica Lejins, Director (Policy), Insurance and Superannuation Commission
+Ms Judy Lind, Executive Officer, Australian Taxation Office
+Mr Michael Monaghan, First Assistant Commissioner (Superannuation), Australian
+Taxation Office
+Mr Mark O'Connor, Executive Officer, Legislative Services, Australian Taxation Office
+Mr Ross Ramsay, Director of the Trustee of the Superannuation Fund, Bramex Super
+Pty Ltd
+Mr Anthony Regan, Acting Tax Counsel, Legislative Services, Australian I axation
+Office
+Mr Dennis Rose, QC, Legal Adviser, Business Council of Australia
+Mr John Rowe, Consultant on Superannuation. Business Council of Australia
+Mr Kevin Scott, Joint National Secretary, Finance Sector Union
+Mr Ian Silk, Chief Executive, Australian Retirement Fund
+Mr Michael Somes, President, Association of Australian Magistrates
+Mr Raymond Stevens, Director and Principal, William M. Mercer Pty Ltd
+Mr Trevor Thomas, Assistant Commissioner, Industry Projects Branch, Insurance and
+Superannuation Commission
+Mr John Ward, Principal, William M. Mercer Pty Ltd
+Mr Brett Westbrook, Fund Secretary, TWU Superannuation Fund
+Mr Vernon Winley, Assistant Director, Business Council of Australia
+
+
+
+
+APPENDIX 3
+LIST OF COMMITTEE REPORTS
+Super System Survey - A Background Paper on Retirement Income Arrangements in
+Twenty-one Countries (December 1991)
+Papers relating to the Byrnwood Ltd, WA Superannuation Scheme (March 1992)
+Interim Report on Fees, Charges and Commissions in the Life Insurance Industry
+(June 1992)
+First Report of the Senate Select Committee on Superannuation - Safeguarding Super -
+the Regulation of Superannuation (June 1992)
+Second Report of the Senate Select Committee on Superannuation - Super Guarantee
+Bills (June 1992)
+Super Charges - An Issues Paper on Fees, Commissions, Charges and Disclosure in the
+Superannuation Industry (August 1992)
+Third Report of the Senate Select Committee on Superannuation - Super and the
+Financial System (October 1992)
+Proceedings of the Super Consumer Seminar. 4 November 1992 (4 November 1992)
+Fourth Report of the Senate Select Committee on Superannuation - Super - Fiscal and
+Social Links (December 1992)
+Fifth Report of the Senate Select Committee on Superannuation - Super Supervisory
+Levy (May 1993)
+Sixth Report of the Senate Select Committee on Superannuation - Super - Fees,
+Charges and Commissions (June 1993)
+Seventh Report of the Senate Select Committee on Superannuation - Super Inquiry
+Overview (June 1993)
+
+
+LIST OF COMMITTEE REPORTS
+Eight Report of the Senate Select Committee on Superannuation - Inquiry into the
+Queensland Professional Officers Association Superannuation Fund (August 1993)
+Ninth Report of the Senate Select Committee on Superannuation - Super Supervision
+Bills (October 1993)
+Tenth Report of the Senate Select Committee on Superannuation - Super Complaints
+Tribunal (December 1993)
+Eleventh Report of the Senate Select Committee on Superannuation - Privilege Matter
+Involving Mr Kevin Lindeberg and Mr Des O'Neill (December 1993)
+A Preliminary Paper Prepared by the Senate Select Committee on Superannuation for
+the Minister for Social Security, Options for Allocated Pensions Within the Retirement
+Incomes System (March 1994)
+Twelfth Report of the Senate Select Committee on Superannuation - Super for Housing
+(May 1994)
+Thirteenth Report of the Senate Select Committee on Superannuation - Super Regs I
+(August 1994)
+Fourteenth Report of the Senate Select Committee on Superannuation - Super Regs II
+(November 1994)
+Fifteenth Report of the Senate Select Committee on Superannuation - Super Guarantee
+- Its Track Record (February 1995)
+Sixteenth Report of the Senate Select Committee on Superannuation - Allocated
+Pensions (June 1995)
+Seventeenth Report of the Senate Select Committee on Superannuation - Super and
+Broken Work Patterns (November 1995)
+
+
+Eighteenth Report of the Senate Select Committee on Superannuation - Review of the
+Superannuation Complaints Tribunal (April 1996)
+Nineteenth Report of the Senate Select Committee on Superannuation - Reserve Bank
+Officers ’ Super Fund (June 1996)
+Twentieth Report of the Senate Select Committee on Superannuation - Provisions of the
+Social Security Legislation Amendment (Further Budget and Other Measures) Bill 1996
+- Schedule 1 (November 1996)
+Twenty-first Report of the Senate Select Committee on Superannuation - Investment of
+Australia's Superannuation Savings (December 1996)
+Twenty-second Report of the Senate Select Committee on Superannuation - Retirement
+Savings Accounts Legislation
+Twenty-third Report of the Senate Select Committee on Superannuation -
+Superannuation Surcharge Legislation
+
+
+THE PARLIAMENT OF THE
+COMMONWEALTH OF AUSTRALIA
+PARLIAMENTARY
+PAPER
+No 60 of 1997
+ORDERED TO BE PRINTED
+ISSN 0727-4181

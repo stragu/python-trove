@@ -1,0 +1,1161 @@
+
+
+30th Report of the
+Senate Select Committee on Superannuation
+Workplace Relations
+Amendment
+(Superannuation) Bill
+1997
+Parliament of the Commonwealth of Australia
+Canberra
+May 1998
+
+
+
+
+30th Report of the
+Senate Select Committee on Superannuation
+Workplace Relations
+Amendment
+(Superannuation) Bill
+1997
+Parliament of the Commonwealth of Australia
+Canberra
+May 1998
+
+
+© Commonwealth of Australia 1998
+Print ISBN 0 642 25178 9
+This document was produced from camera-ready copy prepared by the Senate Select
+Committee on Superannuation Secretariat, and printed by the Senate Printing Unit,
+Parliament House, Canberra.
+
+
+MEMBERS OF THE COMMITTEE
+Senator John Watson Chair
+Senator Lyn Allison
+Senator Stephen Conroy
+Senator Chris Evans
+Senator Alan Ferguson
+Senator Julian McGauran
+Senator the Hon Nick Sherry
+Tasmania
+Victoria
+Victoria
+Western Australia
+South Australia
+Victoria
+Tasmania
+Secretariat Staff:
+Secretary:
+Principal Research Officer:
+Executive Assistant:
+Address:
+Telephone:
+Facsimile:
+Mr Peter Hallahan
+Ms Celia Tancred
+Ms Jade Ricza
+The Senate
+Parliament House
+CANBERRA ACT 2600
+(02) 6277 3439
+(02) 6277 5719
+This report is also available on the Internet at:
+http://www.aDh.gov.au/senate
+
+
+
+
+CONTENTS
+PREFACE
+1
+CHAPTER 1
+Background..
+Origin of the reference.3
+Conduct of the inquiry.3
+CHAPTER 2.5
+The Bill. 5
+Provisions and objectives.5
+The issues.6
+CHAPTER 3.9
+Current arrangements.9
+Introduction.9
+CHAPTER 4.13
+Issues of Concern.......13
+Introduction.13
+Loss of entitlements.13
+Frequency of payments.16
+The AIRC and dispute resolution.19
+Inconsistency between federal and state industrial jurisdictions.21
+Timing of implementation.23
+CHAPTERS.25
+Government Senators' View_...........25
+CHAPTER 6.27
+Labor Senators' View......27
+Loss of entitlements.27
+Frequency of payments.28
+Dispute resolution.28
+Inconsistencies between federal and state industrial jurisdictions.28
+Timing of legislation.29
+Recommendation.29
+CHAPTER 7.31
+Comments from the Australian Democrats
+31
+
+
+APPENDIX A
+33
+List of Written Submissions
+33
+APPENDIX B.;.35
+List of Witnesses at Public Hearing_______35
+Sydney, 27 April 1998.35
+APPENDIX C.37
+List of Committee Reports.....................................37
+APPENDIX D.41
+Institute of Actuaries of Australia.„.41
+Effect of Monthly Versus Annual Contributions.41
+
+
+PREFACE
+This report on the Workplace Relations Amendment (Superannuation)
+Bill 1997 sets out the Government's reasons for introducing the bill
+and summarises the range of views expressed by witnesses during the
+inquiry.
+The Committee is anxious to ensure that readers in the wider
+community understand the Committee's approach in structuring this
+report.
+In the initial chapters, the Committee has sought to present and
+analyse the evidence in a balanced, constructive manner. The
+concluding three chapters outline the different approaches adopted by
+the major political parties towards the proposed legislation. The
+different approaches often reflect the parties' positions prior to
+consideration of the detailed arguments on the Bill in the Senate. The
+matters raised may subsequently lead some, or all of the parties to
+amend their previous positions.
+The Committee expresses its appreciation to those who made
+submissions and gave evidence as witnesses. Preparation of
+submissions takes time and effort, and appearing as a witness requires
+a considerable sacrifice of time and resources. The value of the
+Committee's report and ongoing work is enhanced by the quality of
+the material presented to it. Without doubt, the superannuation
+industry and wider community are similarly grateful for the
+contributions made by all concerned to this and previous inquiries.
+
+
+
+
+CHAPTER 1
+BACKGROUND
+Origin of the reference
+1.1 On 25 March 1998, the Selection of Bills Standing Committee resolved that the
+Workplace Relations Amendment (Superannuation) Bill 1997 be referred to the Select
+Committee on Superannuation for inquiry and report by 8 April 1998.
+1.2 The Committee subsequently sought and was granted two extensions of time, until
+14 May 1998 and subsequently to 26 May 1998, to report on this Bill.
+Conduct of the inquiry
+1.3 Several submissions to the Committee's preceding inquiry into Choice of Fund1 also
+addressed the provisions of this Bill. The Committee wrote to the organisations that made
+these submissions seeking their agreement that they be considered as submissions to this
+inquiry. The Committee also wrote to a number of other organisations, including the Business
+Council of Australia and the Metal Trades Industry Association, inviting them to participate
+in the inquiry.
+1.4 The Committee conducted a public hearing in Sydney on Monday 27 April 1998.
+The names of those who gave evidence at the public hearing are listed in Appendix B.
+1 Twenty-eighth report, Choice of Fund, tabled March 1998.
+
+
+
+
+CHAPTER 2
+THE BILL
+Provisions and objectives
+2.1 This is a very brief Bill, containing two amendments to the Workplace Relations
+Act 1996.
+2.2 The first clause of the Bill repeals paragraph 89A(2)(s) of the Workplace Relations
+Act 1996. This amendment removes superannuation from the list of allowable award matters
+set out in the Act.
+2.3 Removing superannuation from the allowable award matters list means that the
+Australian Industrial Relations Commission (AIRC) will no longer be able to deal with
+disputes about superannuation by arbitration. The commission will not be able to prevent or
+settle disputes about superannuation by making awards or orders or maintain the settlement of
+such disputes by varying awards or orders. 1
+2.4 The second clause of the Bill amends Subsection 89A(7) of the Act by inserting the
+words 'the matter is not superannuation and’ before the words 'the Commission is1. This
+amendment removes the AIRC’s power to make "exceptional matters’’ orders about
+superannuation, including but not limited to choice of fund, types of employees to be covered,
+rate of contribution and employees' ability to access entitlements.2
+2.5 The amendments will also have the effect of removing superannuation provisions
+from existing federal awards.2 It has no effect on state awards where superannuation remains
+an industrial matter,
+2.6 Currently, businesses must comply both with award provisions and with the
+obligations imposed by the Superannuation Guarantee (SG) legislation. In his second reading
+speech, the Minister for Workplace Relations and Small Business, the Hon. Peter Reith,
+explained that this Bill will simplify the superannuation arrangements with which businesses
+must comply:
+The bill will ensure that businesses will no longer have to meet the complex and
+confusing standards imposed by the current regime which requires them to comply
+with award superannuation obligations on top of another set of requirements
+provided for in the superannuation guarantee legislation.4
+1 Second reading speech, p. 1.
+2 Explanatory memorandum.
+3 Second reading speech, p. 1.
+4 Second reading speech, p. 1.
+
+
+2.7 The result of amending the legislation will be that a single set of superannuation
+requirements, imposed by the SG legislation, will be in force. The Government considers that
+this will be simpler for businesses to administer.
+2.8 In his second reading speech, the Minister also reminded the House of
+Representatives that when the Workplace Relations Bill was originally introduced into the
+Parliament, the allowable award matters list did not include superannuation. Amendments,
+subsequently agreed with the Australian Democrats, added superannuation to the list of
+allowable award matters.
+2.9 The Minister stated that it was always intended as part of that agreement that this
+would only be a temporary measure, and that superannuation would be removed from the
+allowable award matters as part of the 'Choice of Fund' legislative package.5 The nature of
+the agreement was set out in a letter dated 18 October 1996 from the Leader of the Australian
+Democrats, Senator Cheryl Kemot, to the Minister for Industrial Relations, the Hon. Peter
+Reith, MP. In that letter, Senator Kemot stated that the foreshadowed choice of fund
+legislation 'must ensure their workers are not made worse off as a result of any overriding or
+repeal of award superannuation clauses'. Senator Kemot advised the Minister that if
+agreement were reached on the choice of fund legislation, the Democrats would then be
+prepared to support repealing award coverage of superannuation. She concluded :
+However, until that legislative package is finalised, we believe that it would be
+premature to repeal superannuation coverage by awards.
+2.10 The Minister also foreshadowed that the government will introduce provisions to
+enable employers to continue to use existing earnings bases following the removal of
+superannuation as an allowable matter under federal awards.6
+The issues
+2.11 Essentially, the issues associated with this bill centre on whether the process of
+simplifying employers' superannuation obligations to their employees by removing
+superannuation from the federal awards system will unduly affect the current entitlements
+and protections afforded to employees by awards. The awards system also provides a dispute
+resolution procedure through the AIRC.
+2.12 The Australian Chamber of Commerce and Industry (ACCI) agreed with the
+Government’s view that current arrangements under which employers have to satisfy
+obligations under both the awards system and SG are excessively complex. The ACCI
+considers that there is a need to simplify employers’ superannuation obligations.
+2.13 Other employer organisations invited to give evidence, the Business Council of
+Australia, the Victorian Employers' Chamber of Commerce and Industry and the Metal
+Trades Industry Association, declined the Committee's invitation to present their views.
+The choice of fund legislation is contained in schedule 5 of Taxation Laws Amendment Bill (No.7)
+1997, which, at the time of preparing this report, was still before the Senate.
+Second reading speech, p. 1.
+6
+
+
+2.14 Trade union representatives strongly opposed the bill, advising the Committee that
+removing superannuation from the allowable award matters list and the jurisdiction of the
+AIRC would considerably disadvantage workers.
+2.15 The Association of Superannuation Funds of Australia (ASFA) also expressed
+concern about aspects of the proposal.
+2.16 In evidence, Trade Union representatives and ASFA identified a range of reasons
+why they thought superannuation should remain in the allowable award matters list. The
+major concerns identified fall into several broad areas.
+• First, persons who currently receive superannuation under award provisions may lose
+this and other entitlements if SG becomes the only obligation on employers.
+• Secondly, SG imposes less stringent obligations on employers in respect of frequency
+of payment of contributions. This may have implications for insurance coverage and the
+rate at which contributions accumulate interest.
+• Thirdly, there is concern that if the AIRC loses jurisdiction over superannuation
+matters, there will be no dispute resolution mechanism available if disputes arise
+between employers and employees in respect of superannuation.
+• Fourthly, inconsistencies will arise between employees who are covered by federal
+jurisdictions and state industrial tribunals where superannuation will remain an
+industrial matter.
+• Finally, there is a possible issue of timing in respect of implementation with the Choice
+of Fund legislation.
+
+
+
+
+CHAPTER 3
+CURRENT ARRANGEMENTS
+Introduction
+3.1 Superannuation first entered federal industrial awards in 1986, as part of a national
+wage case. It was introduced on a case by case basis and accordingly, varies considerably
+between awards. The introduction of the SG legislation in 1992 greatly increased coverage,
+extending it to employees who did not previously benefit from award superannuation.
+3.2 The SG legislation requires employers to make superannuation contributions where
+an employee’s wages exceed $450 per month. This threshold was originally introduced
+because of concerns about the cost of managing small superannuation contributions and
+balances.
+3.3 Following SG's introduction, employers were (and are) still obliged to also fulfill
+award obligations. In some cases, different coverage rules applied which meant that people
+who might not have been eligible for contributions under SG were entitled to receive them
+under the relevant award. For example, coverage rules in awards based on entitlement
+through length of service are different to those under SG (which is based on the amount
+earned) and may entitle employees to receive payments where monthly wages are less than
+the $450 SG minimum. Differing arrangements were negotiated and agreed to suit the
+differing circumstances of particular industries and workplaces.
+3.4 The Government considers that the multiple obligations imposed on employers by
+both the awards system and SG are excessively complex and add to employers' administrative
+burdens. The Minister for Workplace Relations, the Hon. Peter Reith MP made the
+Government's intentions clear in the second reading speech on the bill:
+The removal of superannuation provisions will remove a layer of complex detail
+from awards and relieve employers of the burden of complying with an extra set of
+obligations which have done nothing more than add to the complexity of
+superannuation administration.1
+3.5 Mr Mark Paterson, the Chief Executive of the ACCI, agreed with the Government's
+assessment. He advised the Committee that ACCI considers there is 'strong potential for
+inconsistency in the proper application of superannuation entitlements for employees' if the
+current arrangements were permitted to continue in respect of awards and the impending
+Choice of Fund obligations.2
+3.6 Mr Paterson told the Committee that the ACCI's views were longstanding:
+...we have indicated for a long period of time that there are overlapping and, in
+some cases, inconsistent sets of obligations under the superannuation guarantee
+1 Second reading speech, p. 1.
+2 Evidence, p. 34.
+
+
+charge provisions and award provisions, and we have argued for a long time that
+there ought to be a consistent and single set of obligations in this area, preferring
+that superannuation be removed from awards.3
+3.7 Mr Paterson concluded that the ACCI's objectives were to ensure that employers
+have a clear understanding of the nature of their obligations. He was of the view that the bill
+would help clarify the nature of those obligations and remove some element of complexity
+which exists at the present time:
+I am saying that there will be a reduced potential compliance burden and
+complexity for employers if superannuation is removed from the award in the
+environment of a choice of fund that is being proposed...they will not have an
+overlapping sense of obligations with an employer trying to resolve which set of
+obligations it is required to meet.4
+3.8 Evidence provided by Mr Philip Drever, Assistant Secretary, Legislation and Policy
+Services Branch, Department of Workplace Relations and Small Business, showed that while
+the SG applies a single set of rules to all members, the award system applies standards that
+vary greatly and lack consistency with SG requirements. In some cases, award provisions are
+inferior to SG requirements. For example, some awards specify a three per cent contribution
+rate, whereas the SG requirement is currently six per cent of gross wages.5
+3.9 Mr Drever also described a range of other areas in which there are significant
+differences including:
+• choice of fund;
+• thresholds (amounts above which contributions are required);
+• qualifying periods for entitlement (for example, no payment for first six months);
+• membership requirements; and
+• payment intervals.6
+3.10 Mr Steve Partridge, giving evidence to the Choice of Fund inquiry on behalf of
+William M. Mercer Pty Ltd, also supported removing superannuation from the awards
+system. Mr Partridge, while conscious that there might be some disadvantage to some groups
+as a result of this initiative, considered that the advantages outweighed the disadvantages:
+Our primary reason for supporting the removal from awards was to simplify the
+whole regime so that you do not have this layer of award requirements overlaid on
+the choice of fund requirements. It was simply that. We are conscious of the fact
+that it has a few adverse side effects as well, but we think that reason outweighs the
+others.7
+3 Evidence, p. 34.
+4 Evidence, p. 48.
+See for example Evidence, p. 51.
+6 Evidence, 49-50.
+Evidence to Choice of Fund inquiry, p. 160.
+7
+
+
+3.11 However Ms Philippa Smith, the Chief Executive Officer of ASFA, was less certain
+about whether there was any significant simplification of administration as a result of
+removing superannuation from the awards system:
+I think that the answer is that superficially it might look to be simpler, but in the
+day to day operations of employers - and you will need to ask them -1 am not sure
+that it is simpler. Simplification really has to be weighed against the practical
+implications of coverage, equity and having practical systems there.8
+3.12 Representatives of the trade unions argued that from an employee perspective,
+awards are easier for employees to understand than the SG legislation. Mr Joe de Bruvn,
+National Secretary/Treasurer of the Shop, Distributive and Allied Employee's Association
+(SDA) told the Committee that awards provide an easy and ready access for any employee to
+their superannuation entitlements:
+If superannuation was to be limited to the superannuation guarantee legislation,
+accessibility by employees to the precise terms of their entitlements would be
+significantly reduced. An ordinary worker would find greater difficulty in
+comprehending the terms set out in that legislation compared to the easy to read
+English which is now used in award provisions.9
+8 Evidence, p. 31.
+9 Evidence, p. 3.
+
+
+
+
+CHAPTER 4
+ISSUES OF CONCERN
+Introduction
+4.1 As noted in Chapter 2 of the report, the SDA, ACTU and ASFA raised a number of
+issues of concern about the implications of removing superannuation from the awards system.
+In brief, these issues related to:
+• loss of entitlements - persons who currently receive superannuation under award
+provisions may lose this and other entitlements if SG becomes the only obligation
+on employers;
+• frequency of payment - SG imposes less stringent obligations on employers in
+respect of frequency of payment of contributions. This may have implications for
+insurance coverage and the rate at which contributions accumulate interest;
+• dispute resolution - the bill removes the AIRC's power to arbitrate in respect of
+superannuation matters;
+• inconsistency between federal and state industrial jurisdictions; and
+• timing of implementation - there is a possible issue of timing in respect of
+implementation with the choice of fund legislation.
+Loss of entitlements
+4.2 As noted previously, the SG legislation requires employers to make superannuation
+contributions in respect of employees who earn in excess of S450 per month. However, some
+awards specify lower eligibility thresholds. These thresholds may be based on periods of
+service or dollar amounts. For example, the Vehicle Industry - Repair, Services and Retail
+Award specifies that casual employees earning more than $200 per month are eligible for
+superannuation after six consecutive weeks of service.1
+4.3 Witnesses, including the ACTU and SDA, told the Committee that removing
+superannuation from awards meant that workers whose employers currently make
+superannuation contributions because of awards and who are paid less than the SG threshold
+of $450 per month would lose their entitlement.
+4.4 The SDA and others pointed out that in addition to losing entitlements to
+superannuation contributions, other entitlements would be lost such as death and disability
+insurance associated with superannuation, and continuation of contributions when a worker is
+injured and receiving workers' compensation.
+1
+SDA Submission to Choice of Fund inquiry, Appendix B.
+
+
+4.5 The SDA argued that the loss of such superannuation benefits for these workers
+would break the Government's election promise that 'no worker will be worse off under the
+coalition's policies'.2
+4.6 The SDA and ACTU also contended that the loss of benefits would unduly affect
+women, a higher proportion of whom are engaged in part-time work. These groups were of
+the view that the changes discriminated against part-time workers. Ms Linda Rubinstein saw
+this as being particularly unfair to women, and contrary to the government’s commitments to
+promote part time work:
+This impacts on part time workers, a disproportionate number of whom are women
+who are working part-time in many cases so that they can combine paid
+employment with family responsibilities. To be able to carry out this dual role, they
+accept that they will have to accept lower pay than would be the case if they
+worked full time. To also discriminate against them in respect of their part time
+earnings seems particularly unfair and onerous. In fact, discrimination against part
+time workers runs against the government’s stated commitment to promote regular
+part-time work which offers all full-time conditions on a pro rata basis.3
+4.7 The Association of Superannuation Funds of Australia also expressed concern about
+the potential loss of entitlements for persons earning less than $450 per month. Ms Philippa
+Smith, ASFA’s Chief Executive Officer, considered that the change would give rise to
+significant questions of equity:
+I think that is a significant thing because it really goes to the heart of the equity
+issues involved in terms of the lowest paid members of the work force currently
+receiving superannuation who will be losing out because of that. That section of the
+work force traditionally consists of women and migrant employees with a low
+skills base and minimal education who are in casual, part-time or intermittent
+work.4
+4.8 Mr Mark Paterson of the ACCI held the view that the potential problem associated
+with loss of entitlements was overstated:
+....1 believe we are dealing with a very minor set of circumstances in this area and,
+in those circumstances, we are also dealing with very minor contributions being
+made in relation to superannuation.5
+4.9 Mr Paterson reminded the Committee that the reason for introducing the $450
+threshold was because of problems associated with small contributions and balances. He said
+that the cost of maintaining small balances in some cases exceeded the balances, and that
+other members of the fund had to bear the cost involved:
+Clearly there are economies of scale with respect to contributions that are being
+made to superannuation funds. There was even with the $450 limit a perceived
+need by those in government at the time to introduce protection of small
+2
+Evidence, p. 3.
+3 Evidence, p. 17.
+4 Evidence, p. 26.
+Evidence, p. 43
+5
+
+
+contributions. So even with the $450 limit they needed to move to introduce
+protection for those contributions because the cost of maintaining the funds or the
+member accounts in some cases exceeded the level of contributions that were being
+made. If you remove that limit, you exacerbate the problem, and with member
+protection, all you do is pass the cost of maintaining those accounts on to the other
+members thereby diminishing the returns to all members of the fund.6
+4.10 Mr Paterson advised that many groups, including the ACCI, considered that the
+current $450 SG threshold is too low and should be raised. He said that the ACCI and others
+had been very concerned about the impact of small payments in relation to superannuation
+funds.7
+4.11 However, the Committee is aware of concerns that the $450 SG threshold may make
+manipulation of employees' hours a more attractive proposition as a mechanism to reduce
+costs by avoiding the requirement to make SG payments. The Committee explores this issue
+in the following section.
+The threshold and SG obligations
+4.12 The Committee sought information about whether the $450 SG threshold increased
+the possibility that employers might increase the numbers of part time employees earning less
+than $450 per month in order to decrease their labour costs. This could theoretically be
+achieved by employing extra staff and ensuring that none worked sufficient hours to exceed
+the SG threshold amount of $450. The proposition is less attractive where awards require
+contributions at a lower threshold.
+4.13 Mr Joe de Bruyn of the SDA commented that this is a possibility in some industries:
+I think that some employers would be tempted to do that because, as
+superannuation guarantee rises to nine per cent, they would see that as being an
+opportunity for significant saving. Because there is already so much part-time and
+casual employment within the retail and fast food industries, it is not difficult to
+reduce peoples’ hours to keep them below that $450 and just employ one or two
+extra people and get the same work done.8
+4.14 Ms Linda Rubinstein, an industrial officer with the ACTU, advised that some
+employers, particularly those with valued employees, would take the view that the extra
+administrative effort would not justify the possible saving that such an action might achieve.
+However she confirmed that there are circumstances where employers might consider such an
+option:
+Where there is not a strong relationship with a particular individual and there is a
+saving by doing that, some employers, particularly in labour intensive industries
+where margins are very tight, will look to do that. There is no doubt about it.
+6
+7
+Evidence, p. 44.
+Evidence, p. 42.
+8 Evidence, p. 10.
+Evidence, p. 21.
+9
+
+
+4.15 The ACCI representative, Mr Paterson, discounted the likelihood of employers
+manipulating employees’ hours to evade SG contributions. In his view, such activities would
+not be cost effective:
+I am sure that the resources that would be required by an employer to come up with
+a roster that resulted in that style of outcome would probably cost them more than
+the contribution would be worth. I do not envisage that people would manipulate
+shifts to avoid it.
+4.16 Mr Paterson also emphasised that employers should treat employees equitably, and
+the ACCI would not condone such activities.10
+4.17 The Committee sought information about the extent of the problem from
+representatives of the Department of Workplace Relations and Small Business. Mr Philip
+Drever, Assistant Secretary, Labour Relations Policy Branch, advised that the Department
+had surveyed approximately 150 awards, of which 85 included superannuation provisions. Of
+these, only seven awards had lower thresholds than the superannuation guarantee.
+4.18 In the case of at least one of those awards, the threshold has been recently raised.
+Mr Drever informed the Committee that the hospitality award has been raised from $250 to
+$350, following a consent application by the employer and union.11
+4.19 However, some of those awards are significant in terms of the numbers of persons
+employed. Mr Drever stated that it is very difficult to determine the actual number of
+employees affected as there are no statistics available.12
+Frequency of payments
+4.20 Under SG, employers may opt to pay superannuation contributions annually, in
+arrears. This is a lesser standard than commonly applies within the award system. Witnesses
+expressed concern that less frequent payments have a number of disadvantages for
+employees:
+• lower retirement benefits;
+• greater enforcement difficulties; and
+• possible loss of insurance cover.
+Frequency of payment and benefit levels
+4.21 Mr Joe de Bruyn of the SDA advised the Committee that award superannuation
+could include provisions for monthly payment of superannuation contributions. He said that
+10 Evidence, p. 44.
+11 Evidence, p. 56.
+12 Evidence, p. 56.
+
+
+this is in the interests of the employee because the contributions commence earning interest
+for the employee earlier than if the employer contributed annually.13
+4.22 During the Choice of Fund inquiry, the Committee sought information from the
+Institute of Actuaries about the effect on fund earnings of delayed payments. The Institute
+provided the Committee with a table showing that amounts accumulated in members'
+accounts are approximately 3.5 to 4 per cent higher over the members' working life when the
+payments are made on a monthly rather than yearly basis.14 The table appears at Appendix D
+of this report.
+Frequency of payment and enforcement
+4.23 Mr de Bruyn also considered that annual payments result in significant enforcement
+and compliance problems. He said that where payments are made annually, the time lapse in
+reporting to members makes it much more difficult for a worker to establish whether the
+employer has paid the full entitlement.
+4.24 Mr de Bruyn illustrated his case by referring to SG reporting requirements for
+1997/98. SG requires that contributions for the 1997/98 financial year be made by the end of
+July 1998. Funds generally report to members in regard to financial years, so contributions
+made in respect of the current year are not reported until the following financial year.
+Consequently, employees may not receive any statement of contributions made on their
+behalf for 1997/98 until the second half of 1999.15
+Frequency of payment and insurance cover
+4.25 Death and disability insurance cover associated with superannuation is relatively
+common. Evidence received during the Choice of Fund inquiry indicates that this is often the
+only cover that lower income people have, is highly valued and, in the case of high risk
+occupations, may be more valuable to the employee than the superannuation contributions
+with which it is associated.
+4.26 ASFA submitted to the Committee that in industry sectors such as manufacturing,
+textile clothing and footwear, and hospitality industries, insurance is essential:
+The incidence of accidents and deaths in the workplace is quite high in these
+industries, as compared to other industry sectors. In the event of a low income
+employee having no insurance cover, it is most likely that the financial burden will
+fall to either the spouse or other dependants. The loss of these benefits will
+adversely affect the lowest paid members of the Australian community and the
+employees least able to make their own arrangements for retirement.
+13 Evidence,^. 4.
+14 Correspondence dated 9 March 1998 from Institute of Actuaries to the Chairman of the Committee,
+Senator John Watson.
+15 Evidence, p. 4.
+16 Submission, p. 3.
+
+
+4.27 Insurance cover is dependent upon the payment of premiums. Mr de Bruyn of the
+SDA advised that where an employee elects for cover, he or she may not be covered until
+contributions are made. Where employers may make contributions up to twelve months in
+arrears, as is permissible under SG, the employee may have no cover in the period between
+the date of first employment and the date of the first employer contribution.
+4.28 Further, the employee may have no means of knowing whether the employer has
+remitted the contributions and accordingly, whether he or she is covered by insurance. Ms
+Linda Rubinstein advised that this is already a significant problem in some industry sectors:
+There have been a number of cases where insurance has been claimed on behalf of
+members and it has been found that, because the employer did not pay in the
+contributions, that person is not insured.17
+Employers' view
+4.29 Employers do not share concerns expressed by other witnesses about payment
+frequency. Mr Mark Paterson of ACCI was of the view that most employers were unlikely to
+change their current contribution patterns. He stated that employers who contributed under
+SG already had the option of annual payment for that portion of SG that is in excess of an
+award, but he did not think there had been any significant shift towards using this option.18
+4.30 Mr Paterson also advised the Committee that, although it is often asserted that award
+provisions determine frequency of payment, the timing of payments to superannuation funds
+is generally determined by the employer deed signed by the employer. This deed specifies the
+frequency of payment. He said that this was unlikely to change:
+You will find in many cases that employees are employed under an award, which
+envisages either weekly or fortnightly payment of other entitlements, but monthly
+payment of superannuation contributions is made. That does not normally align
+with a strict weekly or fortnightly payment regime. In most cases, the contributions
+are made on the pay periods falling within a month, and that is often governed by
+the deed that the employer signs. There is no reason on the face of it why that
+situation would necessarily change.19
+4.31 The Committee questioned Mr Paterson about whether the advent of choice of fund
+might lead to fund managers seeking to induce employers to select their fund on the basis that
+annual payments may be made instead of more stringent requirements in their current fund.
+4.32 Mr Paterson pointed out while such an option might appeal to some, employers are
+required to give key features statements (KFS) to their employees when offering them a fund
+under the choice of fund requirements. He advocated including information about frequency
+of payment on the KFS.20
+17 Evidence, p. 17.
+18 Evidence, p. 35.
+19 Evidence, p. 34.
+20 Evidence, p.36.
+
+
+The AIRC and dispute resolution
+4.33 This legislation removes the Australian Industrial Relations Commission's (AIRC)
+arbitration powers in respect of superannuation. The commission will not be able to prevent or
+settle disputes about superannuation by making awards or orders or maintain the settlement of
+such disputes by varying awards or orders.21 The bill also removes the AIRC's power to make
+"exceptional matters" orders about superannuation.22
+4.34 The SDA and other witnesses expressed concern that, if the AIRC is prevented from
+arbitrating disputes about superannuation, employees will have no other avenues of appeal.
+Mr de Bruyn advised that disputes could arise concerning eligibility, fund to which payments
+should be made, frequency of payments and other matters.23
+4.35 In his view, the advantage of the AIRC is that it is readily accessible and
+independent. Further, its decisions are enforceable at law.24
+4.36 Ms Linda Rubinstein of the ACTU also addressed the exclusion of superannuation
+from being the subject of an exceptional matters order. She said that this was 'really quite
+extraordinary' as this would be the only specific exclusion in the Workplace Relations Act."
+4.37 Ms Rubinstein said that there were some sound reasons for retaining the AIRC as a
+dispute resolution body. She said that the Commission had considerable 'deep corporate'
+expertise in handling workplace issues and resolving disputes. She told the Committee that:
+The commission works as a cheap, accessible avenue where, not to put too fine a
+point on it, it is skilled in, where possible, knocking heads together and saying,
+'You sort this out.’ It has a very good record of achieving negotiated settlements
+and quick arbitrations where that is necessary. I do not know of any other tribunal
+in this country that is capable of doing that with specifically workplace issues.
+4.38 Ms Philippa Smith of ASFA considered that the AIRC had played a ’very significant
+role’ in resolving superannuation disputes between employers and employees. She thought
+that there were a number of reasons for this:
+In part, it is because of the nature of the superannuation guarantee itself. As a result
+of the way in which the guarantee is administered, disputes between the employer
+and the employee are quite different from disputes between the employer and the
+Commonwealth for failure to meet a taxation obligation, for example. It is
+important to comprehend that the guarantee is not an entitlement but rather a
+penalty imposed by the Commonwealth in the event of the employer failing to meet
+their obligations.26
+4.39 Ms Smith concluded that the AIRC should retain its dispute resolution powers:
+21 Second reading speech, p. 1.
+22 Explanatory memorandum.
+23 Evidence, p. 3.
+24 Evidence, p. 3.
+25 Evidence, p. 18.
+26 Evidence, p. 27.
+
+
+Our bottom line is that we believe that the role of the AIRC should be retained as
+the most effective dispute mechanism that is there at the moment. Certainly, we
+remain to be convinced that an alternative body can be found to resolve or deal
+with those types of disputes.
+...the Industrial Commission has proven itself to be a relatively quick and effective
+mechanism for dealing with these sorts of complaints, so we are hesitant about
+throwing it out when there does not seem to be another option available.27
+4.40 Two alternative options for resolving disputes were canvassed during the hearing.
+These were to allocate the task to a reconstituted Superannuation Complaints Tribunal (SCT),
+or to allow the Australian Taxation Office (ATO) to fulfil the role.
+4.41 All witnesses considered that this was not an appropriate role for the SCT, as that
+organisation's dispute resolution functions are confined to resolving disputes between funds
+and members rather than employers and employees.
+4.42 Ms Rubinstein questioned whether it would be practical for the SCT to fulfil the
+role. She said that superannuation disputes were frequently part of wider industrial disputes,
+and it would be impractical to divide dispute resolution between more than one body:
+...disputes about superannuation are often related to other industrial disputes, so a
+union will have a number of matters over which it is in dispute with the employer,
+one of which would be superannuation. So to hive that one off, again, would be
+costly and difficult for the employer and would also mitigate against a settlement of
+a package, which is often the way in which industrial disputes are resolved so a
+whole series of things are settled.
+4.43 Ms Philippa Smith advised that ASFA did not consider the ATO to be a suitable
+mechanism for dealing with employee/employer complaints. She said that the ATO does not
+have the 'scope, focus or certifiable mechanisms' for dealing with complaints.29
+4.44 Mr Mark Paterson of the ACCI told the Committee that disputes in relation to
+superannuation between employers and employees are 'rare and infrequent'. He
+acknowledged that there had been a history of disputation in this area but 'I think we are
+working in a different environment'.30
+4.45 Mr Paterson considered that under the Workplace Relations Act, the focus was now
+on resolving disputes at an enterprise level. He said that he did not believe that the retention
+of superannuation as an allowable matter within awards could be justified on the basis of
+retaining powers to resolve the 'potential occasional dispute'31:
+27 Evidence, p. 28.
+28 Evidence, p. 20.
+29 Evidence, p. 28.
+30 Evidence, p. 40.
+31 Evidence, p. 40.
+
+
+We do not believe that we have to establish entities to deal with every potential
+, form of difference that might exist within the community. I do not believe that
+there is justification, given the regime that is being proposed and the opportunities
+for individual or collective agreements to also deal with this issue, and that we then
+need to give power to yet another body to try to resolve issues.32
+4.46 Ms Kerry Ann Rehn, Assistant Secretary, Legislation Policy and Services Branch,
+Department of Workplace Relations and Small Business, confirmed that the AIRC would
+lose its arbitration powers but could still fulfil a conciliation role:
+The removal of superannuation ffom the allowable award matters means that
+superannuation cannot be the subject of an industrial dispute for the purposes of
+exercising arbitral powers or settling disputes by an award or order. The
+Commission could still exercise conciliation powers in relation to a matter
+considering superannuation and in the exercise of those powers could convene
+compulsory conferences. So parties could be compelled to attend conferences
+before the Commission. Penalties apply for failure to attend such conferences.33
+Inconsistency between federal and state industrial jurisdictions
+4.47 This legislation will not affect state industrial awards or the jurisdiction of state
+industrial commissions and employees whose superannuation entitlements are determined
+under state awards will continue to receive them as before. Federal award employees'
+superannuation entitlements will, however, be determined by the SG legislation.
+4.48 People who have more than one job may be employed under both State and Federal
+awards. Companies may also employ some categories of employees under federal awards and
+others under state awards. The Committee questioned witnesses about whether removing
+superannuation from federal awards and the associated introduction of choice of fund created
+scope for confusion among employers and employees.
+4.49 Mr Joe de Bruyn of the SDA agreed that there is scope for confusion. He advised
+that part time or casual employees may be particularly affected:
+If a part-timer or a casual worker is not getting enough hours with one employer,
+they will try to get the number of hours they need to meet their weekly income
+expectations by having another part-time or casual job with a different employer.
+So they could be in this position: partly covered by a state award and partly
+covered by a federal award.
+4.50 Mr de Bruyn advised that typically, workers in the retail industry were unaware of
+whether a state or federal award covers them.34 Accordingly, it may be expected that some
+employees on State awards will be confused about their entitlements. This is particularly the
+32 Evidence, p. 41.
+33 Evidence, p. 52.
+34 Evidence, p. 11.
+
+
+case in respect of the impending choice of fund legislation, as only federal award workers
+will be offered choice under that legislation.35
+4.51 Mr Mark Paterson of the ACCI agreed that there is scope for confusion. However,
+he considered that this confusion should not be compounded at the federal level. He
+emphasised that employers sought clarity in relation to their obligations to their employees,
+and removal of inconsistencies between the federal and state systems:
+You do not address that confusing situation by making it more confusing at a
+federal level. You seek to minimise the level of confusion where there is a
+constitutional opportunity to do so. If you are asking us if we would prefer there to
+be less confusion between state and federal industrial arrangements and a
+harmonised system around the country, then our answer would be yes, but that is
+not on offer at the present time.36
+Clearly we would want clarity in relation to all employment entitlements, but we
+have had a perpetuation of inconsistencies between state and federal. We have been
+on the record for a long period of time arguing for a harmonised system and a
+consistent set of entitlements3'
+4.52 Differences between the state and federal award systems also have implications for
+dispute resolution in workforces where there is a mixture of state and federal award
+employment. Such disputes can currently be resolved through joint sittings of the federal and
+state industrial relations commissions. The Committee questioned representatives of the
+Department of Workplace Relations and Small Business about the effect of removing the
+AIRC’s arbitration powers.
+4.53 Ms Kerry Rehn confirmed that following passage of the legislation, it would be
+possible to have binding arbitration concerning such disputes in respect of the state awards
+but not in respect of workers covered by federal awards.38 Accordingly, the ability to seek
+arbitration in respect of the entire workforce where there is a mixture of state and federal
+award employees would be lost.
+4.54 Mr Philip Drever advised, however, that the Government had been conducting
+discussions with the states with a view to harmonising industrial relations systems and that
+one aspect of those discussions related to superannuation.39 He was unable to advise the
+Committee about when harmonisation might occur.
+4.55 The Committee sought information from Mr Drever about whether the situation for
+employers covered by both state and federal jurisdictions would become more complex
+35
+State employees may, where State governments have introduced their own choice of fund legislation, be
+offered or already have a form of choice of fund.
+36 Evidence, p. 38-9.
+37 Evidence, p. 44.
+38 Evidence, p. 54.
+39 Evidence, p. 55.
+
+
+following passage of the legislation. He disagreed with this view, stating that 'It goes from
+three sets of obligations down to two.'40
+Timing of implementation
+4.56 In his second reading speech, the Minister stated that the agreement with the
+Australian Democrats to retain superannuation as an allowable award matter was only
+intended to have effect until choice is implemented. However, due to delays in the passage of
+the choice of fund legislation, the Government has announced that it will delay
+implementation of choice of fund for new employees until 1 July 1999, and 1 July 2000 for
+existing employees. Several witnesses pointed out that enacting this legislation prior to the
+implementation of the Government's choice of fund legislation may have unintended
+consequences.
+4.57 ASFA advised the Committee that if this legislation were enacted prior to
+implementation of choice of fund, this would have the effect of introducing fund choice now,
+ahead of the intended date.41
+4.58 The ACTU made a similar observation. Ms Rubinstein was of the opinion that
+passage of the bill prior to implementing choice of fund meant that award provisions would
+become unenforceable, effectively giving employers the absolute right to determine the fund
+to which employees' contributions would be paid.42
+40 Evidence, p. 60.
+41 Evidence, p. 28. See also Submission, p. 3.
+42 Evidence, p. 16.
+
+
+
+
+CHAPTER 5
+GOVERNMENT SENATORS' VIEW
+5.1 A comparative examination of federal award provisions concerning superannuation
+and the SG requirements shows a distinct lack of compatibility between the two systems.
+5.2 Government Senators are of the view that there is scope for confusion amongst
+employers as to what their obligations are and which obligation should prevail - SG or the
+award. This is particularly so for those with employees on a range of awards. ft is therefore
+difficult to escape the conclusion that there is a need to simplify these provisions.
+5.3 It is possible that in some limited situations, simplification may disadvantage some
+people who currently enjoy greater benefits of superannuation by virtue of some awards.
+5.4 Some employees may be disadvantaged to some extent if superannuation is removed
+from the awards system. The size of this group is difficult to determine. Further, there are
+very limited options available for compensating for this disadvantage.
+5.5 In many awards, the contributions required have not been updated in line with
+increases in SG (currently 6 per cent, rising to 7 per cent on 1 July 1998). Commonly, the
+contribution required is 3 per cent. Where an individual is earning less than $450 per month
+and is only entitled to the three percent specified in the award, the contributions involved are
+small. Indeed, it must be asked whether the same arguments advanced in respect of
+implementing a $450 SG threshold should not apply to these amounts.
+5.6 However, at the low income levels in question, the amounts forgone may still be
+considered significant. The loss is not necessarily confined to superannuation contributions
+but may also include insurance cover associated with the superannuation fund membership.
+5.7 One mechanism for compensating for the loss of contributions might be to cash out
+the lost benefits. However, both ASFA and the employee representatives indicated their
+opposition to making a cash top-up for those employees affected. It is probable that
+employers would also oppose such a move. This solution could also encounter difficulties in
+respect of AIRC orders.
+5.8 A further option would be to lower the SG threshold to a level more in line with
+prevailing awards. While this option is superficially attractive, Government Senators do not
+consider there has been sufficient consideration of the issues associated with lowering the
+threshold for it to make a recommendation.
+5.9 Government Senators consider there is also a case for requiring SG payments to be
+made quarterly. While this may inconvenience a small group of employers, the evidence
+available suggests that the impact should be minimal, as frequency of payment is generally
+determined by other factors such as employer-fund deeds, which require payment on a
+quarterly or monthly basis.
+5.10 These proposed solutions have some shortcomings as they may increase the
+administrative burden on those employers currently required to make contributions under SG
+only. There are, however, compensating factors. The trade-off is that employers should no
+longer be required to meet the compliance costs associated with award superannuation
+
+
+obligations. For many employers with significant numbers of award employees in high
+turnover industries, this initiative would simplify their administrative burden considerably.
+5.11 While small amounts involved in quarterly payments may increase costs, it must be
+remembered that most small employers are required in any case to remit group tax payments
+quarterly. Government Senators consider that costs of making small contributions may be
+reduced through electronic funds transfer, and funds and financial institutions should
+investigate methods of facilitating such transfers.
+5.12 Government Senators do not accept arguments that the award system is conceptually
+simpler than SG. While employees may well understand their award entitlements, they also
+have entitlements under SG, which they also need to be aware of and understand. In many
+cases, particularly the level of payment, SG provides a superior benefit as many awards have
+not been updated and reflect a lower level of contributions than required under SG.
+5.13 Consequently, removing superannuation from the awards system may well have the
+effect of making superannuation entitlements easier for employees to understand as well as
+simplifying administrative complexity for employers.
+5.14 Government Senators are, however, concerned that there will be no effective dispute
+resolution mechanism available to employees in respect of disputes with employers about
+superannuation. While such disputes will hopefully be rare and resolved at the workplace
+level, a fallback dispute resolution mechanism may be needed. Government Senators suggest
+that the Government closely monitor whether there will be a future need for such a dispute
+resolution mechanism.
+Recommendation
+5.15 Government Senators recommend that the bill be passed, to take effect
+following implementation of the Government's Choice of Fund legislation.
+5.16 Government Senators further recommend that the Government give
+consideration to introducing a requirement that SG contributions be remitted on not
+less than a quarterly basis.
+5.17 Government Senators further recommend that the Government give
+consideration to introducing a dispute resolution mechanism, within a reconstituted
+Superannuation Complaints Tribunal or other body, to deal with potential disputes
+concerning superannuation between employers and employees.
+Senator John Watson
+Chairman
+Senator Alan Ferguson
+Senator Julian McGauran
+
+
+CHAPTER 6
+LABOR SENATORS’ VIEW
+6.1 Labor Senators do not support the removal of superannuation from the list of allowable
+award matters. Such a removal is not just to the disadvantage of employees but also to
+employers.
+6.2 The Prime Minister, Mr Howard, gave a 'rock solid' guarantee to employees prior to the
+last election that 'not one Australian worker would be worse off as a result of the Coalition's
+industrial relations policy. This promise will be broken as a result of this Bill.
+6.3 Superannuation belongs to employees, it is part of their retirement income, and the
+employees' interests must always be paramount. Any changes to the system must ensure that
+returns are maximised, costs minimised and protection enhanced.
+6.4 Not only is the "rock solid" guarantee of the Prime Minister, Mr Howard, yet again being
+broken, it is clear that this legislation fails to meet the standard set by the Australian
+Democrats in their letter of agreement as part of the negotiated settlement to allow the
+passage of the Workplace Relations Act in 1996 when they set a benchmark that the
+legislation 'must ensure their workers are not made worse off as a result of any overriding or
+repeal of superannuation clauses'.
+6.5 This bill clearly fails to meet the undertakings given by the Coalition government in a
+number of ways including;
+• loss of entitlements - many persons who currently receive superannuation under award
+entitlements wall lose;
+• frequency of payments - employers will move to less frequent payments of
+contributions;
+• dispute resolution - the bill removes the AIRC’s power to arbitrate in disputes;
+• inconsistency between federal and state industrial jurisdictions; and
+• timing of implementation - conflicts with new dates for 'choice'.
+Loss of entitlements
+6.6 Loss of entitlements will clearly result. Many awards set a variety of minimum
+standards below that provided for in SG legislation. These standards in industries such as
+hospitality and retail were negotiated to suit the particular circumstances of the industry and
+workplace. Removal of these lower minima will exclude hundreds of thousands of workers
+from superannuation and associated insurance coverage. Whilst many of the payments are
+small, they have assumed greater significance with the increase in the SG from 3 per cent to
+currently 6 per cent and 9 per cent by the year 2001/2002. In addition, employee balances are
+now protected and cannot be eroded by fees and charges.
+
+
+6.7 It is clear that high minimum cut-offs for superannuation payment will provide an
+opportunity for some unscrupulous employers to manipulate the hours of work of employees
+to avoid paying superannuation at all. Alarmingly, this has recently been admitted publicly
+by a representative of a hospitality industry employer group, Restaurant and Catering
+Australia.1
+Frequency of payments
+6.8 Less frequent payments, from monthly to half yearly or yearly, clearly reduces the end
+benefit to employees between 3.5 per cent to 4 per cent. This is well illustrated in the table in
+Appendix D. In addition, less frequent payments will cause insurance cover to. lapse,
+removing a significant benefit from many employees.
+Dispute resolution
+6.9 The AIRC has been an effective, timely and knowledgable arbiter of disputes. No
+witness could provide a mechanism for settling disputes other than bland assertions that the
+'culture of the workplace has changed', in other words, all is peace and harmony. Labor
+Senators are sceptical that this is the case. Disputes will arise, particularly given the
+increasing SG contributions and balances in accounts. Employees and employers are entitled
+to know who will arbitrate when circumstances require it.
+Inconsistencies between federal and state industrial jurisdictions
+6.10 It is incredible that the Minister for Workplace Relations and Small Business can assert
+that this bill allows the superannuation system to be simplified when in fact a further layer of
+complexity and confusion will result due to differing federal and state industrial legislation.
+More complexity and confusion to create simplified administration! There will be great
+confusion amongst employees and employers where workforces at the one workplace are
+covered by state and federal awards - a not uncommon situation.
+6.11 Furthermore, as employees change employment from one employer to another and
+consequently move between state and federal industrial awards, the differing legislative
+requirements will greatly confuse employees and add to the costs of superannuation.
+6.12 Hundreds and thousands of employees have two or more jobs. Many of these
+employees will have superannuation provisions in both federal and state jurisdictions at the
+same time. The potential for confusion and chaos is considerable.
+6.13 Assurances from the Government about administrative simplicity when the evidence is
+to the contrary and set against the confusion, chaos and complexity that has resulted from
+changes in other areas of superannuation such as the tax-surcharge debacle do not assist in
+building confidence in our retirement system.
+I
+Financial Review, 5 May 1998, p. 36.
+
+
+Timing of legislation
+6.14 It is clearly ridiculous that different operative dates apply to this legislation from that
+relating to 'choice of fund'.
+Recommendation
+The bill is neither in the best interests of employees nor employers and should be
+rejected.
+./I
+Senator Nick Sherry
+Deputy Chairman
+\
+Senator Chris Evans
+
+
+
+
+CHAPTER 7
+COMMENTS FROM THE AUSTRALIAN DEMOCRATS
+7.1 The Australian Democrats do not support this bill for similar reasons to those expressed by
+the Labor senators. Superannuation is an essential part of remuneration arrangements, and has
+been recognised as an industrial matter in several landmark High Court cases dating back for
+more than a decade.
+7.2 In our agreement with the Commonwealth Government prior to the passage of the
+Workplace Relations Act, we made it clear that we would review the continuation of
+superannuation as an allowable matter when the Government’s choice legislation was released. In
+particular, we foreshadowed we would seek to ensure that workers are not made worse off as a
+result of any overriding or repeal of award superannuation clauses.
+7.3 The evidence to this committee in this inquiry and its previous inquiry on choice of fund
+have failed to satisfy us that workers would not be made worse off as a result of these legislation.
+Therefore, we will not support the repeal of superannuation as an allowable award matter.
+7.4 However, the Democrats believe that more choice should be provided for employees within
+award clauses. While industry funds provide by and large a superior product to master trust funds
+and many other superannuation products, the Democrats do believe that workers should have the
+choice of exiting a fund which is not performing to their satisfaction. Many award clauses already
+provide this by allowing for choice between more than one fund within the award clause.
+However, many do not.
+7.5 The Democrats, in the Committee stage, will move to require the Australian Industrial
+Relations Commission to review all awards by July 1 2000 to ensure that they provide workers
+with a choice of at least two industry-based superannuation funds. Such a choice will retain the
+benefits of industry based superannuation provision, while also giving employees the option of
+exiting funds which are not performing in a “managed choice” regime.
+7.6 The Democrats have also moved amendments to the choice regime to allow workers moving
+between employers to retain membership of an industry fund which they are happy with. The
+Workplace Relations Act may also need to be amended to ensure that such flexibility in
+interpretation of award clauses can be allowed.
+The Democrats recommend:
+That superannuation be retained as an allowable award matter.
+That the Act be amended to require the Commission to review all award superannuation
+clauses by July 1 2000 to ensure that employees are given a choice of at least two industry
+based superannuation funds.
+That the Act be amended if necessary to ensure that workers moving between employers
+have the option of retaining membership of their former superannuation scheme if the
+employer consents.
+Senator Lyn Allison
+
+
+
+
+APPENDIX A
+LIST OF WRITTEN SUBMISSIONS
+1 Shop, Distributive and Allied Employees’ Association (SDA)
+VIC
+2 Australian Council of Trade Unions (ACTU)
+VIC
+3 The Association of Superannuation Funds of Australia Limited (ASFA) NSW
+
+
+
+
+APPENDIX B
+LIST OF WITNESSES AT PUBLIC HEARING
+Sydney, 27 April 1998
+Miss Sue-Anne Burnley, Industrial Officer, Shop Distributive and Allied Employees
+Association
+Mr Joseph de Bruyn, National Secretary-Treasurer, Shop Distributive and Allied
+Employees Association
+Mr Philip Drever, Assistant Secretary, Labour Relations Policy Branch, Department
+of Workplace Relations and Small Business
+Ms Naomi Knight, Adviser, Association of Superannuation Funds of Australia
+Mr Mark Paterson, Chief Executive, ACCI
+Ms Kerry Rehn, Assistant Secretary, Legislation Policy and Services Branch,
+Departmenr of Workplace Relations and Small Business
+Ms Linda Rubinstein, Senior Industrial Officer, ACTU
+Ms Philippa Smith, Chief Executive Officer, Association of Superannuation Funds of
+Australia
+
+
+
+
+APPENDIX C
+LIST OF COMMITTEE REPORTS
+Super System Survey - A Background Paper on Retirement Income Arrangements in
+Twenty-one Countries (December 1991)
+Papers relating to the Bymwood Ltd, WA Superannuation Scheme (March 1992)
+Interim Report on Fees, Charges and Commissions in the Life Insurance Industry
+(June 1992)
+First Report of the Senate Select Committee on Superannuation - Safeguarding Super -
+the Regulation of Superannuation (June 1992)
+Second Report of the Senate Select Committee on Superannuation - Super Guarantee
+Bills (June 1992)
+Super Charges - An Issues Paper on Fees, Commissions, Charges and Disclosure in the
+Superannuation Industry (August 1992)
+Third Report of the Senate Select Committee on Superannuation - Super and the
+Financial System (October 1992)
+Proceedings of the Super Consumer Seminar, 4 November 1992 (4 November 1992)
+Fourth Report of the Senate Select Committee on Superannuation - Super - Fiscal and
+Social Links (December 1992)
+Fifth Report of the Senate Select Committee on Superannuation - Super Supervisory
+Levy (May 1993)
+Sixth Report of the Senate Select Committee on Superannuation - Super - Fees.
+Charges and Commissions (June 1993)
+Seventh Report of the Senate Select Committee on Superannuation - Super Inquiry
+Overview (June 1993)
+Eighth Report of the Senate Select Committee on Superannuation - Inquiry into the
+Queensland Professional Officers Association Superannuation Fund (August 1993)
+Ninth Report of the Senate Select Committee on Superannuation - Super Supervision
+Bills (October 1993)
+Tenth Report of the Senate Select Committee on Superannuation - Super Complaints
+Tribunal (December 1993)
+Eleventh Report of the Senate Select Committee on Superannuation - Privilege Flatter
+Involving Mr Kevin Lindeberg and Mr Des O'Neill (December 1993)
+
+
+A Preliminary Paper Prepared by the Senate Select Committee on Superannuation for
+the Minister for Social Security, Options for Allocated Pensions Within the Retirement
+Incomes System (March 1994)
+Twelfth Report of the Senate Select Committee on Superannuation - Super for Housing
+(May 1994)
+Thirteenth Report of the Senate Select Committee on Superannuation - Super Regs I
+(August 1994)
+Fourteenth Report of the Senate Select Committee on Superannuation - Super Regs II
+(November 1994)
+Fifteenth Report of the Senate Select Committee on Superannuation - Super Guarantee
+- Its Track Record (February 1995)
+Sixteenth Report of the Senate Select Committee on Superannuation - Allocated
+Pensions (June 1995)
+Seventeenth Report of the Senate Select Committee on Superannuation - Super and
+Broken Work Patterns (November 1995)
+Eighteenth Report of the Senate Select Committee on Superannuation - Review of the
+Superannuation Complaints Tribunal (April 1996)
+Nineteenth Report of the Senate Select Committee on Superannuation - Reserve Bank
+Officers' Super Fund (June 1996)
+Twentieth Report of the Senate Select Committee on Superannuation - Provisions of
+the Social Security Legislation Amendment (Further Budget and Other Measures) Bill
+1996 - Schedule 1 (November 1996)
+Twenty-first Report of the Senate Select Committee on Superannuation - Investment of
+Australia's Superannuation Savings (December 1996)
+Twenty-second Report of the Senate Select Committee on Superannuation - Retirement
+Savings Accounts Legislation (March 1997)
+Twenty-third Report of the Senate Select Committee on Superannuation -
+Superannuation Surcharge Legislation (March 1997)
+Twenty-fourth Report of the Senate Select Committee on Superannuation - Schedules
+1, 9 & 10 of Taxation Laws Amendment Bill (No. 3) 1997 (June 1997)
+Twenty-fifth Report of the Senate Select Committee on Superannuation - The
+Parliamentary Contributory Superannuation Scheme & the Judges' Pension Scheme
+(September 1997)
+Twenty-sixth Report of the Senate Select Committee on Superannuation - Super -
+Restrictions on Early Access: Small Superannuation Accounts Amendment Bill 1997
+and related terms of reference. (September 1997)
+
+
+Twenty-seventh Report of the Senate Select Committee on Superannuation -
+Superannuation Contributions Tax Amendment Bills. (November 1997)
+Super Taxing - An information paper on the Taxation of Superannuation and related
+matters. (February 1998)
+Twenty-eighth Report of the Senate Select Committee on Superannuation - Choice of
+Fund. (March 1998)
+Twenty-ninth Report of the Senate Select Committee on Superannuation -
+Superannuation Legislation (Commonwealth Employment) Repeal and Amendment Bill
+1997, Commonwealth Superannuation Board Bill 1997, Superannuation Legislation
+(Commonwealth Employment - Saving and Transitional Provisions) Bill 1997. (April
+1998)
+Thirtieth Report of the Senate Select Committee on Superannuation - Workplace
+Relations Amendment (Superannuation) Bill 1997. (May 1998)
+
+
+
+
+APPENDIX D
+INSTITUTE OF ACTUARIES OF AUSTRALIA
+Effect of Monthly Versus Annual Contributions
+The amounts in the table represent the amount accumulated at the end of the period shown
+using the following assumptions:
+• Contributions of $100 per month (at the end of each month) or $1200 per year (at the end
+of each year)
+• Interest rates of 9% or 8% as indicated.
+In each case the accumulated amount based on monthly contributions is approximately 3.5%
+or 4% higher than the accumulated amount based on annual contributions after ail time
+periods.
+
+
+THE PARLIAMENT OF THE
+COMMONWEALTH OF AUSTRALIA
+PARLIAMENTARY
+PAPER
+No. 94 of 1998
+ORDERED TO BE PRINTED
+ISSN 0727-4181

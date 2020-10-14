@@ -1,0 +1,2151 @@
+
+
+Inquiry into the
+Queensland Professional Officers
+Association Superannuation Fund
+Eighth Report of the
+Senate Select Committee on Superannuation
+Parliament of the Commonwealth of Australia
+August 1993
+
+
+
+
+Inquiry into the
+Queensland Professional Officers
+Association Superannuation Fund
+Eighth Report of the
+Senate Select Committee on Superannuation
+Parliament of the Commonwealth of Australia
+Canberra
+August 1993
+
+
+© Commonwealth of Australia 1993
+ISBN 0 642 19543 9
+This document was produced from camera-ready copy prepared by the
+Senate Select Committee on Superannuation Secretariat, and printed by the
+Senate Printing Unit, Parliament House, Canberra.
+
+
+MEMBERS OF THE COMMITTEE:
+Members
+Appointed to the Committee on 1 July 1993 to replace
+Senator Richard Alston.
+* *
+Committee Chair until 30 June 1993.
+Secretariat Staff:
+Secretary:
+Senior Research Officer:
+Executive Assistant:
+Mr Richard Gilbert
+Mr Rod Adams
+Ms Cath Drinkwater
+Address:
+Telephone:
+The Senate
+Parliament House
+CANBERRA ACT
+(06) 277 3439
+(06) 277 5719
+Facsimile:
+
+
+
+
+CONTENTS
+Contents
+Page
+Members of the Committee. i
+Contents. iii
+Chapters:
+1. Introduction . 1
+2. Essence of the Inquiry. 7
+3. Evidence - Initial Hearing . 11
+4. Second Hearing and Related Evidence. 23
+5. Prudential Controls. 33
+6. Representation on Trust Structures . 43
+7. Information to Members . 47
+8. Vesting, Preservation and Portability . 51
+9. Dispute Resolution and Other Matters. 55
+10. Conclusion . 61
+Appendices:
+A. List of Witnesses. 65
+B. Correspondence on Missing Documents. 67
+
+
+
+
+CHAPTER 1 : INTRODUCTION
+Introduction
+1.1 Since its original appointment in June 1992, the Committee has sought
+and considered a wide range of views on the regulation of superannuation
+and, where possible, it has taken an interest in the actual operations of
+superannuation funds endeavouring to identify elements of sound
+administrative practice.
+1.2 The Committee's attention has also been drawn to a number of
+instances of malpractice and/or maladministration. In this regard, in its first
+report, Safeguarding Super, the Committee reported in detail on two funds,
+ABC Engineering and Byrnwood, where the trustees had not properly
+discharged their duties as the custodians of the superannuation assets of
+beneficiaries.
+1.3 These case studies allowed the Committee to assess the scope for
+fraud and malpractice under existing regulatory arrangements and to
+consider the checks and balances which need to be in place to ensure that
+the interests of fund members are upheld.
+1.4 In Safeguarding Super the Committee concluded that an effective
+regulatory framework is one in which:
+• the duties, powers and responsibilities of trustees and directors
+of corporate trustees are clearly defined;
+• the rights of members to information, action against trustees and
+directors and alternative dispute resolution mechanisms are
+unambiguous; and
+• the powers of the regulator to protect members' interests are
+identified in legislation.1
+1 Safeguarding Super, p 31
+
+
+1.5 The Committee further concluded that a regulatory framework which
+satisfies these criteria will promote investor protection and ensure equity
+between members.2
+1.6 The Committee's on-going interest in the regulation of superannuation
+beyond the presentation of Safeguarding Super was confirmed when it
+agreed to inquire into the activities of the Queensland Professional Officers'
+Superannuation Fund.
+Originating Submission
+1.7 In November 1992, Submission Number 279 was received from Mr
+Desmond O'Neill. He requested the Committee to carry out an investigation
+into the Queensland Professional Officers' Association Superannuation Fund
+(QPOASF).
+1.8 This Fund was established under a Trust Deed on 11 June 1985,
+between the QPOA and Messrs. C A Lee, W J Higham and D Martindale
+as trustees. It was sponsored by the QPOA and the Professional Officers'
+(Queensland) Credit Union for the benefit of the employees of those two
+organisations. As provided in the trust deed the trustees change over time,
+but are always the President, Treasurer and General Secretary of the
+QPOA.
+1.9 Mr O'Neill wrote in his capacity then as an executive member of the
+Queensland State Service Union which formally amalgamated with the
+QPOA on 1 January 1993. He is now an executive member of the new State
+Public Services Federation of Queensland.
+1.10 Attached to the submission was a copy of a confidential submission to
+the Electoral and Administrative Review Commission (EARC), and the
+Criminal Justice Commission (CJC), together with copies of correspondence
+received in response to that submission. Mr O'Neill expressed frustration at
+the lack of official interest in the matters raised by him.
+2 ibid
+
+
+1.11 While the submission included material and various allegations outside
+the scope of the Committee's terms of reference, a quite specific and
+substantive matter involved the transfer of funds out of the QPOA Scheme
+in 1987 to certain beneficiaries. That transfer, and matters related to it,
+provided the focus of this report but the Committee was conscious that
+some witnesses wanted to widen the scope of the inquiry.
+Conduct of the Inquiry
+1.12 As a result of Mr. O'Neill's submission it was decided to pursue an
+inquiry. As outlined in paragraph 1.2 this initiative was not without
+precedent. The issues raised were pertinent to several of the Committee's
+terms of reference and the Committee also perceived the opportunity to be
+a means of reassessing the adequacy of both existing and superannuation
+supervision legislation foreshadowed by the Government.3
+1.13 The next step was to collect further evidence. The O'Neill submission
+had essentially the character of adverse evidence, in naming various people
+acting and benefiting in allegedly improper ways.
+1.14 Those individuals named, and relevant organisations, were invited by
+the Committee to respond to the O'Neill submission. Several of those invited
+sought legal advice and some responses were submitted through solicitors.
+The Committee also requested documents under the Composition and
+Powers Resolution of the Senate.
+1.15 Following the receipt of written evidence, a public hearing of the
+Committee was scheduled in Brisbane on 29 April 1993, and a list of
+witnesses invited to give oral evidence at that hearing was prepared. Two
+witnesses declined the Committee's invitation to appear, instead submitting
+written statements through their solicitors. However, they appeared as
+witnesses at a subsequent hearing on 31 May 1993 in Brisbane, as did
+witnesses from the administrator of the QPOA Fund, National Mutual
+Limited (NML) and the consultants to the QPOA.
+3
+Bills first introduced in December 1992
+
+
+Containing the Inquiry
+1.16 The Committee found itself in an environment where similar issues
+were, or had been, considered in a state parliament and other quasi judicial
+bodies.
+1.17 As Mr O'Neill's submission covered matters which had been
+considered by the Queensland EARC, CJC and the Commission of Inquiry
+into the Activities of Particular Queensland Unions (the Cooke Inquiry) and
+debated in the Queensland State Parliament, the Committee experienced
+considerable difficulty in containing its inquiry within its terms of reference.
+Also, there were great pressures placed on the Committee to act in
+judgment, or as arbiter, on the conduct of Union and other organisations'
+affairs.
+1.18 The inquiry and this report have been confined to those matters which
+could reasonably be attributed to the objective, purpose and terms of
+reference of the Committee. Under the Committee's original 17 terms of
+reference the following were relevant:
+(c) the adequacy of prudential control arrangements applying to
+superannuation funds;
+(h) the information available to members of superannuation funds;
+(i) the representation of fund members in trustee structures of
+superannuation funds;
+(j) the dispute resolution mechanism available to members of
+superannuation funds; and
+(k) the rules applying to contributions and the vesting and preservation
+of benefits.
+The Committee's Re-appointment - Terms of Reference
+1.19 When the Committee was (initially) reappointed on 13 May 1993, a
+specific term of reference for the Committee to inquire into, and report on,
+the operation of the QPOASF was agreed by the Senate.
+
+
+Framework of the Report
+1.20 In Chapter Two the report identifies the essence of the inquiry.
+Chapters Three and Four describe the written and oral evidence taken.
+Chapters Five to Nine examine the relevant terms of reference as listed in
+paragraph 1.18 in relation to the operations of the fund. Chapter 10, the
+final chapter, details the Committee's findings and recommendations
+regarding the operation of the fund and the need for increased prudential
+control and supervision.
+
+
+
+
+CHAPTER 2:
+ESSENCE OF THE INQUIRY
+Essence of the Inquiry
+2.1 Submission 279 from Mr O'Neill amongst other issues included serious
+allegations of mismanagement of the QPOA Superannuation Fund
+amounting to breach of trust, and even conduct of a possible criminal
+nature. However, on the available evidence and as determined by the terms
+of reference, those more serious allegations could not be substantiated. The
+Committee regarded the most significant area for examination was a
+package of transfers to the personal funds of certain individuals on 31
+January 1987.
+Fund Structure
+2.2 The fund allows members to contribute five per cent of their salary
+with an employer contribution of 14 per cent. The entitlement of members
+to the 14 per cent employer contribution is determined by the vesting scale
+as set out in Table 2.1. Under that scale members are entitled to 100
+per cent of employer contributions after ten or more years of service. In
+addition, since 1988, there has been a three per cent productivity
+contribution which is vested immediately.
+Table 2.1
+VESTING SCALE - QPOASF
+2.3 The purpose of the Fund, as stated in the Deed, is the provision of
+superannuation benefits for members of the Fund on their retirement or
+incapacity and, in the event of a member's death, for that member's
+dependants. The provisions relating to the payment of benefits from the
+Accumulation Account are set out in Clause 13:
+
+
+If a Member retires from the Service
+(1) on or after his Normal Retirement Date
+or (2) within five years of his Normal Retirement Date with the
+consent of the Trustees
+or (3) at any time with the consent of the Trustees on account of
+ill health in circumstances in which the Member is not
+Totally and Permanently Disabled
+the Trustee shall pay to or for the benefit of that Member an amount
+equal to his Retirement Accumulation at the date of his retirement.
+2.4 In early 1987 there were approximately twelve members of the Fund.
+Details of asset values are as follows.
+Table 2.2
+QPOASF - ASSET VALUES - 1986 TO 1992
+2.5 On 31 January 1987, the following amounts were allegedly transferred
+to the personal funds beneficiaries listed in Table 2.3. (The breakdowns of
+the actual amounts transferred into Member and Employer Accumulations
+are estimates provided by Towers, Perrin, Forster & Crosby, Inc (Consulting
+Actuaries) who acted as Consultants to the QPOASF.)4
+4
+Towers Perrin November '92 Review, p 8.
+
+
+Table 2.3
+QPOASF - TRANSFERS 1987
+Individual Details
+2.6 One of the beneficiaries in receipt of the withdrawals in question,
+Mr K Daly, terminated service with the Credit Union on 15 January 1988.
+He had commenced employment on 12 December 1983 and had not
+completed the minimum five years for the vesting of any Employer
+Accumulation. By projecting the employer Accumulation at the date of
+transfer to the date of termination, together with the prescribed employer
+contributions at the earning rates achieved by the Fund over that time,
+Towers Perrin estimated he may have benefited by an amount of some
+$12 900 had his membership continued.
+2.7 Ms R. Kinder terminated her employment on 1 June 1990, completing
+more than 10 years and, therefore, Towers Perrin stated she had not gained
+a financial advantage from the transfer.
+2.8 Mr D. Martindale terminated his employment on 30 November 1990.
+His commencement date was 28 January 1983 so his entitlement was 20%
+of the value of his Employer Accumulation. Towers Perrin calculated his
+estimated Employer Accumulation at the date of termination of employment
+would have been $60 300, with a prescribed benefit of some $12 100.
+Therefore he may have benefited by over $48 000.
+2.9 Mr G. Rutherford has now completed over ten years service. It can
+be argued that he has suffered significantly from the transfer in not
+participating in the distribution of the Reserve Accumulation in March 1991.
+2.10 Whether these individuals should have gained access to these funds
+is examined in paragraphs 3.26 and 3.40.
+
+
+Other Concerns
+2.11 The Committee regarded the above transfers to be the principal
+concern in the operation of this Fund. However, there are a number of
+related matters to which the O'Neill submission and other evidence made
+reference, and these are dealt with in later parts of the report.
+Terms of Reference
+2.12 Four of the Committee's terms of reference were regarded as directly
+relevant to this inquiry, with a fifth (dispute resolution) less direct, but seen
+as very significant. They are:
+. prudential controls;
+. member representation on trustee structures;
+. information available to members;
+. vesting of employer contributions; and
+. dispute resolution mechanisms open to members.
+
+
+CHAPTER 3:
+EVIDENCE - INITIAL HEARING
+Evidence - Initial Hearing
+3.1 On 29 April 1993, at Parliament House in Brisbane, the Committee
+held the first public hearing on the Queensland Professional Officers
+Association Superannuation Fund (QPOASF). Nine witnesses appeared
+while two others initially declined their invitation to appear and inter alia
+submitted written statements. Those statements were incorporated into the
+evidence along with several other documents tabled at the hearing.
+3.2 Witnesses had previously been advised, and were reminded, that the
+Parliamentary Privilege Resolutions allowed them to make application to the
+Committee to have all or part of their evidence heard in camera. Under the
+same resolutions, the witnesses also had the right to object to certain
+questions. A number of witnesses expressed an interest in being represented
+by counsel. This direct representation is not permitted by procedures for
+Senate Committee hearings. However, with a committee's agreement,
+witnesses may have counsel accompany them during the hearing and seek
+private advice from them, but counsel cannot speak on behalf of a client or
+cross-examine witnesses. Some witnesses took that option, one being
+accompanied by a barrister and instructing solicitor.
+Report of The Insurance and Superannuation Commission (ISC)
+First Report
+3.3 The ISC report was prepared for the Committee following a request
+by a Committee member, Senator Kernot, at a public hearing of the
+Committee on the Supervisory Levy on 26 March 1993. The ISC reported
+that it is investigating the QPOASF for the tax years 1987/88 to 1991/92,
+following concerns raised about the Fund and based on a report by Towers
+Perrin.
+3.4 The ISC concluded that members of the QPOASF would not suffer
+financial harm due to the overpayment out of the Fund to the personal
+funds of the four members on 31 January 1987 (see paras. 2.5 to 2.9). In this
+regard a special trust has been established and funds of $34 304 have been
+provided by the QPOA to compensate for the excess withdrawals, thereby
+
+
+ensuring that current fund members do not suffer detriment upon being
+entitled to a superannuation benefit on leaving employment.
+3.5 In its evidence the ISC drew the Committee's attention to the
+retrospective amendments to the trust deed of 23 August 1990. One
+amendment inserted a new clause 35 dealing with transfers in and out of the
+Fund. Sub-clause 35(b) allowed a transfer at the request of a member to
+another fund an amount which the trustees, on the advice of the appointed
+actuary, determined to be appropriate in the circumstances. This amendment
+was retrospective to 1 July 1986. The relevant section of Clause 35 provides:
+35(b) If at any time a Member requests his membership to be transferred
+to another superannuation fund which is administered in
+compliance with the Regulations and the Member releases the
+Trustees from any further liability under the Fund then provided
+the trustees of the other fund agree to accept such transfer the
+Trustees shall transfer to the trustees of the other fund such
+amount as the Trustees acting on the advice of the Appointed
+Actuary determines to be appropriate in the circumstances.
+3.6 On 13 November 1992, the ISC had issued a notice on the Fund
+under sections 10 and 11 of the Occupational Superannuation Standards
+Act, 1987 (OSSA) requesting additional information. The ISC reported that
+the Fund requested an exercise of the Commissioner's discretion in respect
+of possible breaches of OSSA and the Regulations. Such breaches could
+result in the withdrawal of tax concessional treatment for the fund as
+indicated in an earlier report from Towers Perrin. In considering any
+exercise of discretion, the ISC stated it would be mindful of any adverse
+finding on the benefits of the present members of the Fund.
+3.7 The ISC advised the amendment of the trust deed to include
+portability provisions did not in itself constitute a breach of Regulations, and
+that clause 30 of the deed allowed retrospective amendments. However,
+according to the ISC, whether there was a breach of OSS Regulation 11 and
+Act sub-section 3(1) is dependant on further information being received and
+assessed by the ISC. The information requested by the ISC included:
+(a) confirmation of the provisions of the governing rules used to authorise
+transfer out of the Fund of the benefits with respect to each of the four
+members on 31 January 1987;
+
+
+(b) details of the name of each personal fund to which benefits were
+transferred on 31 January 1987;
+(c) details of the complying status and governing provisions of each of the
+personal superannuation funds;
+(d) details of the steps taken by the trustees to ensure that the requirements
+under Regulation 11 of the OSS Regulations were adhered to in respect
+of the transfer of benefits;
+(e) reasons why the full retirement accumulations were transferred out of the
+Fund with respect to each of the four members on 31 January 1987;
+(f) details of who the trustees/authorised officers of the fund were during the
+period of time in which these events occurred; and
+(g) details of any "special circumstances" which warrant the exercise of the
+Commissioner's discretion.5
+3.8 On completion of its investigations, the ISC undertook to refer to the
+appropriate government agency any evidence which indicates prosecution
+action should be taken against the Fund's former trustees.
+Second Report
+3.9 In a confidential letter to the Committee on 10 August 1993, the ISC
+reported that its powers to investigate funds were limited. Apart from
+questions of compliance it had 'not discovered any other evidence which
+should be referred to another government agency for prosecution'. However,
+the ISC further stated:
+It might thus be possible for the members to have legitimate rights of
+action against the trustees if the members believe that the trustees
+breached their powers and duties under the Trust Deed.
+The Towers Perrin Report
+3.10 The Towers Perrin Report, known as the QPOASF Review of Events
+- April 1993was also incorporated as evidence. Towers Perrin was originally
+engaged by the trustees of the Fund and its initial report was handed down
+5
+ISC letter of 8 April 1993
+
+
+on 9 November 1992. The later document of April 1993 brings together that
+earlier report and subsequent information.
+3.11 Featured in the later report was another possible extraordinary
+withdrawal from the Fund. This was the case of Mr N. Buchanan who left
+the service of the QPOA on 20 January 1987 after five years and nine
+months service. The Committee notes that unlike the four original
+beneficiaries (Mr Martindale, Mr Rutherford, Ms Kinder and Mr Daly) who
+did not leave the service of the QPOA, Mr Buchanan did.
+3.12 On account of his service Mr Buchanan was entitled to 20% of the
+Employer Accumulation and 100% of his own Accumulation. This
+entitlement was $11 442.68. A benefit payment request for this entitlement
+was completed by the QPOASF on 28 January 1987, and forwarded to
+NML, the administrators of the Fund.
+3.13 However, NML paid Mr Buchanan a benefit of $21 871.14 out of the
+Fund on 10 March 1987. On 9 June 1987, the QPOA Executive considered
+a request from Mr Buchanan for a larger employer entitlement. It was
+agreed to raise that component to 50% which increased the total benefit
+now payable to $17 325.88 which was $4 561.26 less than he actually
+received. The Committee notes that the QPOA Executive, not the Fund
+Trustees, made this decision.
+3.14 Later in 1987, or early 1988, NML discovered it had over-paid
+Mr Buchanan. On 26 June 1988 NML reimbursed the Fund the difference
+between what it paid him, and the revised benefit agreed by the QPOA
+Executive plus interest, a total of $5 535.05.
+National Mutual Response
+3.15 Attached to the Towers Perrin evidence was an advice from NML
+with the details of the Buchanan overpayment. It is appropriate to also refer
+to the response by NML to a letter dated 9 December 1992 to Towers
+Perrin's initial report to Mr S Curley, one of the Fund's current trustees.
+3.16 NML relied on clause 30 of the trust deed to support the retrospective
+amendment which 'legitimised' the 1987 transfers. The letter also points to
+clause 30 as establishing NML's limited responsibility as administrator of the
+Fund, for the actions of the trustees.
+
+
+3.17 Regarding the 1987 withdrawals, NML stated their practice is not to
+make such payments without appropriate authority from the trustees or
+authorised delegate. However, they were unable to locate the relevant
+Benefit Request Forms and associated documentation. They implied that
+evidence (the Benefit Request Forms) of the four members leaving service
+would have been required before benefits were paid out.
+3.18 In its advice to the trustees, NML emphasised the need for much
+tighter audit controls, and the Committee supports that emphasis.
+Written Personal Statements
+C A Lee and G C Rutherford
+3.19 Mr Lee and Mr Rutherford submitted written statements instead of
+accepting invitations to appear. (Subsequently they accepted an invitation
+to give oral evidence at a second public hearing on 31 May 1993.) As the
+then treasurer of the QPOA, Mr Lee was one of the original trustees of the
+Fund, but in his statement he claimed very limited knowledge of the
+mechanics of the 1987 transfers.6 As a trustee he relied on advice from
+National Mutual. He claimed his only involvement was attendance at
+meetings of the Board of the Credit Union and the QPOA where the
+transfers were approved. He stated there were no separate meetings of the
+trustees on this matter.
+3.20 Mr Rutherford argued in his statement that there was no impropriety
+about the 1987 transfer to his personal superannuation fund, emphasising
+his continued service and that no excess benefit accrued to him.
+Oral Evidence
+Mr DF O'Neill
+3.21 Mr O'Neill appeared in support of his original submission which began
+the inquiry. He continued his allegations of impropriety relating to the 1987
+transfers and doubted the existence of complying personal funds in two
+instances. However, those doubts could not be substantiated.
+6 Evidence, p. 33
+
+
+Mr T R C Wilson and Mr K Lindeberg
+3.22 Mr Wilson was employed by the QPOA from December 1977 to
+February 1989. As a member, he claimed to have never received any
+correspondence or progressive update of the fund. He said in fact that
+knowledge of extraordinary (or ex gratia as in Buchanan's case) withdrawals
+would have created much furore.
+3.23 Mr Lindeberg was employed between June 1984 and 2 August 1990
+by the QPOA and was a member of the Fund. He said:
+When I joined the union, I was advised by Mr Martindale that the fund was one
+of the better ones around with a higher than normal employer contribution. I was
+told that I could only access the employer contribution when I either retired or
+resigned, and then to a set formula. I was told that the fund would be
+administered with equity and fairness - it was a staff fund.8
+3.24 This witness also claimed contributors knew nothing of setting up of
+individual funds by the Trustees.
+Mr W J Higham
+3.25 The next witness examined was Mr W J Higham. He was elected
+President of the QPOA in 1984 and was one of the original trustees of the
+Fund. He said the trustees relied on NML for day-to-day management of
+the scheme and advice from time to time.9
+3.26 Mr Higham placed a different interpretation from Towers Perrin on
+clause 12 of the trust deed regarding the application of the Reserve
+Accumulation of the Fund. He claimed the intent of the scheme was to
+forward the interests of the QPOA as well as the interests of members of
+the Fund. Clause 12, as interpreted by Mr Higham, allowed the trustees to
+distribute reserve funds to individual members if they wished.10 The
+Committee sought specific legal advice on the effect of clauses 11 -13 of the
+trust deed from the ISC and was unable to agree with Mr Higham's
+7 Evidence, p. 61
+8 Evidence, p. 62
+9 Evidence, p. 91
+Evidence, pp. 93 - 95
+10
+
+
+interpretation. The ISC advised that the distribution of reserve funds should
+be by credit to a members account and subject to the same conditions as any
+benefit. None of the four beneficiaries at the time of the withdrawals
+complied with these conditions.11
+Mr D Martindale
+3.27 Mr Martindale was General Secretary of the QPOA from 1982 and
+was, with Mr Lee and Mr Higham, an original trustee of the Fund. The
+Committee incorporated in Hansard a report by a firm of accountants on
+the bona fides of Mr Martindale's personal superannuation fund established
+on 15 February 1987.12
+3.28 While Mr Martindale basically supported Mr Higham's interpretation
+of clause 12, he claimed little knowledge of superannuation or understanding
+of the trust deed. As the trustees were also on the QPOA Executive, no
+separate meetings were held or minutes kept by the trustees. However, Mr
+Martindale said he distributed the Executive minutes to staff after every
+Executive meeting so giving access to Fund members. He also testified that
+significant decisions on superannuation were referred to NML.13
+3.29 The issue of Mr Martindale's previous employment was examined. He
+said that part of the package offered him in 1982 included recognition of
+previous service in relation to superannuation, but no formal explanation
+was given or documentary evidence produced as to how this actually
+influenced the 1987 payment from the Fund to him. Mr Martindale said
+there had been no alarms raised by the Trust's auditors to any of the 1987
+payments.14 (The Committee received no evidence of a 1987 audit.)
+3.30 Mr Martindale said the retrospective amendment to authorise the 1987
+payments was recommended by NML and went to the Executive and
+Council of the QPOA. The Executive minutes would have been available to
+each of the members he said.
+11
+Evidence, p. 179-180
+12 Evidence, p. 104
+13 Evidence, pp. 110 - 111
+14 Evidence, p. 115
+
+
+Mr K J Daly
+3.31 Mr Daly was employed by the Professional Officers Credit Union, a
+co-sponsor of the Fund, from December 1983 to December 1987. He was
+another beneficiary of the 1987 payments and testified that his payment was
+rolled over into a complying personal fund. He claimed a preference to
+manage his own superannuation as the motive from withdrawing from the
+Fund in 1987, and he was dissatisfied with the returns achieved by National
+Mutual. Mr Daly was not a trustee, or on the Executive, and therefore was
+not part of the formal decision making process on the Fund.
+3.32 In a submission to the Committee, Ms Jan Sharpies, an observer
+during the public hearings and an accountant and registered tax agent,
+pointed out that the performance of Industry Superannuation Funds (as
+reported in Personal Investment, February 1988) was between 17 and 18
+percent compared with QPOASF earnings of 17 percent in 1987 and
+18 percent in 1988.15
+3.33 The Committee sought to clarify this matter and received advice
+from NML that crediting rates for its Capital Guaranteed (DA) Fund were:
+National Mutual added that whilst these are high by current standards, they
+should be compared with returns on equity based funds for the period
+ending 31 December 1986:
+15 Submission of 6 August 1993 from Ms J Sharpies.
+Submission of 6 August 1993 from National Mutual Limited.
+16
+
+
+3.34 The question arose of Mr Daly's role as a financial adviser to the
+QPOA. He said this was restricted to assisting with the preparation of notes
+to the annual financial statements prior to them being submitted to the
+auditor. However, evidence was later produced which indicated Mr Daly
+prepared the ISC and Income Tax Returns for the QPOA in 1989 in his
+then capacity as a registered tax agent. It seemed strange to the Committee
+that he could not recall acting as a tax agent for the union or whether he
+billed for his services.17
+3.35 With regard to the Fund Mr Daly said he had advised the board of
+the Credit Union, as his employer, of the advantages of looking to a fund
+manager other than NML. Secondly, he had pointed to individual
+superannuation funds as an option that ought to be pursued.
+Ms R Kinder
+3.36 Ms R Kinder, the Assistant Secretary of the QPOA in July 1984, was
+another beneficiary of the 1987 payments. She said her payment was rolled
+over into a private superannuation fund and subject to independent audit.
+Ms Kinder joined the QPOA and its Superannuation Fund in 1979 and
+remained an employee until 1990 when she resigned. With regard to the
+1987 withdrawals she said 'a number of consultants' had advised that it was
+an appropriate way to manage a superannuation fund. Ms Kinder said she
+was offered withdrawal by her employer and took it.18
+3.37 Ms Kinder informed the Committee that she did not have a copy of
+the 'authority' to withdraw the funds but suggested that the authority came
+through: 'discussions of executive . . . '19
+3.38 In evidence at the second public hearing, an officer from NML
+informed the Committee that it was normal practice for the employer to
+complete a form and give authority to withdraw funds and that it would be
+signed by a person authorised by the trustees.
+17
+18
+Evidence, pp. 144, 145
+Evidence, pp. 135-139
+Ibid p. 136
+19
+
+
+3.39 However, the NML witness contended that NML's recollection was
+that each of the four beneficiaries gave 'leaving the service' as the reason for
+withdrawing from the fund and that Roslyn Kinder was the authorised
+officer who signed the Benefit Request Forms.20
+3.40 The Committee observes that, if these recollections are true, then,
+having regard to the fact that none of the four beneficiaries were leaving
+service, clearly the transfers were contrary to the trust deed provisions. The
+Towers Perrin Review supports this conclusion.21
+Mr S Curley
+3.41 Mr S Curley is the joint president of the State Public Service
+Federation and formerly president of the QPOA. He is a current trustee of
+the Fund. Mr Curley provided some background to the engagement of
+Towers Perrin in 1992 to conduct a review of the Fund following a decision
+of the governing body of his union.
+3.42 The matter of missing or otherwise unobtainable documents was
+significant during Mr Curley's evidence, with even legal advice being sought
+by the Executive at one stage on the confidentiality of the superannuation
+file which had been sought by Mr Curley. (This seemed odd to the
+Committee as the trustees decisions were taken at executive meetings of the
+union where non-trustees and non-beneficiaries attended as well as the
+trustees.) As a trustee of the Fund he thought it ludicrous to be denied
+access to that file.22
+3.43 Mr Curley gave evidence on the events leading up to the 1987
+withdrawals by referring to relevant Executive Minutes. A submission had
+been put to the Executive to do something to improve the performance of
+the Fund. Mr Curley claimed the four withdrawals eventually took place
+without any evidence to suggest that the other contributors were aware of
+what was happening.
+20 Evidence, p. 270
+21 Evidence, p. 17
+22 Evidence, p. 150
+Evidence, p. 155
+23
+
+
+Ms J M Eastwood
+3.44 This last view of Mr Curley was challenged in the evidence of Ms J M
+Eastwood, general secretary of the State Public Services Federation and
+another current trustee. She commenced employment in July 1990 as
+Assistant General Secretary. Ms Eastwood said the Minute books of the
+Executive were freely available in the executive room for anyone to sit in
+there and go through them.24
+Statutory Declaration
+Mr P D L Ranson
+3.45 Mr Ranson's statutory declaration was incorporated as evidence.25
+Mr Ranson was a councillor of the QPOA and attended council meetings
+in May and June 1992. His Declaration stated that several councillors
+wanting to examine the accounts of the Fund were denied such access by
+the General Secretary, on the grounds that the only people who could
+examine the accounts were the trustees of the Fund. At the time of the
+withdrawals OSS Regulation 17 required trustees of superannuation funds
+to provide, on request, certain financial and other information to members.
+Such information included copies of auditors' reports.
+3.46 The Committee considers there is a weakness in OSS Regulations in
+not requiring Trustees to provide such information as a matter of course.
+The Committee would regard it as imperative that SIS legislation take
+account of this critical aspect of fund administration.
+24 Evidence, p. 156
+Evidence, p. 159
+25
+
+
+
+
+CHAPTER 4: SECOND HEARING
+AND RELATED EVIDENCE
+Second Hearing and Related Evidence
+4.1 On 31 May 1993, again at Parliament House in Brisbane, the
+Committee held the second public hearing in this inquiry and questioned
+five witnesses. They were Mr Lee and Mr Rutherford (who had declined to
+appear at the first hearing), Mr Mike O'Neill representing Towers Perrin
+and two representatives from NML, Mr Peter Grace and Mr Bruce Webb.
+4.2 The Chairman reminded witnesses of the relevant Parliamentary
+Privilege Resolutions. Before the examination of witnesses began, three
+documents were incorporated into Hansard. They were as follows.
+ISC Legal Advice
+4.3 The ISC advice provided an opinion on the effect of clauses 11 to 13
+of the trust deed. This sought in response to the proposition put to the
+Committee at the hearing on the 29 April 1993 by Mr Higham that the
+extraordinary withdrawals were in accordance with the 'reserve' distribution
+provisions of the trust deed. The ISC advised that such a distribution should
+have been credited to member accounts and that, other provisions, namely
+leaving service, still needed to operate before benefits could be transferred
+(see paras 3.26 and 4.16).26
+Letter from Ms J Eastwood
+4.4 The letter from Ms Eastwood was in essence rebuttal of certain
+evidence received at the previous hearing, in particular a Statutory
+Declaration by Mr Peter Ranson regarding member access to minutes of
+meetings of the Fund trustees.27
+26
+Evidence, pp. 178-179
+Evidence, pp. 183-184
+27
+
+
+NML Submission
+4.5 NML responded to previous evidence submitted and the submission
+provided the focus for much of the oral examination of the two
+representatives from NML.28 The NML written submission focussed on the
+circumstances of the extraordinary withdrawals the retrospective
+amendments to the trust deed, Mr Buchanan's overpayment and the ISC
+determination that the Fund had breached OSS Regulation 17A in the 1989-
+90 and 1990-91 financial years.
+Oral Evidence
+C A Lee and G C Rutherford
+4.6 Mr Lee and Mr Rutherford appeared and, with the Committee's
+agreement, were accompanied by a Queen's Counsel and instructing
+solicitor.
+4.7 Mr Rutherford vigorously defended allegations of impropriety and
+implied conspiracy perceived to have been made against him by Mr
+Lindeberg at the previous hearing. Much of this evidence was not relevant
+to the Committee's terms of reference. Similarly, Mr Lee denied and refuted
+allegations made against him.
+4.8 Mr Lee emphasised that his support for the 1987 transfers was
+motivated by portability considerations in accordance with what he
+understood to be government policy at the time.29 He also believed if there
+had been any legal obstacle, the fund manager (NML) would have alerted
+the trustees. There was no favouritism he said, and any member could have
+requested the same treatment.
+4.9 Under questioning, Mr Lee said he was not aware of the need for
+separate minutes to be kept of trustee meetings, nor had he received any
+training in his duties as trustee. As he said:
+Trustees were not positions that were sought; they came with a particular position
+on the executive of the POA.30
+28
+29
+Evidence, pp. 184-201
+Evidence, p. 205
+Evidence, p. 206
+30
+
+
+4.10 There was an intense examination of the Martindale situation in the
+Committee's questioning of Mr Lee.31 He maintained that what Mr
+Martindale was paid in 1987 was fully funded, even though a later actuarial
+report found the other members of the fund were disadvantaged by the 1987
+payments. (Mr Martindale had been employed in 1982 on the basis, inter
+alia, that previous service would be counted for superannuation purposes.)
+4.11 The issue of 'double dipping' arose in that Mr Martindale had been
+paid his superannuation entitlement in full after his earlier period of service;
+then in 1987, this previous service had been again taken into account in
+calculating the amount of the superannuation payout. Mr Lee denied it was
+'double dipping', and said he had not believed the QPOA had a
+responsibility to fund any additional superannuation entitlement (nor indeed
+was there a need to do so) if it wanted to employ Mr Martindale on a
+certain basis. He persisted in his view that Mr Martindale merely got what
+he was entitled to in respect of the employer contributions, which had been
+made at the normal rate.
+4.12 Mr Lee said he made no inquiries whether the withdrawals would
+prejudice the position of the employer in respect of future contributions to
+the fund. In the face of the subsequent actuarial report which found a
+shortfall, he admitted he was wrong in believing there were sufficient
+moneys available in the Fund to make the 1987 payments.32
+4.13 During his period as a trustee, Mr Lee said he received no advice
+whatsoever from NML and that most of his information came through the
+secretary (of the QPOA - Mr Martindale).33 He said he had little
+knowledge of the trust deed, having only glanced through it at the time of
+signing and never receiving a copy.
+4.14 Mr Lee said he had little understanding of the responsibilities of a
+trustee and that it was Mr Martindale who gave advice on such matters to
+members of the executive.34 Whether this gave rise to a conflict of interest
+was not discussed at the time, but Mr Lee conceded such a conflict was
+possible. However, he maintained the view that these were merely transfers
+31
+Evidence, pp. 208 - 217
+32 Evidence, p. 218
+33 Evidence, p. 213
+Evidence, pp. 223-224
+34
+
+
+of benefits to another superannuation scheme, and that was the basis on
+which NML paid the money over, although in his written submission to the
+Committee he had acknowledged that the trust deed was 'silent' on this
+matter and that a retrospective 'resolution' was passed to allow such
+transfers.35
+Mr Rutherford
+4.15 On the Towers Perrin calculations Mr Rutherford was disadvantaged
+by the 1987 transfers. However, he did not see any possible disadvantage at
+the time. Mr Rutherford said he had no knowledge of how the fund was
+administered, nor did he have access to the minutes.36
+4.16 He denied indicating to Mr Milham of Towers Perrin that he had
+resigned from employment to get access to superannuation funds, thus
+refuting Mr Curley's evidence on this point at the 29 April 1993 hearing.37
+However, the Committee believes that leaving the service of the employer
+was a prerequisite for access to the benefits.
+4.17 Regarding the payment itself, which was made by NML to his personal
+fund, Mr Rutherford was not clear on whose direction that payment was
+made, nor was Mr Lee. In fact, the question of the authority on which NML
+made any of the 1987 payments became a key issue for the remainder of the
+hearing.38
+4.18 The other relevant evidence about how the payment to Mr Rutherford
+came about was that, according to Mr Rutherford, who was on the executive
+of the Credit Union, a recommendation came before his board from the
+Credit Union's accountant, Mr Daly, that the funds be transferred. Mr Daly
+of course was also one of the beneficiaries.
+NML and Towers Perrin
+4.19 Mr P G Grace and Mr B J Webb appeared as representatives of NML
+while Mr M D O'Neill represented Towers Perrin. The Committee examined
+35 Evidence, p. 34
+36 Evidence, p. 225 -227
+37 Evidence, p. 228
+Ibid p. 229
+38
+
+
+the NML witnesses at some length before turning to Mr O'Neill, from
+Towers Perrin then returning to Mr Grace and Mr Webb. (For simplicity,
+the evidence of the latter two is not distinguished, but referred to as NML.)
+4.20 NML spoke initially to their 27 May 1993 submission which had been
+incorporated in evidence. Very quickly the point came to the missing
+documentation relating to the 1987 payments. The Committee questioned
+NML vigorously on this important issue, but with very little result beyond
+the explanation that those documents had been submitted to the Cooke
+Inquiry and were never returned. Neither NML witness was working with
+the QPOASF client at the relevant time, but evidence was later given that
+staff involved at the time had been questioned and had recalled sighting the
+appropriate forms (See 4.35).
+4.21 NML said they had not attempted to recover all documents submitted
+to the Cooke Inquiry, and were not sure exactly what files had been
+submitted and what had been returned, although some had. They had left
+the matter of QPOASF documents and their recovery to the independent
+inquiry being conducted by Towers Perrin.39 Having regard to the gravity
+of the Cooke inquiry and the imperative for NML and the QPOA fund
+administration to keep a proper set of records, the Committee believes it is
+extraordinary that copies of all records submitted to the Cooke inquiry were
+not kept in a secure area within NML. This point is compounded by the fact
+that an NML print out of previous fund members, prepared for the Towers
+Perrin Review, in November 1992, indicated that no record existed for the
+payments to Mr Martindale, Ms Kinder, Mr Daly and Mr Rutherford. These
+were the only cases where no such records were held.40
+4.22 For the 1987 payments, NML agreed they received documentary
+evidence from the trustees together with requests from the beneficiaries.
+However, it was not clear who had signed the authorisations and of course
+the actual documents were missing. NML expressed no doubt about paying
+100 per cent vesting. This was allowed for in the trust deed they said, and
+they had no reason to question the exercise of the trustees' discretion in this
+respect.
+39 Evidence, p. 237
+40 Evidence, p. 18
+41 Evidence, p. 239
+
+
+4.23 At this stage of the evidence, the question of the Buchanan payment
+was discussed.42 NML pointed to the evidence of written instructions from
+the trustees to pay more than the 20 per cent vesting due to Mr
+Buchanan.43 At a later date, Mr O'Neill of Towers and Perrin provided the
+Committee with a copy of the relevant Benefit Request Form.44 The
+Committee notes that, notwithstanding that there were some difficulties
+regarding the quantum of the employer benefit, Mr Buchanan received his
+benefits in accordance with the 'leaving service' provisions of the trust deed.
+Audit
+4.24 The rather vexed issue of audit was then examined. NML said there
+was no request by them as administrators to have the QPOASF audited.45
+Rather there was simply a calculation every three years to work out what
+the reserve account was. (Note: Evidence at the previous hearing had cast
+doubt on the existence, or at least adequacy, of audit coverage of the
+QPOASF.)
+4.25 In evidence subsequent to the hearing, Mr O'Neill of Towers Perrin
+provided details of the legal requirements for the auditing of employer
+sponsored superannuation funds such as the QPOASF.
+4.26 They were essentially as set out in the following paragraphs 46 and 47
+of Income Tax Ruling 294 issued on 22 March 1983, with effect from 1 July
+1982.
+Auditors Certificate
+46. Bearing in mind the fiduciary nature of a superannuation fund it is
+important that, at all times, the fund is conducted in accordance with its
+constituent deed and complies fully with the requirements of Section 23F
+of the Income Tax Assessment Act.
+42
+See paras 3.10 to 3.13
+43 Evidence, p.192
+44 Letter to Committee of 3 June 1993
+45 Evidence, p. 243
+
+
+47. From 1982-83, therefore, it will be a requirement that every year in the
+case of a loan back fund and every three years in the case of other funds,
+a certificate be supplied by an independent auditor verifying that the assets
+of the fund actually exist in the fund, that they are in a form suitable for
+the purpose for which they exist, i.e. that in the event of retirement of
+resignation of employees the assets are readily realisable and indicating
+whether, in the opinion of the auditor, the fund is being conducted in
+accordance with its constituent document.
+The QPOASF was not a loan back fund and therefore was required to be
+audited every three years from 1982-83.
+4.27 Occupational Superannuation Standard Regulation 17 (1) (c) was made
+on 22 December 1987 with effect from that date. It states:
+(c) an audit of the accounts and records of a superannuation fund shall be
+required to be carried out, after the end of each year of income of the
+fund but not later than the day by which the return referred to in
+subsection 12 (1) of the Act is to be given to the Commissioner, by an
+approved auditor and an auditor's report shall be required to be given to
+the trustee or trustees of the fund in respect of each such audit.
+The date, by which the return referred to in subsection 12 (1) of the Act
+(the Annual Return) was to be given, depended on the date of
+establishment of the fund. For the QPOASF the return date would have
+been between April and June 1988. So the auditing requirements for the
+1986-87 year were as described in 4.26 above.46
+Other Matters
+4.28 NML said an annual review process by them produced a statement
+which went to each member. However, distribution was not direct, but by
+the employer to whom NML sent all such statements as normal practice. In
+preparing its report the ISC raised this inadequacy with the fund. The
+Committee also endorses this because it would assist in ensuring that
+members take a direct interest in the conduct of the fund and allow them
+to have more direct and timely access to information about their retirement
+benefits as they accumulate.
+46
+Letter of 3 June 1993
+
+
+4.29 In response to questioning by the Chair, NML said it was 'pretty
+common' in superannuation funds in 1987-88 to find the problems of lack of
+proper record keeping and lack of trustees knowing their duties.47 NML
+said they would accept the instructions of trustees provided there was no
+conflict with the trust deed.
+Mr Mike D O'Neill
+4.30 In representing Towers Perrin, Mr Mike O'Neill first outlined the
+history of the firm's involvement with the QPOA who had engaged them to
+investigate, inter alia, the question of whether extraordinary withdrawals had
+occurred from its superannuation fund. It was the judgment of Towers
+Perrin that the 1987 payments were in the nature of transfers. Mr O'Neill
+said:
+At the time of the transfers none of the members had an entitlement to a benefit
+at all, because they did not leave the service of the association, retire, die or
+become disabled. All that happened was that, for each member, an amount that
+had accrued in one fund was transferred to another.48
+4.31 Besides the question of compliance with the deed, Mr O'Neill said the
+issue was the possible detriment suffered by the remaining members of the
+fund. The explanation here involves their non-benefit, in this case, from the
+forfeited benefits normally available when other members left service early
+(less than ten years). In the 1987 transferees' case none were forfeited of
+course. The detriment is contingent on one or more of them leaving early,
+and the calculation can only be made if and when that occurs.
+The Correct Procedure
+4.32 As outlined by Mr O'Neill the trustees should have approached the
+employer sponsor (the QPOA) and obtained an undertaking, that any
+detriment that occurred would be calculated by an actuary and made up by
+the employer at the time. In the event, as soon as the QPOA actually
+became aware of the detriment it moved to fund it, according to Mr
+O'Neill.49
+47 Evidence, p. 250
+48 Evidence, p. 256
+49 Evidence, p. 257
+
+
+4.33 Mr O'Neill agreed that there was an intermingling of responsibilities
+between those of trustee and those of QPOA official. Also, record keeping
+was loose and there was a lack of understanding of the trust deed by the
+trustees. In their report Towers Perrin had not suggested any fraud, theft or
+intention to deceive said Mr O'Neill.
+We just simply commented that the rules of the deed were not followed and that,
+in some instances, the requirements of the legislation were not pursued.50
+Towers Perrin viewed transfers as needing to be authorised specifically in
+the trust deed.
+Final Questioning of NML
+4.34 The issue of missing documents arose again and NML agreed it was
+'odd' that the particular papers surrounding the 1987 payments had gone
+missing.51 As to how they saw the role of a fund administrator, NML said
+the role, as distinct from that of the trustee, was now becoming clearer with
+trustees making more decisions about what they require of an administrator.
+However, in 1987 trustees viewed their own role as 'honorary' and 'NML was
+expected to do everything'.52
+4.35 Regarding the benefit payment requests in respect of the four
+extraordinary payments, NML said that other personnel had recalled seeing
+these forms, signed by Roslyn Kinder, one of the authorised officers,53 with
+the box 'leaving the service' ticked.54
+4.36 After some miscellaneous questions, the hearing concluded with a
+direction that relevant documents apparently missing after submission to the
+Cooke Inquiry would be pursued, both by the Committee and by NML.
+Subsequent to the hearing the Committee was informed by both the
+Queensland Government and NML that the four Benefit Request Forms
+could not be found.
+50
+Evidence, p. 260
+51 Evidence, p. 266
+52 Evidence, p. 269
+53 Evidence, p. 241
+54 Evidence, p. 270
+
+
+
+
+CHAPTER 5:
+PRUDENTIAL CONTROLS
+Prudential Controls
+Relevant Term of Reference:
+(c) the adequacy of prudential control arrangements applying
+to superannuation funds
+5.1 Prudential Controls are the measures instituted to supervise and
+control activities in the superannuation industry to ensure the security of
+contributor's funds.55
+5.2 In this section the Committee examines these controls as they applied
+to superannuation funds at the time of the extraordinary withdrawals in
+January 1987. Essentially the only statutory controls were by taxation law.
+In its first report, Safeguarding Super, the Committee recommended that
+OSS be amended or replaced so that the ISC -
+• can impose a range of civil penalties and institute criminal proceedings
+against trustees and directors of corporate trustees;
+• has power to remove trustees and directors of corporate trustees and
+appoint judicial managers where it suspects that trustees/directors are not
+fulfilling their fiduciary obligations. Such powers would need to have
+appropriate safeguards for individuals who were subsequently found to be
+innocent of any wrong doing; and
+• be given power to institute civil proceedings against trustees and directors
+of corporate trustees on behalf of members.5
+55 Glossary, p xi of Safeguarding Super
+Safeguarding Super, p 44
+56
+
+
+Those Duties of Trustees Relevant to the Inquiry
+5.3 In this section the common law standards are examined. The authority
+for the law in this area is Australian Superannuation Law and Practice the
+reporter publication by CCH Australia Limited.57
+• General
+5.4 Persons who administer superannuation funds must act not only in
+accordance with the provisions of the trust deeds governing their particular
+funds, but must also pay due regard to the general trust law. They must
+accordingly consider the duties of trustees generally. In many funds, the
+deeds modify these duties, but may not eliminate them.
+• Must act personally
+5.5 Generally a trustee must act personally and 'as a general rule a trustee
+sufficiently discharges his duty if he takes in managing trust affairs all those
+precautions which an ordinary prudent man of business would take in
+managing similar affairs of his own'.58
+• On acceptance of trust
+5.6 A trustee, on accepting the trust, should make himself thoroughly
+familiar with the terms of the trust.
+• Not to deviate from terms of trust
+5.7 A trustee has an obligation to observe faithfully the directions
+contained in the trust deed.
+• To act impartially
+5.8 A trustee has a duty to act impartially as between the beneficiaries,
+especially where there are conflicting interests, or where different categories
+of beneficiaries are involved in the trust. This may be of particular relevance
+57
+58
+Paras 18-210 to 18-218
+Speight v. Gaunt (1893) 9 App. Cas. 1 per Lord Blackburn at p. 19
+
+
+in a payment of benefits on death. It may also be of significance if a fund
+is being terminated.
+• Not to delegate the trust
+5.9 Trustees cannot delegate the performance of their duties unless they
+have authority to do so. A trustee generally has power to act through agents
+in particular matters.
+• Not to Profit from the trust
+5.10 'It is an inflexible rule of the Court of Equity that a person in a
+fiduciary position ... is not, unless otherwise expressly provided, entitled to
+make a profit; he is not allowed to put himself in a position where his
+interests and duties conflict.'59
+• To keep accounts and records
+5.11 A trustee must keep proper accounts relating to the trust he is
+administering. Trustees must also maintain records relating to the trust and
+its beneficiaries. Certain trust documents must be available for inspection by
+beneficiaries, namely all documents which contain information about the
+trust which the beneficiaries are entitled to know.
+Discharge of those Duties
+• Generally
+5.12 The Committee finds that the original trustees of the QPOA
+Superannuation Fund have a record which, in a number of respects, is open
+to criticism. It is possible they did breach trust law at the time of the
+extraordinary transfers in January 1987, but at best it appears they were not
+properly mindful of their duties as trustees or, if they were mindful, elected
+to disregard them.
+59 Bray v Ford (1896) AC 44 per Lord Herschell at p. 51
+
+
+Acting personally
+5.13 The 'prudent man of business test' would seem to be hard to satisfy on
+the evidence presented at the hearings, but such a finding would depend of
+course on a legal interpretation and is outside the scope of the Committee's
+investigation.
+• On accepting of trust
+5.14 From evidence presented by the original trustees themselves there was
+a very limited understanding of the trust deed, nor did the Committee find
+much of an attempt by the trustees to become familiar with the provisions
+of the deed. The Committee believes that, in singling out four members for
+special benefits, that act at least should have caused the trustees to ensure
+the provisions of the trust deed were complied with, seeking professional
+advice if needed.
+• Not to deviate from terms of trust
+5.15 The Committee agrees with the finding of Towers Perrin that the 1987
+transfer payments were a clear deviation from the terms of the deed. The
+necessity of a formal amendment to validate the payments is evidence on its
+own of such deviation, although there was an alternative interpretation of
+clause 12 put forward by Mr Higham which, if correct, would have allowed
+the payments.
+5.16 The Committee sought legal advice on the view expressed by Mr
+Higham at the hearing on 29 April, that clause 12 of the deed permitted the
+distribution of reserve funds in the manner of the 1987 transfers. That
+advice suggested:
+(a) even if such a distribution could be made it should be by
+credit to the member's account not cash payment, and
+(b) payment of such an augmented benefit would be subject
+to the same condition as any benefit, namely leaving
+service.
+5.17 The Committee heard some evidence suggesting the relevant benefit
+payment request forms had been marked 'leaving service' which may indicate
+
+
+that at least one trustee knew this was a requirement of the trust deed
+before payments could be made.( See 4.35)
+• To act impartially
+5.18 The Committee considers this perhaps the most significant duty in
+relation to the QPOASF inquiry. In making the extraordinary payments in
+January 1987 to just four members, one of whom (Mr Martindale) was
+himself a trustee, the Fund's trustees could not be seen to have acted
+impartially. Even if the payments themselves were legitimate, which is
+doubted, the fact that all other members were not offered similar
+entitlements is evidence of breach of this duty. In this respect the Buchanan
+payout in 1987 is also relevant.
+5.19 The position of Mr Martindale arises here (see 5.22 also). At the
+hearing on 29 April, in answer to a question on how many among the key
+executives stood in some form of conflict of interest, Mr Martindale said
+this. 'One, I suppose - I was a trustee and beneficiary.'60 There was no
+evidence that Mr Martindale stood aside for the Executive consideration of
+the benefit payments.
+• Not to delegate the trust
+5.20 The Committee found relevant the evidence from Mr Lee and Mr
+Martindale of their reliance on NML for guidance and direction. Whether
+that reliance amounted to technical delegation is arguable however, with
+NML being formally the administrator of the Fund. A further point here is
+the absence of formal Trustee meetings, and the corresponding 'defacto'
+delegation of trustee responsibility to the QPOA Executive.
+5.21 Such a delegation to the Executive clearly represents the employer
+side of the superannuation scheme. The employee side of the plan received
+no such special treatment.
+• Not to profit from the trust
+5.22 As he was both a fund trustee and a beneficiary, Mr Martindale's
+involvement with his 1987 payment is relevant in that there was a potential
+60
+Evidence, p. 122
+
+
+for a conflict of interest to occur. Did his interests and duties conflict? The
+Committee considers his interests and duties did conflict and he created the
+problem by placing himself in a such a position. A preferable course of
+action for Mr Martindale would have been for him to disqualify himself
+from the decision making process on the 1987 withdrawals.
+• To keep accounts and records
+5.23 The Committee found a significant deficiency here in relation to the
+absence of trustee minutes, questionable audits and the lack of access to
+documents by members of the Trust.
+The Trust Deed
+5.24 The main reasons for having such a document are to:
+(a) set out the rights and obligations of the persons involved - the
+members, the employer and the administrator of the fund (the
+trustees);
+(b) define the terms and conditions of the fund - the contributions,
+the form and level of benefits, the circumstances in which
+benefits are to be paid, the persons who are eligible to become
+members, and so on;
+(c) ensure that the fund will qualify for concessional income tax
+treatment;
+(d) permit prompt payment of the benefit arising on the death of a
+member of the fund.61
+5.25 The installation of a fund provides an opportunity for the employer
+to improve relationships with employees. But the employer needs to be able
+to satisfy the employees as to the terms and conditions of the fund. A copy
+of the completed document relating to the fund should be produced on
+request.
+61
+Australian Superannuation Law and Practice, CCH, para. 17-310
+
+
+5.26 The trust deed is the document which governs a superannuation fund.
+A major weakness in the QPOASF deed was a lack of reference to meetings
+of the trustees and the absence of a provision for resolutions to be recorded
+in the minutes of those meetings. [Note: The Committee also considers that,
+given there were two sponsoring employers of the QPOASF (the QPOA and
+the Credit Union), there should have been a second and separate set of
+minutes kept.]
+5.27 The Committee took a particular interest in the making of
+retrospective changes to the trust deed. At issue was whether the insertion
+in the trust deed of a new clause 35 was designed to 'legitimise' the
+extraordinary withdrawal in that it permitted the transfer of benefits from
+the QPOASF to another complying fund whether or not members remained
+in service.
+5.28 Whilst the Committee can understand the need to make retrospective
+changes to a trust deed to ensure that legislative requirements are complied
+with, it has had some difficulty in accepting the advisability of other
+retrospective changes. Also, the Committee is concerned that changes to
+trust deeds which change the financial position of members should be
+executed only after members have been appropriately advised.
+Role of the Administrator
+5.29 Responsibility for administration of a fund rests with the trustees. The
+trustees are not required to carry out the administrative work themselves,
+but they are responsible for seeing that it is done and that the terms of the
+trust are observed. In a small fund, the trustees may carry out the
+administrative work themselves. They may establish and maintain the records
+of members, make and record the investments of the fund, prepare and
+lodge annual returns, issue statements to members, keep the accounts of the
+fund, pay the benefits, keep minutes of their meetings and resolutions and
+do all the other work relating to the fund.62
+5.30 With the QPOA Fund, although small, it was mainly NML who acted
+in this administrative capacity. The Committee found considerable
+uncertainty about exactly what was, or should have been, the division of
+62 CCH, para. 10-010
+
+
+responsibilities between the trustees and the administrator. There is a need
+for such arrangements to have greater formality and the Committee
+considers the management role by NML should have contractual certainty
+to ensure, inter alia, that performance can be assessed.
+Role of The Regulator - OSS Regulations
+5.31 The Occupational Superannuation Standards Act (OSS) governs the
+conditions that each fund must satisfy before concessional tax treatment will
+be available for contributions to the fund and for fund income. The OSS
+Regulations spell out various operating standards for superannuation funds,
+and otherwise flesh out the legislation.
+5.32 OSS and the Regulations commenced on 21 December 1987, but in
+most respects are deemed to apply from 1 July 1986. For practical purposes
+this means that, for income years 1986/87 onwards, the supervision of
+superannuation funds is undertaken by the ISC under OSS and the
+Regulations.
+5.33 The Committee notes that possible breaches of the Regulations by the
+QPOA Fund have been indicated by the ISC.
+Audit Requirements
+5.34 Paragraphs 4.24 to 4.27 above provided an interpretation of the
+requirements here. Documentation received by the Committee indicates an
+audit of the QPOASF in accordance with those requirements was
+undertaken for the year ended June 30 1988.
+5.35 Under OSS Regulations the accounts and records of a superannuation
+fund must be audited each year as part of the operating standards which a
+complying superannuation fund must satisfy. The audit must be carried out
+by an approved auditor.
+5.36 The Regulations do not actually prescribe the nature of the audit to
+be carried out, except that the auditor must satisfy himself that he is able to
+provide the auditor's certificate which must be submitted by the fund to the
+ISC. This certificate makes it clear that the auditor must conduct the audit
+of the accounts and records of the fund in accordance with the Australian
+
+
+Auditing Standards, and contains provision for the auditor to specify any
+qualifications contained in the audit report.63
+5.37 In relation to the years prior to 1987-88 the evidence was not always
+clear in relation to auditing of the QPOA Fund. However, the Committee
+expresses a general dissatisfaction with the apparent inability of whatever
+auditing was done to raise some questions about the 1987 transfers at least.
+(See also 3.17 and 3.28.)
+5.38 Another point of concern to the Committee was the absence of
+minutes of Trustee Meetings to accompany the accounts.
+63
+CCH, para. 11.210
+
+
+
+
+CHAPTER 6:
+REPRESENTATION ON
+TRUST STRUCTURES
+Representation on Trust Structures
+Relevant Term of Reference:
+(i) the representation of fund members in trustee structures
+of superannuation funds
+Trustees for Whom?
+6.1 As the QPOA Fund was established on 1 June 1985, OSS Regulations
+do not impose conditions relating to the appointment of trustees until
+1995.64 At the time of the extraordinary withdrawals the trustees were
+appointed by the employer sponsor, the QPOA. The Committee's concerns
+about the appointment and role of trustees are in the context of the 1987
+transfers. Especially is this so as one of the trustees at that time, Mr
+Martindale, was a major beneficiary in that package of transfers. The
+Committee considers the trustees could not be perceived to be acting for all
+the members of the fund in its conduct over that period.
+Conflicts of Interest
+6.2 See also paragraphs 5.8 and 5.17 on the duty to act impartially. As
+well as that specific duty to act impartially the Committee considers the
+need to be seen to be acting impartially as important as the duty itself. More
+balanced trustee representation assists that perception. For example, a non-
+executive trustee may well have improved the trustee balance of the original
+QPOA Fund.
+64
+CCH, para. 17.368
+
+
+6.3 Mr Higham's evidence, which was contested by the Committee, stating
+that the trustees acted in accordance with both the deed and in pursuit of
+sound employer/employee relations was significant on this point (see
+paragraph 3.25). It is quite legitimate for the Fund to be intended to
+forward the interests of the sponsoring union as well as of the members.65
+However, the Committee considers that the employer's interests in this
+respect involve matters of employee management and relations, interests
+which are not well served by unusual and undisclosed payouts to individual
+members.
+Meetings, Agendas and Minutes
+6.4 It is proper that, at meetings of trustees, resolutions relating to
+payments of benefits will be recorded. The deed will usually confer some
+discretionary powers on the trustees, and the minutes will record how these
+powers are exercised on each occasion. For example, when a member
+resigns, the trustees may determine the amount of the withdrawal benefit
+(the deed may set upper and lower limits to the amount of this benefit).66
+6.5 Problems for the QPOASF in this area were apparent in much of the
+evidence presented. For example, the absence of specific QPOASF trustee
+meetings and minutes, and communication of these to members, was a
+disturbing part of the inquiry and the Committee considers these deficiencies
+were largely responsible for the subsequent confusion, mistrust and
+allegations.
+Obligation to All Members
+6.6 Inherent in the law relating to trusts in general, and superannuation
+funds in particular, is the protection of the interests of beneficiaries who, in
+the case of superannuation funds, are the members. That of course means
+all members. The Committee found that the actions of the trustees of the
+QPOASF in 1987 did not fulfil this obligation. Only a select few were
+offered the transfer option and, again here, the surrounding secrecy did little
+to encourage confidence by other members in the trustees.
+65 Mr Higham was a trustee at the time of the withdrawals
+CCH, para. 8-710
+66
+
+
+Generally
+6.7 The policy of tying trustee appointments to executive positions with
+the sponsoring employer may be simple, but the Committee considers that,
+of itself, it has little merit. Trustee representation, and the need for equal
+representation from both employees and employers, was a matter considered
+by the Committee in Chapter 5 of its first report Safeguarding Super and,
+in particular, Recommendation 5.1:
+The Committee recommends that the requirement for equal
+employer/employee representation should apply to all funds with arms'
+length members; that is, funds with five or more members. 67
+67 Safeguarding Super, p. 62.
+
+
+
+
+CHAPTER 7:
+INFORMATION TO MEMBERS
+Information to Members
+Relevant Term of Reference:
+(h) the information available to members of superannuation funds
+Requirements
+7.1 As part of the operating standards under OSS Regulations, a
+complying superannuation fund is required to provide fund members with
+such information and reports on request by a member, or at specific periods
+or on specified occasions, as prescribed in Regulation 18C to 18P. These
+reporting and disclosure requirements are largely designed to provide fund
+members with information in relation to their individual benefit entitlements,
+as well as the operation and performance of funds. Additional information
+requirements are imposed if the fund is a multi-member fund (i.e. a fund
+with five or more members).
+7.2 The operating standards require trustees of all superannuation funds
+to provide information to their members in the following circumstances:
+• when members (or before prospective members) join the fund;
+• when members leave the fund;
+• when requested by members;
+• when alterations are made to the fund's governing rules; and
+• regular reporting (at least annually) to members concerning
+their benefit entitlements (i.e. the provision of a benefit
+statement to each member).
+
+
+7.3 For multi-member funds, the trustees are also required to provide the
+following information to their members:
+• advance notification of a return of surplus funds to employer
+sponsors or of amendments to the fund's governing rules which
+have a similar effect;
+• advice to fund pensioners and people with deferred benefits of
+the availability of certain reports on request; and
+• annual information concerning the fund's financial condition,
+investment objectives and administrative arrangements (i.e. an
+annual report to members).68
+7.4 See 5.25 regarding the availability of the deed, or at least the terms
+and conditions of the fund. The Committee considers there was a gross
+inadequacy at all times in the provision of information to members,
+especially in relation to the 1987 transfers. In fact the Committee finds more
+a measure of secrecy, at least in regard to the fine detail of those payouts.
+As expressed elsewhere, this lack of openness was responsible for many of
+the problems that emerged and gave rise to this inquiry.
+Adherence to the Requirements
+7.5 While the Committee may not have received all the relevant evidence
+on information provided to members, it was found there was:
+• not a culture or practice to involve members generally in the
+operation of the Fund, especially its early years; and
+• a policy of special arrangements for some members, and
+apparent lack of reporting to other members, by the appointed
+trustees which is contrary to the spirit and intent of the above
+requirements.
+68
+CCH, para. 11.190
+
+
+Minutes of Meetings
+7.6 There was conflicting evidence on this aspect of reporting. The
+Committee cannot resolve such conflict, but again the differences in
+evidence pointed to a most unsatisfactory level of cooperation between
+certain people involved with the Fund.
+7.7 In any event, what was being debated was the Executive minutes, not
+those of trustee meetings which of course did not take place in the proper
+manner. In a strictly technical sense 'the minutes' never existed.
+Accounts and Other Particulars of the Fund
+7.8 Mr Ranson, a fund member, in his Statutory Declaration was quite
+specific in the denial of access by councillors of the QPOA to the accounts
+of the Fund. Whether those councillors were also members is not clear (See
+3.42). In Ms Eastwood's letter published in the Hansard of the second
+hearing, she disputed Mr Ranson's allegations of restriction on access to the
+accounts.
+7.9 In Mr Curley's evidence (see 3.35), the denial of access by him to the
+QPOA superannuation file is significant, as it began a legal questioning of
+the confidentiality of that file which became quite an issue in itself.
+7.10 The Committee found on the basis of the evidence that fund members
+had insufficient notice or knowledge of the Fund's accounts and trustee
+decisions.
+
+
+
+
+CHAPTER 8:
+VESTING, PRESERVATION
+AND PORTABILITY
+Vesting, Preservation and Portability
+Relevant Term of Reference:
+(k) the rules applying to contributions and the vesting
+and preservation of benefits
+8.1 The respective definitions are:
+Vesting is the established entitlement of a member to his or her own
+contributions to a superannuation fund, the employer's contributions,
+and accrued interest.
+Preservation is the maintenance of a member's entitlements in a
+superannuation fund until a specified minimum age (usually at least
+55).
+Portability is allowing a superannuation plan to be transferred from
+one fund (or one employer) to another.65
+The Focus
+8.2 In this chapter the Committee confines itself to the circumstances of
+the 1987 transfers. The vesting provisions which applied are described in
+paragraph 2.2 and Table 2.1 in Chapter 2.
+The Vesting Outcomes
+8.3 Details of amounts transferred are in paragraph 2.5 and Table 2.2.
+The Committee found that at the date of the transfers none of the four
+69
+Safeguarding Super, June 1992, pp. xiii, xiv
+
+
+beneficiaries had qualified for the full employer accumulation amounts
+which were actually paid out.
+8.4 However, Mr Martindale said that recognition of prior employment for
+superannuation purposes was part of his appointment as General Secretary
+in late 1982 (See 3.29). He commenced duty in that position on 28 January
+1983 and concluded on 30 November 1990. 0 At a December 1982 meeting
+of the Executive of the QPOA, a resolution was passed to recognise the
+prior service in this way.
+8.5 That Executive resolution was not a trustee determination as required
+under the second limb of the definition of service in the trust deed.
+Therefore, leaving aside the retrospective amendment of 1990, neither Mr
+Martindale's nor any of the transfers of January 1987 were in accordance
+with the beneficiaries' entitlements. The Committee believes that this aspect
+of the inquiry highlights the inconsistencies which can arise when a body
+other than the trustees assumes the decision-making role.
+Preservation and Portability
+8.6 OSS Regulations 9 and 10 contain standards setting out the benefits
+which must be preserved if a fund is to qualify as a complying
+superannuation fund. The manner in which the benefits are to be preserved
+is set out in Regulation 11. Regulation 12 provides that preservation is not
+required where the amount of the benefit is less than the specified figure.
+Regulation 10 has operated from 22 December 1986 while 9, 11 and 12
+apply from 1 July 1986.71
+8.7 Regulation ll(l)(c)(ii) provides for three acceptable portability
+arrangements, one of which is as follows:
+The benefit may be transferred to another superannuation fund nominated by a
+person in whom the benefit is vested, if that person is or becomes a member of
+that other fund, and if that fund is required to preserve any benefits so transferred
+in a manner which satisfies the standards under Regulation 11.
+70
+Towers Perrin letter of 13 November 1992
+71
+CCH, para. 34-750
+
+
+Conclusion
+8.8 Whilst the Committee in no way wishes to condone the improper
+actions of the trustees in transferring benefits from the QPOASF to
+individual funds, the Committee takes issue with the provision of the trust
+deed which provided only partial vesting of employer benefits during the
+early years of employment.
+8.9 Had immediate and full vesting of benefits been a feature of the trust
+deed, in all probability the dispute about the amount of benefits would not
+have arisen.
+
+
+
+
+CHAPTER 9:
+DISPUTE RESOLUTION AND
+OTHER MATTERS
+Dispute Resolution and Other Matters
+Relevant Term of Reference:
+(j) the dispute resolution mechanisms available to members
+of superannuation funds
+Overview
+9.1 The Committee found much of the evidence presented to the inquiry
+demonstrated a lack of cooperation, professional application and general
+goodwill in the operation of the QPOASF.
+9.2 It was of concern to the Committee that several participants among
+the witnesses and others who made submissions to the inquiry, were
+motivated by interests apart from, or only incidental to, superannuation.
+However, there were a number of superannuation aspects in genuine
+dispute, mainly arising from the 1987 transfers, but also some of a more
+general character which have been examined in the earlier chapters.
+9.3 The Committee believes that to some extent it became something of
+a clearing house, or release valve, for all manner of disputation involving the
+QPOA. The complainants appeared dissatisfied with the QPOA and quasi-
+judicial bodies investigating the QPOA. They believed their concerns
+warranted further examination. Aside from the non-superannuation issues
+which arose, this inquiry confirmed the need for a formal disputes resolution
+framework in the superannuation arena.
+
+
+The Solution
+9.4 In its seventh report, Super Inquiry Overview, in the context of the
+application of the adverse evidence rule, the Committee reported:
+The Committee acknowledges that the existence of a low cost, accessible and
+equitable dispute resolution mechanism is the appropriate means of settling such
+disputes, but until such a tribunal of agency is established, consumers of
+superannuation products will have no alternative other than to seek the assistance
+of parliamentary committees to achieve a just settlement of a dispute.
+It is acknowledged that for a number of reasons it is inappropriate for
+parliamentary committees to assume this role. First, they run the risk of being
+overwhelmed by complaints or allegations and thereby distracted from finalising
+other equally important business. Second they are not well placed to adjudicate
+on the merits of individual cases or to inquire into alleged wrongful conduct,
+however, they may recommend that other agencies reconsider or investigate
+decisions. Nevertheless, Committees can be a useful 'release valve' to allow
+individuals who have exhausted other opportunities to express their concerns and
+bring to the attention of legislators ideas for reform. 72
+9.5 The sixth Committee report reiterated a specific recommendation from
+its first report, that an external review body be established to adjudicate on
+superannuation disputes.73 Such a body could scarcely have been more
+useful than in the case of the QPOASF.
+Related Difficulties Encountered by the Committee
+9.6 In the course of its inquiry the Committee was confronted with various
+allegations of impropriety, conspiracy and even illegal behaviour on the part
+of persons associated with the QPOASF. Some of this evidence was
+unsubstantiated and that which was irrelevant to superannuation was not
+tested.
+9.7 Another, but quite separate problem encountered by the Committee
+was the extreme difficulty experienced in trying to examine the completed
+Benefit Request Forms relating to the 1987 transfers. First it was discovered
+72 Super Inquiry Overview, paras. 4.28, 4.29
+73 Super - Fees, Charges and Commissions, Recommendation 3.9
+
+
+that NML had included these forms with other documents submitted to the
+Cooke Inquiry. Then NML disclosed they had not kept copies of material
+submitted, due to the large volume involved, and the originals had not been
+included in files returned to them on completion of that inquiry.
+9.8 At the second public hearing on 31 May 1993, the Committee agreed
+that these missing documents should be pursued, with NML and the
+Committee secretariat both making the appropriate inquiries.
+9.9 Following that direction, and following due process as well as seeking
+cooperation, the Committee secretariat contacted the following Queensland
+authorities:
+• Department of Employment, Vocational Education, Training
+and Industrial Relations (DEVETIR);
+• State Archives; and
+• Justice and Attorney-General's Department.
+Also, the Chair wrote to the Group Managing Director of NML seeking his
+cooperation in locating the missing documents. The responses to these
+approaches indicated the documents had been lost. Appendix B has details
+of the relevant correspondence while Figure 9.1 is an example of a benefit
+payment request form in use in 1987.
+9.10 The Committee considered the difficulties associated with sighting
+these documents reflected poorly on NML in particular, and it is to be
+hoped that better practices in securing important documentation will be
+followed by NML as a result of the QPOASF experience.
+Costs
+9.11 In the area of dispute resolution the question of costs is important.
+The QPOA has incurred substantial costs in the hiring of Towers Perrin as
+consultants, having to 'top up' the fund to compensate for the effects of the
+1987 transfers as well as expense in other direct and indirect ways. Witnesses
+have employed legal counsel, suffered disruption to their lives and generally
+much time has been taken up with wrestling over problems with the
+QPOASF.
+
+
+
+
+Conclusion
+9.12 The Committee finds it strange that given all the documents produced
+and examined in the course of this inquiry, it is the crucial Benefit Request
+Forms which are missing. In oral evidence, NML agreed this was odd (see
+4.34). The possibility of the intentional removal of the documents, by a
+person (or persons) unknown, cannot be ignored. Particularly is the
+Committee concerned because it is possible that these documents may have
+contained evidence of conduct intended to mislead the fund administrator.
+9.13 Whilst there has been a considerable level of disputation about the
+operations of the fund, the costs incurred as a result of wrongful trustee
+decisions have not detrimentally affected the entitlements of fund members.
+In this regard one of the employer sponsors of the fund (the QPOA) has
+made payments to a special fund to ensure that any shortfalls have been
+corrected.
+
+
+
+
+CHAPTER 10: CONCLUSION
+Conclusion
+10.1 The Committee's findings in this inquiry have been incorporated
+throughout the report. Only two formal recommendations have been made.
+Remembering that the inquiry was conducted in response to Submission
+Number 279, from a union member alleging certain improprieties had
+occurred in the conduct of the union's employee superannuation fund, the
+purpose was to investigate only those matters raised which were relevant to
+the Committee's terms of reference. With that in mind, the Committee
+makes these final observations.
+Generally
+10.2 There was great value in the examination in depth of specific problems
+associated with a single superannuation fund. Many of the issues and
+recommendations arising from other Committee reports were strengthened
+by the experience of the QPOASF inquiry.
+10.3 Evidence presented at the public hearings, and by written submission,
+suggested a sensitivity of the superannuation issue to other problems within
+an organisation. Particularly for employer sponsored funds, there are clear
+lessons to separate executive and trustee responsibilities not only to meet
+the legal requirements, but to foster greater openness and confidence in
+fund administration and management. Separate trustee meetings, and
+greater openness in the management of the QPOASF, would have avoided
+at least the worst of the problems which gave rise to this inquiry.
+Government Supervision
+10.4 The experience of the QPOASF crossed the periods before and after
+OSS, and the introduction of the Superannuation Industry Supervision Bills
+into the Parliament. The ISC has signalled its problems with the QPOASF
+and some issues are still in question. However, the Committee considers
+perhaps the more important role of government in preventing a QPOASF
+situation is in the area of education, both of trustees and members as to
+their respective rights and responsibilities.
+
+
+10.5 The Senate Select Committee on Superannuation inquiry in the
+QPOASF was undoubtedly a 'safety valve' and outlet for much of the
+antagonism which underlay relationships between different parties associated
+with the Queensland Professional Officers Association. In adjourning the
+first public hearing in Brisbane, the then Chair expressed the hope that the
+parties could 'resolve' their 'differences'.74
+10.6 Through a close study of this one fund the Committee observed the
+consequences when the principles of trust law are neglected or abused.
+Recommendation 1;
+The Committee recommends the early implementation of legislation to
+increase the prudential control and supervision of superannuation funds.
+Missing Documents
+10.7 The Committee has expressed concern about the missing Benefit
+Request Forms. The Committee's inability to obtain these forms reflects
+poorly on a number of organisations. It seems extraordinary that the
+QPOASF, NML, DEVETIR and the Queensland State Archives were
+unable to assist the Committee. Similarly, it is of deep concern that these
+organisations did not provide evidence of their maintaining a register of
+documents with details of each document and its movements by date and
+recipient.
+Recommendation 2:
+The Committee recommends that the Queensland Attorney-General and
+Minister for Justice Investigate the circumstances surrounding the loss of
+the four Benefit Request Forms, Further* the Committee recommends that
+the Queensland Government review its archiving policy to ensure that all
+evidence tendered to quasi-judicial bodies is retained.
+74 Evidence, p. 173
+
+
+Conclusion
+10.8 This report clearly demonstrates that there needs to be a convergence
+of the rights of members and the responsibilities of trustees. Where these
+two essential ingredients of sound superannuation fund practice diverge,
+there exists potential for unnecessary and protracted disputes. The QPOASF
+experience has resulted in considerable expense being incurred by the
+employer sponsor to 'top up' the Fund's loss of assets. Individual members
+have expended time and money discovering what occurred during the period
+under scrutiny. Likewise, the trustees, both past and present, have incurred
+detriment which would have been avoided had the principles of trust law
+and the provisions of the trust deed been upheld.
+10.9 As a result of this inquiry into the QPOASF, in examining the
+Superannuation Industry Supervisory Bills during the Budget 1993 sittings,
+the Committee will use the following principles to test the legislation:
+• Trustees should give members access to any information about
+changes which may materially influence their superannuation
+fund.
+• Trustees should act in an impartial manner ensuring that
+potential or actual conflicts of interest are avoided.
+• Trustees should become aware of the provisions of the trust
+deed which they administer and seek advice should they be
+uncertain about the correctness of their actions.
+• Trustees have an obligation to inform members about proposed
+changes to the trust deed and seek their views.
+• Members should have access to a low cost dispute resolution
+mechanism should they wish to challenge a ruling of their
+trustees.
+10.10 The Committee concludes that what occurred in the QPOASF
+reflected poorly on the employer body and its trustee representatives. The
+maladministration, sloppiness of record keeping and the propensity of
+certain persons to become involved in conflicts of interest were inexcusable.
+From the vantage point of two years of experience in scrutinising the
+
+
+superannuation industry, the Committee believes that the QPOASF was not
+alone in this regard. The problems exposed in this inquiry yet again confirm
+the Committee's view that there is a need for far reaching legislation to
+ensure that trustees properly discharge their duties.
+
+
+APPENDIX A
+LIST OF WITNESSES
+Appendix A: List of Witnesses
+Brisbane, 29 April 1993
+Mr S Curley
+Joint President
+State Public Services Federation
+Mr K Daly
+Ms J Eastwood
+Joint Secretary
+State Public Services Federation
+Ms R Kinder
+Mr G Rutherford
+Brisbane, 31 May 1993
+Mr Peter Grace
+Corporate Superannuation Services Manager
+National Mutual
+Mr Cecil Lee
+Mr Michael O'Neill
+Consultant
+Towers, Perrin, Forster & Crosby Inc.
+Mr Gordon Rutherford
+Mr Bruce Webb
+Account Manager
+National Mutual
+
+
+
+
+APPENDIX B
+COMMITTEE CORRESPONDENCE
+ON MISSING DOCUMENTS
+AUSTRALIAN SENATE
+CANBERRA. A.C.T.
+SELECT COMMITTEE ON SUPERANNUATION
+33/1 (279) Pt 2
+3 June 1993
+Queensland State Archivist
+PO Box 1397
+Sunnybank Hills
+QUEENSLAND 4109
+PARLIAMENT HOUSE
+CANBERRA. ACT 2600
+TEL: (06) 277 3439
+FAX: (06) 277 3899
+Dear Madam
+Documents Submitted to the Cooke Inquiry
+Queensland Professional Officers Association Superannuation Fund
+Under its terms of reference this Committee has undertaken an inquiry into the
+operation of the above fund during the period 1985 - 1992.
+In order to complete this inquiry the Committee needs to examine certain
+documents, including those relating to withdrawals from the fund in 1985. Evidence
+before the Committee by National Mutual indicated that they had previously
+submitted their only copies of these documents to the Cooke Inquiry and therefore
+they were unable to assist the Committee in this matter.
+As the Cooke Inquiry has concluded, it is possible these documents have been
+archived. If so, your cooperation is sought in the provision of these documents for
+examination by the Committee. In particular, the following are requested:
+. benefit payment request forms and other payment details of 1985
+withdrawals in the names of: . K Daly
+. R Kinder
+. D Martindale
+. G Rutherford;
+. any other benefit payment forms; and
+. all other documents submitted which involved the Queensland
+Professional Officers Association Superannuation Fund.
+As the Committee needs to complete its final report on this matter without further
+delay, your early response would be greatly appreciated.
+You:
+faithfully
+Ridyrd Gilbert
+Secretary
+
+
+AUSTRALIAN SENATE
+CANBERRA. A.C.T.
+SELECT COMMITTEE ON SUPERANNUATION
+33/1 (279) Pt 2
+3 June 1993
+Queensland State Archivist
+PO Box 1397
+Sunnybank Hills
+QUEENSLAND 4109
+PARLIAMENT HOUSE
+CANBERRA. A.C.T 2600
+TEL: (06) 277 3439
+FAX: (06) 277 3899
+Dear Madam
+Documents Submitted to the Cooke Inquiry
+Queensland Professional Officers Association Superannuation Fund
+Under its terms of reference this Committee has undertaken an inquiry into the
+operation of the above fund during the period 1985 - 1992.
+In order to complete this inquiry the Committee needs to examine certain
+documents, including those relating to withdrawals from the fund in 1985. Evidence
+before the Committee by National Mutual indicated that they had previously
+submitted their only copies of these documents to the Cooke Inquiry and therefore
+they were unable to assist the Committee in this matter.
+As the Cooke Inquiry has concluded, it is possible these documents have been
+archived. If so, your cooperation is sought in the provision of these documents for
+examination by the Committee. In particular, the following are requested:
+benefit payment request forms and other payment details of 1985
+withdrawals in the names of: . K Daly
+. R Kinder
+. D Martindale
+. G Rutherford;
+any other benefit payment forms; and
+all other documents submitted which involved the Queensland
+Professional Officers Association Superannuation Fund.
+As the Committee needs to complete its final report on this matter without further
+delay, your early response would be greatly appreciated.
+Yours faithfully
+Ridi^rd Gilbert
+Secretary
+
+
+AUSTRALIAN SENATE
+CANBERRA. A.C.T.
+SELECT COMMITTEE ON SUPERANNUATION
+3 June 1993
+Mr Bob Marshman
+Director-General
+DEVET & IR
+12th Floor, 199 Charlotte Street
+BRISBANE QLD 4001
+Dear Mr Marshman
+Documents Submitted to the Cooke Inquiry
+Queensland Professional Officers Association Superannuation Fund
+Under its terms of reference this Committee has undertaken an inquiry into the
+operation of the above fund during the period 1985 - 1992.
+In order to complete this inquiry the Committee needs to examine certain
+documents, including those relating to withdrawals from the fund in 1985. Evidence
+before the Committee by National Mutual indicated that they had previously
+submitted their only copies of these documents to the Cooke Inquiry and therefore
+they were unable to assist the Committee in this matter.
+Your cooperation is sought in the provision of these documents for examination by
+the Committee. In particular, the following are requested:
+. benefit payment request forms and other payment details of 1985
+withdrawals in the names of: . K Daly
+. R Kinder
+. D Martindale
+. G Rutherford;
+any other benefit payment forms; and
+all other documents submitted which involved the Queensland
+Professional Officers Association Superannuation Fund.
+As the Committee needs to complete its final report on this matter without further
+delay, your early response would be greatly appreciated.
+33/1 (279) Pt 2
+PARLIAMENT HOUSE
+CANBERRA. A.C.T. 2600
+TEL: (06) 277 3439
+FAX: (06) 277 3899
+Youj& sincerely
+RicJ^-d Gilbert
+Secretary
+
+
+AUSTRALIAN SENATE
+CANBERRA. A.C.T.
+SELECT COMMITTEE ON SUPERANNUATION
+8 June 1993
+PARLIAMENT HOUSE
+CANBERRA, A.C.T. 2600
+TEL: (06) 277 3439
+FAX: (06) 277 3899
+Mr Bob Scullen
+Justice and Attorney-General's Department
+Queensland
+Fax: (07) 220 0289
+Dear Mr Scullen
+Further to our telephone conversation of 7 June 1993, I am writing to seek your
+assistance regarding access to the documents re the Committee's inquiry into the
+operations of the Queensland Professional Officers Association Superannuation Fund.
+In this regard I attach a copy of the letter which was sent to the State Archives as well as
+a copy of the reply.
+It is with the above points in mind that the Committee would appreciate your advice on
+whether the documents are still in the possession of the Queensland Government and if
+so, whether copies could be forwarded to the secretariat. The Committee is particularly
+interested in receiving copies of the benefit request forms relating to withdrawals by the
+four persons mentioned in the attached letter.
+I look forward to receiving your advice on this matter at the earliest possible juncture.
+Yours sincerely
+Secretary
+Encs
+
+
+PO Bov 1397, Sunnybank Hills Qld 4109
+GENERAL ENQUIRIES
+Telephone (07) 875 8755 Facsimile (07) 875 8764
+GOVERNMENT RECORDS SERVICE
+Telephone (07) 875 8725 Facsimile (07) 875 8765
+H360/16
+AB:LB
+7 June 1993
+Mr Richard Gilbert
+Secretary
+Select Committee on Superannuation
+Parliament House
+CANBERRA ACT 2600
+Dear Mr Gilbert
+In response to your fax of 3 June 1993 regarding access to Cooke Inquiry documents, my
+advise is that you seek authorisation for access from the Director General of the
+Department of Justice and Attorney General. The Department of Justice and Attorney
+General is responsible for the administration of the Commissions of Inquiry Act 1950 and
+is the only agency able to authorise access to Commissions of Inquiry material.
+Yours faithfully
+$nkC
+Ms. L. McGre^r
+State Archivist
+A Business Unit of Administrative Services Department. Queensland Government
+
+
+AUSTRALIAN SENATE
+CANBERRA, A.C.T.
+SELECT COMMITTEE ON SUPERANNUATION
+17 June 1993
+Mr Geoff Tomlinson
+Group Managing Director
+National Mutual
+447 Collins Street
+MELBOURNE VIC 3000
+Fax: (03) 618 4952
+Dear Mr Tomlinson
+Brisbane Inquiry by the Committee
+Missing Documents of the QPOA Superannuation Fund
+As you may be aware this Committee is inquiring into the Queensland Professional
+Officers Association Superannuation Fund and has recently held two public hearings
+in Brisbane on the matter. National Mutual is the administrator of this fund, and
+at the second of those hearings Mr Peter Grace and Mr Bruce Webb appeared as
+witnesses representing National Mutual.
+The purpose of this letter is to express the Committee's concern at National Mutual's
+inability to provide copies of documents vital to the Committee' inquiry. Your
+cooperation is therefore sought in this matter.
+In particular, four 1987 benefit payment request forms and associated
+documentation have been sought. The response from National Mutual has been that
+these documents were included in material submitted to the Cooke Inquiry in
+Queensland, and appear not to have been included in those files which have been
+returned following the completion of that inquiry, or were returned but are now
+unable to be located.
+The Committee finds it odd that copies of such documents were not kept. In any
+event it is necessary for the Committee to now examine these documents as a matter
+of first priority, and your cooperation would be greatly appreciated in locating these
+documents and making them, or copies of them, available.
+PARLIAMENT HOU
+CANBERRA, A.C.T
+TEL (06)277 3439
+FAX: (06)277 5719
+33/1 (279) Pt2
+purs ysincenel
+Senator the Hon. Nick Sherry
+Chair
+
+
+EN E;• EC .
+-3-£l > -Jy5u
+TEL: »S 1
+The National Mutual Ufa Association of Australasia Limited ACN 004 020 437
+National Mutual Centre 447 Collins Street Meibourno Victoria 3000
+Telephono (03) 618 4983
+G A Tomlinson
+Group Managing Diroctor
+18th June, 1983
+Senator the Hon. Hick Sherry,
+Select Committee on Superannuation,
+Parliament House,
+CANBERRA, ACT. 2600.
+Fax* 06 277 5719
+Dear Senator Sherry,
+X refer to your letter dated 17th June, 1993.
+Much aa we would like to do so, and much as it embarrasses ua not to be able
+to do so, I am afraid we are not In a position to produce the documentation
+you aeek.
+Attached is a report from our Superannuation Manager in Queensland, Mr. Peter
+Grace. The position ia as straightforward as explained by Mr. Grace.
+X will contact you again after ve have been to the State Archives.
+Yours sincerely.
+
+
+SENATE SELECT COMMITTEE - OPOA SUPER fUHD
+The facts of the case are as follows:
+1. four 'Leaving Service' Benefit payments were processed In January 1987.
+The benefits were calculated as resignation benefits as requested by the
+authorised officer of the fund. Some time later we became aware that
+the four employees had not resigned.
+2. The Benefit Payment Request forms authorised us to pay 100% of the
+employer account (1e full vesting) even though the members had not
+served the normal period for such vesting level. However* the trust
+deed allowed the trustees to pay a discretionary benefit.
+3. There Is some confusion In the evidence about one of the members
+(Martlndale) being "given credit for past service with QPOA". There are
+allegations of double dipping < 1 e being paid twice for the same period
+of service).
+4. None of these three issues can be properly resolved without sighting the
+documentation authorising the payments and the NM calculation records.
+5. On 24.4.91, NM provided a box of files on the QPOA fund to the Cooke
+enquiry - Investigating the behaviour of various Queensland Trade
+Unions. The box was hand delivered by NM.
+6. The files were of a considerable bulk (It over one third metre thick)
+and the decision was taken not to copy It. No list of contents was kept
+by NM either. The administration officer (no longer with NM) 1s adamant
+that the relevant payment records were In the box.
+7. On 28.5.91, the Cooke enquiry notified NM they had finished with the
+files. The box was hand collected by NM. Ne had no reason to believe
+any of the files were missing.
+8. The files remained 1n the department for several months before being
+returned to the filing compactus and to secondary storage.
+9. On 10.8.92, Towers Perrin commenced an Investigation Into the fund. In
+providing material for this Investigation we were asked for the
+documentation on the four benefit payments. We assumed they would be 1n
+the files. We are obviously embarrassed to find them missing.
+10. We have conducted (and repeated) searches of all our files and cannot
+locate the required documentation.
+11. We have approached the Cooke enquiry to see If they have copies of any
+of the flies we sent them or still have the originals. The Cooke
+enquiry Is now complete and all the records are In the State Archives.
+12. After some difficulties finding how to get authority to access the
+Archives, we have today delivered a letter to Mr R L Marshman of the
+Department of Employment, Vocational Education, Training and Industrial
+Relations, who must authorise our application.
+
+
+13. Our practices when making Benefit Payments Is to provide a copy of the
+Benefit Payment Request forms to the employer to confirm the payment has
+been processed. There is no reason to believe that was not done 1n this
+case. QPOA have not been able to find their copies of the Benefit
+Payment Request forms either.
+M. Summary
+We are embarrassed that we cannot now find the relevant Benefit Payment
+Request forms. They did exist and there 1$ no doubt about that. We
+believe that 1t 1s most likely the forms were not returned to us by the
+Cooke enquiry.
+In retrospect we should have copied every piece of paper that was handed
+over to the Cooke enquiry no matter how big a task that was. At least
+we would today have a copy of the relevant forms.
+There Is still a prospect that the original forms or copies may be
+available from the Queensland State Archives. We are persuing this as
+fast as possible given that we need authorisation to proceed.
+
+
+Pa 76 DEPARTMENT OF EMPLOYMENT.
+VOCATIONAL EDUCATION. TRAINING AND INDUSTRIAL RELATIONS
+Citibank Centre, 199 Charlotte Street, Brisbane. Postal Address: G.P.O. Box 69, Brisbane, 4001
+Telephone: 22 52038
+Facsimile: 22 90445
+2 5 JUN 1393
+Mr Richard Gilbert
+Secretary
+Select Committee on Superannuation
+Parliament House
+CANBERRA ACT 2600
+Dear Mr Gilbert
+I refer to your facsimile of 3 June 1993, requesting documents
+which had been submitted to the Commission of Inquiry into the
+Activities of Particular Queensland Unions (the Cooke Inquiry).
+The Cooke Inquiry which was established under the Commissions of
+Inquiry Act 1950 and ceased to exist in August 1991.
+As its activities and investigations were not subject to the
+administrative oversight by this Department, all files and
+documents held were lodged with the State Archivist according to
+the provisions of the Libraries and Archives Act 1988.
+A search of the records lodged with the Archivist was unable to
+locate the documents requested. Enquiries made with persons who
+assisted the Inquiry revealed that they believed the documents had
+been returned to National Mutual.
+incerely
+DEVETIR
+Helping 10 build best practices in Queensland workplaces
+
+
+department of employment, *
+VOCATIONAL EDUCATION, TRAINING**^ INDUSTRIAL RELATIONS
+Citibank Centre, 199 Charlotte Street Blsbane. Postal Addreps: G.P.O, Box 69. Brisbane, 4001
+Telephone; 22 52C38
+' T JJM 1993
+Facsimile: 22 90445
+Mr P Grace
+Manager Corporate Business
+GFO 3ox 426
+BRISBANE QLD 4001
+Dear Mr Grace
+I refer to your letter cf 17 June 1993 requesting access to
+documents submitted to the Commission of Inquiry into the
+Activities of Particular Queensland Unions (the Cooke
+Inquiry).
+As the activities of the Cooke Inquiry were not subject to
+the administrative oversight of this Department all files and
+records retained were lodged with the State Archivist when
+the Inquiry ceased to exist.
+Due to the particular sensitive nature of documents submitted
+to that enquiry I am unable to accede to your request to
+review documents which were retained.
+An officer of this Department has carried out a Bearch of the
+records held at the State Archives. The documents sought
+could not be located amongst the records retained.
+Persons who were assisting with the Inquiry have advised that
+the original documents were most probably returned to
+National Mutual and that no copy was made of them.
+Yomrs sincerely
+RJ1 MARSHMAN
+Dirac tor-General
+DEVETIR
+Helping to build besi practices In Queensland workplaces
+
+
+144 Edward Street, GPO Box 426. Brisbane. Qld. 4001. Telephone: (07) 227 3423 Fax: (07) 221 7001
+Peter Grace, M.B>.. B Sc.. AAI.I.
+Manager Corporate Bu*ine*i
+28 June 1993
+The Secretary
+Senate Select Committee
+on ^Sljperannuatlon
+Ropnf SG 64
+P£rllament House
+Canberra act 2600
+Dear Mr Gilbert
+I am sorry to report that the search of the State Archives for material
+used by the Cooke Enquiry Into the QPOA has not been successful.
+Mr Greg Cumberland (of Department of Employment, Vocational Education,
+Training and Industrial Relations) searched the records on our behalf.
+There were some legal complications which prevented us easily getting
+authority to search ourselves.
+He could not find the originals or copies of the Benefit Payment Requests
+for Martlndale Daly Rutherford and Kinder.
+National Mutual obviously regrets that It cannot produce the documents.
+A copy of the official letter from DEVETIR Is attached.
+Sincerely
+Attach.
+GN1/3364/3/ST
+Tu~ M~*:—-l 11.I .la Accnoialinn of Australasia Lid A.C.N. 004 020 437
+
+
+
+
+- parliament of the
+Commonwealth QF AUSTRALIA
+PARLIAMENTARY
+PAPER
+No. 152 of 1993
+ORDERED TO BE PRINTED
+„ ISSN 0727-418 .

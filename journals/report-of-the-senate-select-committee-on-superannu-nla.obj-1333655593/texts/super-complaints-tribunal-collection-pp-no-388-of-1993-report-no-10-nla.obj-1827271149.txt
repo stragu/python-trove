@@ -1,0 +1,737 @@
+
+
+Super
+Complaints
+Tribunal
+Parliament of the Commonwealth of Australia
+Tenth Report of the
+Senate Select Committee on Superannuation
+December 1993
+
+
+
+
+Super
+Complaints
+Tribunal
+Parliament of the Commonwealth of Australia
+Tenth Report of the
+Senate Select Committee on Superannuation
+Canberra
+December 1993
+
+
+© Commonwealth of Australia 1993
+ISBN 0 642 20030 0
+This document was produced from camera-ready copy prepared by the
+Senate Select Committee on Superannuation Secretariat, and printed by the
+Senate Printing Unit, Parliament House, Canberra.
+
+
+MEMBERS OF THE COMMITTEE:
+Members
+Secretariat Staff:
+Secretary:
+Principal Research Officer:
+Senior Research Officer:
+Executive Assistant:
+Mr Richard Gilbert
+Ms Krista Gerrard
+Mr Glenn Hunter
+Ms Cath Drinkwater
+Address:
+Telephone:
+The Senate
+Parliament House
+CANBERRA ACT
+(06) 277 3439
+(06) 277 5719
+Facsimile:
+
+
+
+
+CONTENTS
+Contents
+Page
+Members of the Committee. i
+Contents. iii
+Chapters:
+1. Introduction . 1
+2. 'Part 4 - Complaints, Procedural Matters
+Relating to Complaints and Complaints the
+Tribunal Cannot Deal With’. 7
+3. The Interested Groups. 15
+4. Conclusion:. 19
+Appendices:
+A. List of Committee Reports. 23
+B. List of Written Submissions. 25
+
+
+
+
+CHAPTER 1:
+INTRODUCTION
+Introduction
+The Committee's reference from the Senate
+1.1 On 16 November 1993, an amendment to the Superannuation
+(Resolution of Complaints) Bill 1993 (hereafter 'the Bill') was moved by
+Senator Watson. This amendment was intended to limit the power of the
+proposed Superannuation Complaints Tribunal to adjudicate on certain
+disputes about entitlements to superannuation benefits paid before the
+commencement of the legislation. The amendment read:
+Clause 14, page 6, after subclause (4) insert the following subclause:
+"(4A) The Tribunal cannot deal with a complaint about a trustee's
+decision if:
+(a) the complaint is about a benefit that was paid before the commencement of
+this Act; and
+(b) the benefit was paid, in whole or in part to a person other than the
+complainant.”
+1.2 The amendment was subsequently withdrawn upon the undertaking
+that the matter would be referred to the Select Committee on
+Superannuation for further examination. A motion was put and passed that:
+the implications of the amendment moved and withdrawn by Senator
+Watson to insert subclause (4A) in clause 14 of the Superannuation
+(Resolution of Complaints) Bill 1993 be referred to the Select
+Committee on Superannuation for inquiry and report on or before 16
+December 1993.
+1.3 Consideration of the Superannuation (Resolution of Complaints) Bill
+in the Senate was finalised on 22 November 1993. The Superannuation
+(Resolution of Complaints) Act 1993 (hereafter 'the Act’) received Royal
+Assent on 30 November 1993.
+
+
+The Ninth Report
+1.4 Chapter 16 of the Ninth Report of the Committee, Super Supervision
+Bills\ examined the issues surrounding the types of complaint that the
+Superannuation Complaints Tribunal will have the power to examine.
+1.5 It was noted in the Ninth Report that concerns had been raised by
+industry organisations that clause 14 of the Bill could, in some
+circumstances, create a double liability for a trustee. It was submitted that
+this could occur in circumstances, for example, where a death payment is
+paid to a named beneficiary, A, and another party, B, seeks to challenge the
+payment in the Tribunal. If the Tribunal makes a determination that party
+B is entitled to all or part of the benefit, the trustee would be required to
+make a payment to party B. The trustee would then seek to recover from
+party A, the payment that was made incorrectly. It may not be possible for
+the trustee to recover the money paid to A if the money had been
+dissipated.
+1.6 The Committee recommended in the Ninth Report (page 81) that
+the Tribunal's jurisdiction be limited, by way of regulation, to exclude those
+matters involving trustee decisions made prior to the commencement of the
+Act, as to who is entitled to a benefit which has already been paid.
+The scope of the inquiry and report
+1.7 The issue raised by the amendment relates to decisions regarding the
+payment of benefits in the 12 month period prior to the commencement of
+the Act. A broader issue is implicitly raised in relation to the ongoing
+question of how trustees will behave, following the commencement of the
+Act, in the 12 month period after a decision is made in respect to a
+payment.
+Conduct of the inquiry
+1.8 The Committee called for written submissions on the reference from
+witnesses who had previously submitted on the operation of the Tribunal.
+1
+Presented to the Senate on 28 October 1993.
+
+
+1.9 The Committee received eleven written submissions from industry,
+consumer groups, practitioners in the superannuation field, and an individual
+who is involved in a conflict concerning the payment of a death benefit of
+an intestate to a de facto spouse. Although the submission from the latter
+did not fall precisely within the Committee's terms of reference, the
+Committee was interested to receive it as it considered no other evidence
+of this type of dispute.
+Appreciation
+1.10 The Committee records its appreciation of the effort of those
+witnesses who, at short notice, made detailed and helpful written
+submissions. These are listed in Appendix B.
+The issue: where will the risk/loss fall
+1.11 The conflicting interests that need to be addressed are those of:
+(a) the superannuation funds, their members and the trustees who may
+be required to pay a benefit twice and then attempt to recover the money
+paid incorrectly or, in the case of the trustees, become personally liable;
+(b) those of persons who believe they are entitled to a benefit but who
+will, under the proposed amendment, be unable to lodge a complaint with
+the Tribunal because a trustee has already made a payment to another
+person in respect to that particular benefit; and
+(c) those of persons who are awaiting decisions and the implementation
+of the decisions of the trustees in respect of a benefit, but who will not get
+an answer from the trustees because of the trustees' concern that, under the
+legislation as it stands, decisions and payments made prior to the
+commencement of the Act might become the subject of an appeal to the
+Tribunal without having the protection of the section 15 procedure.
+
+
+What is the scope of the possible losses involved?
+The amounts involved in the payment of death benefits
+1.12 The Committee received little evidence in relation to the amounts
+involved in the payment of certain death benefits. A limited amount of
+evidence was available from a mini-survey conducted by the Association of
+Superannuation Funds of Australia (ASFA) in 1991-92. The Committee
+notes that two million members were covered by the survey and in the
+period 1991-92, 2064 death benefits were paid. This is approximately one
+death benefits claim per thousand members.
+1.13 ASFA gave evidence that the total amount of death benefits paid out
+by ASFA member funds for the 1991-92 period was $199 million, making the
+mean death benefit payment $96 000. The modal payment was not available.
+The total assets of the ASFA member funds in the survey period were $40
+billion. Therefore, total death benefit claims were 0.5 per cent of total
+assets.2 Evidence relating to the percentage of death benefits claims that
+are disputed was not tendered to the Committee. The Insurance and
+Superannuation Commission (ISC) submitted that, although it is difficult to
+establish the potential number of cases, it is their understanding that it could
+be in the order of a 'few hundred’. It is the ISC's view that this number of
+cases would place a significant burden on the Tribunal in its start-up
+phase.3
+Elect I”
+The Committee recommends that from Its inception the Superannuation
+Complaints Tribunal establish procedures and structures to collect
+appropriate statistical data on claims submitted to it by superannuation
+fund members.
+2
+death benefits = $199 million = 0.5%
+total assets $40 billion
+The size of the assets of the superannuation industry is now in the order of $170
+billion.
+Insurance and Superannuation Commission (ISC), SCT Sub No 7.
+
+
+Other areas of possible liabilities
+1.14 It was submitted that the predominant type of benefit where the
+possibility of double payments may arise is the death benefit.4 The
+Committee did not receive evidence identifying any benefits other than
+death benefits that could give rise to the problem of double payments.
+Difficulties of recovery by trustees
+1.15 The Committee received evidence that, where a trustee had made a
+payment to a beneficiary, and the Tribunal determined that another person
+was entitled to all or part of that benefit, a trustee might not be able to
+recover the money paid where the payment could be construed as a proper
+exercise of the trustee's discretion. A trustee could be found to be negligent
+in the exercise of its duty and become personally liable.5 Further, the
+Committee understands that it may be beyond a trustee's power to pay a
+benefit twice, particularly where the fund involved is an accumulation fund.
+The cost to claimants of commencing court proceedings against a trustee
+1.16 The Committee understands that the cost of commencing and
+conducting proceedings in the Supreme Court to challenge a trustee decision
+would be upwards of $20 000.
+Association of Superannuation Funds of Australia (ASFA), SCT Sub No 2
+Andrew Fairley & Associates, SCT Sub No 3
+William M Mercer, SCT Sub No 4
+Law Council of Australia, SCT Sub 5
+ISC, op cit
+5 William M Mercer, op cit
+
+
+
+
+CHAPTER 2:
+'COMPLAINTS, PROCEDURAL MATTERS
+RELATING TO COMPLAINTS AND COMPLAINTS
+THE TRIBUNAL CANNOT DEAL WITH’6
+Complaints, Procedural Matters Relating to Complaints
+and Complaints the Tribunal Cannot Deal With
+2.1 Section 14 of the Act states the types of decisions that the Tribunal
+can review. Section 14(1) provides that decisions of trustees ’whether made
+before or after the commencement of this Act’ may be the subject of a
+complaint to the Tribunal.
+2.2 Section 15 provides that in order to lodge a complaint with the
+Tribunal, a person must have an interest in a benefit In practical terms,
+section 15(2) requires that a trustee gives written notice to persons who
+should be notified of the proposed payment, and notify such persons of their
+right to object within a given period. If such notified persons do not object
+within the given period, they do not have an interest and cannot bring a
+complaint before the Tribunal. If the trustee does not notify a person who
+it would be reasonable to notify, that person does have an interest in the
+benefit and can therefore bring a complaint before the Tribunal.
+2.3 Section 14 of the Act allows the Tribunal to review decisions of
+trustees prior to the commencement of the Act. Generally, the Tribunal will
+only review decisions in the period 12 months prior to the commencement
+of the Act.7 It is not the intention of the legislation that the Tribunal will
+review decisions made by trustees years before the commencement of the
+legislation.8
+6
+Part 4 of the Act
+7 Australian Institute of Superannuation Trustees Inc, SCT Sub No 9
+8 Section 22(3) provides that the Tribunal may treat a complaint as withdrawn if
+more than 12 months have elapsed since the decision was made by the trustee.
+
+
+2.4 The Act provides that the Tribunal may treat a complaint as
+withdrawn if the complaint has been made more than 12 months after the
+decision of the trustee to which the complaint relates.9 In effect, this will
+generally mean that a complainant has 12 months from the date of the
+decision of the trustee to lodge their complaint. During this period, the
+complainant must first utilise the trustee's arrangements for dealing with a
+dispute.10 Only then can a complaint be dealt with by the Tribunal.11
+2.5 It is apparent that not only decisions made in the period between
+July 1993 and 1 July 1994, but all decisions of trustees, have the potential
+to be delayed whilst the trustee awaits the 12 month period in which a
+complaint may be made. However, submissions from the industry indicate
+that the section 15 procedure has been identified as one that will provide
+sufficient protection for trustees from the liability of double payments.12
+The procedure was referred to as the 'claim-staking procedure' and as
+'procedural protection'.
+Senator Watson's/the Coalition's amendment
+2.6 The Coalition amendment to clause 14 of the Bill (see paragraph
+1.1), moved in the Senate by Senator Watson, sought to prevent a trustee
+from being liable to pay a benefit twice. Senator Watson submitted to the
+Senate that the amendment that he moved was far more restrictive than the
+recommendation of the Committee, as it restricted those complaints which
+he sought to have excluded from the Tribunal's jurisdiction to those where
+the trustee's decision was made prior to the commencement of the Act and
+where a payment was made to a person other than the complainant.13
+9 Clause 22(3)(a)
+10 These arrangements required by section 99 of the Superannuation Industry
+(Supervision) Act 1993.
+11 Section 19 of the Act.
+Noble Lowndes, SCT Sub No 1
+William M Mercer, op cit
+Australian Institute of Superannuation Trustees Inc., op cit
+Senate Hansard, 17 November 1993, page 2993
+13
+
+
+Section 15 protection
+2.7 The Committee received evidence in several submissions that the
+procedure outlined in section 15 of the Act provides protection for trustees
+as well as for potential beneficiaries. It requires the trustees to notify
+persons likely to make a claim on a benefit or to face a Tribunal complaint,
+and it requires potential beneficiaries to 'stake their claim' within a given
+period of time (the 'prescribed period’- see paragraph 2.17) or be faced with
+exclusion from the Tribunal's jurisdiction. It was submitted by the Law
+Council that generally it could be expected that trustees will not give the
+written notices referred to in section 15 until they become regulated
+superannuation funds under the Superannuation Industry (Supervision) Act
+and that this will not be until 1 July 1994 in many instances. 4
+2.8 A number of submissions suggested that an appropriate resolution
+of the issue would be to amend the legislation so that trustees could take
+steps to protect themselves, the funds and potential beneficiaries, by
+implementing the section 15 procedure as soon as possible. It was also
+submitted that section 15 could take effect retrospectively when the Act is
+commenced. An alternative amendment that would have a similar effect to
+commencing section 15(2) as soon as possible was submitted by the
+Investment Funds Association of Australia (IFA). The proposed amendment
+reads:
+The Tribunal cannot deal with a complaint about a trustee decision if:
+(a) the complaint is about a benefit that was paid before the commencement
+of this Act; and
+(b) the benefit was paid to a person other than the complainant; and
+(c) the Tribunal is satisfied that the trustee had made reasonable inquiries
+prior to the benefit being paid as to whom the benefit should be paid.1
+2.9 Theoretically, the Committee considers that both the proposal to
+commence section 15 as soon as possible and the IFA amendment proposal
+have some merit. Section 2 of the Act, the commencement provision,
+14
+Law Council of Australia, op cit
+Investment Funds Association of Australia (IFA), SCT Sub No 6
+15
+
+
+provides for the commencement of 'the Act' either by proclamation or on
+1 July 1994. Section 2 does not provide for the commencement of part of
+the Act in isolation from the whole of the Act. Clearly, the entire Act could
+not be commenced as early as section 15 could be commenced, because the
+commencement of the Act establishes the Tribunal and the related
+procedures. The Tribunal and its procedures will take a significant period
+of time to develop. To commence section 15 prior to the remainder of the
+Act would require an amendment.
+2.10 In order to clarify the Parliament's intention in respect to the
+commencement of section 15(2), an amendment could be made. If it is
+intended that the section operate prior to the commencement of the Act,
+an amendment could be made to insert words to the effect 'whether before
+or after the commencement of this Act' after the word 'trustee' in section
+15(2)(a)(i). Alternatively, if the intention is that the section is only to apply
+after the commencement of the Act, notwithstanding trustees' notices, an
+amendment to that effect could be inserted. Similarly, it would be possible
+to incorporate the IFA amendment, however, as Parliament is rising for its
+summer recess shortly after the tabling of this report, in practical terms, the
+amendment process could not begin until the autumn sittings 1994. It may
+be that any amendment that could sustain support in both Houses would
+only be passed two or three months, at best, before the Act is due to
+commence. This would only amend the Tribunal's jurisdiction for that short
+period.
+2.11 The Committee does not support the 'retrospective commencement'
+of the section. If 'retrospective commencement' is the intention, every effort
+should be made to commence the provisions from the intended date of
+operation.
+2.12 Notwithstanding the above discussion of amending for an earlier
+commencement date for section 15(2), it was submitted that, where a trustee
+had implemented the procedure set out in section 15, prior to the
+commencement of the Act, the trustee would have an argument that the
+protection under section 15 was available to the trustee, although the notice
+was given to the potential beneficiary prior to the commencement of the
+Act. Similarly, it would be open to the potential beneficiary to argue that,
+where they had not been notified of the proposed payment of a benefit, and
+the failure to notify was unreasonable, they had an interest in the benefit,
+
+
+and therefore could lodge a complaint with the Tribunal.16 However, as
+there is no obligation on a trustee to notify pursuant to section 15(2) prior
+to the commencement of the Act, it might be difficult to establish that a
+person has an interest because it was unreasonable of the trustee not to
+notify.17
+2.13 Conversely, it could be argued that an interest in a benefit for the
+purposes of lodging a complaint with the Tribunal could not be created or
+taken away before the Tribunal comes into existence.
+2.14 The Committee prefers the first argument as set out in paragraph
+2.12 because it gives effect to the preferable policy position. To this end, it
+encourages trustees to begin giving notices to potential beneficiaries of a
+proposed payment, and of their right to object, by providing protection to
+these trustees.
+2.15 If trustees assume the interpretation that section 15(2) applies
+whether notice is given before or after the commencement of the Act, and
+this interpretation is adopted by the Tribunal when it comes into existence,
+trustees will have the protection they seek from the time that they have
+given notices in accordance with section 15(2). If a similar interpretation of
+section 15(2) is adopted in relation to beneficiaries, and section 14 remains
+unchanged, potential beneficiaries will be able to complain to the Tribunal
+if trustees have failed to give notice where it would have been reasonable
+to give notice. Although such an interpretation may appear to create a
+'retrospective obligation' for trustees, it is only for the purpose of giving the
+Tribunal jurisdiction to hear complaints that, if the legislation is not
+amended, the Tribunal would be able to hear in any case. Therefore,
+trustees who adopt section 15(2)-type procedures, prior to the
+commencement of the Act, might limit any potential double payment
+liability, depending on the interpretation given to section 15(2) by the
+Tribunal and/or the courts.
+2.16 The Committee acknowledges the uncertainty surrounding the
+operation of section 1518 as well as the potential for section 15 to
+16
+17
+Law Council of Australia, op cit
+ibid
+Life Insurance Federation of Australia (LIFA), SCT Sub No 10
+18
+
+
+encourage "best practices' by trustees, and to provide protection for trustees
+and beneficiaries alike. The Committee has given this issue considerable
+thought and believes that, given the need for certainty, it needs to be
+clarified.
+The Committee recommends that the Senate endorse the view that section
+15(2) provides protection to trustees who have complied with the procedure
+set out in that section, as that which reflects the intention of the Senate in
+passing the legislation.
+In effect, section 15(2) provides protection to trustees and potential
+beneficiaries in that it establishes a procedure for trustees to give notice to
+potential beneficiaries of proposed payments of benefits. The Committee is
+eager to encourage trustees to adopt the section 15(2) notice procedure
+which the Committee views as a positive practice.
+Recommendation 2.2 \ I '
+The Committee recommends that the Government consider introducing an
+amendment to section 15(2)(a)(i) to clarify whether or not the section 15
+procedure protection applies where it has been utilised before the
+commencement of the Act, or that the Government make a statement to
+clarify its legislative Intention.
+The prescribed period
+2.17 Section 15(2) refers to a period within which a potential beneficiary
+who wishes to object to a proposed payment has to make that objection. As
+has been stated in the evidence received by the Committee, the uncertainty
+surrounding the operation of section 15 is compounded by the necessity to
+wait for the 'prescribed period' to be regulated. In order to comply with
+section 15(2), a trustee must know how the 'prescribed period' has been
+defined in the regulations. The argument outlined in paragraph 2.7 (above)
+
+
+would not be available unless the prescribed period requirement is satisfied.
+2.18 In an effort to reduce the uncertainty, the Committee has given
+consideration to the length of the 'prescribed period' in section 15(2)(a)(ii).
+After consulting with the ISC, the Committee considers that a period of 28
+days would be appropriate.
+,1 ... ... . , . . • i
+;Commht^'j^[Timends :ih0t:ibC: pre^cribe^pericid;>^ilthin which a
+beneficiary must lodge any objection to a prdposed payment in
+ion 15(2)(a)(ii) be 28 days,
+
+
+
+
+CHAPTER 3:
+THE INTERESTED GROUPS
+The Interested Groups
+3.1 Paragraph 1.11 sets out the three groups that have an interest in the
+outcome of the issue before the Committee. This chapter will examine the
+interests and concerns of each of these groups.
+The superannuation fund members and trustees
+3.2 Under the Act, where a payment has been made to A and a person,
+B, seeks review of the trustee’s decision, the fund may be liable to pay the
+benefit twice if the fund is unable to recover the first payment. This could
+expose the fund to a further payment of which the trustee was unaware
+when making a decision on the claim.19 If a trustee of a fund is ordered
+by the Tribunal to make a second payment, that payment will not include
+insurance monies, and payment may be imposed unfairly upon the
+members.20
+3.3 It has been submitted that where a fund is required by the Tribunal
+to make a second payment of a benefit, the trustee might not have the
+power to pay the second benefit under trust law, and the trustee may
+become personally liable for the second payment. 1 This could occur in
+circumstances where the trustee has acted in good faith as well as in
+circumstances where the trustee has failed to properly execute its duties. It
+was also contended that the decision of the trustees should be reviewed in
+relation to the law as it relates to trustee duties and obligations, procedures
+and evidence at the time the decision was made.22
+19
+Andrew Fairley, op cit
+20
+Noble Lowndes, op cit
+21 William M Mercer, op cit
+22
+Noble Lowndes, op cit
+
+
+Benefit already paid-a relevant consideration?
+3.4 The question as to whether the payment of the benefit, which is the
+subject of a claim, to another person is a relevant consideration for the
+Tribunal was raised in a number of submissions.23 Section 36 of the Act
+requires the Tribunal to have 'regard to ... the interests of all the members
+of the fund to which the complaint relates [and] inform itself of any matter
+relevant to a review of a decision in any way it thinks appropriate'.
+Furthermore, section 37 provides that the Tribunal must affirm the decision
+of a trustee if it is satisfied that the decision was fair and reasonable in all
+the circumstances.
+3.5 The Law Council acknowledged that it would only be in the most
+extreme cases that the Tribunal would decide that a benefit payment should
+be made to a complainant, when the trustee had already paid the full benefit
+to another, prior to the commencement of the Act. 4 Similarly, the ISC
+raised the issue of whether the Tribunal would in fact award a double
+payment. The ISC noted the requirement that the Tribunal have regard to
+the interests of all the members of the fund. The ISC submitted that it could
+be argued that this requirement compels the Tribunal not to award double
+payments where it would place a strain on the resources of the fund.25 The
+IFA also submitted that, as the Tribunal is bound to consider all the
+circumstances of a fund in making a determination, small funds could be
+protected from multiple payments if the result would be inequitable for
+other members.26 This requirement would allow the Tribunal to give
+consideration to the position of accumulation funds.
+3.6 Alternatively, it was submitted that the making of an earlier payment
+is not a fact which the Tribunal would be required to take into account in
+assessing the entitlement of a further complainant.27
+23
+Andrew Fairley, op cit
+ISC, op cit
+IF A, op cit
+Australian Consumers' Association (ACA), SCT Sub No 11
+24 Law Council of Australia, op cit
+see also ACA, op cit
+25 IFA, op cit
+26
+ibid
+27
+ibid
+
+
+3.7 The Committee notes sections 36 and 37 and supports the argument
+that if an earlier payment had been made, it would be a relevant
+consideration for the Tribunal.
+Persons claiming to be entitled to a benefit already paid to another
+3.8 The Committee has not received any evidence from persons who fall
+into this category. However, it did receive evidence from an individual
+which, whilst falling outside the Committee's terms of reference, illustrated
+the type of disputes that can arise. The person concerned was in a de facto
+relationship for 28 years. When her partner died intestate, she was not
+entitled to receive a benefit under his superannuation, as he had not
+completed the relevant part of the form.28 Although the Committee is not
+required to report on the issue involved, it notes that it would be desirable
+for funds to ensure that their clients are aware of the importance of
+nominating beneficiaries, as adherence to this principle could assist in
+minimising the number of disputes.
+Persons awaiting the payment of a benefit
+3.9 Overwhelmingly, the superannuation lawyers who submitted to the
+inquiry acknowledged that failure to adopt Senator Watson's amendment
+might result in trustees delaying the making of decisions and that this may
+have harsh results for those awaiting decisions who may be in necessitous
+circumstances.29 Furthermore, it was stated that 'advisers providing
+recommendations for trustees as to the payment of death benefits will have
+no option prior to the commencement of operation of the legislation but to
+advise trustees not to make any distribution until after the commencement
+of operation of the legislation'.30 In addition, it was submitted that the
+absence of the risk of a double payment will encourage trustees to promptly
+28
+29
+Ms Edwina Blahout, SCT Sub No 8
+Noble Lowndes, op cit
+Andrew Fairley, op cit
+William M Mercer, op cit
+Australian Institute of Superannuation Trustees, op cit
+ACA, op cit
+William M Mercer, op cit
+30
+
+
+and speedily deal with a claim to benefits.31
+The effect on the operation of the Tribunal: a backlog or a pre-Tribunal
+rush
+3.10 A number of submissions expressed concern that if decisions prior
+to the commencement of the Tribunal were reviewable by the Tribunal, a
+serious backlog would exist from the date of the Tribunal's establishment.32
+While the ISC submitted that there 'could' be a backlog, the Committee did
+not receive any evidence as to the number of disputed claims, and therefore
+can neither conclude that a backlog will or will not be likely when the
+Tribunal commences its work.
+3.11 It was also suggested that the Government is concerned that the
+proposed amendment could encourage trustees to accelerate their decisions
+to avoid the jurisdiction of the Tribunal.33
+An ongoing problem?
+3.12 The Committee turned its mind to whether the problem of delay,
+that could exist in relation to the decisions prior to the commencement of
+the Tribunal, would continue after its establishment. The Committee
+received evidence that, although the problem of 'double jeopardy' will always
+exist, section 15 provides a procedure to enable trustees to reduce the
+problem of double payments. Where there is little real risk of a double
+liability, the trustees can safely pay out a benefit but, where there is a
+reasonable doubt, the trustees will justifiably be cautious in their payments.
+31
+32
+33
+34
+Andrew Fairley, op cit
+ASFA, op cit
+ibid
+LIFA, op cit
+ACA, op cit
+
+
+CHAPTER 4:
+CONCLUSION
+Conclusion
+Affected funds
+4.1 The Committee notes that the percentage of superannuation fund
+assets affected by death claims is in the order of half of one per cent. The
+proportion of these claims that are disputed is unknown. Notwithstanding
+the fact that the percentage of the funds affected might be insignificant,
+where the fund concerned in a dispute about a benefit already paid is an
+accumulation fund, the trustee might not have the power to make a second
+payment even in circumstances where this was the best solution for all
+involved. In relation to this matter, the Committee was unable to conclude
+that there is a significant threat to the integrity and certainty of
+superannuation funds because of the lack of evidence as to the magnitude
+of potential losses involved in double payments.
+4.2 The Committee's attention has been drawn to the lack of data that
+is available about superannuation claims and disputes. In accordance with
+its reference from the Senate on 22 November 1993 to review of the
+operation of the Tribunal in the first 12 months of its work, the Committee
+intends generally to monitor the 'double jeopardy' situation and the
+treatment of those and other cases in the Tribunal. Therefore, it expects
+that the Tribunal, from the date of its establishment, will implement the
+necessary procedures and structures to collect this and other relevant data.
+Section 15(2)
+4.3 It is arguable that where a trustee has implemented a procedure that
+accords with the section 15(2) requirements, that is, to give notice to
+potential beneficiaries of proposed payments of benefits, prior to the
+commencement of the Act, the trustee can take the benefit of the protection
+afforded by that section.
+
+
+Relevant considerations
+4.4 In light of sections 36 and 37, it would be difficult for the Tribunal
+to find that the fact that a payment had already been made was not a
+relevant consideration in the Tribunal's review. There is also an argument
+that the power of a trustee to make a second payment is a relevant
+consideration. The Committee endorses these views.
+The ongoing problem
+4.5 The Committee concludes that the potential for 'double jeopardy' will
+always exist. This situation will be somewhat alleviated after the
+commencement of the procedures in section 15. As rights to commence
+proceedings in the Supreme Court will continue, the potential for 'double
+jeopardy' situations to arise will also remain. Although the potential for
+'double jeopardy' will always exist, the Committee stresses that this problem
+can be limited by a number of actions. Of paramount importance is that
+trustees give notice to persons who may want to object to a payment. The
+Committee suggests that trustees commence this procedure as soon as
+possible. Trustees should also ensure that their clients complete all the forms
+required to clearly nominate beneficiaries. Fund members also have an
+important role. They should ensure that they notify their superannuation
+fund if their family circumstances change.
+Conclusion
+4.6 In making its recommendations, the Committee has considered a
+number of options. It considered the effect of the operation of the Act as
+it was passed, the effect of the Coalition amendment, the effect of
+commencing either the whole or part of the Act as soon as possible, and it
+considered several possible amendments. Notwithstanding the desirability of
+some of these avenues, the Committee's recommendations have been
+strongly influenced by the reality of the constraints of time that apply.
+4.7 Therefore, the Committee has made recommendations which will
+provide some guidance to trustee fund members and officers attached to the
+Superannuation Complaints Tribunal. Hopefully, the measures which have
+been recommended will assist the Tribunal in achieving its objective of
+
+
+providing a review mechanism that is 'fair, economical, informal and
+quick'.35
+35 Section 11 of the Act
+
+
+
+
+APPENDIX A:
+LIST OF COMMITTEE REPORTS
+List of Committee Reports
+Super System Survey - A Background Paper on Retirement Income
+Arrangements in Twenty-one Countries (December 1991)
+Papers relating to the Byrnwood Ltd, WA Superannuation Scheme
+(March 1992)
+Interim Report on Fees, Charges and Commissions in the Life
+Insurance Industry (June 1992)
+First Report of the Senate Select Committee on Superannuation -
+Safeguarding Super - the Regulation of Superannuation (June 1992)
+Second Report of the Senate Select Committee on Superannuation -
+Super Guarantee Bills (June 1992)
+Super Charges - An Issues Paper on Fees, Commissions, Charges
+and Disclosure in the Superannuation Industry (August 1992)
+Third Report of the Senate Select Committee on Superannuation -
+Super and the Financial System (October 1992)
+Proceedings of the Super Consumer Seminar, 4 November 1992 (4
+November 1992)
+Fourth Report of the Senate Select Committee on Superannuation
+Super - Fiscal and Social Links (December 1992)
+
+
+Fifth Report of the Senate Select Committee on Superannuation -
+Super Supervisory Levy (May 1993)
+Sixth Report of the Senate Select Committee on Superannuation -
+Super - Fees, Charges and Commissions (June 1993)
+Seventh Report of the Senate Select Committee on Superannuation
+- Super Inquiry Overview (June 1993)
+Eighth Report of the Senate Select Committee on Superannuation -
+Inquiry into the Queensland Professional Officers Association
+Superannuation Fund (August 1993)
+Ninth Report of the Senate Select Committee on Superannuation -
+Super Supervision Bills (October 1993)
+Tenth Report of the Senate Select Committee on Superannuation -
+Super Complaints Tribunal (December 1993)
+
+
+APPENDIX B:
+LIST OF WRITTEN SUBMISSIONS
+List of Written Submissions
+No 1
+No 2
+No 3
+No 4
+No 5
+No 6
+No 7
+No 8
+No 9
+No 10
+No 11
+Noble Lowndes
+Association of Superannuation Funds of Australia (ASFA)
+Andrew Fairley and Associates
+William M Mercer
+Law Council of Australia
+Investment Funds Association of Australia (IFA)
+Insurance and Superannuation Commission (ISC)
+Ms Edwina Blahout
+Australian Institute of Superannuation Trustees (AIST)
+Life Insurance Federation of Australia (LIFA)
+Australian Consumers' Association (ACA)
+
+
+THE PARLIAMENT OF THE
+COMMONWEALTH OF AUSTRALIA
+PARLIAMENTARY
+PAPER
+No. 388 of 1993
+ORDERED TO BE PRINTED
+ISSN 0727-418

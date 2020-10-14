@@ -1,0 +1,2105 @@
+
+
+22nd Report of the
+Senate Select Committee on Superannuation
+RETIREMENT
+SAVINGS
+ACCOUNTS
+LEGISLATION
+Parliament of the Commonwealth of Australia
+Canberra
+March 1997
+
+
+
+
+Twenty-second Report of the
+Senate Select Committee on Superannuation
+RETIREMENT SAVINGS ACCOUNTS
+LEGISLATION
+Parliament of the Commonwealth of Australia
+Canberra
+March 1997
+
+
+
+
+CONTENTS
+Page
+Members of the Committee.i
+Contents.iii
+GOVERNMENT SENATORS' REPORT.1
+Chapter 1. Retirement Savings Accounts .3
+Chapter 2. Issues .9
+Chapter 3. Technical Issues.19
+OPPOSITION SENATORS' REPORT.23
+Chapter 1. Retirement Savings Accounts.25
+Chapter 2. Choice .33
+Chapter 3. Issues .37
+Chapter 4. Technical Issues.51
+AUSTRALIAN DEMOCRAT SENATORS’ REPORT.57
+Appendices:
+1. List of written submissions .67
+2. List of witnesses at public hearings.69
+3. List of committee reports .71
+
+
+
+
+GOVERNMENT SENATORS' REPORT
+RETIREMENT SAVINGS ACCOUNTS LEGISLATION
+MARCH 1997
+
+
+
+
+CHAPTER 1
+RETIREMENT SAVINGS ACCOUNTS
+Introduction
+1.1 On Budget night, 20 August 1996, the Treasurer, the Hon. Peter Costello
+MP, announced that the Government would introduce Retirement Savings
+Accounts (RSAs) to "enhance competition and choice in superannuation". Mr
+Costello indicated that these would be a "simple, low cost product".1 The
+Government considered that RSAs will give employees "greater scope to
+control the management of their superannuation savings".2
+1.2 Giving effect to this decision, on 4 December 1996, the Government
+introduced the Retirement Savings Accounts Bill 1996, the Retirement Savings
+Accounts (Consequential Amendments) Bill 1996 and the Retirement Savings
+Accounts Superi’isory Levy Bill 1996 into the House of Representatives. The
+provisions of these Bills are to take effect on 1 July 1997.
+Conduct of the Inquiry
+1.3 On 12 December 1996 the Senate referred the provisions of the Bills to
+the Senate Select Committee on Superannuation for examination and report by
+27 February 1997.
+1.4 The Committee wrote to selected organisations inviting submissions. It
+also advertised this reference in The Australian Financial Review on Tuesday
+11 February 1997 and received a number of inquiries from other persons who
+were provided with information about the inquiry.
+1.5 As a result the Committee received 20 submissions from those persons
+listed in Appendix 1, and held three public hearings, two in Canberra on 11 and
+25 of February and one in Melbourne on 21 February 1997. A list of witnesses
+who appeared at those hearings is at Appendix 2.
+Retirement Savings Accounts Bill
+1.6 Provisions of the Retirement Savings Accounts Bill (RSA Bill) allow
+banks, building societies, credit unions, life insurance companies and
+prescribed financial institutions to provide superannuation accounts that do not
+1 1996/97 Budget Speech, House of Representatives Hansard, p. 3269.
+Second Reading Speech on the RSA Bill
+2
+
+
+CHAPTER 1
+require the trustee structure presently required for superannuation providers to
+receive concessional taxation treatment. Subsequent to foreshadowed
+Government amendments to this Bill, certain friendly societies will be included
+as approved financial institutions, where the Australian Financial Institutions
+Codes (AFIC codes) apply to them. Details of the new structure will be
+contained in the regulations.
+1.7 The RSA Bill provides for the functional supervision of RSAs by the
+Insurance and Superannuation Commission (ISC). The Bill is based on the
+regulatory regime currently in place for superannuation entities under the
+Superannuation Industry (Supervision) Act 1993. This will ensure that the
+treatment for RSAs is as consistent as possible with that which applies to
+existing superannuation products.,J
+1.8 Provision is made for:
+. the approval of RSA institutions and the capacity for that approval
+to be suspended or revoked;
+. annual reporting to the ISC by RSA providers;
+. the clear delineation of basic duties and responsibilities of RSA
+providers;
+. rules relating to the opening of RSAs and disclosure by RSA
+providers;
+. a mechanism to deal with benefits in respect of members that have
+left employment or who are lost, and unclaimed benefits;
+. the collection and use of tax file numbers;
+. certain disclosure obligations on auditors of RSA providers; and
+. powers for the ISC to enable effective enforcement of the retirement
+income and other standards on RSA providers.4
+1.9 It is important to note that by establishing the role of the ISC as
+functional regulator of RSA providers, the legislation effectively imposes a
+dual regulation regime, as prudential regulation of providers remains with
+"home" regulators. For example, prudential supervision of banks marketing
+RSAs will remain with the Reserve Bank of Australia, while functional
+supervision will fall to the ISC.
+3 Retirement Savings Accounts Bill 1996, Explanatory Memorandum, p 1.
+Retirement Savings Accounts Bill 1996, Explanatory Memorandum, pp 1-2.
+4
+
+
+Retirement Sav ings Accounts (Consequential Amendments) Bill
+1.10 The Retirement Savings Accounts (Consequential Amendments) Bill
+(CA Bill) contains provisions amending a number of Acts to create a similar
+environment to that currently applying to existing superannuation products
+such as superannuation funds and approved deposit funds by:
+• putting in place an equivalent taxation regime of RSAs as applying
+to existing superannuation products;
+• allowing employers to make Superannuation Guarantee
+contributions to an RSA;
+• allowing the Superannuation Complaints Tribunal to deal with
+complaints concerning RSAs;
+• allowing RSAs to be used as a rollover vehicle for preserved
+superannuation benefits; and
+• providing for a mechanism for the calculation and collection of the
+RSA supervisory levy.3
+Retirement Savings Accounts Supervisory Levy Bill
+1.11 Provisions of the Retirement Savings Accounts Supervisory Levy Bill
+(Levy Bill) create a levy to be paid by entities providing RSAs. The purpose of
+this levy is to recover the costs of supervision by the Insurance and
+Superannuation Commission (ISC) in monitoring the compliance with
+retirement income and other superannuation standards.6
+1.12 The Levy Bill proposes to effect full recovery of the ISC's supervision of
+RSAs. It does this by imposing a levy on RSA providers (banks, building
+societies, credit unions and life insurance companies) that offer RSAs and who
+lodge an annual return with the ISC.
+1.13 This Bill makes provision for the application of:
+. a retirement savings account levy on RSA providers consisting of
+two components - the basic levy amount and the late lodgement
+amount;
+5 Retirement Savings Accounts (Consequential Amendments) Bill 1996, Explanatory Memorandum, p 1
+Second Reading Speech on the Levy Bill
+6
+
+
+. the basic levy amount to be prescribed by regulation based
+principally on the amount of assets and/or the amount of RSA
+money they hold - to not exceed $30,000;
+. a late lodgement amount calculated monthly and added to the basic
+levy - intended to encourage timely lodgement and cover additional
+costs of processing late annual returns; and
+. the total late lodgement amount being the sum of the monthly
+amounts calculated.'
+The current trustee system
+1.14 At present superannuation products are issued under a trust structure.
+This requires trustees to be responsible for the actions of the trust according to
+trust law, and to observe various prudential and other regulations mainly
+contained in the Superannuation (Supervision) Act 1993 (SIS) and the
+regulations made under that Act.
+1.15 The incentive to comply with SIS is the 15 per cent concessional rate of
+tax which applies to complying superannuation hinds. Non-complying funds
+are subject to the normal taxation regime for companies and trusts which would
+normally mean the company tax rate.
+1.16 The trustee structure reflects that superannuation monies are held by the
+funds on behalf of their members. Any net earnings on investments are
+credited to members' accounts, rather than to the investment entity. Financial
+institutions such as life offices, banks, credit unions and building societies are
+not prohibited now from the provision of superannuation services, as they can
+establish subsidiaries with a trustee structure so as to construct complying
+funds. A number of such subsidiaries now exist.
+What RSAs will do
+1.17 The proposed RSAs are seen to address three problems arising from
+superannuation arrangements, namely lack of choice, small balances and
+proliferation of accounts. In the words of the Treasurer's press release of 20
+August 1996:
+RSAs will be a simple, low cost, low risk product especially suited
+to those with small amounts of superannuation, such as itinerant
+and casual workers, those wishing to amalgamate several small
+Retirement Savings Accounts Supervisory Levy Bill 1996, Explanatory Memorandum, p 1
+7
+
+
+superannuation accounts and those nearing retirement (wishing to
+minimise risk). Their introduction will complement existing
+arrangements by increasing competition and choice in the
+superannuation industry, thereby putting downward pressure on
+fees and charges, and encouraging better standards of sendee.
+1.18 There has been general agreement that the returns on RSAs will be less
+than other superannuation accounts. This reflects in part the capital guaranteed
+structure of RSAs where the amount invested cannot be reduced by negative
+investment returns. The proposal for a maximum limit for RSAs was rejected
+by the Government. Instead it was decided to require RSA providers to inform
+holders of their investment options when the limit is reached. This will allow
+RSA holders to remain with their RSA if they wish.
+
+
+
+
+CHAPTER 2
+ISSUES
+A mixed response
+2.1 The introduction of the RSA legislation has provoked a mixed response
+among those organisations who contributed to the inquiry. Some potential RSA
+providers clearly support the concept, although they have concerns about some
+aspects of the legislation. For example, the Credit Union Services Corporation
+(Australia) Ltd (CUSCAL) welcomed the initiative, advising the Committee
+that:
+We see RSAs as increasing consumer choice in superannuation by offering a
+different risk return profile to that offered by superannuation funds. They will
+provide a capital guaranteed product that is simple to operate, convenient to
+access, highly portable and with low or no fees. They will be a safe and secure
+savings mechanism for people who are unsure or uncomfortable about other
+more complex savings arrangements.1
+2.2 It should be noted that CUSCAL has long sought a "on balance sheet"
+superannuation product and made several submissions to this Committee to that
+effect during 1994/95.
+2.3 On the other hand, the Association of Permanent Building Societies
+(APBS) cast doubt on whether its members would be willing to offer RSA
+accounts. While supporting the concept of a simple, deposit based retirement
+account, the APBS expressed concern at the Government's approach as
+requiring RSAs to have too many characteristics of superannuation products.
+The Association advised the Committee that the viability of small accounts in
+ordinary savings accounts is already causing problems for deposit taking
+institutions and expressed disappointment that "more complex and special
+attention will be required for small RSA accounts".
+2.4 The Australian Bankers' Association (ABA) assessed RSAs cautiously,
+expressing the view that its members had a range of concerns about the nature
+of the product. The Chief Executive of the ABA, Mr Mark Addis, told the
+Committee that the ABA was "anxiously awaiting the regulations that will
+accompany the legislation." He expressed the view that it was difficult to assess
+1
+CUSCAL Submission, p. 1.
+
+
+what sort of product could be developed until these regulations became
+available.2
+2.5 The Association of Superannuation Funds of Australia (ASFA),
+questioned the need for RSAs, arguing that the existing superannuation system
+already met the needs of most individuals. However, in common with many
+other contributors to the inquiry, ASFA accepted that RSAs would be
+established in accordance with the Government's policy and concentrated its
+response on the provisions of the legislation.
+2.6 The Australian Council of Trade Unions (ACTU) and the Transport
+Workers' Union (TWU) were unequivocal in their opposition to RSAs. The
+ACTU argued that prior to the introduction of the trustee system, financial
+institutions operated for the benefit of their shareholders rather than policy
+holders, and the trustee system played a significant role in reforming that
+system. The ACTU's concerns centred around the issue of "choice" in the
+superannuation system and potential implications of allowing employers to
+open RSAs for their employees without their consent.
+2.7 The Council of Small Business Organisations of Australia, represented
+by Mr Rob Bastian, supported the concept of RSAs. He advised the Committee
+that he favoured bank operated superannuation vehicles over superannuation
+funds, because of what he considered to be a relative inaccessibility of
+superannuation monies to the small business capital market:
+We do believe very strongly that the lenders are far more capable of managing
+large amounts of money back to the marketplace than are the much more
+conservatively managed superannuation funds. So, our preference would be to
+accentuate the money in the banks as best we can.3
+2.8 Mr Bastian also indicated that he supported a general simplification of
+superannuation:
+...superannuation is found by the smaller employers to be fairly
+confusing...anything we can do to stabilise it and make it simpler would
+obviously be welcomed by the sector.
+2.9 The Government members of the Committee understand that Mr
+Bastian's concerns about the availability of capital from superannuation funds
+are shared by many in regional Australia. There has been criticism of current
+superannuation arrangements from the decentralised and regional areas of
+2 Evidence, 21 Feb 1997.
+Evidence, 21 Feb 1997.
+3
+
+
+Australia in that Super Guarantee monies are sent to the principal metropolitan
+cities tor investment, denying regional areas of funds. An RSA provided by the
+smaller funds may be of benefit to regional Australia.
+Issues canvassed in this report
+2.10 Submissions and evidence received by the Committee during the inquiry
+identified a number of broad issues associated with RSAs. These included:
+• Who can offer a RSA?;
+• Choice;
+• Nature of the Capital Guarantee;
+• Incentives to employers;
+• Regulatory regime; and
+• Disclosure standards.
+2.11 These issues are examined in the following paragraphs of this chapter of
+the report.
+2.12 The Committee also took evidence about a range of more technical issues
+associated with the operation of RSAs. Chapter 3 deals with these issues.
+Who can offer RSAs?
+2.13 Under the provisions of the Retirement Savings Accounts Bill 1996,
+banks, building societies, credit unions, life insurance companies, friendly
+societies (see para 1.6) and prescribed financial institutions can market RSAs.
+Several witnesses and submitters argued that existing superannuation trustees
+should also be able to offer RSAs, including the right to use the term "RSA" as
+a product description.
+2.14 The Investment Funds of Australia (IFA), for example, argued
+essentially, there was no difference between an RSA and a cash based
+superannuation fund. Accordingly, the IFA submitted that superannuation fund
+trustees should "have access to the simpler and cheaper structure that is being
+proposed for RSAs." The IFA contended that this was "an important issue of
+competitive neutrality".4
+2.15 Similarly, the Association of Superannuation Funds of Australia (ASFA)
+submitted that all providers of RSAs and RSA equivalent products, including
+4
+Submission, p. 2.
+
+
+those operating within trust structures should be able to use the single
+identifying term 'RSA'. ASFA argued that to do otherwise would confuse
+consumers and provide RSA institutions with an unfair competitive advantage.
+2.16 The Committee sought clarification of this issue from the Insurance and
+Superannuation Commission (ISC). Dr Darryl Roberts, First Assistant
+Commissioner, Policy, Legal and Actuarial Division, ISC, advised the
+Committee that this issue "is likely to be in the regulations" and that the term
+"RSA" could be used by "lookalikes" that met the requirements:
+The Government has indicated that there should be an opportunity for
+traditional public offer funds that provide broadly equivalent products to
+qualify for the lighter disclosure...
+Our current understanding is that the term [RSA] could be used by RSAs that
+are covered by the legislation and by lookalikes that met the requirements. We
+would expect other products not to use that term.5
+Choice
+2.17 Clause 51 of the RSA Bill permits an employer to open an RSA without
+the consent of an employee. The representative of the ISC explained that under
+this provision, the employer may fill out an RSA application form with the
+employees' details and lodge that form with an RSA provider. The RSA
+provider will then open the account and send the relevant disclosure
+documentation to the employee. On receipt of this documentation, a "cooling
+off' period applies and the employee has 14 days in which to decide whether to
+retain funds in the RSA or transfer them to another fund. 6
+2.18 Several contributors to the inquiry expressed concern about this
+provision. They argued that over the longer term, savings held in RSAs would
+earn interest at a lower rate than is likely to be achieved in a conventional
+superannuation fund. Accordingly, the question of employee choice about
+whether the employer contributed to an RSA or a superannuation fund is
+important, as an employee whose superannuation savings are in a RSA might
+be financially disadvantaged in the longer tenn.
+2.19 Organisations who opposed this provision in the legislation generally
+acknowledged that other provisions within the legislation do allow employees
+to transfer their funds out of the employers' RSA to a fund of their choice if
+dissatisfied. Ms Elena Rubin, Senior Industrial Officer, Australian Council of
+5 Evidence, 25 Feb 1997.
+Evidence, 25 Feb 1997, Dr Roberts, opening statement.
+6
+
+
+Trade unions, questioned the adequacy of this protection, arguing that
+employees were often in a weak position in respect to the balance of power in
+negotiations with employees:
+...the industrial reality is that if an employer opens up an RSA, each individual
+employee will have the onus of putting up their hand and saying "I don't like
+the choice you made for me" and in the workplace that will not happen, no
+matter how much the employee wants to change that arrangement...7
+2.20 The Australian Institute of Superannuation Trustees (AIST) raised
+similar concerns. AIST contended that it was essential that employee choice
+was built into the legislation. Dr Diana Olsberg told the Committee that:
+It is very difficult, particularly for low income workers who have very
+marginal power compared to the employer to actually defy the choice the
+employer has made...8
+2.21 The AIST argued that the issue of choice was compounded by other
+factors, such as any commercial arrangement that may exist between an
+employer and an RSA provider. This relationship might influence the nature of
+the choice that the employer might make for the employee.
+2.22 Dr Darryl Roberts of the ISC advised the Committee that the Section 51
+provision directly mirrors section 153 of the SIS Act, under which an employer
+can apply to make contributions to a public offer superannuation fund without
+the consent of an employee. He stated that under both SIS and the RSA Bills,
+employers can fill out a single application form for multiple employees.
+2.23 Dr Roberts pointed out that the RSA legislation does not make any
+change in relation to the freedom of employers to choose a fund for
+Superannuation Guarantee contributions. Neither does the legislation disrupt
+any existing industrial framework. Dr Roberts confirmed that following
+amendments to the Superannuation Guarantee Act, employers could make SG
+contributions to RSAs as well as regulated superannuation funds. However, this
+does not mean that employers have an automatic right to shift their SG
+payments to RSAs:
+...consistent with existing industrial relations agreements, if employers are
+subject to an industrial agreement or award which does not include a reference
+Evidence, 21 Feb 1997.
+8 Evidence, 21 Feb 1997.
+
+
+to RSAs then the employer will presumably not be able to use RSAs to fulfil
+their SG obligations.9
+2.24 The ISC argued that the legislation incorporates two important
+protections for employees whose employers open RSAs on their behalf:
+• a ‘free look period’, under which employees can elect to transfer the
+balance of the account to another RSA or fund within 14 days of
+receiving the disclosure documentation from the RSA provider; and
+. the employee can request that the RSA account balance be
+transferred at any time to another fund.
+2.25 The ISC acknowledged that RSA institutions can require up to 12 months
+notice for liquidity and administrative reasons, or because of the terms of the
+contract. For this reason, it may take up to twelve months for the balance to be
+moved to the employees' nominated fund. However, the ISC maintained that:
+These consumer protection measures provide portability and ensure that
+employees remain in full control of the RSA once it is opened...
+...the RSA regime retains the degree of choice available in the existing
+superannuation system, and adds a new product to the market, and provides for
+better portability.10
+2.26 The Government members of the Committee acknowledge that questions
+of choice do arise in respect of RSAs as employees' superannuation savings
+may be diminished if their retirement savings are locked into a low-return
+retirement savings vehicle. A compromise solution suggested to the Committee
+was that employers be required to offer employees the choice of a RSA account
+or a conventional superannuation product.
+2.27 The Government members of the Committee note however the ISC
+evidence that many RSA provisions including those relating to choice mirror
+the provisions of the SIS Act, under which employers can also open
+superannuation accounts for their employees under similar conditions as those
+that will apply to RSAs.
+2.28 Given that the Government is committed to the concept of increasing
+choice in superannuation, The Government members of the Committee
+consider that the Government should address the issue of employee choice in
+9 Evidence, 25 Feb 1997, Dr Roberts, opening statement.
+10 Evidence, 25 Feb 1997, Dr Roberts, opening statement.
+
+
+both RSAs and trustee products in any overall review of choice in
+superannuation. The Government members of the Committee are of the view
+however that these issues should be addressed separately from the RSA
+legislation.
+Nature of the Capital Guarantee
+2.29 A number of potential RSA providers questioned the inclusion of the
+capital guarantee provisions for RSAs, arguing that deposits in banks, credit
+unions and building societies are already capital guaranteed. Mr Raj Venga,
+Director, Policy and Compliance, APBS, summarised the view:
+...the concept of negative returns simply does not apply to deposits. There
+cannot be a negative return, because you are contracting to repay the amount
+with or without interest that has been deposited. So it applies to life insurance
+company models but certainly not to banks building societies and credit
+unions.11
+2.30 The Committee further explored the meaning of the capital guarantee that
+is expected to be an essential feature of this product. Under questioning,
+representatives of the ABA acknowledged that while the capital is guaranteed
+against negative earnings, situations may arise where a deposit in an RSA
+might be eroded by bank fees. Mr Addis told the Committee:
+What we are saying is the capital is guaranteed against negative earnings but
+admits the possibility that there may be some erosion of the capital in the
+unlikely event I would expect, that fees and charges are greater than positive
+earnings.12
+2.31 The Government members of the Committee note that S38(2)(i) of the
+RSA Bill gives reserve powers to the ISC, permitting standards to be prescribed
+in relation to "fees that may be charged for the provision of RSAs". While the
+ISC indicated that there is currently no intention to regulate fees or monitor
+them in any systematic way, the Government members consider that the ISC
+should survey the fees and charges applied to RSA accounts to ensure the
+capital guaranteed nature of RSAs is not undermined by unreasonable fees and
+if necessary, consider the use of its S38 reserve powers. Additionally, the
+Government members consider such monitoring is essential to ensure that the
+Governments' objectives for RSAs to be a simple, low cost product are met.
+11 Evidence, p. 22.
+12 Evidence, 21 Feb 1997.
+
+
+Incentives to employers
+2.32 A number of contributors to the inquiry considered that the Government
+should prohibit RSA providers from offering incentives or inducements to
+employers to use a particular RSA product. For example, a bank might offer a
+business a reduced rate of interest on borrowings if the employer opens RSA
+accounts for employees with that bank. Submittors argued that there were a
+number of shortcomings associated with such a practice:
+• Competition takes place between providers and third parties;
+. Competition is not necessarily based on the merits of the product;
+. The interests of the RSA holder may be secondary.
+2.33 Representatives of the Australian Banking Association took a different
+view. Mr Addis of the ABA told the Committee that as long as they are not
+improper, incentives are part of normal business relationships:
+I cannot see that it is a conflict of interest. I really wouldn't want to speculate
+on the nature of the incentives, or the quantification of those incentives, but the
+notion of incentives is part of any business relationship, part of the negotiation
+of any relationship. It is part and parcel of normal business. As long as it is not
+improper, as long as people are comfortable with those arrangements, then so
+be it.13
+2.34 The Australian Consumers' Association (ACA) drew the Committee's
+attention to Section 47(IV) of the Trade Practices Act which prohibits 'Third
+Line Forcing' and other exclusive dealing in general terms. However, the ACA
+and others considered that there is a clear need to clarify the types of practices
+that should be prohibited as unreasonable and specify appropriate penalties.14
+Regulatory regime
+2.35 A variety of financial and other organisations expressed reservations
+about the regulatory regime that will apply to RSA providers.
+2.36 The Australian Association of Permanent Building Societies (AAPBS)
+expressed disappointment about the regulatory environment that is to apply to
+RSA providers. AAPBS considered that the structure imposed under the RSA
+legislation was excessively and unnecessarily complex, giving rise to higher
+administrative costs and making the product a marginal economic proposition.
+13 Evidence, 21 Feb 1997.
+14 Submission, Australian Consumers' Association, p. 3.
+
+
+Mr James Larkey, the executive director of the APBS, summed up the society's
+position:
+At this stage we are anything but bullish about the future of RSAs. We think
+an opportunity for a low-cost, simple bank deposit product that would qualify
+for superannuation savings privileges is probably being lost.15
+2.37 ASFA also expressed concern that there will be no clear separation of
+responsibilities, for example in complaints resolution, suggesting that in the
+longer term, it would be simpler to move towards a singe complaints regulator.
+2.38 Dr Darryl Roberts of the ISC addressed concerns about the dual
+regulatory regime at the Committee's first public hearing. Dr Roberts
+acknowledged that the ISC is conscious of potential problems that might arise
+as a result of adopting a dual regulator approach. He explained the ISC's
+proposed approach in the following terms:
+Therefore, to avoid the danger of encroaching on the domain of an RSA
+provider's traditional prudential supervisor with adverse consequences, we
+intend to closely coordinate and cooperate with that supervisor and to generally
+take a non-intmsive approach to the regulation of compliance with the
+retirement income standards. Essentially, this means a system of
+self-assessment whereby the RSA providers themselves will need to certify in
+writing that they clearly understand the RSA requirements, that they have
+adequate systems in place to meet those requirements and that they have, in
+fact, been fully complying with those requirements. By adopting this
+self-assessment approach, we hope to minimise the regulatory overlap and
+compliance burden which might otherwise result from not having the
+prudential supervision and the functional regulation of a superannuation
+provider housed in the same agency under the one roof.16
+2.39 Dr Roberts emphasised that should this system of self assessment break
+down, the ISC would intervene promptly:
+For example, we will immediately and intensively investigate any suspected
+breaches of the preservation, disclosure or other superannuation standards
+brought to our attention by way of market intelligence or customer complaints.
+If remedial action by the RSA product provider is required, we will ensure that
+it occurs.1'
+15 Evidence, p. 17.
+16 Evidence, p. 26.
+17 Evidence, p. 26.
+
+
+Disclosure
+2.40 The RSA Bill does not specify disclosure standards. Rather, it enables
+the Government to make regulations that will set standards in this area. These
+regulations were not referred to the Committee and indeed had not been made
+available during the Committee's examination of the legislation. However, the
+Government members of the Committee consider that it is appropriate to advise
+the Senate of the nature of concerns about disclosure requirements that emerged
+during the inquiry.
+2.41 A common theme was that consumers should be provided with adequate
+information to make informed choices, including fees and expected returns.
+However, excessively detailed material was considered counterproductive as
+experience has demonstrated that excessively large amounts of material is
+likely to be ignored. Additionally, excessive disclosure requirements will
+impose excessive costs on RSA providers.
+2.42 For example, the IFA representative, Mr Richard Gilbert advised the
+Committee that the prospectus documents required for ordinary, cash based
+funds can be as long as 50 pages. He said that the key features statement should
+not exceed six pages.18
+2.43 Other general points raised include that:
+. Opinion is mixed about whether the proposed "health warning" at a
+balance of $10 000 is adequate. Some support this level, others
+argue that there should be also a "health warning" in the initial
+disclosure documents;
+. Several organisations offered opinions about what should be
+included in disclosure documents. Common elements included
+information about fees, commissions and charges; the nature of the
+capital guarantee; historical and future returns; dispute resolution
+information; preservation and access; information about the $10 000
+"health warning".
+. Commonly, potential RSA providers sought that disclosure rules be
+kept "simple and minimal".
+18 Evidence, p. 5.
+
+
+CHAPTER 3
+TECHNICAL ISSUES
+Introduction
+3.1 In its submission to the Committee the Australian Bankers' Association
+identified a number of problems it saw in the Bills. The more significant of
+these involved:
+. the need to consult with the prescribed regulatory authorities
+regarding action toward potential or existing RSA providers;
+• the need to notify an employer of suspension or revocation of
+an RSA provider's licence;
+• inconsistency with the SIS legislation with regard to operating
+standards;
+• problems in the application of the prohibition on interest off-
+setting arrangements;
+• the transfer of RSA balances;
+. the requirement on RSA providers to hold money on trust in
+certain circumstances
+. inconsistency with SIS regarding complaints against RSA
+providers; and
+. a number of matters relating to the taxation arrangements.
+3.2 Also, the Committee particularly noted the problems in the Bills
+identified in the submission from the Life Investment and Superannuation
+Association of Australia (LISA). Significant among these were:
+. doubts about the relevant prudential supervisor of RSAs
+offered by life companies;
+. the double taxation of income and the relevant tax rate;
+. consultation with the relevant regulator;
+. consequences of suspension or revocation of RSA provider's
+approval for employers;
+. inconsistency of operating standards with SIS;
+. monies to be held on trust;
+. disclosure requirements;
+. refunding of employer contributions; and
+. death and disability cover.
+
+
+3.3 Submissions made to the Committee by other organisations also raised
+technical issues similar to those referred to above.
+The Government's amendments
+3.4 On the afternoon of its final public hearing on this matter on 25 February
+1997, the Committee received the amendments which the Government would
+be introducing into Parliament during the passage of these Bills.
+3.5 The amendments to the RSA Bill are aimed at:
+. providing for the relevant prudential regulator to be consulted
+before the ISC makes decisions affecting RSA institutions;
+. removing the requirement that certain money be held on trust;
+and
+. making miscellaneous technical drafting improvements.
+3.6 Amendments to the Consequential Amendments Bill seeks to:
+. limit the scope of who is regarded as a 'representative of an
+RSA provider' for the purposes of the Superannuation
+(Resolution of Complaints) Act 1993;
+. enable the Superannuation Complaints Tribunal to be
+constituted by any three Tribunal Members;
+. modify the tax regime on RSA providers by:
+removing concerns that the provisions could result in
+the double taxation of amounts credited to RSAs;
+ensuring that the RSA component of an RSA
+provider's income is not reduced by tax paid in
+relation to an RSA that is withdrawn by the RSA
+provider from the RSA; and
+ensuring the RSA providers cannot offset losses
+against RSA income.
+. ensure that the intercorporate dividend rebate applies
+appropriately to life assurance company RSAs; and
+. ensure that tax file number provisions applying to ordinary
+bank accounts do not apply to RSAs.
+
+
+3.7 As the Committee did not receive the amendments until shortly before its
+final hearing, it has not been able to examine in detail whether the amendments
+to be moved by the Government to these bills adequately address the technical
+issues and anomalies identified by the ABA, LISA and other organisations. The
+Committee sought information from the ISC about the extent to which the
+amendments addressed these problems.
+3.8 The Committee also independently examined the amendments. The
+Government members of the Committee are satisfied that they appear to resolve
+what it found to be the main difficulties with this legislation arising out of the
+submissions and oral evidence.
+Conclusions and Recommendations
+3.9 The market for RSA products may be somewhat limited, as it is likely
+that the interest paid on deposits in RSAs will probably be significantly less in
+the longer term than the rates paid by most superannuation funds. Nonetheless,
+risk aversive investors such as those approaching retirement and persons who
+prefer a simpler product than conventional superannuation will find RSAs
+attractive.
+3.10 While proponents and opponents of this legislation have given the
+concept of RSAs a mixed reception, the Government members of the
+Committee consider that on balance, RSAs will be a useful addition to the
+range of retirement savings products and add to the choices that are available.
+Recommendation
+The Government members of the Committee recommend that the Bills be
+passed with the Government amendments as presented to the Committee.
+Senator John Watson Senator Alan Ferguson
+Chairman
+r
+Senator Julian McGauran
+
+
+
+
+RETIREMENT SAVINGS ACCOUNTS LEGISLATION
+OPPOSITION SENATORS' REPORT
+Opposition Senator's Report
+MARCH 1997
+
+
+
+
+CHAPTER ONE
+RETIREMENT SAVINGS ACCOUNTS
+Introduction
+1.1 During the 1996 March Election Campaign the Coalition parties gave a
+commitment to allow financial institutions such as banks, building societies, credit
+unions, life offices and super funds to offer individual superannuation.
+1.2 The election document also stated that " the Coalition's intention is not
+replace existing superannuation funds, but to complement current options by
+expanding the range of options open to consumers."1
+1.3 On Budget night, August 20 1996, the Treasurer announced that the
+Government had decided to " allow banks, building societies, credit unions and
+life insurance companies (life offices) to provide superannuation without a trust
+structure in the form of Retirement Savings Accounts (RSAs). RSAs will be
+"capital guaranteed'. The accounts, into which a member and / or an employer on
+the members' behalf will be able to make deposits, will be fully portable, owned
+and controlled by the member, and subject to the retirement income standards of
+superannuation products, including preservation. RSAs will also be able to accept
+superannuation contributions on behalf of non-working and low income spouses."2
+1.4 In the second reading speech, the Parliamentary Secretary (Cabinet) to the
+Prime Minister, the Hon Chris Miles said the following:
+"Retirement savings accounts - or RSAs for short - have a central role to play in the
+Government's strategy for increasing choice and competition in the superannuation sector.
+Choice gives employees greater scope to control the management of their superannuation
+savings."
+Conduct of the Inquiry
+1.5 On 12 December 1996 the Senate Selection of Bills Committee referred the
+package of legislation for RSAs to the Senate Select Committee on
+Superannuation for full public examination.
+1.6 The Committee wrote to selected organisations inviting submissions. It also
+advertised this reference in The Australian Financial Review on Tuesday
+1 Coalition March 1996 Election Policy " Super For All"
+2 1996/97 Budget Press Release entitled "Retirement Savings Accounts".
+
+
+11 February 1997 and received a number of inquiries from other persons who
+were provided with information about the inquiry.
+1.7 As a result the Committee received 20 submissions from those persons
+listed in Appendix 1, and held three public hearings, two in Canberra on 11 and 25
+of February and one in Melbourne on 21 February 1997. A list of witnesses who
+appeared at those hearings is at Appendix 2.
+Retirement Savings Accounts Biil
+1.8 Provisions of the Retirement Savings Accounts Bill (RSA Bill) allow banks,
+building societies, credit unions, life insurance companies and prescribed financial
+institutions to provide superannuation accounts that do not require the trustee
+structure presently required for superannuation providers to receive concessional
+taxation treatment. Subsequent to foreshadowed Government amendments to this
+Bill, certain friendly societies will be included as approved financial institutions,
+where the Australian Financial Institutions Codes (AFIC codes) apply to them.
+Details of the new structure will be contained in the regulations.
+1.9 The RSA Bill provides for the functional supervision of RSAs by the
+Insurance and Superannuation Commission (ISC). The Bill is based on the
+regulatory regime currently in place for superannuation entities under the
+Superannuation Industry (Supervision) Act 1993. This will ensure that the
+treatment for RSAs is as consistent as possible with that which applies to existing
+superannuation products.
+1.10 Provision is made for:
+. the approval of RSA institutions and the capacity for that approval to
+be suspended or revoked;
+. annual reporting to the ISC by RSA providers;
+. the clear delineation of basic duties and responsibilities of RSA
+providers;
+. rules relating to the opening of RSAs and disclosure by RSA
+providers;
+. a mechanism to deal with benefits in respect of members that have left
+employment or who are lost, and unclaimed benefits;
+. the collection and use of tax file numbers;
+. certain disclosure obligations on auditors of RSA providers; and
+. powers for the ISC to enable effective enforcement of the retirement
+income and other standards on RSA providers.4
+3 Retirement Savings Accounts Bill 1996, Explanatory Memorandum, p 1.
+Retirement Savings Accounts Bill 1996, Explanatory Memorandum, pp 1-2.
+4
+
+
+1.11 It is important to note that by establishing the role of the ISC as functional
+regulator of RSA providers, the legislation effectively imposes a dual regulation
+regime, as prudential regulation of providers remains with "home" regulators. For
+example, prudential supervision of banks marketing RSAs will remain with the
+Reserve Bank of Australia, while functional supervision will fall to the ISC.
+1.12 The Opposition members of the Committee note that the regulation of RSAs
+will continue to remain uncertain due to the existence of the Wallis Inquiry into
+the Financial Services Sector. The Committee anticipates that a number of Wallis'
+recommendations and the subsequent Government response may in fact result in a
+radical overhaul of the current regulatory regime.
+1.13 The Opposition members therefore note that due to this current environment
+it may be appropriate for the Committee to examine the provision and supervision
+of RSAs post Wallis.
+Retirement Savings Accounts (Consequential Amendments) Bill
+1.14 The Retirement Savings Accounts (Consequential Amendments) Bill (CA
+Bill) contains provisions amending a number of Acts to create a similar
+environment to that currently applying to existing superannuation products such as
+superannuation funds and approved deposit funds by:
+• putting in place an equivalent taxation regime of RSAs as applying to
+existing superannuation products;
+• allowing employers to make Superannuation Guarantee contributions
+to an RSA;
+. allowing the Superannuation Complaints Tribunal to deal with
+complaints concerning RSAs;
+. allowing RSAs to be used as a rollover vehicle for preserved
+superannuation benefits; and
+. providing for a mechanism for the calculation and collection of the
+RSA supervisory levy.3
+Retirement Savings Accounts Supervisory Levy Bill
+1.15 Provisions of the Retirement Savings Accounts Supervisory Levy Bill
+(Levy Bill) creates a levy to be paid by entities providing RSAs. The purpose of
+Retirement Savings Accounts (Consequential Amendments) Bill 1996, Explanatory Memorandum, p 1.
+5
+
+
+this levy is to recover the costs of supervision by the Insurance and
+Superannuation Commission (ISC) in monitoring the compliance with retirement
+income and other superannuation standards.6
+1.16 The Levy Bill proposes to effect full recovery of the ISC's supervision of
+RSAs. It does this by imposing a levy on RSA providers (banks, building
+societies, credit unions and life insurance companies) that offer RSAs and who
+lodge an annual return with the ISC.
+1.17 This Bill makes provision for the application of:
+. a retirement savings account levy on RSA providers consisting of two
+components - the basic levy amount and the late lodgement amount;
+. the basic levy amount to be prescribed by regulation based principally
+on the amount of assets and/or the amount of RSA money they hold -
+to not exceed $30,000;
+. a late lodgement amount calculated monthly and added to the basic
+levy - intended to encourage timely lodgement and cover additional
+costs of processing late annual returns; and
+. the total late lodgement amount being the sum of the monthly amounts
+calculated.7
+The Superannuation System
+1.18 In 1992 the Labor Government, with bipartisan support introduced the
+Superannuation Guarantee Charge Act 1992. This legislated for a compulsory
+employer contribution to be made to an employee's superannuation account the
+total contribution level is to be 9 per cent by the year 2001-2.
+1.19 The SGC was the first pillar in what has become an unique system of
+superannuation saving. Australia's superannuation system has been recognised by
+the World Bank as being a leader. Founded upon three pillars, these being
+compulsory employer contributions, the ability to voluntarily save for retirement
+and the continuance of a universal pension safety net. The Australian
+superannuation system provides a high level of security and flexibility.
+1.20 Retirement incomes is one of the greatest challenges facing a modem
+market driven economy. Australian demographics indicate that by the year 2026
+6 Second Reading Speech on the Levy Bill
+Retirement Savings Accounts Supervisory Levy Bill 1996, Explanatory Memorandum, p 1
+7
+
+
+the average age of the population will be 418. The Labor Government took the
+decision in 1992 to introduce a compulsory system of superannuation savings to
+achieve the dual aims of ensuring that citizens could expect a decent standard of
+retirement income, as well as fostering intergenerational equity.
+1.21 The SGC followed the 1985 Productivity Wage Case in which the
+Commission determined that all employees would receive a productivity wage
+increase of j per cent which would be delivered through an employee's
+superannuation.
+1.22 It is against this background that superannuation policy in the 1990's has
+been formulated. Foremost in all policy consideration has been, and must
+continue to be so, the fact that superannuation is part of an employees wage that
+has been compulsorily saved.
+1.23 In 1995 the Labor Government announced that all employees would be
+required to save one per cent of their average weekly earnings into superannuation
+from the 1996-97 year. This employee contribution would rise to three per cent by
+the year 2002.
+1.24 The Labor Government also announced that it would match the employee
+contribution. The total cost of this policy announcement once fully implemented
+is to be $4.5 billion in the year 2002.
+1.25 This initiative was developed in order to achieve the maximum amount of
+contributions into superannuation. It has been well documented by a number of
+industry experts that for an employee to have a sufficient level of income in
+retirement contribution levels have to be in the realm of between 12 to 15 per cent
+of an employee's average weekly earnings.9
+1.26 The Labor Government considered that the 9 per cent employer
+contribution, 3 per cent employee contribution and the matching 3 per cent
+government co-contribution represented sound policy mix.
+The current trustee system
+1.27 Given the compulsory nature of superannuation savings the Labor
+Government considered it appropriate to ensure that public confidence was
+maintained through a world class system of prudential regulation. In 1993 the
+8 Australian Bureau of Statistics, Projections of the Populations of Australia, Slates and Territories, 3222.0,
+Table 9.5
+9 The extension writing os Vice Fitzgerald regarding the requirement for 18 per cent of an employees average
+weekly earnings to be contributed to super, ASFA publications and more recently the Coalition Government's
+own National Commission of Audit.
+
+
+Labor Government introduced and implemented, with bi-partisan support the
+Superannuation Industry Supervision (SIS) Act 1993.
+1.28 Fundamental to this system is the principle that superannuation monies must
+be managed on trust. Arguably the most demanding commercial test in Australian
+law, at present, trustees of superannuation funds are both personally and
+professionally criminally liable for their actions in relation to the investment,
+management and administration of superannuation monies.
+1.29 A crucial part of this trustee structure is the equal representation of both
+employer and employee representatives at Board level. For a decision to be
+binding a two thirds vote must be taken, thus ensuring that no class of member can
+dominate the superannuation fund.
+1.30 Due to the compulsory nature of the system, the SIS Act provides for
+compensation in the event of theft or fraud. The combination of these protections
+facilitates a high level of public confidence in the overall security and stability of
+the superannuation system.
+1.31 At present superannuation products are issued under a trust structure. This
+requires trustees to be responsible for the actions of the trust according to trust
+law, and to observe various prudential and other regulations.
+1.32 The incentive to comply with SIS is the 15 per cent concessional rate of tax
+which applies to complying superannuation funds. Non-complying funds are
+subject to the normal taxation regime for companies and trusts which would
+normally mean the company tax rate.
+1.33 The trustee structure reflects that superannuation monies are held by the
+funds on behalf of their members. Any net earnings on investments are credited to
+members' accounts, rather than to the investment entity. Financial institutions such
+as life offices, banks, credit unions and building societies are not prohibited now
+from the provision of superannuation services, as they can establish subsidiaries
+with a trustee structure so as to construct complying funds. A number of such
+subsidiaries now exist.
+
+
+Individualised Superannuation
+1.34 Individualisation of superannuation occurred in the United Kingdom
+through the encouragement of individual superannuation products from 1988. It is
+currently estimated that 1.5 million people may have to be compensated costing
+the United Kingdom government between four to eight billion dollars.
+1.35 In his recent visit to Australia, Mr Tom Ross of the United Kingdom
+National Association of Pension Funds stated,
+And I think it's the best illustration I have come across in the financial world, at any rate,
+that giving people freedom, flexibility and the ability to exercise choice without suitable
+education and without adequate regulation of those who were purveying the choices is a
+recipe for disaster."10
+1.36 The SIS Act was the Australian response to the Maxwell disaster.
+1.37 Given the compulsory nature of the superannuation system and the fact that
+superannuation represents an individual's retirement income, it is essential that
+Government policy maintains a secure and safe system.
+1.38 In this environment it is entirely appropriate that the Senate Select
+Committee on Superannuation examine these RSA bills to ensure that the broad
+thrust of retirement incomes policy is being maintained.
+What RSAs will do
+1.39 The proposed RSAs are seen to address three problems arising from
+superannuation arrangements, namely lack of choice, small balances and
+proliferation of accounts. In the words of the Treasurer's press release of 20
+August 1996:
+RSAs will be a simple, low cost, low risk product especially suited to
+those with small amounts of superannuation, such as itinerant and
+casual workers, those wishing to amalgamate several small
+superannuation accounts and those nearing retirement (wishing to
+minimise risk). Their introduction will complement existing
+arrangements by increasing competition and choice in the
+superannuation industry, thereby putting downward pressure on fees
+and charges, and encouraging better standards of service.
+1.40 There has been general agreement that the returns on RSAs will be less than
+other superannuation accounts. This reflects in part the capital guaranteed structure
+10 the 1996 ASFA Conference Edition of SuperFunds.
+
+
+of RSAs where the amount invested cannot be reduced by negative investment
+returns. The proposal for a maximum limit for RSAs was rejected by the
+Government. Instead it was decided to require RSA providers to inform holders of
+their investment options when the limit is reached. This will allow RSA holders to
+remain with their RSA if they wish.
+1.41 However a number of organisations namely the Australian Council of Trade
+Unions, the Australian Institute of Superannuation Trustees and the Australian
+Consumers' Association amongst others did indicate that they believe the $10 000
+mark to be a considerable level of accumulated superannuation savings for those
+employees who earn the average weekly wage.
+1.42 These organisations highlighted the absolute necessity for a clear statement
+in relation to the health warning, and suggested that the health warning used for
+cigarette smoking may in fact be appropriate.
+
+
+CHAPTER TWO
+CHOICE
+Theory
+2.1 As outlined in Chapter One, the Government's policy motivation to allow
+financial institutions to offer RSAs is to encourage an expanded level of
+consumer choice.
+2.2 The Government would appear to be committed to the argument that
+expanded consumer choice will have the flow on effect of providing employees
+with a greater degree of control over their own superannuation.
+2.3 Before exploring a number of concerns with the RSA bills in Chapter
+Three, it is appropriate to engage in some discussion surrounding the theory
+and rhetoric of choice.
+2.4 Choice is an expression of the theory of the individual. As the role of the
+individual is heightened in the community, a corresponding need for a variety
+ot choices to be articulated may arise. Individuals will increasingly desire the
+ability to express their own ideas and needs demanding a number of
+alternatives to be offered, in order to express this changing nature of society.
+2.5 The development of this social, economic and cultural phenomena may
+lead to both a dispersion and disintegration of cohesion and consistency
+throughout both systems and policy. An individual's capacity to determine and
+choose their own destiny is contingent upon the recognition of the declining
+ability of the community to formulate a cohesive and consistent response to an
+external force.
+2.6 Integral to this theory is the nexus between responsibility and choice.
+For individuals to take responsibility for their choices it is fundamental that
+they are able to comprehend what the choices are and what these choices will
+mean in the longer term.
+2.7 For example, if an individual is not able to foresee what will occur if they
+do not save for their retirement, it is not correct to say that they have made a
+choice between saving and not saving and thus are capable of being responsible
+for their decision.
+2.8 If individuals are to bear the ultimate responsibility for their decisions it
+is fundamental that they are in a position to make informed and effective
+
+
+choices. However, if choice is merely a mechanism set in place to highlight the
+fact that there is no government co-ordination, then surely both the individual
+and the community must then question the true commitment to choice and the
+individual's right to determine their own future.
+2.9 Choice as a concept is premised upon the assumption that individuals
+have an unfettered ability to determine all possible alternatives, are able to
+evaluate these and have the tools within their means to make informed
+decisions.
+2.10 In the event of any or all of these factors being constrained or hindered, it
+must be accepted that the individual's ability to make a true choice has been
+diminished. In examining the RSA bills it is essential that the concept of what
+constitutes a real choice is contrasted against the rhetoric of an individual
+having a perceived choice.
+2.11 To have a choice implies access to information and some criteria against
+which to compare this information. It then follows that the individual must be
+sufficiently informed in order to comprehend key concepts and themes.
+2.12 The issue of education is even more important when dealing with
+technical issues such as financial products and / or superannuation. Education
+provides the individual with a vital tool with which they can assess the validity
+of information.
+2.13 Together with the issue of education is the need for information to be
+capable of easy comparison. This aids the consumer in evaluating information
+and then being in a position to be able to make an informed choice.
+2.14 The third issue that is fundamental to the concept of choice is that an
+individual must be in a position to freely determine their preferred option.
+2.15 The rhetoric of choice can, and has to some extent, blindly accepted the
+metaphor of the 'level playing field' and the ability of an individual to be in a
+position to bargain effectively and freely.
+2.16 Free and unfettered choice is a pure theoretical construct that has little
+connection with the day to day realities of a person's individual circumstances.
+It is therefore necessary for policy initiatives to recognise that 'choice' however
+it is dressed up will only ever be a chimera of the real thing.
+2.17 Given this, it is therefore critical that whatever options are available to
+policy makers to enhance the delivery and operation of a choice regime are
+maximised.
+
+
+2.18 In this context, a government sponsored education campaign is critical if
+the Coalition is to match its rhetoric with substance. The Opposition members
+of the Committee strongly recommend that such a campaign be implemented.
+2.19 To this end the Opposition members find a suggestion by Mr Peter
+Downes of Jacques Martin extremely helpful. Mr Downes suggested that the
+levy currently raised by the ISC from superannuation funds might be used to
+sponsor an education campaign. He stated:
+I understand that there is a surplus there now [ in the pool of levy funds] and that would
+seem to me to be a good way of spending the money in the interests of government, the
+membership and the industry.1
+Evidence, Mr Peter Downes, Jacques Martin 21 February.
+
+
+
+
+CHAPTER THREE
+ISSUES
+A mixed response
+3.1 The introduction of the RSA legislation has provoked a mixed response
+among those organisations who contributed to the inquiry. Potential RSA
+providers have a number of concerns about aspects of the legislation. However,
+a number of submitters to the Committee did welcome the concept of a simple,
+flexible and portable superannuation account. For example, the Credit Union
+Services Corporation (Australia) Ltd (CUSCAL) welcomed the initiative,
+advising the Committee that:
+They will provide a capital guaranteed product that is simple to operate,
+convenient to access, highly portable and with low or no fees. They will be a
+safe and secure savings mechanism for people who are unsure or
+uncomfortable about other more complex savings arrangements.1
+3.2 It should be noted that CUSCAL has long sought a "on balance sheet"
+superannuation product and made several submissions to this Committee to that
+effect during 1994/95.
+3.3 The Association of Permanent Building Societies (APBS) cast a
+significant level of doubt on whether its members would be willing to offer
+RSA accounts. While supporting the concept of a simple, deposit based
+retirement account, the APBS expressed concern at the Government's approach
+as requiring RSAs to have too many characteristics of superannuation products.
+The Association advised the Committee that the viability of small accounts in
+ordinary savings accounts is already causing problems for deposit taking
+institutions and expressed disappointment that "more complex and special
+attention will be required for small RSA accounts".
+3.4 It should be noted that the Australian Bankers' Association (ABA)
+assessed RSAs cautiously, expressing the view that its members had a range of
+concerns about the nature of the product. The Chief Executive of the ABA, Mr
+Mark Addis, told the Committee that the ABA was "anxiously awaiting the
+regulations that will accompany the legislation." He expressed the view that it
+1
+CUSCAL Submission, p. 1.
+
+
+was difficult to assess what sort of product could be developed until these
+regulations became available.2
+3.5 The Association of Superannuation Funds of Australia (ASFA),
+questioned the need for RSAs, arguing that the existing superannuation system
+already met the needs of most individuals.
+3.6 The Australian Council of Trade Unions (ACTU) expressed a number of
+fundamental concerns regarding RSAs, although noting that this did not mean
+that the ACTU opposed the RSA concept. In arguing the case before the
+Committee, Ms Elana Rubin, Senior Industrial Officer for the ACTU noted that
+prior to the introduction of the trustee system in superannuation, financial
+institutions operated for the benefit of their shareholders rather than policy
+holders. She highlighted the competing interests of shareholders as compared
+to members, emphasising that the trustee system has played, and continues to
+play, a significant role in reforming that system. The ACTU's concerns centred
+around the issue of "choice" in the superannuation system and potential
+implications of allowing employers to open RSAs for their employees without
+their consent.
+3.7 The Council of Small Business Organisations of Australia, represented
+by Mr Rob Bastian, supported the concept of passbook superannuation. To the
+extent that RSAs meet this simple, flexible and fully portable requirement,
+COSBOA was broadly supportive of the introduction of RSAs. He did advise
+the Committee that he favoured bank operated superannuation vehicles over
+superannuation funds, because of what he considered to be a relative
+inaccessibility of superannuation monies to the small business capital market:
+We do believe very strongly that the lenders are far more capable of managing
+large amounts of money back to the marketplace than are the much more
+conservatively managed superannuation funds. So, our preference would be to
+accentuate the money in the banks as best we can/'
+3.8 It should be noted that this conclusion was premised on the assumption
+that the increased loan book available to banks as a result of RSAs would
+provide small businesses with increased opportunities to access cheap funds.
+The extent to which this will occur cannot be determined and the Opposition
+members of the Committee note with some concern the degree to which
+COSBOA based their support for passbook superannuation on this access issue.
+2 Evidence, 21 Feb 1997.
+Evidence. 21 Feb 1997.
+3
+
+
+3.9 Mr Bastian also indicated that he supported a general simplification of
+superannuation:
+...superannuation is found by the smaller employers to be fairly
+confusing...anything we can do to stabilise it and make it simpler would
+obviously be welcomed by the sector.
+3.10 Mr Bastian also annunciated a significant degree of concern regarding
+the possible disclosure that may become applicable to employers who open
+accounts on behalf of employees. Mr Bastian suggested that his membership
+would be less than supportive, if they were required to disclose all relevant
+documentation regarding RSAs to employees. He said:
+My instinct is that if in such a circumstance you can institute the
+matter of choice on the employee's part and remove the matter of
+compulsion by the state on the employer, then my sector would
+respond joyfully." He went on to say, " But if the state then comes
+to the employer and says this is what you've got to do and there
+heaps of it, and if you don't get it right, we'll penalise you... then
+we would oppose that.4
+3.11 He was very supportive of establishing a nexus between the RSA
+provider and the superannuant, as opposed to between the employer and the
+RSA provider. As he stated, the first premise that must be foremost is the fact
+that superannuation is in fact employees retirement incomes.
+Issues canvassed in this report
+3.12 Submissions and evidence received by the Committee during the inquiry
+identified a number of broad issues associated with RSAs. These included:
+• Who can offer a RSA?;
+• Choice;
+. Nature of the Capital Guarantee;
+• Incentives to employers;
+• Regulatory regime; and
+• Disclosure standards.
+3.13 These issues are examined in the following paragraphs of this chapter of
+the report.
+4
+Evidence, Mr Bastian 21 February.
+
+
+3.14 The Committee also took evidence about a range of more technical issues
+associated with the operation of RSAs. Chapter 4 deals with these issues.
+Who can offer RSAs?
+3.15 Under the provisions of the Retirement Savings Accounts Bill 1996,
+banks, building societies, credit unions, life insurance companies, friendly
+societies (see para 1.6) and prescribed financial institutions can market RSAs.
+Several witnesses and submitters argued that existing superannuation trustees
+should also be able to offer RSAs, including the right to use the term "RSA" as
+a product description.
+3.16 The Investment Funds of Australia (IFA), for example, argued
+essentially, there was no difference between an RSA and a cash based
+superannuation fund. Accordingly, the IFA submitted that superannuation fund
+trustees should "have access to the simpler and cheaper structure that is being
+proposed for RSAs." The IFA contended that this was "an important issue of
+competitive neutrality".3
+3.17 Similarly, the Association of Superannuation Funds of Australia (ASFA)
+submitted that all providers of RSAs and RSA equivalent products, including
+those operating within trust structures should be able to use the single
+identifying term RSA'. ASFA argued that to do otherwise would confuse
+consumers and provide RSA institutions with an unfair competitive advantage.
+3.18 The Committee sought clarification of this issue from the Insurance and
+Superannuation Commission (ISC). Dr Darryl Roberts, First Assistant
+Commissioner, Policy, Legal and Actuarial Division, ISC, advised the
+Committee that this issue "is likely to be in the regulations" and that the term
+"RSA" could be used by "lookalikes" that met the requirements:
+The Government has indicated that there should be an opportunity for
+traditional public offer funds that provide broadly equivalent products to
+qualify for the lighter disclosure...
+Our current understanding is that the term [RSA] could be used by RSAs that
+are covered by the legislation and by lookalikes that met the requirements. We
+would expect other products not to use that term.6
+3.19 Opposition members of the Committee note that the Coalition parties
+explicitly stated in their March 1996 Election Campaign statement that
+5 Submission, p. 2.
+Evidence, 25 Feb 1997.
+6
+
+
+superannuation funds would be allowed to offer individual superannuation,
+RSAs. Opposition members also note that the leaked Cabinet Submission
+regarding RSAs notes in its opening paragraph, " The Government announced
+its commitment to allow banks, building societies, credit unions, life insurance
+companies (life office), complying superannuation funds and other financial
+intermediaries to offer Retirement Savings Accounts (RSAs).."(emphasis
+added).7
+3.20 Opposition members of the Committee therefore believe that in the
+interests of providing real choice, a level playing field and competitive
+neutrality, it is imperative that Government move to amend the legislation in
+order to allow complying superannuation funds to offer RSAs.
+Choice
+3.21 Clause 51 of the RSA Bill permits an employer to open an RSA without
+the consent of an employee.
+3.22 This issue was one of the most canvassed issues during the course of the
+Committee's examination of the RSA bills. The ability of an employer to open
+an RSA account on behalf of an employee raises a number of issues regarding
+the efficacy of the provision of choice to consumers.
+3.23 In addition to this, the ability of an employer to open an account on
+behalf of an employee raises privacy concerns. For example, at present the
+RSA bill does not require any physical proof of the existence of the proposed
+RSA holder nor any proof of the relationship between the proposed RSA holder
+and the employer.
+3.24 ASFA suggested that there may be instances where a partner may request
+his or her employer to open an RSA on behalf of their partners, in order to
+access the announced 18 per cent superannuation tax rebate.s
+3.25 ASFA indicated a number of concerns regarding the provision of consent
+on behalf of the spouse whose name may used to open the RSA.9 Given the
+current absence of a 100 point identity test, which is standard procedure when
+opening a deposit account, there is nothing to prohibit this kind of behaviour.
+1996 Cabinet Submission regarding RSAs, which was leaked to the Opposition and made publicly
+available via the internet.
+8 On August 20 1996, the Treasurer announced that an 18 per cent tax rebate of up to $3000 would be
+available to spouse who contributed to the superannuation accounts of a low income or non working
+spouse. Treasurer's Budget Press Release titled "Superannuation Reform".
+9 Evidence, Mr Foxton 21 February.
+
+
+3.26 Representatives of the ISC explained that under section 51, the employer
+may fill out an RSA application form with the employees' details and lodge that
+form with an RSA provider. The RSA provider will then open the account and
+send the relevant disclosure documentation to the employee. On receipt of this
+documentation, a "cooling off period applies and the employee has 14 days in
+which to decide whether to retain funds in the RSA or transfer them to another
+fund. 10
+3.27 Several contributors to the inquiry expressed concern about this
+provision. They argued that over the longer term, savings held in RSAs would
+earn interest at a lower rate than is likely to be achieved in a conventional
+superannuation fund. Accordingly, the question of employee choice about
+whether the employer contributed to an RSA or a superannuation fund is
+important, as an employee whose superannuation savings are in a RSA might
+be financially disadvantaged in the longer term.
+3.28 The majority of submissions received by the Committee questioned
+adequacy of the "14 day cooling off period", arguing that employees were often
+in a weak position in respect to the balance of power in negotiations with
+employees:
+...the industrial reality is that if an employer opens up an RSA, each individual
+employee will have the onus of putting up their hand and saying "I don't like
+the choice you made for me" and in the workplace that will not happen, no
+matter how much the employee wants to change that arrangement...11
+3.29 The Australian Institute of Superannuation Trustees (AIST) raised
+similar concerns. AIST contended that it was essential that employee choice
+was built into the legislation. Dr Diana Olsberg told the Committee that:
+It is very difficult, particularly for low income workers who have very
+marginal power compared to the employer to actually defy the choice the
+employer has made...12
+3.30 The AIST argued that the issue of choice was compounded by other
+factors, such as any commercial arrangement that may exist between an
+employer and an RSA provider. This relationship might influence the nature of
+the choice that the employer might make for the employee. This point was
+supported by the ACTU, the Community and Public Sector Union, the
+10 Evidence, 25 Feb 1997, Dr Roberts, opening statement.
+11 Evidence, 21 Feb 1997.
+12 Evidence, Ms Elana Rubin, Senior Industrial Officer of the ACTU, 21 February
+
+
+Transport Workers Union, the Australian Consumers Association and a number
+of others.
+3.31 Dr Darryl Roberts of the ISC advised the Committee that the Section 51
+provision directly mirrors section 153 of the SIS Act, under which an employer
+can apply to make contributions to a public offer superannuation fund without
+the consent of an employee. He stated that under both SIS and the RSA Bills,
+employers can fill out a single application form for multiple employees.
+3.32 Dr Roberts pointed out that the RSA legislation does not make any
+change in relation to the freedom of employers to choose a fund for
+Superannuation Guarantee contributions. Neither does the legislation disrupt
+any existing industrial framework. Dr Roberts confirmed that following
+amendments to the Superannuation Guarantee Act, employers could make SG
+contributions to RSAs as well as regulated superannuation funds. However, this
+does not mean that employers have an automatic right to shift their SG
+payments to RSAs:
+...consistent with existing industrial relations agreements, if employers are
+subject to an industrial agreement or award which does not include a reference
+to RSAs then the employer will presumably not be able to use RSAs to fulfil
+their SG obligations.13
+3.33 The ISC argued that the legislation incorporates two important
+protections for employees whose employers open RSAs on their behalf:
+. a ‘free look period’, under which employees can elect to transfer the
+balance of the account to another RSA or fund within 14 days of
+receiving the disclosure documentation from the RSA provider; and
+. the employee can request that the RSA account balance be
+transferred at any time to another fund.
+3.34 Opposition members of the Committee however are inclined to question
+the soundness of the ISC arguments. Whilst section 153 of the SIS Act does
+provide for a sponsor employer entity to lodge an application form on behalf of
+an employee, it does not provide for an employer to unilaterally transfer
+superannuation monies from one fund to another without some indication of
+employee consent. The Opposition members understanding of section 51 of
+the RSA Bill is that an employer is granted such a right.
+13 Evidence, 25 Feb 1997, Dr Roberts, opening statement.
+
+
+3.35 Opposition members also note that section 153 of the SIS Act does not
+allow an employer to open a number of superannuation accounts for a number
+of employees with only one form. Opposition members' understanding of
+section 51 of the RSA Bill is that an employer need only provide to an RSA
+provider one application form, even if the employer is opening a number of
+employee accounts.
+3.36 The Opposition members of the Committee also note that an employer
+under section 153 of the SIS Act must comply with industrial awards.
+Employers, must therefore comply with rulings of the Industrial Relations
+Commission. The Industrial Relations Commission has made a number of
+rulings regarding the ability of an employer to choose and open an RSA on
+behalf of an employee.
+3.37 Opposition members of the Committee note the comments of Ms Elana
+Rubin, Senior Industrial Officer, ACTU regarding this issue,
+" Choice of funds should not rest with the employer - such a practice denies
+employees ownership of their superannuation benefits and is contrary to the
+Government's stated objective of promoting greater consumer choice...Employers
+have no direct interest in ensuring employees' superannuation contributions are
+paid into low cost and efficient superannuation saving vehicles which meet both
+the retirement needs and employment patterns of their workforce. Employers
+have no direct interest in ensuring that superannuation contributions are placed in
+a superannuation vehicle which has an investment programme which meets the
+risk profile and aspirations of their employees."14
+3.38 The Opposition members of the Committee consider that due to the
+employees' undeniable ownership of the superannuation contribution, it is
+unacceptable that the employer has the ability and legal right under the RSA
+bill to direct employees superannuation contributions to their own choice fund.
+Opposition members believe if the RSA product is to be remotely consistent
+with the policy intentions of the Coalition Government, the legislation must be
+amended to ensure that the choice associated with taking out an RSA is that of
+the employee's, not the employer's.
+3.39 The ISC acknowledged that RSA institutions can require up to 12 months
+notice for liquidity and administrative reasons, or because of the terms of the
+contract. For this reason, it may take up to twelve months for the balance to be
+moved to the employees' nominated fund. However, the ISC maintained that:
+These consumer protection measures provide portability and ensure that
+employees remain in full control of the RSA once it is opened...
+14 ACTU submission p 5 - 6.
+
+
+...the RSA regime retains the degree of choice available in the existing
+superannuation system, and adds a new product to the market, and provides for
+better portability.1 ?
+3.40 The Opposition members of the Committee consider that for the RSA to
+be a fully portable account, RSA providers must be required to roll over
+accounts to other funds in a much shorter period of time than the currently
+provided for period of twelve months. Opposition members of the Committee
+recommend that the RSA bill be amended to require RSA providers to roll over
+Nature of the Capital Guarantee
+3.41 A number of potential RSA providers questioned the inclusion of the
+capital guarantee provisions for RSAs, arguing that deposits in banks, credit
+unions and building societies are already capital guaranteed. Mr Raj Venga,
+Director, Policy and Compliance, APBS, summarised the view:
+...the concept of negative returns simply does not apply to deposits. There
+cannot be a negative return, because you are contracting to repay the amount
+with or without interest that has been deposited. So it applies to life insurance
+company models but certainly not to banks building societies and credit
+unions.16
+3.42 The Committee further explored the meaning of the capital guarantee that
+is expected to be an essential feature of this product. Under questioning,
+representatives of the ABA acknowledged that while the capital is guaranteed
+against negative earnings, situations may arise where a deposit in an RSA
+might be eroded by bank fees. Mr Addis told the Committee:
+What we are saying is the capital is guaranteed against negative earnings but
+admits the possibility that there may be some erosion of the capital in the
+unlikely event I would expect, that fees and charges are greater than positive
+earnings.17
+3.43 Opposition members of the Committee note that S38(2)(i) of the RSA
+Bill gives reserve powers to the ISC, permitting standards to be prescribed in
+relation to "fees that may be charged for the provision of RSAs".
+15 Evidence, 25 Feb 1997, Dr Roberts, opening statement.
+16 Evidence, p. 22.
+17 Evidence, 21 Feb 1997.
+
+
+3.44 Opposition members also note that CUSCAL indicated that they did not
+believe it would be commercially worthwhile for their institutions to charge
+fees. Ms Barbara Livesey, Senior Policy Adviser CUSCAL indicated that
+CUSCAL did not expect any of its credit unions to charge fees. She also
+indicated that if the Committee were so inclined as to attempt to recommend
+the regulation of fees and charges, CUSCAL would be supportive of a
+Committee recommendation prohibiting fees and charges rather than regulating
+them.
+3.45 Ms Livesey also noted the need for consumers to be able to easily
+compare fees, charges and interest rates across a wide range of RSA products.18
+3.46 Opposition members of the Committee consider that the ISC should
+survey the fees and charges applied to RSA accounts to ensure the capital
+guaranteed nature of RSAs is not undermined by unreasonable fees and if
+necessary, consider the use of its S38 reserve powers. Opposition members also
+consider that all fees and charges should be disclosed up front to the
+prospective RSA holder. Additionally, Opposition members consider such
+monitoring is essential to ensure that the Governments' objectives for RSAs to
+be a simple, low cost product are met.
+Incentives to employers
+3.47 A number of contributors to the inquiry considered that the Government
+should prohibit RSA providers from offering incentives or inducements to
+employers to use a particular RSA product. For example, a bank might offer a
+business a reduced rate of interest on borrowing's if the employer opens RSA
+accounts for employees with that bank. Submitters argued that there were a
+number of shortcomings associated with such a practice:
+. Competition takes place between providers and third parties;
+. Competition is not necessarily based on the merits of the product;
+. The interests of the RSA holder may be secondary.
+3.48 Representatives of the Australian Banking Association took a different
+view. Mr Addis of the ABA told the Committee that as long as they are not
+improper, incentives are part of normal business relationships:
+I cannot see that it is a conflict of interest. I really wouldn't want to speculate
+on the nature of the incentives, or the quantification of those incentives, but the
+notion of incentives is part of any business relationship, part of the negotiation
+of any relationship. It is part and parcel of normal business. As long as it is not
+18 Evidence, 25 February.
+
+
+improper, as long as people are comfortable with those arrangements, then so
+be it.19
+3.49 The Australian Consumers' Association (ACA) drew the Committee's
+attention to Section 47(IV) of the Trade Practices Act which prohibits Third
+Line Forcing' and other exclusive dealing in general terms". However, the ACA
+and others considered that there is a clear need to clarify the types of practices
+that should be prohibited as unreasonable and specify appropriate penalties.20
+• i • • i i
+3.50 Opposition members of the Committee consider that this issue has the
+potential to be very damaging. Opposition members recommend that such a
+prohibition should be placed in the legislation so as to avoid any such
+behaviour.
+3.51 The Opposition members take this view especially given the presence of
+a due diligence defence within the legislation. The Opposition members note
+that the Wallis inquiry is currently studying Part V of the Trade Practices Act
+and there is increasing speculation about the possibility of it being removed in
+so far as it impacts on the financial services industry.
+3.52 In this uncertain environment, the Opposition members consider it
+important that consumers, -RSA holders, are provided with every available
+opportunity to protect themselves.
+3.53 In keeping with this sentiment, the Opposition members also note with
+interest the ACTU's point regarding the level of disclosure that should occur
+where the RSA provider and the employer have a business or commercial
+relationship.
+3.54 The ACTU, AIST and the ACA all noted that in circumstances where the
+employer and the RSA provider have a business relationship, the nature of this
+business relationship should be disclosed to the employee.
+3.55 All three organisations emphatically noted this point should the situation
+remain that employers are able to open an account on behalf of an employee.
+Regulatory regime
+3.56 A variety of financial and other organisations expressed reservations
+about the regulatory regime that will apply to RSA providers.
+19 Evidence, 21 Feb 1997.
+20 Submission, Australian Consumers' Association, p. 3.
+
+
+3.57 The Australian Association of Permanent Building Societies (AAPBS)
+expressed disappointment about the regulatory environment that is to apply to
+RSA providers. AAPBS considered that the stmcture imposed under the RSA
+legislation was excessively and unnecessarily complex, giving rise to higher
+administrative costs and making the product a marginal economic proposition.
+Mr James Larkey, the executive director of the APBS, summed up the society's
+position:
+At this stage we are anything but bullish about the future of RSAs. We think
+an opportunity for a low-cost, simple bank deposit product that would qualify
+for superannuation savings privileges is probably being lostv1
+3.58 ASFA also expressed concern that there will be no clear separation of
+responsibilities, for example in complaints resolution, suggesting that in the
+longer term, it would be simpler to move towards a singe complaints regulator.
+3.59 Dr Darryl Roberts of the ISC addressed concerns about the dual
+regulatory regime at the Committee's first public hearing. Dr Roberts
+acknowledged that the ISC is conscious of potential problems that might arise
+as a result of adopting a dual regulator approach. He explained the ISC's
+proposed approach in the following terms:
+Therefore, to avoid the danger of encroaching on the domain of an RSA
+provider's traditional prudential supervisor with adverse consequences, we
+intend to closely coordinate and cooperate with that supervisor and to generally
+take a non-intrusive approach to the regulation of compliance with the
+retirement income standards. Essentially, this means a system of
+self-assessment whereby the RSA providers themselves will need to certify in
+writing that they clearly understand the RSA requirements, that they have
+adequate systems in place to meet those requirements and that they have, in
+fact, been fully complying with those requirements. By adopting this
+self-assessment approach, we hope to minimise the regulatory overlap and
+compliance burden which might otherwise result from not having the
+prudential supervision and the functional regulation of a superannuation
+provider housed in the same agency under the one roof.22
+3.60 Dr Roberts emphasised that should this system of self assessment break
+down, the ISC would intervene promptly:
+For example, we will immediately and intensively investigate any suspected
+breaches of the preservation, disclosure or other superannuation standards
+brought to our attention by way of market intelligence or customer complaints.
+21 Evidence, p. 17.
+22 Evidence, p. 26.
+
+
+If remedial action by the RSA product provider is required, we will ensure that
+it occurs.2^
+Disclosure
+3.61 The RSA Bill does not specify disclosure standards. Rather, it enables
+the Government to make regulations that will set standards in this area. These
+regulations were not referred to the Committee and indeed had not been made
+available during the Committee's examination of the legislation. However, the
+Opposition members of the Committee consider that it is appropriate to advise
+the Senate of the nature of concerns about disclosure requirements that emerged
+during the inquiry.
+3.62 A common theme was that consumers should be provided with adequate
+information to make informed choices, including fees and expected returns.
+However, excessively detailed material was considered counterproductive as
+experience has demonstrated that excessively large amounts of material is
+likely to be ignored. Additionally, excessive disclosure requirements will
+impose excessive costs on RSA providers.
+3.63 For example, the IFA representative, Mr Richard Gilbert advised the
+Committee that the prospectus documents required for ordinary, cash based
+funds can be as long as 50 pages. He said that the key features statement should
+not exceed six pages.24
+3.64 Other general points raised include that:
+. Opinion is mixed about whether the proposed "health warning" at a
+balance of $10 000 is adequate. Some support this level, others
+argue that there should be also a "health warning" in the initial
+disclosure documents;
+• Several organisations offered opinions about what should be
+included in disclosure documents. Common elements included
+information about fees, commissions and charges; the nature of the
+capital guarantee; historical and future returns; dispute resolution
+information; preservation and access; information about the $10 000
+"health warning".
+23 Evidence, p. 26.
+24 Evidence, p. 5.
+
+
+. Commonly, potential RSA providers sought that disclosure rules be
+kept "simple and minimal".
+3.65 The Opposition members of the Committee consider it appropriate to
+offer a number of guiding principles in relation to the area of disclosure. The
+Committee is agreement with the Australian Consumers' Association, Jacques
+Martin, the ACTU, AIST, ASFA and CUSCAL. In order to ensure free and
+effective choice it is imperative that prospective RSA holder receive all
+relevant information regarding fees and charges, the rate of return, the level of
+risk associated with the product in addition to a health warning at the time that
+the RSA holder is contemplating establishing a RSA.
+3.66 The Opposition members also consider it important to ensure that the
+RSA holder receives all such information on a regular basis. The Opposition
+members are attracted to the cigarette style health warning regarding the
+$10,000 proposed limit. The Opposition members also consider it to be highly
+desirable if such health warnings could be distributed regularly, preferably
+annually to the RSA holder.
+3.67 Should employers remain legally capable of opening an RSA on behalf
+of an employee, the Committee considers it appropriate that the responsibility
+to disclose fees, charges, rates of return and risk profiles as well as the health
+warning should also fall to the employer. That is the Committee considers the
+burden to be too onerous on RSA providers if they are required to provide
+information in the first instance to the employer and then upon having an
+account opened for them the RSA provider has to inform the RSA holder.
+3.68 The Committee is of the opinion that the best relationship would be
+between the RSA holder and provider. However if the relationship is to be
+brokered at the outset, the intermediary, the employer must be liable for some
+of the responsibility associated with disclosure.
+
+
+CHAPTER FOUR
+TECHNICAL ISSUES
+Introduction
+4.1 In its submission to the Committee, the Australian Bankers' Association
+identified a number of problems it saw in the Bills. The more significant of
+these involved:
+. the need to consult with the prescribed regulatory authorities
+regarding action toward potential or existing RSA providers;
+. the need to notify an employer of suspension or revocation of
+an RSA provider's licence;
+. inconsistency with the SIS legislation with regard to operating
+standards;
+. problems in the application of the prohibition on interest off-
+setting arrangements;
+. the transfer of RSA balances;
+. the requirement on RSA providers to hold money on trust in
+certain circumstances
+. inconsistency with SIS regarding complaints against RSA
+providers; and
+. a number of matters relating to the taxation arrangements.
+4.2 Also, the Committee particularly noted the problems in the Bills
+identified in the submission from the Life Investment and Superannuation
+Association of Australia (LISA). Significant among these were:
+. doubts about the relevant prudential supervisor of RSAs
+offered by life companies;
+. the double taxation of income and the relevant tax rate;
+. consultation with the relevant regulator;
+. consequences of suspension or revocation of RSA provider's
+approval for employers;
+. inconsistency of operating standards with SIS;
+. monies to be held on trust;
+. disclosure requirements;
+. refunding of employer contributions; and
+. death and disability cover.
+
+
+4.3 Submissions made to the Committee by other organisations also raised
+technical issues similar to those referred to above.
+The Government’s amendments
+4.4 On the afternoon of its final public hearing on this matter on 25 February
+1997, the Committee received the amendments which the Government would
+be introducing into Parliament during the passage of these Bills.
+4.5 The amendments to the RSA Bill are aimed at:
+. providing for the relevant prudential regulator to be consulted
+before the ISC makes decisions affecting RSA institutions;
+. removing the requirement that certain money be held on trust;
+and
+. making miscellaneous technical drafting improvements.
+4.6 Amendments to the Consequential Amendments Bill seek to:
+. limit the scope of who is regarded as a 'representative of an
+RSA provider' for the purposes of the Superannuation
+(Resolution of Complaints) Act 1993;
+• enable the Superannuation Complaints Tribunal to be
+constituted by any three Tribunal Members;
+. modify the tax regime on RSA providers by:
+removing concerns that the provisions could result in
+the double taxation of amounts credited to RSAs;
+ensuring that the RSA component of an RSA
+provider's income is not reduced by tax paid in
+relation to an RSA that is withdrawn by the RSA
+provider from the RSA; and
+ensuring the RSA providers cannot offset losses
+against RSA income.
+. ensure that the intercorporate dividend rebate applies
+appropriately to life assurance company RSAs; and
+. ensure that tax file number provisions applying to ordinary
+bank accounts do not apply to RSAs.
+
+
+4.7 As the Committee did not receive the amendments until shortly before its
+tinal hearing, it has not been able to examine in detail whether the amendments
+to be moved by the Government to these bills adequately address the technical
+issues and anomalies identified by the ABA, LISA and other organisations. The
+Committee sought information from the ISC about the extent to which the
+amendments addressed these problems.
+4.8 The Committee has also independently examined the amendments. The
+Opposition members of the Committee have a number of concerns with the
+amendments to section 60 of the Retirement Savings Accounts Bill in
+particular. These amendments remove the trust relationship in the situation of a
+suspense account. Instead the relationship will be one of a debtor and creditor.
+The Opposition members believe that it may be appropriate, in the situation of
+a suspense account to maintain the trust relationship instead of the debtor and
+creditor relationship.
+4.9 Due to the time difficulties constraining the Committee's deliberations,
+the Opposition members of the Committee cannot be fully confident in
+approving the legislative package establishing the RSA regime. This concern is
+emphatically reiterated due to the absence of the regulations during the course
+of the Committee's examination of the RSA regime.
+Conclusions and Recommendations
+4.10 The market for RSA products may be somewhat limited, as it is likely
+that the interest paid on deposits in RSAs will probably be significantly less in
+the longer term than the rates paid by most superannuation funds. Nonetheless,
+risk aversive investors such as those approaching retirement and persons who
+prefer a simpler product than conventional superannuation may find RSAs
+attractive.
+4.11 While proponents and opponents of this legislation have given the
+concept of RSAs a mixed reception, the Opposition members of the Committee
+consider that RSAs may be a useful addition to the range of retirement savings
+products and add to the choices that are available. However the Opposition
+members consider it to be critically important to the government's agenda to
+ensure that the RSA product originally proposed and the product offered are
+akin to one another.
+4.12 The Opposition members of the Committee consider that given the
+forcefulness of some of the submissions received and the consistency of
+
+
+opinion on a number of issues, it is entirely appropriate for it to recommend to
+the Senate a number of amendments.
+Recommendations
+The Opposition members of the Committee recommend that the bills be
+amended so that employers must be able to show that consent has been given
+by an employee to open an RSA account.
+The Opposition members of the Committee recommend that the bills be
+amended to ensure that an employer must use a different application form for
+each RSA that they open.
+The Opposition members of the Committee believe that it is critical to informed
+choice that any commercial relationship in existence between the employer and
+the RSA provider is disclosed to the employee. The Opposition members
+consider this point to be fundamental, particularly in the event of the Senate
+refusing to amend the bills in relation to the employer's ability to open an RSA
+on behalf of an employee.
+The Opposition members of the Committee also believe the regime of
+disclosure to be critical to the issue of choice. Disclosure should up front,
+before the RSA is opened. This information should include fees and charges,
+interest rate, commercial relationship between RSA provider and employer and
+cigarette style health warning regarding the low growth, low return nature of
+the product.
+The Opposition members believe that due to the low growth, low return nature
+of the RSA product RSA holders must be notified regularly, at least annually
+through the health warning of the dangers of using an RSA for long term
+financial planning reasons.
+The Opposition members of the Committee recommend that when the RSA
+reaches the $10,000 the holder must be notified separately, with a health
+warning a range of information indicating alternative options.
+The Opposition members of the Committee recommend that the bills be
+amended to provide for a specific prohibition on third line forcing, so that RSA
+holders are protected from such behaviour.
+
+
+The Opposition members of the Committee recommend that the definition of
+capital guarantee be amended to reflect the sentiment that accounts cannot be
+diminished by fees and charges.
+The Opposition members of the Committee recommend to government the
+need for a government sponsored education campaign. The Opposition
+members consider it to be exceptionally vital if the government is going to
+meet its commitment to provide expanded consumer choice in the
+superannuation product market.
+The Opposition members of the Committee recommend that the Government
+amend the legislation to allow complying superannuation funds to offer
+individual superannuation products such as RSAs in order to remain consistent
+with its election statements and Cabinet Submission regarding the provision of
+RSAs.
+Senator the Hon. Nick Sherry
+Deputy Chairman
+
+
+
+
+AUSTRALIAN DEMOCRAT SENATORS' REPORT
+Australian Democrats Senator's Report
+RETIREMENT SAVINGS ACCOUNTS LEGISLATION
+MARCH 1997
+
+
+
+
+REPORT BY SENATOR LYN ALLISON
+AUSTRALIAN DEMOCRATS MEMBER
+The Australian Democrats support the introduction of Retirement Savings Accounts. We
+endorse the recommendation of the Government Members report that the Government
+amendments to the legislation be passed. However, we believe that further amendments are
+necessary to the legislation to ensure its workability and adequate consumer protection..
+The Government members report adequately summarises the background and evidence to the
+inquiry, and it is not intended to repeat this. By way of further background, it should be noted
+that the Committee took considerable evidence on the issue of Superannuation Savings
+Accounts in the review of the Superannuation Guarantee System. In the Fifteenth Report of
+the Committee, tabled in February 1995, the Coalition/Democrat members of the committee
+supported the introduction of Superannuation Savings Accounts as a further means of
+alleviating the small amounts problem in the SGC system. The Committee majority further
+recommended that the development of Superannuation Savings Accounts should be allowed
+providing:
+• they came under the jurisdiction of the Superannuation Compliance Tribunal;
+• consumer protection was further enhanced by additional funding for the Consumer Credit
+Legal Service to provide representation and advice in the absence of trustees. This was
+consistent with the Committee's recommendation in its Ninth Report that the Government
+consider supporting the establishment of an independent superannuation advisory service;
+• accounts were not subject to entry or exit fees;
+• the rate of return was comparable to that of long-term deposits; and
+• there was a maximum amount for such accounts of $3,000 beyond which balances are
+transferred to a managed fund (although the account can be reopened with a balance of
+zero).1
+The legislation as presented by the Government falls short of the "best practice" criteria set
+down by the Committee in 1995. Indeed, the legislation will need to be substantially amended
+to ensure that Australian workers are able to maximise the benefits and minimise the costs
+that the introduction of RSAs to the superannuation system will engender.
+1. Choice:
+Both the Government and Opposition members' reports refer to the problems in the
+legislation in relation to constraints on the ability of employees to freely choose the
+Fifteenth Report of the Committee p. 102
+
+
+superannuation vehicle of their choice. The Democrats accept that full freedom of choice
+would be difficult in relation to superannuation. Indeed, we acknowledge there are arguments
+against freedom of choice given the general level of knowledge of or interest in financial
+matters among many Australian superannuation fund members. The heavy fiduciary
+obligation placed on the trustees of their funds reflect and recognise that shortcoming. The
+Coalition has vigorously promoted RSAs as an additional option for employees, with the
+Coalition's pre-election superannuation policy promising that:
+RSAs will provide Australians with greater freedom of choice.2
+The policy also pledged to increase the freedom of choice open to workers in relation to
+superannuation, pledging that a Coalition Government would:
+• require awards and workplace agreements to offer a choice of up to five funds including
+employer, industry, personal superannuation and RSAs. Additional funds many be used
+with the employer's concurrence;
+• allow employees not covered by awards to choose a fund in consultation with their
+employer....3
+The Policy goes on to note that:
+The small amounts problem could be resolved by allowing employees greater freedom to
+choose the fund into which contributions may be consolidated, the current inflexibility of
+the superannuation system is contrary to other areas of policy where the Labor
+Government has promoted deregulation to encourage greater competition so as to reduce
+fees and costs to consumers. The Coalition accepts that unlimited freedom of choice would
+impose an onerous and costly burden on employers, however limited freedom of choice
+will provide the benefits of competition without the costs associated with forcing
+employers to pay into a multitude of funds.4
+While the Democrats welcome the view expressed by the Government members (paragraph
+2.28) that the Government should address the issue of employee choice in both RSAs and
+trustee products in an overall review of superannuation, we do not agree that it is
+inappropriate to consider choice issues in relation to this legislation. Choice has always been
+a fundamental rationale for introducing RSAs. If the introduction of RSAs does not expand
+opportunities for freedom of choice, then the rationale for their introduction is flawed.
+The Democrats believe that the legislation as it stands not only fails to expand the
+opportunities for choice open to employees, but embeds a process which precludes employee
+choice. Indeed, section 51 of the Act which permits an employer to open an RSA account
+without the consent of the employee and allows an employer to continue to direct
+contributions to an RSA even after the employee has directed to transfer funds to another
+: Super for All - Security and Flexibility' in Retirement Coalition Policy February 1996 p. 11
+3 ibid p. 13
+4 ibid p. 14
+
+
+fund picks up the worst aspects of the current SIS legislation but without the offsetting
+assurance that the rights of employees will still be protected by the trustees. Indeed, the
+absence of trustee protection for members funds, combined with the lower returns that all
+observers accept will be delivered by RSAs, make it doubly important that the decision to
+enter into an RSA is solely that of the employee.
+In addition to that, choice must be real. That is, for RSAs to play a role in reducing the costs
+of the current superannuation industry, employees must have a real choice to join the relevant
+industry fund (or, if there is no industry fund some other managed fund) or an RSA.
+Recommendation No 1:
+The Democrats recommend that the legislation be amended such that:
+An employee cannot join an RSA unless they have been provided with the following
+choice:
+- joining an RSA with the financial institution to which their salary is paid; and
+- joining any other RSA (if any) to which the employer is prepared to agree; and
+- joining the relevant industry' fund; and
+- if there is no industry' fund, joining any other superannuation fund which the
+employer nominates.
+The choice should be in form provided by the ISC which explains the difference
+between RSAs and superannuation funds and the likely lower long term returns from
+an RSA. The ISC must be required to produce Plain English guides which make the
+choice easy to make.
+Where an employee has failed to nominate a fund within a given period of receiving the
+documentation, the employer may open an RSA account, or an account with the
+relevant industry fund or, in the absence of an industry fund to such other fund as is
+approved for SGC purposes.
+2. Fees and Charges:
+The Government's clear intention is that RSAs be low cost. Indeed, the Explanatory
+Memorandum makes this quite clear:
+RSAs will be a simple, low cost, low risk product especially suited to those with low
+amounts of superannuation, such as itinerant and casual workers. "
+The legislation allows the ISC to set standards in relation to fees, and gives the SCT the
+ability to modify the terms and conditions of RSAs. However, in evidence , the ISC indicated
+that it has no intention of monitoring fees in any systematic way. The Democrats share the
+concern of the Government members and the Opposition members that monitoring of fees is
+essential to ensure that the Government's objectives for RSAs to be a simple, low cost
+product are met.
+Explanatory Memorandum p.l
+
+
+This must be a minimal requirement - it however fall well short of best practice. Best
+practice, as outlined in the Committee's Fifteenth Report and also in the submission from the
+Credit Unions (CUSCAL) would be no fees at all. Indeed, it is hard to see on what basis fees
+should be justified. The legislation does not require RSA providers to set up a trustee
+structure. Deposits will be regular (probably quarterly), withdrawals quite rare. The costs
+should be minimal - the capital is quite immobile.
+Recommendation No 2:
+The legislation should be amended so that RSAs are entirely free from fees. Failing that,
+fees and charges should be closely monitored by the ISC, with intervention where fees
+fail to meet the criteria of a low cost product.
+3. Disclosure Rules:
+The Democrats welcome the statement by the Treasurer that RSAs will have disclosure
+requirements that are quite similar to traditional superannuation vehicles. However, we are
+concerned that much more of the detail of these standards are to be left to regulations
+compared with the SIS legislation. Disclosure is particularly important at the account opening
+stage, but should also encompass regular reporting. The Australian Consumers Association
+proposed the following should be clearly addressed in the initial disclosure:
+There are several key elements that consumers must understand when purchasing RSAs:
+fees, charges an commission in dollar terms;
+• a clear explanation of risk;
+• historical and possible future returns (which allow for the impact of inflation);
+• where to go if disputes arise;
+• preservation and access;
+• the importance of the 'switching balance' ($10 000) and the requirement to consider
+higher investment returns;
+• cooling off period.
+Further consultation and consumer testing is required before the final framework for
+disclosure can be determined. ACA believes that focus group testing is necessary for the
+best outcome - full consumer understanding - to be achieved.6
+The Democrats endorse this approach to disclosure, and commend it to the ISC. The
+disclosure regime must be kept easy to understand and low cost, while providing the
+maximum possible information. The responsibility for developing appropriate draft
+information statements should rest with the ISC.
+Recommendation No3:
+The legislation be amended so that:
+i. Where an RSA provider receives an application from an employee to open an account,
+they must disclose in a Plain English statement to the employee all fees and charges on
+ACA submission p.4
+
+
+the account (in the event that Recommendation No 2 is not accepted), historical and
+further investment returns with fair comparison with managed funds, and information
+on risk, dispute resolution and exit and transfer of accounts;
+ii. Where an RSA provider receives an application from an employer to open an
+account without the consent of the employee, they must provide to the employee, in
+addition to the above, informing them of the right to move to another fund within 28
+days and outlining the difference between managed funds and the RSA.
+Where an employer is advocating that their employees join a particular RSA, the employees
+need to be assured that the employer will not receive any financial benefit from the RSA. The
+ACA raised the concern in evidence that the provisions of section 47 of the Trade Practices
+Act in relation to "third line forcing" may not be adequate to prevent employers and RSA
+providers entering into such financial arrangements. The ACA argued a clear prohibition on
+inappropriate conduct between RSA providers and employers was needed in the legislation.
+Failing that, the nature of the relationship between employers and the RSA providers must be
+fully disclosed.
+Recommendation No 4:
+The legislation be amended to provide a specific prohibition on third line forcing
+between RSA providers and employers, and to ensure that the disclosure regime
+includes full disclosure of any incentives or commissions received by the employer in
+rleation to promotion of the RSA.
+4. Maximum Amount for RSAs:
+All members of the Committee acknowledged that RSAs will deliver lower investment
+returns than managed funds. This is the nature of a low risk capital guaranteed product.
+However, as pointed out by the ACA, if employees - largely by inertia - hold all ot their
+superannuation savings in RSAs, they stand to retire with substantially less retirement
+savings than if they had invested in a managed fund. The illustration given by the ACA in
+their submission showed that the shortfall over a full working life could be as much as j6 to
+58 per cent. Yet, it is the Democrats expectation that lack of understanding of the
+superannuation system, combined with heavy advertising by RSA providers, will lead to
+many lesser informed workers leaving the bulk of their savings in RSA vehicles. This may
+suit itinerant workers, or workers very close to retirement seeking low risk product. But,
+clearly RSAs are of limited value to the vast bulk of workers for significant superannuation
+savings.
+The Fifteenth Report of the Committee recognised this, proposing a maximum balance of
+$3,000. Similarly, the Government acknowledges this, calling for a notice to be sent to the
+employee when the account reaches $10,000. While the $3,000 balance may be somewhat
+low. the legislation certainly falls short in ensuring that employees are able to make fully
+informed choices about maximising their retirement savings.
+Recommendation No 5:
+The legislation be amended so that
+
+
+i. The balance at which a warning should be issued is reduced from $10,000 to $5,000,
+with a further warning issued when the account reaches $10,000 and $15,000.
+ii. The warning must be in a form prepared by the ISC which compares average RSA
+returns with managed and capital guaranteed funds.
+iii. There must be no exit or transfer fee on movement at the threshold amount.
+iv. The statement must include an options sheet which includes the relevant industry
+fund nominated by the ISC, a managed fund nominated by the RSA provider (if any)
+and may also include the RSA, and such other choices as the financial institution wishes
+to provide.
+v. If the person fails to respond within 2 months, a further notice should be sent.
+vi. If the person fails to respond within another two months, the RSA provider must
+transfer the balance of the account to a managed fund approved for the purpose by the
+ISC and inform the person accordingly.
+5. Other Issues:
+Consumers must be in a position where they can challenge unfair terms of an RSA in the
+courts if they need to. The defence provided in section 168 to RSA providers of "due
+diligence" will make it extremely difficult for RSA providers to be held to account for their
+actions. Indeed, the defence does not occur in the SIS legislation .The ACA warned that:
+The introduction of a due diligence defence is first and foremost a benefit for corporate
+lawyers, secondly for RSA providers and a clear backwards step for consumers/
+The ACA also expressed concern that courts in section 73 and 75 were not given the remedy
+of varying contracts, or requiring the repayment of money received by the party to the RSA.
+Recommendation No 6:
+Section 73(1) and 75(2) - Court relief powers should include capacity to vary terms and
+conditions of RSA, and even closing of an RSA and refund of money. The Mdue
+diligence” test (section 168) should be repealed.
+To encourage a level playing field in superannuation, if other superannuation funds are to be
+allowed to offer "like-minded" products, these should be able to take the form of and be
+called RSAs. Full disclosure of fees and full explanation of the benefits of the managed funds
+should equally apply.
+Recommendation No 7:
+Superannuation funds offering like products that meet the requirements for an RSA
+should be entitled to label them as RSAs.
+The legislation provides that RSA providers may take up to 12 months to refund an RSA after
+an account holder has requested the account be closed or transferred. This is an
+extraordinarily restrictive provision given that it is likely that most RSA balances will be
+ACA submission p.2
+
+
+fairly small (i.e. less than $10,000). There is no justification for this latitude, which is
+potentially anti-competitive.
+Recommendation No 8:
+RSA providers should be required to transfer the balance of RSAs within 28 days of
+being requested to do so by a member without any exit or transfer fees. Where a
+balance is more than $10,000, they may apply to the ISC for an extension where the
+provider can show that the provider will require additional time to secure the funds
+necessary to repay the account.
+Senator Lvn Allison
+
+
+
+
+APPENDIX 1
+LIST OF WRITTEN SUBMISSIONS
+
+
+
+
+APPENDIX 2
+LIST OF WITNESSES AT PUBLIC HEARINGS
+CANBERRA, 11 FEBRUARY 1997
+Mr Patrick Boneham, Assistant Director, Policy Branch, Insurance and Superannuation
+Commission
+Ms Jennifer Dwyer, Acting Director, Policy Branch, Insurance and Superannuation
+Commission
+Mr Richard Gilbert, Executive Director, Investment Funds Association of Australia
+Mr James Larkey, Executive Director, Australian Association of Permanent Building
+Societies
+Mr John Larkin, Assistant Commissioner, Policy Branch, Insurance and
+Superannuation Commission
+Dr Darryl Roberts, First Assistant Commissioner, Policy, Legal and Actuarial Group,
+Insurance and Superannuation Commission
+Mr Stephen Taylor, Administration Manager, Greater Building Society, Australian
+Association of Permanent Building Societies
+Mr Raj Venga. Director, Policy and Compliance, Australian Association of Permanent
+Building Societies
+MELBOURNE, 21 FEBRUARY 1997
+Mr Mark Addis, Chief Executive, Australian Bankers' Association
+Mr Robert Bastian, Chief Executive, Council of Small Business Organisations of
+Australia Ltd
+Mr Stephen Child, Member. Retirement Savings Committee, Life Investment and
+Superannuation Association
+Mr Ian Court, President, Australian Institute of Superannuation Tmstees
+Mr Peter Downes, Manager, Government Business Development. Jacques Martin
+Industry
+Ms Jennifer Dwyer, Acting Director, Policy Branch, Insurance and Superannuation
+Commission
+
+
+APPENDIX 2
+Mr Peter Foxton, President, Association of Superannuation Funds of Australia
+Mr Gary Healey, Director Research, Australian Bankers' Association
+Mr Martin Jilovsky, Principal Consultant, Jacques Martin Industry
+Ms Kerri King, Member, Retirement Savings Committee, Life Investment and
+Superannuation Association
+Mr Gordon MacKenzie, Member, Taxation Committee, Life Investment and
+Superannuation Association
+Miss Brenda Mills, Manager, Regulatory Information, Association of Superannuation
+Funds of Australia
+Dr Diana Olsberg, Executive Director, Australian Institute of Superannuation Trustees
+Mr Michael Peters, Partner, Freehill Hollingdale and Page
+Ms Elana Rubin, Senior Industrial Officer, Australian Council of Trade Unions
+Mr Kevin Scott, Joint National Secretary, Finance Sector Union of Australia
+CANBERRA, 25 FEBRUARY 1997
+Mr Patrick Boneham, Assistant Director, Insurance and Superannuation Commission
+Ms Mara Bun, Policy and Public Affairs Manager, Australian Consumers Association
+Ms Jennifer Dwyer, Acting Director, Insurance and Superannuation Commission
+Mr Chris Gration, Senior Adviser, Policy and Public Affairs
+Mr Peter Kell, Senior Policy Officer, Australian Consumers Association
+Mr John Larkin. Assistant Commissioner, Policy, Insurance and Superannuation
+Commission
+Ms Barbara Livesey, Senior Adviser, Policy and Public Affairs
+Dr Darryl Roberts, First Assistant Commissioner, Policy Legal and Actuarial Division,
+Insurance and Superannuation Commission
+
+
+APPENDIX 3
+LIST OF COMMITTEE REPORTS
+Super System Survey - A Background Paper on Retirement Income Arrangements in
+Twenty-one Countries (December 1991)
+Papers relating to the Bymwood Ltd, WA Superannuation Scheme (March 1992)
+Interim Report on Fees, Charges and Commissions in the Life Insurance Industry
+(June 1992)
+First Report of the Senate Select Committee on Superannuation - Safeguarding Super -
+the Regulation of Superannuation (June 1992)
+Second Report of the Senate Select Committee on Superannuation - Super Guarantee
+Bills (June 1992)
+Super Charges - An Issues Paper on Fees, Commissions, Charges and Disclosure in the
+Superannuation Industry' (August 1992)
+Third Report of the Senate Select Committee on Superannuation - Super and the
+Financial System (October 1992)
+Proceedings of the Super Consumer Seminar, 4 November 1992 (4 November 1992)
+Fourth Report of the Senate Select Committee on Superannuation - Super - Fiscal and
+Social Links (December 1992)
+Fifth Report of the Senate Select Committee on Superannuation - Super Supervisory
+Levy (May 1993)
+Sixth Report of the Senate Select Committee on Superannuation - Super - Fees,
+Charges and Commissions (June 1993)
+Seventh Report of the Senate Select Committee on Superannuation - Super Inquiry
+Overview (June 1993)
+
+
+LIST OF COMMITTEE REPORTS
+Eight Report of the Senate Select Committee on Superannuation - Inquiry into the
+Queensland Professional Officers Association Superannuation Fund (August 1993)
+Ninth Report of the Senate Select Committee on Superannuation - Super Supervision
+Bills (October 1993)
+Tenth Report of the Senate Select Committee on Superannuation - Super Complaints
+Tribunal (December 1993)
+Eleventh Report of the Senate Select Committee on Superannuation - Privilege Matter
+Involving Mr Kevin Lindeberg and Mr Des O'Neill (December 1993)
+A Preliminary Paper Prepared by the Senate Select Committee on Superannuation for
+the Minister for Social Security. Options for Allocated Pensions Within the Retirement
+Incomes System (March 1994)
+Twelfth Report of the Senate Select Committee on Superannuation - Super for Housing
+(May 1994)
+Thirteenth Report of the Senate Select Committee on Superannuation - Super Regs I
+(August 1994)
+Fourteenth Report of the Senate Select Committee on Superannuation - Super Regs II
+(November 1994)
+Fifteenth Report of the Senate Select Committee on Superannuation - Super Guarantee
+- Its Track Record (February 1995)
+Sixteenth Report of the Senate Select Committee on Superannuation - Allocated
+Pensions (June 1995)
+Seventeenth Report of the Senate Select Committee on Superannuation - Super and
+Broken Work Patterns (November 1995)
+
+
+Eighteenth Report of the Senate Select Committee on Superannuation - Review of the
+Superannuation Complaints Tribunal (April 1996)
+Nineteenth Report of the Senate Select Committee on Superannuation - Reserve Bank
+Officers ’ Super Fund (June 1996)
+Twentieth Report of the Senate Select Committee on Superannuation - Provisions of the
+Social Security Legislation Amendment (Further Budget and Other Measures) Bill 1996
+- Schedule 1 (November 1996)
+Twenty-first Report of the Senate Select Committee on Superannuation - Investment of
+Australia's Superannuation Savings (December 1996)
+Twenty-second Report of the Senate Select Committee on Superannuation - Retirement
+Savings Accounts Legislation
+
+
+THE PARLIAMENT OF THE
+COMMONWEALTH OF AUSTRALIA
+PARLIAMENTARY
+PAPER
+No 39 of 1997
+ORDERED TO BE PRINTED
+ISSN 0727-4181

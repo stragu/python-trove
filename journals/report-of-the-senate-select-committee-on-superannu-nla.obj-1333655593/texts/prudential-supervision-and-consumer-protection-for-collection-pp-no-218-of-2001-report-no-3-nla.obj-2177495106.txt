@@ -1,0 +1,2792 @@
+
+
+PRUDENTIAL SUPERVISION AND
+CONSUMER PROTECTION FOR
+SUPERANNUATION, BANKING AND
+FINANCIAL SERVICES
+THIRD REPORT -
+AUDITING OF SUPERANNUATION FUNDS
+SENATE SELECT COMMITTEE
+ON SUPERANNUATION AND FINANCIAL SERVICES
+The Parliament of the Commonwealth of Australia
+September 2001
+
+
+
+
+PRUDENTIAL SUPERVISION AND
+CONSUMER PROTECTION FOR
+SUPERANNUATION, BANKING AND
+FINANCIAL SERVICES
+THIRD REPORT -
+AUDITING OF SUPERANNUATION FUNDS
+The Parliament of the Commonwealth of Australia
+SENATE SELECT COMMITTEE
+ON SUPERANNUATION AND FINANCIAL SERVICES
+September 2001
+
+
+Commonwealth of Australia
+ISBN 0 642 71158 5
+This report was printed by the Senate Printing Unit, Parliament House, Canberra,
+ACT 2600.
+
+
+MEMBERSHIP OF THE COMMITTEE
+
+
+
+
+TERMS OF REFERENCE
+On 22 September 1999 the Senate resolved that:
+(1) A Select Committee on Superannuation and Financial Services be appointed
+with effect on and from 11 October 1999, with the same functions and powers
+as the Select Committee on Superannuation appointed by resolution of the
+Senate on 5 June 1991, and reappointed on 13 May 1993 and 29 May 1996,
+except as otherwise provided in this resolution.
+(2) The committee inquire into matters pertaining to superannuation and financial
+services referred to it by the Senate and inquire initially into:
+(a) prudential supervision and consumer protection for superannuation,
+banking and financial services;
+(b) the opportunities and constraints for Australia to become a centre for the
+provision of global fmancial services; and
+(c) enforcement of the Superannuation Guarantee Charge;
+and report on paragraphs (a), (b) and (c) by the last day of sitting in June
+2000.*
+(3) The committee have power to consider and use for its purposes the minutes of
+evidence and records of the Select Committee on Superannuation appointed in
+the previous three Parliaments.
+(4) The committee consist of seven senators, three nominated by the Leader of the
+Government in the Senate, two nominated by the Leader of the Opposition in
+the Senate and one nominated by other parties or independent senators.
+(5) The nomination of the final member to be determined by agreement between
+the other parties and independent senators and, in the absence of agreement,
+duly notified to the President, the question of representation on the committee
+of other parties or independent senators be determined by the Senate.
+(6) The Senate, by subsequent resolution, appoint a member of the committee as its
+chair.
+*(On 8 June 2000 the Senate granted an extension of time in which to report to
+7 December. On 6 November 2000, the Senate granted a further extension of
+time in which to report to 15 March 2001. On 6 March a further extension was
+granted to 24 May 2001. On 23 May 2001 a further extension was granted to
+27 September 2001. On 28 August 2001 a further extension was granted for
+the presentation of the final report of the Select Committee on Superannuation
+and Financial Services on prudential supervision and consumer protection for
+
+
+superannuation, banking and financial services to the last sitting day in March
+2002.)
+
+
+TABLE OF CONTENTS
+MEMBERSHIP OF THE COMMITTEE.i
+TERMS OF REFERENCE.iii
+PREFACE.vii
+RECOMMENDATIONS.ix
+ABBREVIATIONS.xi
+CHAPTER 1
+THE INQUIRY
+Background to the inquiry.1
+Conduct of the roundtable.2
+Structure of the report.3
+Acknowledgments.3
+CHAPTER 2
+AUDITORS’ ROLE AND OBLIGATIONS
+What is the role of auditors and actuaries under the SIS Act?.5
+Who may be an auditor or actuary under the SIS Act?.6
+What are the reporting obligations of auditors?.6
+What action may be taken against auditors?.7
+CHAPTER 3
+EXPECTATION VS REALITY: DOES THE SIS ACT MEASURE UP?
+Is there an ‘expectation gap’ about what auditors do?.9
+The adequacy of reporting requirements under the SIS Act.13
+
+
+CHAPTER 4
+THE NATURE AND RELIABILITY OF AUDIT REPORTS
+The nature of audit reports.21
+The reliability of audit reports.23
+The Committee’s views.25
+CHAPTER 5
+THE ROLE OF THE PROFESSIONAL BODIES
+The role of professional bodies.29
+Qualifications and experience of auditors.33
+APPENDIX 1
+SUBMISSIONS RECEIVED.41
+APPENDIX 2
+WITNESSES WHO APPEARED BEFORE THE COMMITTEE AT PUBLIC
+HEARINGS.51
+APPENDIX 3
+TABLED DOCUMENTS/EXHIBITS.63
+APPENDIX 4
+SUPERANNUA TIONINDUSTR Y (SUPER VISION) A CT1993
+PART 16—ACTUARIES AND AUDITORS OF SUPERANNUATION ENTITIES.67
+APPENDIX 5
+LIST OF COMMITTEE REPORTS
+75
+
+
+PREFACE
+This report presents the results of a roundtable on auditing of superannuation funds,
+which the Committee conducted under its reference to inquire into and report on
+prudential supervision, consumer protection for superannuation, banking and financial
+services. It is the Third Report which the Committee has presented under this
+reference.
+As foreshadowed in both its First Report and Second Report, during the course of its
+inquiry into the regulatory framework, and subsequent inquiry into five case studies,
+the Committee became concerned that the standards of auditing, especially of
+superannuation funds, were not as high as they should be. In the wake of recent
+corporate collapses, and the mismanagement of some superannuation funds, the
+Committee wants to ensure that the bar is lifted not only for trustees, but also for
+auditors of superannuation funds.
+The Committee acknowledges that a gap exists between the community’s expectations
+of auditors and what auditors actually do. However, the Committee does not accept
+that auditors have only a limited role. Audit reports need to be able to be relied upon
+more widely than is currently the case. In particular, they must be able to be relied
+upon to provide early warning of potential fund failure.
+The Committee notes that the accounting standards for superannuation are more
+rigorous than those applying in the commercial area and that, generally, most auditors
+of superannuation entities in Australia are performing at a high standard. However, it
+is essential for the profession to take a more forward-looking approach to improving
+the standards of auditing, and to do much more to address the expectation gap which
+exists in the community. The Committee therefore calls on the profession to take a
+broader and more proactive approach, rather than confining itself to explaining the
+limitations of their traditional role.
+The Committee has made a number of recommendations designed to improve the
+standards of auditing of superannuation funds. These include strategies to:
+• tighten the current reporting requirements under the SIS Act to require auditors
+to report directly to the regulator in certain circumstances;
+• ensure genuine auditor independence;
+• expand the nature of audit reports by requiring the auditors to assess and
+comment on the fund’s risk management and investment strategies in accordance
+with guidelines prepared by APRA;
+• require a follow-up to qualified audit reports;
+• provide increased assurance about the effectiveness of the governance
+arrangements in place by requiring large funds to undertake a prudential review
+every five years; and
+
+
+• improve communication with fund members by routinely providing them with
+the auditor’s reports.
+Superannuation is compulsory, with funds under management increasing yearly. As
+such, the Committee considers that the standards which apply to its management must
+be higher than for commercial companies where people may choose to invest.
+Implementation of the Committee’s recommendations will help to provide the
+community with greater assurance that their superannuation savings are safe and their
+retirement incomes assured.
+I commend the report to the Senate.
+Senator John Watson
+Committee Chair
+
+
+RECOMMENDATIONS
+1. The Committee recommends that Part 16 of the Superannuation Industry
+(Supervision) Act 1993 (the SIS Act) be amended to require auditors to report
+to the regulator any breach of compliance with the Act or suspicion of a
+fund’s unsatisfactory financial position, at the same time as they report such
+issues to the trustee, (paragraph 3.45)
+2. The Committee recommends that the SIS Act be amended to require that
+auditors of superannuation funds be independent and that the auditor of a
+company is not also the auditor of its superannuation fund, (paragraph 3.46)
+3. The Committee recommends that APRA prepare a set of guidelines outlining
+the specific areas which should be addressed in the audit report on
+assessments of risk management systems and investment strategies for
+superannuation funds, (paragraph 4.25)
+4. The Committee recommends that where a qualified audit report has been
+issued (other than merely on a technical ground such as a late return), there
+should be a formal requirement for a follow-up audit to be conducted within a
+specified time, (paragraph 4.26)
+5. The Committee recommends that the auditor’s report on a superannuation
+fund be sent, as a matter of routine, to all fund members, in order to improve
+accountability and ensure transparency of the trustee’s actions and
+communication about the fund’s financial state, (paragraph 4.27)
+6. The Committee recommends that the larger superannuation funds regulated
+by APRA be required to carry out a prudential review, at a minimum of once
+every five years, (paragraph 4.28)
+7. The Committee recommends that APRA consult with the relevant
+professional and regulatory bodies with a view to developing a requirement
+for trustees to provide a statement to the auditor prior to the audit of a
+superannuation entity. The statement would certify that the accounts were
+believed to be in good order and to comply with the SIS Act, and would note
+any areas of weakness or concern in the fund’s financial and management
+strategies, (paragraph 4.32)
+8. The Committee recommends that the current move within the accounting and
+auditing profession to require the formal assessment of competency in
+auditing superannuation funds proceed as a matter of some urgency,
+(paragraph 5.42)
+
+
+
+
+ABBREVIATIONS
+AASB
+ANAO
+APRA
+ASIC
+ATO
+ICAA
+ISC
+NIA
+RMS
+SIS Act
+Auditing and Assurance Standards Board
+Australian National Audit Office
+Australian Prudential Regulation Authority
+Australian Securities and Investments Commission
+Australian Taxation Office
+Institute of Chartered Accountants in Australia
+the former Insurance and Superannuation Commission
+National Institute of Accountants
+Risk Management Statement
+Superannuation Industry (Supervision) Act 1993
+
+
+
+
+CHAPTER 1
+THE INQUIRY
+Background to the inquiry
+1.1 This is the Third Report which the Select Committee on Superannuation and
+Financial Services has produced under a reference it was given when the Senate
+agreed on 22 September 1999 to establish the Committee with effect from 11 October
+1999. The reference was:
+(a) prudential supervision and consumer protection for superannuation,
+banking and financial services.
+1.2 On 20 August 2001, the Committee tabled its First Report on that term of
+reference.1 The First Report addressed the adequacy of the regulatory framework. On
+30 August 2001, the Committee tabled its Second Report on the same term of
+reference.2 The Second Report addressed the outcomes of the Committee’s inquiry
+into five case studies.
+1.3 In both reports the Committee indicated that it had some concerns with the
+standard of auditing, and foreshadowed the holding of a roundtable to discuss issues
+relating to the auditing of superannuation funds.
+1.4 The Committee took this step because, in the wake of recent corporate
+collapses and the mismanagement of some superannuation funds, it was concerned to
+ensure that trustees, fund managers and regulators could have confidence in the
+standard of audit reports and rely on them as one mechanism which could give early
+warning of potential fund failure.
+1.5 The Committee wants to ensure that the bar for not only trustees, but also
+auditors, fund managers and administrators, is raised to a level at which the whole
+community can have complete confidence in the safety of their superannuation
+savings and their retirement incomes. As superannuation is compulsory, it is the view
+of the Committee that it cannot be treated in the same way as a commercial company,
+such as a mining company. Ensuring that the auditing of superannuation funds is
+conducted at the highest possible standard is one of the key features of an effective
+governance framework.
+1 Senate Select Committee on Superannuation and Financial Services Prudential Supervision and
+Consumer Protection for Superannuation, Banking and Financial Services: First Report, August 2001.
+2 Senate Select Committee on Superannuation and Financial Services Prudential Supervision and
+Consumer Protection for Superannuation, Banking and Financial Services: Second Report - Some Case
+Studies, August 2001.
+
+
+1.6 This report presents the results of that roundtable.
+Conduct of the roundtable
+1.7 The Committee invited representatives from the national regulators of
+superannuation entities - the Australian Prudential Regulation Authority (APRA), the
+Australian Securities and Investments Commission (ASIC) and the Australian
+Taxation Office (ATO) - to participate in the roundtable. Key professional bodies,
+namely the Auditing and Assurance Standards Board, CPA Australia, the Institute of
+Actuaries of Australia, the Institute of Chartered Accountants in Australia (ICAA),
+and the National Institute of Accountants (NIA), were also invited. Two individuals
+with specialist expertise, Professor Tony Harris and Mr John Shanahan, also attended,
+as did a representative from the Australian National Audit Office (ANAO).
+1.8 The Committee conducted the roundtable at a public hearing on Thursday 23
+August 2001 at Parliament House in Canberra.
+1.9 Because of constraints of time, only seven submissions were received/ A list
+of all organisations which made submissions is at Appendix 1. A list of witnesses
+who attended is at Appendix 2. Tabled documents and exhibits received in connection
+with the inquiry are at Appendix 3.
+Issues considered at the roundtable
+1.10 The aim of the hearing was primarily to explore issues associated with the
+auditing of superannuation funds, including the following issues which were
+circulated as a basis for discussion:
+• the adequacy of auditing and accounting standards - What are community
+expectations of auditors? Are auditors doing enough to meet those expectations?
+• the adequacy of reporting requirements under the Superannuation Industry
+(Supervision) Act 1993 (the SIS Act) - What are the obligations on auditors?
+Are these adequate? How can they be enforced more effectively? Should these
+obligations be extended to include reporting directly to the regulator? How can
+audit independence be assured?
+• the nature of audit reports - Should audit reports include a risk assessment?
+should they be prepared more frequently? Should they include ancillary reports
+such as actuarial reports?
+• the reliability of audit reports - Are the regulators able to rely on audit reports
+to provide early warning of potential fund failure? Should the regulators make
+more use of external audits?
+3 Submissions on auditing were received from the NIA (Submission No 224), ICAA (Submission Nos 236
+and 241), APRA (Submission Nos 237 and 239), Mr Tony Harris (Submission No 238) and the ATO
+(Submission No 240).
+
+
+• the role of professional bodies - How can they ensure adherence by their
+members to ethical standards? How can they raise the overall standard of the
+auditing profession?
+• the qualifications and experience required for auditors of small, medium
+and large superannuation funds - What qualifications are currently required?
+Are they adequate?
+Structure of the report
+1.11 Chapter 2 sets out the current statutory framework for auditors of
+superannuation funds, including their role, mandatory qualifications, reporting
+obligations and the available remedies where they have not fulfilled their obligations.
+1.12 Chapter 3 considers the first two issues discussed at the roundtable, namely
+whether there is an ‘expectation gap’ concerning auditors of superannuation funds and
+the adequacy of current reporting requirements under the SIS Act.
+1.13 Chapter 4 considers the nature and reliability of audit reports, including
+whether such reports should include risk assessments, whether they should be
+conducted more frequently and whether they should include a wider range of
+information.
+1.14 Chapter 5 considers the role of the professional bodies in regulating
+superannuation, and the qualifications and experience required of auditors.
+Acknowledgments
+1.15 The Committee is grateful to the organisations and individuals who attended
+the roundtable and in some cases made written submissions relevant to the issues
+being explored. The Committee also acknowledges the assistance provided by staff in
+the Committee Secretariat, especially the Inquiry Officer, Louise Gell.
+
+
+
+
+CHAPTER 2
+AUDITORS’ ROLE AND OBLIGATIONS
+2.1 This chapter considers:
+• the role of auditors and actuaries under the SIS Act;
+• the qualifications required of auditors;
+• the obligations on auditors to report certain matters to the regulators; and
+• the available remedies where auditors have not fulfilled their responsibilities.
+What is the role of auditors and actuaries under the SIS Act?
+2.2 Regulated superannuation funds are subject to strict financial management
+standards under the SIS Act. Part 16 of the SIS Act sets out the obligations for
+actuaries and auditors of superannuation entities (see Appendix 4).
+Auditors
+2.3 Two types of audits are required annually: an audit of the fund’s financial
+statements and accounts, and, following legislative amendments in December 1995, a
+compliance audit.1 The audits must comply with an approved form as set out in
+superannuation circulars2 and must be given to the trustees within specified time limits
+(between four and nine months after the end of the year of income, depending on the
+type of fund).3
+2.4 The financial statements have been developed to be consistent with audit
+reporting formats recommended by the professional accounting bodies. The
+compliance audit is required to reflect the entity’s compliance with the requirements
+of the SIS Act for the whole year of income. Such matters include requirements
+relating to trustees’ duties and restrictions on their activities, the appointment of
+investment managers, the provision of information to members and the keeping of
+minutes and other required records. From 1996/97, the approved form for an auditor’s
+report included the concept of materiality, that is, an auditor must qualify an audit
+report where he or she is of the opinion that an identified breach is material.
+1
+SIS Acts. 113,
+2 For example, APRA Superannuation Circular No. IV.A.4: Responsibilities of the Approved Auditor
+August 1999; ATO Superannuation Circular No. 1/2000 for self-managed superannuation funds.
+3 Within four months for public offer entities, other than excluded public offer funds; within nine months
+for self-managed superannuation funds; and within six months for any other superannuation entities.
+
+
+Actuaries
+2.5 Only defined benefit funds are required to have an actuarial investigation at
+least once every three years.4
+Who may be an auditor or actuary under the SIS Act?
+2.6 An ‘approved auditor’ of a superannuation entity other than a self-managed
+superannuation fund regulated by the ATO must be:
+• the Auditor-General of the Commonwealth, a State or Territory; or
+• a registered auditor under the Corporations Law who is either associated in the
+prescribed way with a specified professional accounting organisation or is
+approved by the regulator.'
+2.7 For the small self-managed superannuation funds regulated by the ATO the
+rules are somewhat more flexible. An approved auditor must be:
+• the Auditor-General of the Commonwealth, a State or Territory;
+• a registered auditor under the Corporations Law; or
+• associated in the prescribed way with a specified professional accounting
+organisation.
+2.8 Regulations under the SIS Act provide that the following associations are
+acceptable:
+• membership of the Australian Society of Certified Practising Accountants, the
+ICAAortheNIA;
+• membership or fellowship of the Association of Taxation and Management
+Accountants; or
+• fellowship of the National Tax and Accountants Association Ltd.6
+2.9 An actuary under the SIS Act is a person who is a Fellow or Accredited
+Member of the Institute of Actuaries of Australia.7
+What are the reporting obligations of auditors?
+2.10 Under Part 16 of the SIS Act some reporting obligations are mandatory while
+others are discretionary.
+4 SIS Acts. 31; regs9.25 -9.33.
+5 SIS Act s. 131 and reg 1.04. Reg 1.04(2A) which allows for approvals by the regulator may cover, for
+example, persons whose religious or political beliefs do not allow them to be members of a professional
+accounting organisation.
+6 Superannuation Industry (Supervision) Regulations 1994 Schedule 1 AAA.
+7 SIS Act, s.10.
+
+
+2.11 Where a person carrying out auditing or actuarial functions forms the opinion
+that it is likely that:
+• a contravention of the Act or regulations may have occurred or may occur, or
+• the fund’s financial position may be, or may be about to become,
+‘unsatisfactory’,
+the person must inform the trustee in writing about the matter.
+2.12 The financial management standards set out in regulations under the SIS Act
+cover the circumstances in which a fund is considered to be in an ‘unsatisfactory
+financial position’.8 Essentially, the auditor or actuary must consider that the
+superannuation fund’s assets are inadequate to cover the fund’s liabilities.
+2.13 As well as informing the trustee of any problems, the auditor or actuary may
+tell the regulator. If the auditor or actuary does not do so, he or she must request the
+trustee to provide a written report within a reasonable time about the action the trustee
+has taken or proposes to take to remedy the problem. If the trustee does not comply,
+or if the auditor or actuary is dissatisfied with the trustee’s action or proposed action,
+the auditor or actuary must give the regulator a written report on the matter.9
+What action may be taken against auditors?
+2.14 Auditors who do not provide their reports to the trustees within the required
+time may be prosecuted for an offence under the Act.10 Any person who knowingly
+gives false or misleading information to the regulators is also guilty of an offence.11
+2.15 The regulators may also disqualify a person from being an approved auditor
+if the person:
+• has failed to perform adequately and properly the duties of an auditor under the
+SIS Act or any auditors’ duties required by law; or
+• is otherwise not a fit and proper person to be an approved auditor.12
+2.16 The regulators may also refer details of a matter to a professional body for
+consideration of disciplinary or other action.13 Such referrals are subject to secrecy
+obligations.14
+8 Reg 9.01 to 9.45, especially regs 9.03-9.04.
+9 SIS Act ss. 129(6), 130(5).
+10 SIS Acts. 113.
+11 SIS Act Part 26.
+12 SIS Acts. 131.
+13 S. 131A.
+
+
+14 Under Australian Prudential Regulation Authority Act 1998 s. 56 if APRA is the regulator and S.252C of
+the SIS Act if the Commissioner of Taxation is the regulator.
+
+
+CHAPTER 3
+EXPECTATION VS REALITY:
+DOES THE SIS ACT MEASURE UP?
+3.1 This chapter considers the first two issues discussed at the roundtable,
+namely:
+• community expectations of auditors; and
+• the adequacy of current reporting requirements by auditors under the SIS Act.
+Is there an ‘expectation gap’ about what auditors do?
+3.2 A key issue discussed at the roundtable was the community’s expectations of
+auditors and whether there was a ‘gap’ between what users of financial reports
+expected of auditors and what auditors actually did.
+3.3 Mr John Shanahan, an independent consultant, expressed concern about what
+he saw as very high expectations of auditors:
+I think a lot of community expectation is that the auditor is not there just
+checking financial statements and compliance but that the auditor is
+somehow a broader type of insurance policy. That concerns me. The auditor
+will look at financial statements and does have obligations under the SIS
+legislation and APRA to report on compliance. My view is that a lot of
+compliance reporting is fairly mundane. Has a trustee been appointed
+properly? Has he kept minutes for 10 years? Are they properly filed? People
+are looking for more security on their investment decisions, which is not
+properly the function of the auditor.1
+3.4 Mr Shanahan said that nevertheless, he believed the requirements for auditing
+of superannuation funds needed to be improved, and that auditors should take a
+broader view of the status of a fund. He also supported the concept of a board of
+superannuation auditors to ensure that standards were rigorous.2
+3.5 Professor Tony Harris agreed with the notion of an ‘expectation gap’:
+There is indeed an expectation gap, and everyone around this table is aware
+that this is an issue which has concerned the accounting and auditing
+profession for some considerable time. The profession tries to address the
+expectation gap by telling the community the very limited role that auditors
+play today in the financial and superannuation services as well as in the
+broader commercial sector. I appreciate the concern that this committee has
+1 Committee Hansard, p. 1308.
+Committee Hansard, p. 1308.
+2
+
+
+that it may be that another solution is to expand the role of auditors to better
+meet a part of that expectation gap ... there is some scope for auditors to
+comment, for example, where there are systems failures within managers of
+superannuation funds/
+3.6 Professor Harris noted, however, that the accounting standards for
+superannuation were significantly better than those in the commercial area ‘which are
+characterised by ambiguity and flexibility, to put it mildly’.4
+3.7 ICAA representative Mr Keith Reilly cautioned that there was no guarantee
+against the loss in value of any investments over time, even those of superannuation
+funds, despite community expectations that insurance companies, superannuation
+funds and banks ‘do not go broke’.5 He said there were ‘lessons to be learnt’ from
+two reports which he tabled: a 1994 research study commissioned by the ICAA and
+the Australian Society of Certified Practising Accountants to investigate the audit
+expectation gap,6 and a 1996 follow-up report.
+3.8 The 1994 research report differentiated between two components of the
+expectation gap:
+• ‘unreasonable expectations’, that is, the difference between the expectations of
+users and the reasonable standards of auditing and financial reporting that could
+be expected of the auditing profession; and
+• ‘inadequate performance’, that is, the difference between the reasonable
+standards that could be expected of auditors and what was actually being
+delivered by them. The Working Party concluded that the most serious concerns
+raised at that time related to this second issue, which became the focus of its
+report.8
+3.9 The main theme of the report’s recommendations was that the auditing
+profession needed to be more proactive not only in relation to technical and ethical
+standards, but also in quality control and corporate governance.9 The report made
+many recommendations, including:
+• improving quality control through a consistent quality assurance program with
+independent lay oversight, professional registration of principal accounting
+3 Committee Hansard, p. 1312.
+4 Committee Hansard, p. 1312.
+5 Committee Hansard, p. 1313.
+6 Australian Society of Certified Practising Accountants & ICAA A Research Study on Financial
+Reporting and Auditing - Bridging the Expectation Gap: Executive Summary, 1994.
+Australian Society of Certified Practising Accountants & ICAA Beyond the Gap, 1996.
+8 Ibid, p. 1.
+9 The report emphasised (p. 2) that further proactivity was the “only answer” to performance issues
+concerning auditing and financial report preparation.
+
+
+officers and auditors, and publication of a separate annual report of disciplinary
+findings;
+• examining and improving the existing financial reporting scope and making
+appropriate changes. Some of the areas to be developed included:
+• reporting on bases other than that of ‘mere legal form’;
+• developing consistency in accounting policies adopted by different entities;
+• providing more frequent financial reports; and
+• improving the relevance and comparability of information;
+• perfecting the existing auditing scope and making appropriate changes, including
+developing a conceptual framework for auditing as well as strict standards to
+govern ‘other services’ provided by auditors;
+• improving the accounting and auditing environment by such means as
+reconstituting the Australian Accounting Standards Board with several full-time
+members, improving supervision and discipline standards, and the profession
+taking a leading role in setting and promoting corporate governance standards.
+3.10 The follow-up report in 1996 outlined those priorities and the advances that
+had been made since 1994. Overall, the 1996 report endorsed the proactive approach
+and, in particular, supported initiatives in quality assurance and enhancement of the
+disciplinary process. The report also endorsed the need for external professional
+review and monitoring of accounting and audit standards, the importance of a high
+standard of corporate governance practices and the desirability of harmonising
+Australian accounting and audit standards with international standards as far as
+possible.
+3.11 During the roundtable another representative from the ICAA, Mr Richard
+Rassi, commented that while auditors had been criticised recently, the relationships
+between key stakeholders, namely the trustees, fund administrators, investment
+managers, professional advisors and the regulators, needed to be considered. He also
+argued that the criticism of auditors needed to be kept in perspective:
+There is no doubt that the auditing profession has been under attack in
+recent times, but it is really important that the politicians, the public and
+regulators do not generalise the findings of certain cases and apply those
+findings or concerns to the audit professional overall. If you have a look at
+the track record, it has not been that bad — considering the number of audit
+opinions that have been issued since the SIS legislation first came in. Very
+few auditors have been successfully accused and tried for negligence or
+indeed struck off as not being suitable to act as approved auditors.10
+10 Committee Hansard, p. 1309.
+
+
+3.12 Mr Rassi pointed out that the superannuation audit profession had been ‘doing
+a lot of positive things’ recently:
+For example, at the moment a new accounting standard has been released in
+exposure draft form for comment which attempts to improve the quality of
+external financial reporting and at the same time get some balance between
+the cost and the benefit of financial reporting. The profession is in the
+process of updating the auditing guidance statements that are applicable to
+auditors of super funds. It continues to provide courses to practitioners and
+they are constantly under review and being improved upon. The profession
+has also been quite busy considering issues of independence, and this is an
+exercise that has been undertaken by the profession overall.11
+3.13 Representatives of other professional bodies also emphasised that most
+auditors were performing at a high standard.12 APRA representative Mr Roger Brown
+also reminded the Committee that the primary responsibility for managing a
+superannuation fund lay with the trustees, and that it was important not to blur the line
+of responsibility between the trustees and the auditors.13
+The Committee’s view
+3.14 The Committee was somewhat disappointed that the roundtable did not ‘think
+outside the square’, despite the Committee’s exhortations to look beyond the current
+legislative provisions and the traditional functions of auditors of superannuation
+funds. The Committee noted that in some cases the participants seemed somewhat
+defensive of auditors’ current role and what they considered to be unrealistic
+community expectations.
+3.15 The Committee also notes that despite what appear to be some important
+advances in the financial reporting environment following the 1994 research report on
+the audit expectation gap, that report’s broad approach to matters such as reporting on
+bases other than mere legal form, increasing the frequency of reporting, and
+improving the relevance and scope of information in financial reports appears to be
+somewhat diminished in the follow-up report in 1996. While clearly emphasising the
+need for quality, best practice, improvements in administration and accountability, the
+later report does so from a perspective of adjusting the present framework rather than
+re-examining the basis for that framework.
+3.16 The Committee believes that auditors are not doing enough to address the
+expectation gap with the community, despite having made some efforts in the mid
+1990s. As the community becomes better educated about their superannuation funds’
+financial position and more aware of their responsibilities to check on trustees’
+11 Committee Hansard, p. 1309. The accounting standard is AAS 25 Financial Reporting by
+Superannuation Entities.
+12 Comments by Mr Edge of the AASB and Mr Reilly of the ICAA at Committee Hansard, pp. 1319, 1321.
+13 Committee Hansard, p. 1315.
+
+
+performance, the significance of this issue will only increase. The Committee also
+considers it essential that the professional bodies devote more resources to improve
+public education about their role.
+3.17 Nevertheless, the Committee notes that discussion of other issues during the
+roundtable suggested that some expansion to auditors’ roles might be possible and
+even acceptable to the professional bodies. Those issues are considered in the next
+chapter.
+The adequacy of reporting requirements under the SIS Act
+3.18 As noted in Chapter 2, under sections 129 and 130 of the SIS Act auditors
+must report to a fund’s trustees if, during the course of the auditing, they identify a
+breach of the legislation or form the view that the fund is, or is about to be, in an
+unsatisfactory financial position. The auditors may also report to the regulators,
+although this is not mandatory unless the trustee fails to take appropriate action.
+3.19 APRA representative Mr Roger Brown said that APRA needed to be able to
+rely on funds’ accounts and audit reports on compliance.14 In its circulars on the
+responsibilities of approved auditors, APRA has stated that issues of principal concern
+include:
+• that the auditor is independent and is seen to be free of any conflicts of interest;
+• that there is a letter of engagement from the trustee to ensure that all parties are
+clear on the services being provided;
+• that appropriate audit evidence is obtained;
+• that sufficient documentation of the audit is maintained; and
+• that management letters are issued to fund trustees as a matter of course,
+regardless of whether there are issues of concern.15
+3.20 Mr Brown said that auditors’ notification to APRA under section 129 (that is,
+compliance) was very rare, and that he had been able to identify only two such
+notifications in a brief review of APRA’s files. However, he noted that approximately
+one in eight funds, excluding the small APRA funds, has a qualified audit report
+attached to its annual return. He estimated that 80 per cent of those qualified reports
+related solely to the late return of the report.16
+14 Committee Hansard, p. 1314.
+15 APRA Superannuation Circular No. IV.A.4 Responsibilities of the Approved Auditor, referred to in
+Committee Hansard pp. 1314-1315.
+16 Committee Hansard, p. 1315.
+
+
+3.21 Commenting on the very small number of auditors’ notifications to the
+regulators, Mr Malkin from CPA Australia said that the current provisions were useful
+in that:
+... [auditors] have the ability to negotiate with the trustees a way of
+rectifying either actual breaches or potential breaches. By so doing we can
+assist the trustees in repairing and making healthy the funds before they get
+to the stage of having to be reported to APRA or the ATO as being badly
+breaching funds, if you like ... In 90 per cent of cases — in fact, probably 99
+per cent of cases — the trustees are very happy to listen to us and rectify the
+problems that they have got themselves into, perhaps inadvertently, before it
+even gets to the regulator. By so doing we are in fact the eyes of the
+regulator and we are taking a lot of pressure off the regulator by providing
+our competency in helping to rectify these funds.17
+3.22 The roundtable discussed whether auditors should be compelled to report
+directly to the regulator where they had identified a compliance breach or possible
+unsatisfactory financial position. Mr Brown said that APRA would support such a
+requirement, noting that it would currently be open to the professional bodies to
+recommend such action by their members even though it was not mandatory under the
+SIS Act:
+While in my experience the bulk of auditors are good auditors and would be
+happy to accede to such a request - particularly if it is promoted by their
+professional bodies - I see, like you, more funds at the bottom end of the
+market which are encountering difficulties, and frequently the auditors of
+those funds would be less willing to comply with a voluntary request.18
+3.23 Mr Phelps concurred with Mr Brown’s views, saying it would now be
+feasible for auditors to report all problems to APRA, following the transfer to the
+ATO of the responsibility for regulating most funds.19 Mr Shanahan also supported
+mandatory reporting requirements for auditors.20
+3.24 In relation to whether such requirements should also apply to the 220,000
+self-managed superannuation funds regulated by the ATO, Assistant Commissioner
+Ms Lesley East said that the ATO was in a different position as it did not require audit
+reports for those funds to be lodged. If there were any qualifications, Ms East
+advised, these should be included in the fund’s annual tax returns. Only if a problem
+was detected would the ATO pursue the matter further and ask to see the audit
+report.21
+17 Committee Hansard, p. 1322.
+18 Committee Hansard, pp. 1315-1316.
+19 Committee Hansard, pp. 1316.
+20 Committee Hansard, p. 1318.
+21 Committee Hansard, pp. 1317.
+
+
+Alerting the regulators
+3.25 The roundtable also discussed the adequacy of means by which issues of
+concern were drawn to the regulators’ attention.
+3.26 In response to a question from the ICAA, APRA representative Mr Brown
+said that APRA would not consider that submitting a qualified audit report was
+sufficient notification to satisfy the requirements of section 129.22
+3.27 Mr McKean representing the Australian National Audit Office agreed that the
+traditional audit model was backward looking and did not look at early warnings.23
+However, he noted that one of the dangers that needed to be considered was that an
+auditor’s expression of concern about the solvency of a fund could in itself exacerbate
+the problem and create the failure itself. In order to avoid such a situation, he
+suggested consideration of a model that encompassed a ‘gale warning type system
+where you may have a warning range from say, one to five’, with one flagging a
+minor concern and five indicating a more serious breach. This would ensure that the
+regulator was alerted to any potential failure and was better prepared to step in when
+necessary.
+Independence of auditors
+3.28 Another issue discussed at the roundtable was auditors’ independence. Mr
+Rassi from the ICAA commented that the profession ‘has been quite busy considering
+issues of independence’, although he did not elaborate.24
+3.29 Professor Harris suggested that there was ample evidence to suggest that
+audits were not always conducted at arm’s length:
+I would argue that the audit of Tricontinental and the audit by Deloittes of
+AWA were marred by lack of independence. I am sure that the SEC will
+say that the audit of Sunbeam was marred by lack of independence. I am
+sure that we will see with HIH that there will be problems with
+independence, as there will be with the audit of Harris Scarfe.“5
+3.30 Professor Harris commented that the 1994 research report commissioned by
+the ICAA and Australian Society of Certified Practising Accountants to consider the
+audit expectation gap:
+... was the first time I had ever seen the industry in Australia address this
+issue. They tentatively started discussing who should appoint the auditor
+and that it may not be in the best interests of auditors or society to have, in
+effect, managers appointing the auditors as occurs now in the corporate
+22 Committee Hansard, p. 1322.
+23 Committee Hansard, p. 1330.
+24 Committee Hansard, p. 1309.
+25 Committee Hansard, p. 1320; Submission No. 238.
+
+
+world. The first time I saw that discussion was in 1993, and it has not been
+pursued since.26
+3.31 Professor Harris also commented that the United Kingdom equivalent of the
+Audit and Assurance Standards Board ‘is significantly much more outspoken about
+this problem in the United Kingdom than I see in Australia’.27
+3.32 APRA representative Mr Brown noted that APRA had raised the issue of
+auditor independence with the professional bodies in the past:
+We have seen instances of severe lack of independence and we have on
+occasion disqualified auditors primarily for that reason. In a survey amongst
+our supervisory staff, they identified that as an issue in perhaps two to five
+per cent of the funds which we review. So it is not, in audit parlance, a
+material issue in terms of frequency, but certainly in those funds where it is
+an issue it does represent, in my view, a risk to members.28
+3.33 Mr Brown noted that it was frequently argued that one accounting firm could
+both prepare the accounts of an entity and audit them, and that ‘Chinese Walls’ within
+the firm could ensure independence. He said:
+That position is certainly arguable, but perhaps particularly in smaller
+practices it can come under legitimate question. There is not, in our view, an
+easy answer to that. At the extreme you would say that no entity could
+simultaneously prepare the accounts of a body and also audit it. That would
+require, in our view, significant restructuring within the accounting and
+audit profession.29
+3.34 In its written submission, the ATO stated that the failure to maintain
+independence was ‘the greatest perceived risk we have identified to date’.30 The ATO
+said that in view of both its research and anecdotal evidence, it was ‘supportive of any
+potential industry review on the issue of auditor independence’.31
+3.35 However, there was no general agreement amongst the professional bodies as
+to whether a lack of auditors’ independence was a significant issue. Mr Reilly from
+the ICAA commented that the audit issues under discussion were similar to those
+being debated internationally. He argued that if there was evidence to suggest an
+auditor had become too close to the trustees and was not acting independently, there
+26 Committee Hansard, p. 1320.
+27 Committee Hansard, p. 1320.
+28 Committee Hansard, p. 1316.
+29 Committee Hansard, p. 1316.
+30 Submission No. 240, p. 5.
+31 Submission No. 240, p. 6.
+
+
+were ‘more than adequate disciplinary processes’ to allow for ‘fairly immediate
+action’ by the professional bodies/2
+3.36 Mr Edge of the Auditing and Assurance Standards Board also queried
+whether there was any evidence of a systemic problem rather than isolated instances,
+pointing out that the regulators, like doctors, ‘only see the sick people’ and that
+generally speaking, Australia had ‘accounting and auditing standards of the highest
+quality’.33 He said no examples put to him had indicated that the problem with a
+superannuation entity had been the lack of independence or the lack of a Chinese
+wall.34
+3.37 ICAA representative Mr Reilly argued that in general, the auditing profession
+adhered to requirements and standards, and estimated that 70 per cent of audit
+practices ‘are doing the right thing’ and presented ‘no problem whatsoever’. Another
+10 to 12 per cent performed the work appropriately but did not document their work
+as required by the standard. He estimated that in about 8 per cent of cases reviews had
+to be done again due to ‘more serious problems’, and that in ‘a very small number of
+cases’ the ICAA had excluded members.35
+Committee view
+3.38 The Committee notes that APRA regulates approximately 3,780 funds
+excluding the small APRA funds (that is, those with less than five members where not
+all of the members are trustees).j6 If one in eight of those funds has a qualified audit
+as Mr Brown suggested, and 20 per cent of those qualified audits concern breaches
+more serious than simply late returns, this equates to potentially serious breaches
+being noted in relation to about 90 funds. As Mr Brown did not offer any other details
+of the type of fund where serious breaches are reported, it is not clear to the
+Committee how many members this number of funds could involve, but it is
+potentially thousands.
+3.39 As it has stated previously, the Committee believes that all funds that invest
+monies for the purpose of providing a retirement income stream must be fully
+protected. Accordingly it would seem that the problem of possible breaches of the
+Act is significant and that all possible steps should be taken to ensure that the
+regulator’s attention is drawn to those matters as quickly as possible.
+3.40 Independence of the auditors of superannuation funds is also a crucial issue,
+as the Committee noted in its First Report.37 The Committee recommended in that
+32 Committee Hansard, p. 1317.
+33 Committee Hansard, p. 1319.
+34 Committee Hansard, p. 1319.
+35 Committee Hansard, p. 1321.
+36 According to figures supplied by APRA - see First Report, p. 19.
+37 First Report, pp. 95-96.
+
+
+report that APRA should work more closely with the peak professional bodies in order
+to identify ways to improve adherence by auditors to professional and ethical
+standards and ensure genuine auditor independence.38 The Committee notes that the
+Minister for Financial Services and Regulation has recently announced the
+appointment of a corporate governance expert, Professor Ian Ramsay, to examine
+audit independence more generally.39
+3.41 Although a number of examples were cited, the Committee did not hear
+evidence of a major systemic problem concerning auditor independence in the area of
+superannuation. Nevertheless, the Committee considers that auditor independence
+would be enhanced by a mandatory requirement in the SIS Act that auditors report
+directly to the regulator any breach of the legislation or concerns about the fund’s
+financial position, at the same time as they report such events to the trustee. Such
+notifications should include a clear indication of the auditor’s opinion as to the
+seriousness of the identified problem, in order to assist the regulator in monitoring the
+situation.
+3.42 Another way of assisting independence might be to introduce compulsory
+disclosure provisions for auditors in order to avoid any conflicts of interest. Although
+this issue was not specifically discussed during the roundtable, the Committee is
+especially concerned to ensure that the auditor of a company is not also the auditor of
+its superannuation fund. Arm’s length auditing is essential to preserve independence.
+3.43 The Committee notes that the SIS Act contains no specific requirement for
+auditor independence, although the lack of independence may obviously be a
+consideration in a regulator’s decision to disqualify an auditor for unsatisfactory
+performance.40 However, there are independence requirements in the relevant Code
+of Professional Conduct, particularly through Auditing Principle (AUP) 32 Audit
+Independence which provides guidance to auditors in applying legislation,
+professional ethics and auditing standards. Amongst other matters, AUP 32
+emphasises the need for auditors to ensure that they are able to conduct the audit free
+from the governing body’s intervention, that their independence is not impaired by
+becoming involved in management or decision-making and that undue influence does
+not arise through the level of fees derived from other services and the threat of loss of
+those fees.41
+3.44 As auditor independence is becoming an increasingly important issue both
+nationally and internationally, the Committee considers that the solution should be
+38 Recommendation 16.
+39 Minister for Financial Services and Regulation Press Release No. FSR/057 “Rebuilding Confidence in
+Australia’s Audit Profession”, 2 August 2001.
+40 Under s. 131 of the SIS Act.
+41 AUP 32 is discussed in Spencer, T for the Auditing and Assurance Standards Board and Australian
+Prudential Regulation Authority, The Audit of Superannuation Funds, Audit Guide No. 4, Australian
+Accounting Research Foundation, 1999, pp. 32-35.
+
+
+stronger than a guiding principle. Accordingly the Committee recommends that the
+SIS Act be amended to reflect the need for auditor independence and in particular to
+provide that the auditor of a company is not also the auditor of its superannuation fund
+because of the problem of perceived or actual loss of independence.
+Recommendation 1
+3.45 The Committee recommends that Part 16 of the Superannuation Industry
+(Supervision) Act 1993 (the SIS Act) be amended to require auditors to report to
+the regulator any breach of compliance with the Act or suspicion of a fund’s
+unsatisfactory financial position, at the same time as they report such issues to
+the trustee.
+Recommendation 2
+3.46 The Committee recommends that the SIS Act be amended to require that
+auditors of superannuation funds be independent and that the auditor of a
+company is not also the auditor of its superannuation fund.
+
+
+
+
+CHAPTER 4
+THE NATURE AND RELIABILITY OF AUDIT REPORTS
+4.1 This chapter deals with the nature and reliability of audit reports. It discusses
+some of the issues considered at the roundtable, including:
+• whether audit reports should include a risk assessment;
+• whether they should be prepared more frequently; and
+• whether they should include a wider range of information, for example actuarial
+reports.
+The nature of audit reports
+4.2 As noted in Chapter 2, auditors of superannuation funds are required to
+prepare both a financial audit report and a report on compliance with the SIS Act
+requirements.
+Emphasis of auditors ’ reports
+4.3 Mr Chris Malkin from CPA Australia said much more emphasis was being
+put on the prudential controls related to administration of funds rather than the mere
+‘green ticking’ of the financial statements and the assessment of compliance with the
+Act. He said that the profession was ‘very conscious of raising the standards’, and
+that the ICAA and CPA Australia were giving some attention to improving reporting
+‘that could be better attuned to fund members’ needs and, in particular, the
+development of more explicit standards for explaining the risk management strategies
+adopted by the trustees’.1
+4.4 Ms Martin from the Institute of Actuaries of Australia agreed that auditors
+were identifying risk management issues ‘in a number of instances now’ in their
+annual audit reports.2 However, there was no onus on the trustees to necessarily act
+on the risks that had been identified. She suggested that this might be an area of
+regulation that could be improved, explaining:
+... ideally we would like to see some sort of process put in place, with a
+better risk management framework around the regulation of superannuation
+funds — something that requires superannuation trustees to have a proper
+risk management approach in place that identifies all the key risks that the
+1 Committee Hansard, p. 1324-1325.
+2 Committee Hansard, p. 1326.
+
+
+funds face and that seeks advice on those key risks and how they can be
+mitigated...3
+4.5 She elaborated on the sorts of requirements that could be considered:
+Rather than just saying that the trustee has to consider and formulate an
+investment policy, they need to more specifically require the trustee to
+identify particular investment risks and have in place a strategy that actually
+deals with those risks. Perhaps there even needs to be a requirement for the
+trustee to take professional advice on investment strategy and, if they choose
+not to follow that professional advice, to place some whistleblowing
+responsibility on the professional who provides that advice. So I think there
+is a need for some sort of forward looking risk management framework to
+try and deal with some of the issues that have emerged through the
+committee process.4
+4.6 Like Mr Malkin, Ms Martin emphasised the need to be conscious about
+imposing additional costs on funds without any material benefit. She noted that
+actuarial reports are already required for certain types of superannuation funds,
+namely defined benefit funds.
+4.7 Both Mr Brown and Mr Venkatramani from APRA supported the requirement
+for risk management statements to be made by trustees and in turn addressed in audit
+reports. Mr Venkatramani said:
+I do believe that there is a good case for maybe making risk management
+statements not merely good practice but perhaps mandatory for trustees.
+Then auditors and others who are involved can express an opinion on the
+adequacy and effectiveness of those practices.'
+4.8 ICAA representative Mr Rassi also suggested that a prudential review of
+superannuation funds could be made mandatory, in addition to the current audit
+requirements. Such a review could include an assessment of the fund’s risk
+management approach, corporate governance structure and other related issues. Mr
+Rassi said a prudential review process would be ‘an extremely healthy exercise’,
+particularly for the larger funds.6 He added that such a review could be conducted by
+the same auditor as carries out the existing audits, as this would be cost effective and
+would help in that the auditor would already be aware of some of the fund’s risks.7
+However, later in the discussion Mr Rassi stated that the prudential reviews he had
+carried out of large funds’ risk management systems cost between S30,000 and
+3 Committee Hansard, p. 1309.
+4 Committee Hansard, p. 1309.
+5 Committee Hansard, p. 1328.
+6 Committee Hansard, p. 1327.
+7 Committee Hansard, p. 1327.
+
+
+$50,000, compared with total audit fees of between $20,000 and $40,000.8 He noted,
+however, that for the large funds with substantial assets under management, such costs
+were ‘miniscule’.
+Frequency of reporting
+4.9 CPA Australia representative Mr Malkin did not support audit reports more
+frequently than once a year, due to the costs:
+... every time a trustee spends money on administering a fund, it is reducing
+the amount of retirement benefit that the members are going to enjoy when
+they are able to get that retirement benefit.9
+4.10 However, he noted that where an auditor had identified a possible breach of
+the Act and had given the trustee a defined time in which to rectify the situation, the
+auditor would go back to the fund to check on the progress rather than waiting until
+the next financial year’s annual audit. Consequently in those circumstances the
+auditor was looking at the fund ‘progressively during the year’.10
+Reporting to fund members
+4.11 The Committee was told that the auditor’s report was not required to be sent
+to the members of a superannuation fund, although the auditor would be named in the
+fund’s annual report and members did have a right of access to the auditor’s report.
+The reliability of audit reports
+4.12 A related issue raised for discussion at the roundtable was whether the
+regulators could rely on the current audit report format to provide them with early
+warning signals of fund failure.
+4.13 Various views on the current audit report format were expressed. ANAO
+representative Mr McKean reiterated earlier comments that the auditing process was
+backward looking. He suggested that in order to be reliable in terms of picking up
+early warning signals, the process ought to be an ‘auditing at the moment’ process.11
+4.14 Mr Shanahan expressed concerns about the delay in the lodgement of audit
+reports, that is, up to nine months after the end of the financial year for the small self-
+managed funds. He argued that if 80 per cent of qualified reports were due to late
+lodgement, the audit process was so delayed that it was difficult to be of any use in
+terms of providing early warnings.12
+8 Committee Hansard, p. 1333.
+9 Committee Hansard, p. 1325.
+10 Committee Hansard, p. 1325.
+11 Committee Hansard, p. 1330.
+12 Committee Hansard, p. 1329.
+
+
+4.15 Mr Shanahan also compared the much more detailed audit reports on banks
+that were provided to the prudential regulator. Those reports ‘pick many more holes’.
+He noted, however, that the large number of superannuation funds may make similar
+requirements unworkable in the regulation of superannuation:
+There are only a limited number of banks. I do not believe you could have a
+much more detailed report on prudential management issues. You [could]
+do it perhaps with the large or the medium super funds, but to look at this
+for the entire population of 220,000 I think would be fairly difficult.1J
+Revising the format of audit reports
+4.16 Mr Shanahan said he was not persuaded that the present format of the audit
+report for superannuation funds would be useful unless ‘a particular prudential
+direction to the audit function’ was made clear:
+Every auditor at the moment says, ‘APRA has set out what we will put in
+the audit report. We will all follow that. We cannot depart from that.’ 1
+worry that our audit reports are so pro forma that you would all almost have
+to have a qualification in flashing neon lights and say, ‘Look in this
+additional paragraph. Something is wrong,’ before it gets noticed.14
+4.17 Professor Harris suggested that APRA, as the basis for the audit report,
+prepare a set of specific questions to which they want specific answers.1' ICAA
+representative Mrs Orchard agreed:
+... auditors would be willing to do a wider review of the risk management
+systems assessments of the fund but we would need some guidelines within
+which to work — for what is expected within that — so that an opinion
+could be formed. We cannot just say that the risk assessment is appropriate.
+That leaves the auditor quite wide open and does not give us a scope within
+which to work.16
+4.18 Accordingly Mrs Orchard suggested that APRA develop appropriate
+guidelines for superannuation funds regarding audit report requirements. There was
+general support around the table for this suggestion, with APRA representative Mr
+Phelps saying such action would take a few months.17
+13 Committee Hansard, p. 1329.
+14 Committee Hansard, p. 1329.
+15 Committee Hansard, p. 1329.
+16 Committee Hansard, p. 1332. The ICAA in an earlier written submission also noted that ‘External
+auditors are more than happy to assist APRA in its prudential supervisory role, provided that the work
+requested is specific, rather than a vague general request to inform APRA of anything that APRA might
+need to be aware of (Submission No. 236, p. 2).
+17 Committee Hansard, p. 1332.
+
+
+The Committee’s views
+4.19 As the Committee noted in its First Report, it is essential that the regulator
+have effective risk management procedures in place in order to ensure that early
+warning signals of impending fund failure are detected.18 In addition, the Committee
+considers it essential for all funds to have a risk management strategy, as well as the
+investment strategy that is currently required under the SIS Act,19 and for auditors to
+review those strategies as part of the audit process. As part of the review of the risk
+management strategy, the Committee considers that it would also be appropriate for
+auditors to address issues associated with capital adequacy.
+4.20 In order to assist auditors to assess and comment on funds’ risk management
+and investment strategies, as well as capital adequacy issues, the Committee believes
+that APRA should prepare guidelines outlining the specific areas which should be
+addressed in the audit report. The results of the auditor’s assessment should be
+included in a fund’s annual report. The ATO should also give consideration to
+developing guidelines to assist auditors in preparing audits of small self-managed
+superannuation funds.
+4.21 The Committee considers that where a qualified audit report has been issued
+(other than merely on a technical ground such as a late return), there should be a
+requirement to conduct another audit within a specified time prior to the next financial
+year’s audit. The Committee notes the potential cost impact, particularly on the
+smaller funds, of more frequent audit processes, but considers that the rewards in
+terms of significant savings through improved fund security and early warning of
+potential problems outweigh those considerations.
+4.22 The Committee also believes that auditors’ reports should be sent to the
+members at the same time as the annual report, in order to improve communication to
+members on their fund’s financial state. The Committee is mindful of the fact that not
+all members would necessarily understand or be interested in the details contained in
+such reports, but believes that the need for greater transparency and accountability in
+fund management justifies such a course.
+4.23 The Committee considers it would be good practice, and part of an effective
+governance framework, for a prudential review to be carried out for superannuation
+funds regulated by APRA, particularly the larger funds. In order to avoid imposing an
+undue financial burden on the smaller funds, such a review need not be carried out
+annually, but should be required say every five years for the larger funds (as defined
+by APRA). It would not be necessary to make such reviews mandatory for the small
+self-managed superannuation funds regulated by the ATO, since all members of such
+funds are responsible for the management of their own money.
+18 First Report, pp. 42, 45-46.
+19 The fund’s governing rules must include certain covenants by the trustees (s. 52(2)), including a covenant
+to formulate and give effect to an investment strategy.
+
+
+4.24 Finally, the Committee notes that audit reports on banks are more detailed
+than those required for superannuation funds. The Committee considers that it would
+be impractical for the small and medium sized funds to move to this standard.
+However, the Committee considers that there may be merit in the longer term for
+consideration to be given to moving towards requiring the audit reports for large funds
+to ultimately be prepared to the same standard as that required for banks.
+Recommendation 3
+4.25 The Committee recommends that APRA prepare a set of guidelines
+outlining the specific areas which should be addressed in the audit report on
+assessments of risk management systems and investment strategies for
+superannuation funds.
+Recommendation 4
+4.26 The Committee recommends that where a qualified audit report has been
+issued (other than merely on a technical ground such as a late return), there
+should be a formal requirement for a follow-up audit to be conducted within a
+specified time.
+Recommendation 5
+4.27 The Committee recommends that the auditor’s report on a
+superannuation fund be sent, as a matter of routine, to all fund members, in
+order to improve accountability and ensure transparency of the trustee’s actions
+and communication about the fund’s financial state.
+Recommendation 6
+4.28 The Committee recommends that the larger superannuation funds
+regulated by APRA be required to carry out a prudential review, at a minimum
+of once every five years.
+4.29 The Committee also considered whether trustees should be required to
+provide more detailed information to auditors, in order to assist them in identifying
+particular issues of concern when conducting their audits. At present, the SIS Act20
+requires trustees each financial year to prepare a statement of financial position; an
+operating statement; a statement of cash flows; and such accounts and statements as
+are specified in the regulations.21 There is no requirement for trustees to alert the
+20 SIS Acts. 112.
+21 There is an additional requirement for superannuation funds which invest in derivatives (such as options,
+futures and warrants). A Risk Management Statement (RMS) must be prepared and the trustees or the
+directors of the fund’s investment management company must certify in writing to the auditor that they
+have met their responsibilities with respect to the RMS (such as having it in a form that is appropriate
+and consistent with the guidelines set out in APRA’s Superannuation Circular No. II.D. 7 Derivatives
+and its 1998 addendum). The auditor must then report to the trustees or the directors of the investment
+management company his or her opinion as to whether those assertions are fairly stated.
+
+
+auditors to any concerns about the fund’s operation or to request the auditor to pay
+particular attention to an issue.
+4.30 Nevertheless, there is opportunity for such concerns to be raised during the
+audit engagement process. The letter of engagement recommended for use by
+auditors22 clearly sets out the parameters for undertaking the audit. For example,
+when the audit is in progress, trustees may be required by the auditors to answer
+particular questions that arise.
+4.31 The Committee has considered the possibility of requiring trustees to certify
+to the auditors, prior to the audit taking place, that the accounts are in good order and
+comply with the requirements of the SIS Act, and to indicate any systemic weaknesses
+or issues of concern in the fund’s management or operations. The Committee
+acknowledges that this suggestion would have significant implications for the SIS Act
+regime. Matters to be determined would include specifying the types of information to
+be provided by trustees, the standard of evidence required to establish a contravention
+of this requirement, the consequences of any contravention (that is, whether civil or
+criminal) and the appropriate penalty. Consequently the Committee considers that this
+matter should be examined by APRA in consultation with the relevant professional
+and regulatory bodies.
+Recommendation 7
+4.32 The Committee recommends that APRA consult with the relevant
+professional and regulatory bodies with a view to developing a requirement for
+trustees to provide a statement to the auditor prior to the audit of a
+superannuation entity. The statement would certify that the accounts were
+believed to be in good order and to comply with the SIS Act, and would note any
+areas of weakness or concern in the fund’s financial and management strategies.
+22 Spencer, T for the Auditing and Assurance Standards Board and Australian Prudential Regulation
+Authority, The Audit of Superannuation Funds, Audit Guide No. 4, Australian Accounting Research
+Foundation, 1999, Appendix C, p. 206. APRA’s Superannuation Circular No. IV.A.4 Responsibilities of
+the Approved Auditor, para 14 notes that one of several issues about which APRA is concerned is that
+letters of engagement are issued, in order to ensure all parties are clear on the services being provided.
+
+
+
+
+CHAPTER 5
+THE ROLE OF THE PROFESSIONAL BODIES
+5.1 This chapter discusses the part played by the professional bodies for auditors
+and actuaries, in particular:
+• the role of professional bodies for auditors and actuaries in the regulation of
+superannuation; and
+• the qualifications and experience required of auditors under the SIS Act.
+The role of professional bodies
+5.2 Professional bodies have an important part to play in ensuring appropriate
+standards of auditing for superannuation funds. Their means include:
+• setting appropriate standards for membership, which in turn qualify auditors as
+approved auditors under the SIS Act;
+• providing education and training to members;
+• working with the regulators where appropriate; and
+• taking disciplinary action.
+5.3 Before opening these issues to discussion, the Chair reminded participants
+that the purpose of the roundtable was to develop more early warning signals to help
+prevent fund failure. Referring to the list of 10 key audit issues for superannuation
+funds identified by Mr Rassi in 1999 (discussed in the Committee’s First Report1), the
+Chair asked participants to consider proactive measures to try to lift the standard.2
+Education and training
+5.4 Representatives of the professional bodies outlined a range of continuing
+educational programs that were in place for auditors. Mr Malkin from CPA Australia
+stated:
+The profession — certainly CPA Australia and the [ICAA] — is constantly
+revising the training and education programs for auditors of super funds ...
+Those types of programs are being continuously updated and strengthened.
+We are recognising all the types of error messages that Mr Rassi has
+1
+Senate Select Committee on Superannuation and Financial Services, Prudential Supervision and
+Consumer Protection for Superannuation, Banking and Financial Services: First Report, 2001, paras
+3.15-3.17.
+Committee Hansard, p. 1335.
+2
+
+
+included in this report, and they are being addressed through the education
+process.3
+5.5 Ms Susan Orchard from the ICAA elaborated on the type of education and
+training provided by the professional bodies:
+It includes face-to-face education, communication with members on what is
+happening in super — which we conduct with our superannuation and
+financial planning practitioners on a weekly basis — as well as education
+through magazines and other forums that we have to communicate with
+members. I think we are seeing an improvement in the audit process. The
+areas that we have highlighted are highlighted back to trustees and,
+hopefully, we should then see these issues being resolved by the trustees as
+they become better educated.4
+5.6 She noted that many of the problems highlighted by auditors ‘really come out
+of the education of trustees’. This was an area which the superannuation industry as a
+whole had been committed to addressing, particularly over the last two years through
+the efforts of APRA, ASFA and other bodies such as the ICAA.
+Working with the regulators
+5.7 Mr Agland from the NIA noted that it was important for the professional
+bodies to work with the regulators.5 Mr Malkin stated that the ICAA and CPA
+Australia had ‘a very strong, very healthy relationship with both the ATO and APRA’,
+noting that the regulators participated in training courses for members.6
+5.8 There was agreement amongst participants that the communication between
+the professional bodies and APRA could nevertheless be improved. APRA convenes
+regular meetings of a superannuation national audit consultative committee, inviting
+representatives of each of the professional bodies from which superannuation auditors
+may be drawn as well as the Auditing and Assurance Standards Board, the Australian
+Accounting Standards Board, ASIC and the ATO. The Committee was told that there
+had been occasions where not all the bodies had participated in these meetings, due to
+a ‘communication breakdown as sometimes occurs when bodies change people who
+are organising things’. At the last meeting in April 2001, for example, no
+representative of the professional bodies had attended.8
+3 Committee Hansard, p. 1335
+4 Committee Hansard, p. 1335.
+5 Committee Hansard, p. 1336.
+6 Committee Hansard, p. 1337.
+7 Committee Hansard, p. 1338.
+8 Committee Hansard, p. 1338.
+
+
+Action against auditors whose performance is inadequate
+5.9 There was discussion of what the regulators and professional bodies did when
+problems with a particular auditor were identified. Mr Brown said that when APRA
+identified a fund that was in difficulty, as well as working with the trustees:
+... we will review how many super funds the auditor is engaged with in
+deciding how much effort we put into addressing the shortcomings of that
+auditor. If the answer is few, it may be that we would call the person in and
+encourage them to expend their energies in ways other than auditing super
+funds. That is reasonably effective, because in most instances where that
+happens the person involved audits very few super funds.9
+5.10 In response to a question from the Committee about APRA’s capability to
+deal with the matters of concern it identifies, Mr Brown said that in order to fully
+address every issue that APRA discovered, ‘we could expand the resources that we
+use manifold’.10
+5.11 ICAA representative Mr Reilly suggested an informal mechanism for referral
+by the regulator to the professional bodies would be beneficial:
+... so that [the regulator] could say, ‘There is a member there. The member
+has had some failings and they are not doing a lot of audit work,’ or, ‘The
+failings are there. Can you help the member?’ A lot of our work is in fact in
+the education area. People are fallible; they do make mistakes along the
+way. They may only be small mistakes and our disciplinary area is seen as
+hitting people hard, but quite a lot of the time the discipline committee is
+saying, ‘You’ve got it wrong. What’s the answer?’ and the member has said,
+‘Sorry. These are the things that I have put in place to make sure it’s right
+next time around.’ It would depend on the severity of the issues. So we are
+open to working with [APRA] and with the ATO on that basis, as well.11
+5.12 However, Mr Brown said this informal approach was not possible under the
+current legislation:
+Because there is a formal power in the SIS Act for us to refer and because
+that can be seen as detrimental to the interests of the auditor, it is not open
+for us to pick up the telephone and say, ‘Hey, we’ve got a problem with
+such and such an auditor.’ We have to go through a formal process of giving
+that person natural justice. We have to give them an opportunity to respond
+to the issues that we have with them and then the referral has to be formal,
+unless it is that the auditor, of his or her own volition, is prepared to come to
+the professional bodies and say, ‘APRA had these concerns with me and
+suggested I take on a certain level of training.’ But, given both the secrecy
+9 Committee Hansard, p. 1336.
+10 Committee Hansard, p. 1336.
+11 Committee Hansard, p. 1336.
+
+
+provisions within the APRA Act and the formal referral provisions within
+the SI(S) Act, there is not the capacity for us to work at that sort of informal
+level.12
+Other issues: improving trustees ’ performance
+5.13 Participants also discussed some of the ways in which the performance of
+trustees could be enhanced, noting that the audit process was designed to identify
+problems. Mr Rassi commented that there had been improvements in relation to some
+issues that had been identified in 1999, particularly in relation to the timely
+finalisation and lodgement of fund accounts which was a matter ‘we have been
+drumming into all our clients’.13
+5.14 APRA representative Mr Brown said that legislative amendments that
+changed certain SIS Act offences to strict liability offences from January 2001 had
+helped in improving the performance of trustees in terms of their record-keeping:
+Previously, if a trustee kept the accounts in a shoebox and they were a total
+shambles, to launch a prosecution it had to be proven that that failure to
+maintain the records properly was reckless or deliberate. Now it is sufficient
+to simply prove the fact of failure, although there are statutory defences. We
+have not yet launched a prosecution under those strict liability provisions,
+but we have already seen, very strongly, that the change in the legislation
+has focused trustee attention remarkably. When we go and talk with trustees
+and we have difficulties with a particular fund, we see that the willingness
+of the trustees to respond promptly and effectively has been very much
+enhanced. Even before we have implemented the powers that we have been
+given, their beneficial effect is being seen.14
+5.15 Another APRA representative, Mr Venkatramani, said that APRA’s power to
+accept enforceable undertakings from trustees and other associated parties was another
+valuable tool for the regulator.15
+The Committee’s view
+5.16 The Committee believes it is essential that the professional bodies and
+regulators working together to identify common problems in auditing of
+superannuation funds and develop appropriate training. Effective measures also need
+to be in place to ensure that ‘problem’ auditors are identified and appropriate early
+remedial action is taken, either by way of further training, disciplinary action or
+exclusion and disqualification where necessary. The Committee encourages the
+regulators and the professional bodies to keep lines of communication open between
+12 Committee Hansard, pp. 1336-1337.
+13 Committee Hansard, p. 1337.
+14 Committee Hansard, p. 1338.
+15 Committee Hansard, p. 1338.
+
+
+them. As noted in Chapter 3, the Committee also considers it essential that the
+professional bodies devote more resources to educating the public about their role.
+5.17 The Committee notes APRA’s concerns about natural justice in terms of the
+suggestion that the regulators might provide informal advice to the professional bodies
+about auditors about whom they may have concern. However, the Committee
+considers that APRA in conjunction with the professional bodies should consider
+ways in which this issue might be addressed, including any amendment to the SIS Act
+that is required.
+Qualifications and experience of auditors
+5.18 As outlined in Chapter 2, auditors of superannuation funds regulated by
+APRA are required to be registered company auditors as well as members or fellows
+of a prescribed professional body. For auditors of ATO-regulated funds, membership
+or fellowship of a professional body will suffice. The Committee was interested to
+explore whether the current standards were sufficient and whether the different
+requirements for the two types of funds were desirable.
+5.19 Mr Agland, General Counsel for the NIA, noted that while the SIS Act and
+regulations did not expressly require auditors to have suitable experience, this was in
+effect demanded by their membership of professional bodies:
+We have set standards as to the qualifications of members at different levels.
+We have requirements in relation to ethics and in relation to codes of
+conduct. We have means to investigate members. We also have
+requirements in relation to continued professional education. The way the
+legislation sits, it is taking our rules and our regulations and, in effect,
+applying those. That puts the pressure onto us as the accounting bodies to
+ensure that those members out there are appropriate to do these types of
+audits.16
+5.20 Mr Agland described the NIA’s three levels of membership:
+• associate membership, for which a two year Advanced Diploma in Business
+Accounting was required. The NIA would not consider such a person suitable to
+audit a superannuation fund because of a lack of the necessary qualifications or
+experience;
+• membership, which requires either a degree or graduate certificate in
+professional accounting from the University of Southern Queensland (a course
+which includes subjects on business ethics) plus at least three years’ experience;
+and
+• a recently created level of membership, called Professional National Accountant.
+This level requires a university degree or the Bachelor of Financial
+16 Committee Hansard, pp. 1339-1340.
+
+
+Administration created by the NIA in conjunction with the University of
+Southern Queensland. A public practice certificate is also necessary, and
+‘greater requirements as far as their ethics and codes of conduct are
+concerned’.17
+5.21 Mr Agland said that the NIA would prefer only those members at its top
+Professional National Accountant level to do audits of the superannuation funds
+regulated by APRA, stating:
+It is not so much the qualification that [auditors] take at the beginning;
+almost as important is their experience level. We think they should have the
+basics they learn in university or under a course, then they should have
+certain years out in practice, and then after that taken a course that is more
+specific to superannuation funds.18
+5.22 Mr Agland said that the NIA’s members tended not to deal with the larger
+superannuation funds, since their expertise was in dealing with the smaller funds.
+5.23 The Committee asked whether auditors should be licensed. Mr Agland did
+not support that suggestion, on the basis that it might exclude many accountants who
+were sufficiently skilled to audit the small funds:
+Licensing creates problems in and of itself, I think. The registered company
+auditor is a clear example of something that was a great idea but the
+specifications to become an RCA are such that there are very few registered
+company auditors out there, which forces them to do a lot of work that
+people of their experience and their skill probably do not need to undertake.
+There are other people who could undertake a lot of that work. We would
+not want to see a licensing arrangement that cut off the majority of
+accountants who would not be able to undertake small superannuation
+funds. If you want to say that those sorts of people cannot undertake audits
+of large funds then that is fine but I think in reality the large funds would go
+to the big accounting firms anyway.19
+5.24 In response to questioning from the Committee, Ms East said that the ATO
+was happy with the current requirements that auditors of small self-managed funds
+need only be members of specified professional bodies.20 However, Mr Reilly said he
+was ‘not too sure’ that the ICAA or CPA Australia were satisfied with those less strict
+requirements, noting that the ICAA was concerned about inadequate audits of some of
+the smaller funds because of the implications for the profession:
+We have concerns with some of the anecdotal evidence coming back —
+prior to the ATO becoming involved in the smaller funds — at the ISC level
+17 Committee Hansard, p. 1340.
+18 Committee Hansard, p. 1340.
+19 Committee Hansard, p. 1341.
+20 Committee Hansard, pp. 1341-1342.
+
+
+and of course via APRA, that some of the smaller funds are not being
+audited appropriately. Our quality review program has tended to suggest
+that that is a fairly minor area for our members, but we are tarred with the
+same brush. As soon as a regulator says, ‘There has been an audit failing,’
+we automatically say, ‘Well, was it us? Or was it them? Or was it some
+other group along the way?’21
+5.25 Mr Reilly explained his concerns about having only a requirement for
+membership of a professional organisation:
+... merely saying that if you are a member of a particular organisation you
+are then able to do an audit places quite a lot of reliance back on that
+particular individual and that individual’s professional organisation to
+ensure that they actually comply with the rules. So, whilst I am not about to
+say that chartered accountants, CPA or NIA members are breaching those
+requirements, I think the fact that at the APRA level you require a registered
+company auditor to do APRA funds is appropriate, because at least the
+registered company auditor structure ensures that that person has met a
+minimum level of competence over a period of time.22
+5.26 Mr Reilly said, however, that he did not support the way in which the
+registered company auditor structure currently operated and that he was aware ASIC
+also did not support it. He referred to a 1997 report by a Working Party of the
+Ministerial Council for Corporations which had recommended a move away from
+experience determined on a strict ‘hours-based approach’ (that is, only satisfying a
+requirement for a certain number of hours to be completed) to an audit competency
+approach.23 Mr Reilly said he believed that the Government had given a commitment
+to implement that report and that he hoped legislation to give effect to the
+recommendations would be introduced by the new Government, since he believed the
+recommendations had bi-partisan support.-4
+5.27 Mr Reilly went on to say:
+One of the issues that the working party report highlighted was the fact that,
+once you got your ticket, you effectively had it for life. Of the 7,000
+registered company auditors that were actually on the ASIC register, there
+might have been only 4,500 that were active auditors. It is becoming
+increasingly harder for a professional to become a registered company
+auditor because of the change in the way that the requirements have been
+administered. So I think that is good.25
+21 Committee Hansard, p. 1343.
+22 Committee Hansard, p. 1342.
+23 Report of a Working Party of the Ministerial Council for Corporations Review of Requirements for the
+Registration and Regulation of Company Auditors, AGPS 1997.
+24 Committee Hansard, p. 1342.
+25 Committee Hansard, p. 1343.
+
+
+5.28 Mr Reilly suggested that tighter requirements might be needed for auditors of
+the small funds regulated by the ATO:
+The Institute and CPA Australia are uncomfortable with the fact that there
+are some other organisations — and I am not necessarily referring to the
+NIA ... — where mere membership does not give any indication of audit
+competence. I would argue that mere membership of the Institute or CPA
+Australia by itself does not necessarily mean you are a competent auditor —
+further requirements and training are involved.
+We would like to think that this committee — once we have an audit
+competency regime in place — can look at utilising that rather than just
+mere membership of a professional body in terms of doing the audit of any
+superannuation fund.26
+The competency-based approach
+5.29 Mr Reilly explained the ICAA’s approach:
+... the model that we have worked on is a logbook type structure where you
+gain experience on particular audits and then work under the direction of a
+registered company auditor, who is the mentor. The registered company
+auditor signs off once the particular person has met and demonstrated that
+degree of competence. It is a much better way than it simply being a matter
+of hours.27
+5.30 He went on to explain the disadvantage of the ‘hours worked’ approach:
+The problem with the hours approach is that if you come from a small
+practice you simply are not going to get the number of hours that you would
+have from a larger practice, or if you come from a major practice you may
+spend quite a lot of your time doing other work than audit work. You can
+spend a lot of hours and still be pretty incompetent. That is not directed at
+anyone — it is anecdotal evidence. Present company excepted. We think it
+is a far better approach and it is the approach that the major accounting
+organisations are using. They are saying that before you are promoted from
+being an audit senior to an audit supervisor to an audit manager to an audit
+partner, you have to demonstrate that you have reached appropriate
+competency levels, otherwise you do not go any further. Competency has
+certainly been supported over the last 10 years in a whole range of different
+training areas.28
+5.31 Mr Shanahan also supported competency standards as ‘essential’, stating that
+the industry needed to be ‘much more rigorous in auditors of superannuation funds
+26 Committee Hansard, p. 1343.
+27 Committee Hansard, p. 1344.
+28 Committee Hansard, p. 1344.
+
+
+meeting the experience qualification’.29 However, he also considered more was
+needed by way of a licence ‘or a separate chapter of superannuation auditors’, stating
+that the problem:
+... is a lack of experience and knowledge of the legislation. The legislation
+is complex. We keep amending acts. The regulations keep changing. APRA
+bring out guidance every two years, an addendum in between, and then toss
+in derivatives as well.
+It is complex. You need specialist knowledge. I have no problem saying, ‘I
+would like to see specialist people there.’ I do worry if we say, ‘Great news
+to the rest of the world: we now have better superannuation auditors.’ ...
+People will say, ‘Well, so what?’30
+Where the problem might lie
+5.32 Mr Shanahan also said that he did not consider the problem lay with the staff
+who actually carried out the audits, but instead at a more senior level:
+... my experience is that I have a great degree of confidence in the staff that
+do the audits. I believe the people we recruit into the auditing profession
+from universities with our in-house training do a great job. They find
+everything that needs to be found. It is in the audit management, the audit
+supervision and partner clearance level where people make the decision:
+‘Oh, we have seen that; we can live with it.’ I have got a great belief in the
+ability of our audit staff; I do worry about some of our audit management...
+In audit files I examine in investigatory work, I find that everything that
+needs to be found is documented in the files. You then have to ask the
+question: why was it not raised in an audit report or the issue resolved with
+the client?jI
+Taking appropriate action against auditors
+5.33 Mr Shanahan said he was concerned about the current system of regulation of
+auditors, particularly the time taken for the process:
+I believe that ASIC has some of the problems that APRA has. If an audit
+failure is identified by a regulator you have to follow a due process at law
+and immediately they bring in lawyers and the whole thing slows down. I do
+not believe that the self-regulation practised by the professional bodies is as
+speedy or as efficient as some would have us believe/2
+29 Committee Hansard, pp. 1308, 1344.
+30 Committee Hansard, p. 1345.
+31 Committee Hansard, p. 1345.
+32 Committee Hansard, p. 1346.
+
+
+5.34 In response, ASIC representative Mr Mackintosh noted that while the process
+was sometimes ‘cumbersome’, principles of natural justice had to be followed/'3
+5.35 Mr Shanahan said he believed the system of self-regulation needed
+strengthening, citing as another example the available disciplinary remedies:
+If people get disciplined by the CALDB [Companies Auditors and
+Liquidators Disciplinary Board] then they are reported to the Institute or
+CPA Australia and quite often they say, ‘You’ve been dealt with. We won’t
+do anything more than that. You can’t have double jeopardy.’34
+5.36 APRA representative Mr Brown noted in response that APRA had
+disqualified ‘in the order of 20 auditors over a period of time’.35
+5.37 The Committee was interested to ascertain the number of auditors who had
+been disciplined or excluded by the professional bodies. In response to the
+Committee’s questions on notice, the ICAA advised that four people had been
+excluded from its membership in the last two years, although none of those cases
+concerned audit function matters. While the ICAA does not maintain statistics about
+the source of particular complaints, a review of its disciplinary files for the past three
+years indicated that APRA had referred three matters to it. The ICAA noted,
+however, that the discipline of registered company auditors was the primary
+responsibility of the Companies Auditors and Liquidators Disciplinary Board, since
+only that Board could revoke registration and thus prevent individuals from acting as
+company auditors.36
+5.38 As an example of action that had been taken against auditors, the Committee
+asked about any disciplinary action taken by the professional bodies in two cases,
+namely those concerning auditors of Adelaide Steamship and AWA. The ICAA noted
+that ‘by the time the various legal actions had concluded both auditors had retired and
+the Institute is not aware that any action was taken by ASIC’.37
+The Committee’s view
+5.39 The Committee acknowledges that the professional accounting bodies seek to
+position themselves as leaders in finance, accounting and business advice and that
+they strive through their endeavors to maintain and enhance their high public standing.
+The profession acknowledges that its success and public recognition is dependent on
+the commitment and support of members.
+33 Committee Hansard, p. 1347.
+34 Committee Hansard, p. 1346.
+35 Committee Hansard, p. 1347.
+36 Submission No. 241, p. 1.
+37 Submission No. 241, p. 1.
+
+
+5.40 Recognising the endeavors by the professional bodies to maintain and
+enhance their public standing, the Committee supports the profession’s move towards
+having auditing competency formally assessed, rather than merely having a
+requirement that a certain number of hours be completed. The Committee considers
+that superannuation is a specialist area, that experience in this type of work is
+essential, and that requiring formal assessment of competency in auditing of
+superannuation funds should proceed as a matter of urgency.
+5.41 The Committee also believes that the current system whereby a higher
+standard is demanded of those who carry out audits of superannuation funds under
+APRA’s regulation is justified. For the small self-managed superannuation funds
+regulated by the ATO, where all the members are trustees and thus are responsible for
+the management of their fund, the Committee believes there is insufficient evidence at
+this time to impose requirements additional to the membership or fellowship of
+professional bodies that is currently prescribed. However, in light of the concerns
+expressed by some of the professional bodies at the roundtable about the adequacy of
+auditing of some of those small funds, this situation should be monitored.
+Recommendation 8
+5.42 The Committee recommends that the current move within the accounting
+and auditing profession to require the formal assessment of competency in
+auditing superannuation funds proceed as a matter of some urgency.
+Senator John Watson
+Committee Chair
+
+
+
+
+APPENDIX 1
+SUBMISSIONS RECEIVED
+1. Mr Peter Williams, WA
+2. Mrs Patricia A. King, NSW
+3. Mr Dan Scheiwe, Queensland University of Technology, QLD
+4. Mr Peter Armstrong, VIC
+5. Industry Funds Forum (IFF)
+6. Australian Consumers’ Association (ACA)
+7. Australian Taxation Office (ATO)
+8. The Institute of Chartered Accountants in Australia
+9. Mr Jeremy Porteus, WA
+10. Care Incorporated, Financial Counselling and Consumer Credit Legal Service
+11. Australian Securities and Investments Commission (ASIC)
+12. Consumer Credit Legal Service Inc
+13. National Farmers’ Federation (NFF)
+14. WA Shearing Contractors Association (Inc)
+15. NFF (Supplementary Submission)
+16. Australian Association of Permanent Building Societies
+17. Association of Superannuation Funds of Australia (ASF A)
+18. NRMA
+19. William M. Mercer Pty Ltd
+20. Australian Society of Certified Practising Accountants (Now CPA Australia)
+21. Ms Fiona Ogilvy-O'Donnell, VIC
+22. Automotive, Food, Metals, Engineering, Printing and Kindred Industries Union
+(AMWU)
+
+
+23. Australian Prudential Regulation Authority
+24. Mr John Teasdale, SA
+25. Council of Small Business Organisations of Australia Ltd (COSBOA)
+26. Financial Services Consumer Policy Centre (FSCPC)
+27. Investment & Financial Services Association (IFSA)
+28. Phillips Fox Actuaries and Consultants
+29. Australian Council of Trade Unions (ACTU)
+30. Institutional Analysis Pty Ltd
+31. AMP
+32. Corporate Super Association
+33. Process Pack Pty Ltd
+34. Goodman Fielder Limited
+35. Mr Shawn Fracchia, ACT
+36. Westpac Banking Corporation
+37. ' Puzzle Financial Advice P/L
+38. Towers Perrin
+39. AMWU (Supplementary Submission)
+40. ASFA (Supplementary Submission)
+41. Mr Shawn Fracchia, ACT (Supplementary Submission)
+42. Queensland Furnishing Industry Superannuation Trust (QFIST)
+43. Mr Geoffrey Heaton, QLD
+44. Association of Independent Retirees Inc, SA
+45. Industry Fund Services Pty Ltd
+46. Puzzle Finance Advice P/L (Supplementary Submission)
+47. Mr Gary Lanham, Minter Ellison, QLD
+48. Ms Carmel Reading, QLD
+
+
+49. Institute of Actuaries of Australia
+50. Tasplan Super
+51. The Institute of Chartered Accountants in Australia (Supplementary
+Submission)
+52. ACTU (Supplementary Submission)
+53. De Santis Management Agency
+54. Australian Conservation Foundation
+55. Puzzle Finance Advice P/L (Supplementary Submission)
+56. Ms Carmel Reading, QLD (Supplementary Submission)
+57. Mr Pat Hannan, QLD
+58. IFF (Supplementary Submission)
+59. Towers Perrin (Supplementary Submission)
+60. REST Superannuation
+61. Tasplan Super (Supplementary Submission)
+62. Mr Greg Lisk, NSW
+63. Deloitte Touche Tohmatsu
+64. ASFA (Supplementary Submission)
+65. Phillips Fox, Actuaries and Consultants (Supplementary Submission)
+66. Insurance Council of Australia Ltd (ICA)
+67. Hotel Motel & Accommodation Association of Queensland (HMAA
+Queensland)
+68. Confidential
+69. Confidential
+70. Australian Chamber of Commerce and Industry
+71. Confidential
+72. Financial Planning Association of Australia Ltd (FPA)
+73. APRA (Supplementary Submission)
+
+
+74. First Samuel Limited
+75. ATO (Supplementary Submission)
+76. Department of the Treasury
+77. The Institute of Chartered Accountants in Australia (Supplementary
+Submission)
+78. Investment Initiative
+79. Institute of Actuaries (Supplementary Submission)
+80. Australian National Audit Office (ANAO)
+81. Superannuation Complaints Tribunal
+82. ACA (Supplementary Submission)
+83. Confidential
+84. Confidential
+85. Mr Daryl Dixon, Writer and Consultant, ACT
+86. Association of Financial Advisers
+87. Department of the Treasury (Supplementary Submission)
+88. APRA (Supplementary Submission)
+89. Law Employees Superannuation Fund (LESF)
+90. APRA (Supplementary Submission)
+91. ASIC (Supplementary Submission)
+92. Australian Competition & Consumer Commission
+93. ATO (Supplementary Submission)
+94. Confidential
+95. Confidential
+96. Mr John Crosby
+97. Mr & Mrs R D & M I Gregg
+98. Morton Family Superannuation Fund
+
+
+99. Mr Spencer Bell
+100. Name withheld
+101. Mr John Crosby (Supplementary Submission)
+102. Mr & Mrs Richard & Jennifer Kaan
+103. Mr & Mrs P R & V T Marshall
+104. Mr Dominic Galati
+105. Name withheld
+106. Watts Family Superannuation Fund
+107. Saxby Bridge Financial Planning Pty Ltd
+108. Price Waterhouse Coopers
+109. APRA (Supplementary Submission)
+110. Confidential
+111. Mr & Mrs RD&MI Gregg (Supplementary Submission)
+112. Mr & Mrs P R & V T Marshall (Supplementary Submission)
+113. The McKellar Family Superannuation Fund
+114. Name withheld
+115. Mr John Crosby (Supplementary Submission)
+116. Australian Securities & Investments Commission (ASIC)
+117. Mr & Mrs P Sautelle
+118. Mr Phil Dally
+119. Mrs Helen Hills
+120. Name withheld
+121. APRA (Supplementary Submission)
+122. Confidential
+123. Ms J M Schott
+124. Mr & Mrs L & S Morrell
+
+
+125. Mr Michael Spaulding
+126. Mr Ian Young
+127. Mr Gordon Dilger
+128. Name withheld
+129. Ms Cherylyn Harris
+130. The Hon Ray Groom MHA
+131. Mr & Mrs Arnold & Maureen Sierink
+132. Ms Jocelyn Walsh
+133. Name withheld
+134. Mr & Mrs Neville & Margaret Newman
+135. Mr Alastair Shepherd
+136. Mr John Woods
+137. MrPCToomey
+138. Mr Jeff Trimmer
+139. Mrs Janice Holland
+140. Mr & Mrs Colin & Laurel Trevena
+141. Tasmanian Ombudsman
+142. Mr John Meyer & Ms Jill Dalrymple
+143. Mr & Mrs David & Marie Hudson
+144. Ms Gillian Maguire
+145. Confidential
+146. Mr & Mrs G R & M J Shuptrine (Supplementary submission)
+147. John, the Duke of Avram
+148. Ms Margaret Mitchell
+149. Department of Justice and Industrial Relations
+150. The Law Society of Tasmania
+
+
+151. The Law Society of Tasmania (Supplementary submission)
+152. Garrisons Financial Advisers
+153. Tasmania Police
+154. Mr Arnold Sierink (Supplementary submission)
+155. Mr Peter Worrall
+156. Confidential
+157. Mr & Mrs Pidd
+158. Ms Pev McIntyre
+159. Mr N W Tesdorf
+160. McCulloch & McCulloch Mortgage Fund
+161. Mr Anthony Clennett
+162. DW&IMTapping
+163. Piggott Wood & Baker
+164. Mr Peter Kang-Scheit
+165. Mr Jon Jovanovic
+166. Rae & Partners, Lawyers
+167. Mr NW Tesdorf
+168. Ms Anne Moutafis OAM
+169. Mr Charles Phillips
+170. Confidential
+171. Department of Justice & Industrial Relations (Supplementary submission)
+172. Mr James G Turner
+173. E R Henry Wherrett & Benjamin
+174. Confidential
+175. Mr David Newitt
+176. Pi ggott Wood & B aker
+
+
+177. Tasmanian Trustees Limited
+178. Paul Cook & Associates
+179. Eastside Financial Services
+180. Resource Management & Planing Appeal Tribunal
+181. Mr & Mrs A D & M Oldham (Supplementary Submission)
+182. Kingborough Council
+183. Dobson, Mitchell & Allport
+184. Mr & Mrs Arnold & Maureen Sierink (Supplementary Submission)
+185. Garrisons Pty Ltd (Supplementary Submission)
+186. Mr D Gillie, Mrs S Sutcliffe & Mr B Griffin
+187. Barringtons
+188. Mr Mark Johnson
+189. Mr Donald Hurburgh
+190. Legal Ombudsman, Tasmania
+191. Murdoch Clarke
+192. Official Liquidator of D W & I M Tapping Pty Ltd
+193. Australian Stock Exchange Limited (ASX)
+194. Mr J Meyer (Supplementary Submission)
+195. Mr Sydney Dwyer
+196. The Solicitors'Trust
+197. APRA (Supplementary Submission)
+198. Australian Securities and Investments Commission (ASIC) (Supplementary
+Submission)
+199. Australian Property Institute (Tasmanian Division)
+200. Valuers Registration Board
+201. The Law Society of Tasmania (Supplementary Submission)
+
+
+202. Garrisons Pty Limited (Supplementary Submission)
+203. Confidential
+204. Confidential
+205. Sorell Council
+206. Garrisons Corporate Services (Supplementary Submission)
+207. Mr Peter Worrall (Supplementary Submission)
+208. The Law Society of Tasmania (Supplementary Submission)
+209. Australian Stock Exchange Limited (Supplementary Submission)
+210. Department of Police and Public Safety, Tasmania (Supplementary
+Submission)
+211. P G Brownrigg & Associates
+212. Mr Jeff Trimmer (Supplementary Submission)
+213. Department of Justice & Industrial Relations, Tasmania (Supplementary
+Submission)
+214. Name withheld
+215. Australian Securities & Investments Commission (Supplementary Submission)
+216. APRA (Supplementary Submission)
+217. Mrs Janice Holland (Supplementary Submission)
+218. Confidential
+219. Confidential
+220. Official Liquidator of Commercial Nominees of Australia Limited
+221. Australian Securities & Investments Commission (Supplementary Submission)
+222. Arthur Andersen
+223. Confidential
+224. National Institute of Accountants
+225. APRA (Supplementary Submission)
+226. Ferrier Hodgson Management
+
+
+227. Mr S P Dwyer (Supplementary Submission)
+228. Murdoch Clarke (Supplementary Submission)
+229. Mr C E Clark
+230. Clerk Walker & Stops
+231. Garrisons Corporate Services (Supplementary Submission
+232. APRA (Supplementary Submission)
+233. APRA (Supplementary Submission)
+234. Legal Ombudsman (Tasmania) (Supplementary Submission)
+235. Australian Property Institute, Tasmanian Division
+236. The Institute of Chartered Accountants in Australia
+237. APRA (Supplementary Submission)
+238. Mr Tony Harris
+239. APRA (Supplementary Submission)
+240. Australian Taxation Office
+241. The Institute of Chartered Accountants in Australia (Supplementary
+Submission)
+(Submissions 1-95 were tabled on 22 May 2001 when the Committee tabled its report
+on term of reference (c) Enforcement of the Superannuation Guarantee Charge.
+Submissions 96-237 were tabled on 20 August 2001 when the Committee tabled its
+First Report on term of reference (a) Prudential Supervision and Consumer Protection
+for Superannuation, Banking and Financial Services.)
+
+
+APPENDIX 2
+WITNESSES WHO APPEARED BEFORE
+THE COMMITTEE AT PUBLIC HEARINGS
+Monday, 15 May 2000, Sydney
+Australian Mutual Provident Society Ltd
+Mr Kevin Casey, Senior Strategy and Technical Adviser
+Mr Gerald Naughton, Senior Investment Manager
+Association of Superannuation Funds of Australia
+Dr Michaela Anderson, Director, Policy and Research
+Ms Philippa Smith, Chief Executive Director
+Financial Services Consumer Policy Centre
+Mr John Berrill, Partner Superannuation, Martin Blackburn Cashman
+Mr Chris Connolly, Director
+Mr Khaldoun Hajaj, Researcher
+Australian, Food, Metals, Engineering Printing and Kindred Industries Union
+Mr Barry Terzic, National Research Officer
+Retail Employees Superannuation Trust
+Mr Damian Hill, Administration Manager
+Mr Elliott Sabbah, Operations Manager
+Phillips Fox Actuaries and Consultants
+Mr Michael Rice, Managing Director
+Investment and Financial Services Association
+Miss Lynn Ralph, Chief Executive Officer
+Ms Annabelle Kline, Senior Policy Manager
+Tuesday, 16 May 2000, Sydney
+Australian Stock Exchange
+Ms Rosemary Kennedy, National Manager, Interest Rates Markets
+Mr Michael Roche, Executive General Manager, Strategic Planning and
+Corporate Relations
+Australian Centre for Global Finance, Treasury
+Mr Leslie Hosking, Chief Executive Officer
+Miss Maryanne Mrakovcic, General Manager
+
+
+Australian Financial Markets Association
+Mr Kenton Farrow, Chief Executive
+Mr John Rappell, Director Research and Policy
+Dr George Gilligan
+Prof Gordon de Brouwer
+Vanguard Investments Australia Ltd
+Mr Jeremy Duffield, Managing Director
+Skandia Assurance and Financial Services
+Mr Johan Hofvander, Regional Manager, Asia-Pacific
+Mr Ross Laidlaw, Country Manager
+International Banks and Securities Association of Australia
+Mr Robert Webster, Executive Director
+Friday, 9 June 2000, Melbourne
+Superannuation Complaints Tribunal
+Mr Graham McDonald, Chair
+Ms Nicole Cullen, Deputy Chairperson
+Mrs Margaret McDonald, Director
+Osborne Associates
+Mr Bradley Treadwell, Managing Director
+Insurance Council of Australia Ltd
+Mr Philip Maguire, Deputy Chief Executive
+Ms Joan Fitzpatrick, Member International Committee for General
+Insurance
+Mr Vincent McLenaghan, Chairman, International General Insurance
+Committee
+Reserve Bank of Australia
+Mr Ric Battellino, Assistant Governor, Financial Markets
+Dr Robert Rankin, Head of International Department
+Finance and Treasury Association
+Mr Anthony Michell, Technical Manager, Policy, Research and
+Professional Development
+Australian Banking Industry Ombudsman
+Mr Colin Neave, Banking Ombudsman
+J B Were & Son
+Mr Terrence Campbell, Executive Chairman
+
+
+Ms Priscilla Boreham, Corporate Counsel
+Ms Lisa Gay, General Counsel
+Australian Securities and Investment Commission
+Mr Alan Cameron, Chairman
+Ms Delia Rickard, Director, Office of Consumer Protection
+Ms Jillian Segal, Commissioner
+Mr Shane Tregillis, National Director Regulation
+Australian Accounting Standards Board
+Mr Keith Alfredson, Chairman
+Thursday, 15 June 2000, Melbourne
+Australian Council of Trade Unions
+Ms Linda Rubinstein, Senior Industrial Officer
+Industry Funds Forum
+Ms Ann Byrne, Convenor
+Ms Anne-Marie Darke, Executive Member
+Corporate Super Association
+Mr Mark Cerche, Chairman
+Mr Nicholas Brookes, Secretary
+Institute of Chartered Accountants of Australia
+Mr David Coogan, Chairperson, Superannuation Taskforce
+Mr Richard Rassi, Partner Deloitte Touche Tohmatsu
+William MMercer Pty Ltd
+Mr Wayne Walker, Executive Director
+Mr John Ward, Manager, Research and Information
+Ms Fiona Ogilvy-O’Donnell
+Towers Perrin
+Mr Kenneth Lockery, Principal
+CPA Australia
+Mr Bradley Pragnell, Superannuation Policy Adviser
+Association of Independent Retirees Inc
+Mr Alan Beaton, President, South Australian Division and National
+Councillor
+
+
+Friday, 16 June, 2000, Brisbane
+Puzzle Finance Advice Pty Ltd
+Mr Bruce Baker, Director
+Mr Gary Lanham
+Mr Mervyn Whimp
+Hairdressers Association Superannuation Fund
+Mrs Yvonne Bell, Consultant to Fund
+Mr Jeffrey Osborne, Director (Trustee Company)
+Mrs Carmel Reading
+Law Employees Superannuation Fund
+Mr Peter Short, Chairman
+Mr Ray Rinaudo, Director
+Voyager Resort Ltd
+Mr Geoff Heaton, Company Secretary and Resort Manager
+Mr Dan Scheiwe
+Mr Paul Henderson
+Friday, 14 July, 2000, Canberra
+Australian National University
+Prof Peter Drysdale, Head Australia-Japan Research Centre and Acting
+Director Asia Pacific School of Economics and Management
+Prof Anthony Milner, Dean, Faculty of Asian Studies
+The National Office for the Information Economy, Department of
+Communications, Information, Technology and the Arts
+Dr Rodney Badger, Deputy Chief Executive Officer NOIE and
+Executive Director Information Technology
+Mr Phillip Malone, Acting General Manager, E-Commerce
+Mr Gregory Piko, Acting General Manager, Information and
+Communications Industry Development
+Mr Brenton Thomas, Acting General Manager, Consumer and
+Competition Branch
+Namoi Cotton Cooperative (teleconference)
+Mr Andrew Lennon, Risk Manager
+The Broken Hill Proprietary Co Ltd (teleconference)
+Mr Ian Edney, Vice President Taxes
+Mr Alistair Mytton, Manager, Corporate Tax Advisory
+
+
+Australian Principals ’ Centre
+Mr Nicholas Thornton, Chief Executive Officer
+Australian Greenhouse Office
+Dr David Harrison, Special Adviser, Emission Trading
+Dr Gary Richards, Manager, National Carbon Accounting System
+Mr Stephen Moran, Director, Climate Section, Department of Foreign
+Affairs and Trade
+Securities Institute of Australia
+Ms Penelope Le Couteur, Managing Director
+Mr Darren Davis, National Policy Adviser
+Department of the Treasury
+Mr Blair Comley, General Manager, Indirect Tax Division
+Mr Bruce Paine, General Manager, Business Entities and International
+Tax Division
+Mr Gary Potts, Executive Director, Markets Group
+Mr Michael Willcock, General Manager, Financial Markets Division
+Mr Leslie Hosking, Chief Executive Officer, Axiss Australia
+Australian Taxation Office
+Mr James Killaly, Deputy Commissioner, Large Business and
+International
+Friday, 1 September 2000, Canberra
+Australian National Audit Office
+Mr Peter White, Executive Director, Revenue Branch
+Mr Norman Grimmond, Senior Auditor Performance Audit Services
+Group
+Financial Planning Association of Australia
+Mr Con Hristodoulidis, Senior Manager, Public Policy
+Mr Maurice Pinto, Chairperson, Superannuation and Retirement
+Incomes Committee
+Australian Consumers Association
+Ms Louise Petschler, Senior Policy Officer, Financial Services
+Australian Taxation Office
+Mr David Diment, Assistant Commissioner, Superannuation
+Institute of Actuaries of Australia
+Dr David Knox, President
+Ms Jane Ferguson, Director Public Affairs
+Ms Christa Marjoribanks, Member, General Insurance Practice
+Committee
+
+
+Australian Institute of Criminology
+Dr Adam Graycar, Director
+Dr Peter Grabosky, Director of Research
+WA Shearing Contractors Association (teleconference)
+Mr Neville Munns, Secretary
+Monday, 16 October 2000, Canberra
+Care Incorporated
+Mr David Tennant, Director
+National Farmers Federation
+Mr Richard Calver, Director, Industrial Relations
+Australian Association of Permanent Building Societies
+Mr Jim Freemantle, Chairman
+Mr Jim Larkey, Executive Director
+First Samuel Ltd
+Mr Anthony Starkins, Managing Director
+Association of Financial Advisers
+Mr John Hibberd, President
+Mr Dugald Mitchell, Consultant
+Tuesday, 17 October 2000, Canberra
+Australian Securities and Investments Commission
+Mr Sean Hughes, Director, Deposits, Investment, Superannuation and
+Consumers
+Mr Peter Kell, Coordinator, Office of Consumer Protection
+Ms Angela Longo, Senior Lawyer
+Ms Delia Rickard, Office of Consumer Protection
+Mr Malcolm Rodgers, Director, Regulatory Policy
+Australian Prudential Regulation Authority
+Mr Roger Brown, Senior Manager, Rehabilitation and Enforcement
+Mr Keith Chapman, General Manager, Specialised Institutions Division
+Mr Leslie Phelps, Executive General Manager, Specialised Institutions
+Division
+Mr Darryl Roberts, General Manager, Policy Development and Statistics
+Department of the Treasury
+Mr Roger Brake, General Manager, Retirement and Personal Income
+Division
+Mr Raphael Cicchini, Manager, Superannuation Unit, Retirement and
+Personal Income Division
+
+
+Ms Jan Harris, General Manager, Consumer Affairs Division
+Mr William Keown, Acting General Manager, Financial Institutions
+Division
+Mr David Maher, Analyst, Financial Institutions Division
+Mr Michael Rosser, Manager, Investor Protection Unit, Financial
+Markets Division
+Ms Karen Witham, Manager, Superannuation and Insurance Unit,
+Financial Institutions Division
+Mr Michael Willcock, General Manager, Financial Markets Division
+Australian Taxation Office
+Mr Leo Bator, Deputy Commissioner of Taxation
+Mr David Diment, Assistant Commissioner of Taxation
+Australian Competition and Consumer Commission
+Mr Allan Asher, Deputy Chairman
+Mr Carl Buik, Director, Consumer Protection
+Friday, 30 March 2001, Canberra
+Mr Spencer Bell (private capacity)
+Mr John Crosby (private capacity)
+Saxby Bridge Financial Planning Pty Ltd
+Mr Phillip Dally, General Manager
+Mrs Marianne Gregg (private capacity)
+Mr Richard Kaan (private capacity)
+Mrs Jennifer Kaan (private capacity)
+Mrs Valda Marshall (private capacity)
+Mr Eric Watts (private capacity)
+
+
+Friday, 18 Mav 2001. Hobart
+Department of Justice and Industrial Relations
+Mr Peter Maloney, Director, Legislation of Policy
+Mr Leon Morrell (private capacity)
+Mr Allan Oldham (private capacity)
+Mrs Mary Oldham (private capacity)
+The Hon Ray Groom, Shadow Minister for Justice (Tas)
+Law Society of Tasmania
+Mr Timothy Bugg, Past President
+Ms Christine Harvey, Deputy Secretary-General, Law Council of
+Australia
+Mr Philip Jackson, President
+Mrs Jan Martin, Executive Director
+Toomey Maning and Company
+Mr Patrick Toomey
+Ms Cherylyn Harris (private capacity)
+Ms June Schott (private capacity)
+Mr Arnold Sierink (private capacity)
+Mrs Maureen Sierink (private capacity)
+Mr John Meyer (private capacity)
+Mr John Woods, Official Liquidator of D W & I M Tapping Pty Ltd
+Mr John Fyle (private capacity)
+Mr David Newitt (private capacity)
+Mrs Melba Truchanas (private capacity)
+Tasmanian Ombudsman
+Mr Anthony Allingham, Senior Investigation Officer
+Garrisons Pty Ltd
+Mr Philip Creswell, National Audit and Compliance Manager, and
+Company Secretary
+Mr John Sikkema, Managing Director
+Mr Michael Spinks, Executive Director
+Mr Peter Worrall, Manager, Lewis Driscoll and Bull
+Mr Peter Joyce, Manager, McCulloch and McCulloch
+Mr John McCausland, Editor The Mercury and The Sunday Tasmanian
+
+
+Tuesday. 12 June 2001, Sydney
+PricewaterhouseCoopers
+Mr Peter Hedge, Partner
+Australian Stock Exchange
+Ms Luise Elsing, Manager, Companies, Sydney
+Mrs Karen Hamilton, General Counsel and Company Secretary
+Australian Securities and Investments Commission
+Mr Simon Dwyer, Regional Commissioner
+Mr Michael Gething, Western Australian Regional Commissioner
+Mr Ian Johnston, Executive Director, Financial Services Regulation
+Mr David Knott, Chairman
+Mr Ian Mackintosh, Chief Accountant
+Mr Darren McShane, Director, Managed Investments
+Ms Jan Redfem, Regional General Counsel
+Ms Jillian Segal, Deputy Chair
+Mr Shane Tregillis, Executive Director, Policy and Markets Regulation
+Mr Peter Wood, Executive Director, Enforcement
+Australian Prudential Regulation Authority
+Mr Earl Burgess, Senior Manager, Rehabilitation and Enforcement
+Mr Bill Gole, General Manager, Coordination, Rehabilitation and
+Enforcement
+Mr Thomas Karp, Executive General Manager, Diversified Institutions
+Mr Leslie Phelps, Executive General Manager, Specialised Institutions
+Division
+Mr William Stow, Manager (Legal), Rehabilitation and Enforcement,
+Specialised Institutions Division
+Mr Craig Thorbum, General Manager, Diversified Institutions Division
+Friday. 15 June 2001. Hobart
+Mr Cyril Clark (private capacity)
+Mr Sydney Dwyer (private capacity)
+Law Society of Tasmania
+Mr Timothy Bugg, Past President and Council Member
+Mr Philip Jackson, President
+Mrs Jan Martin, Executive Director
+Ms Christine Harvey, Deputy Secretary-General
+Australian Property Institute
+Mr Louis Rae, Chairman, Valuers Registration Board
+Mr Raymond Westwood, Chairman, Complaints Commission; Board
+Member, Australian Valuation and Property Standards Board; and
+Tasmanian Divisional Chairman, Australian Property Institute
+
+
+Mr Paul Wilson, Tasmanian Divisional President, Australian Property
+Institute
+Ms Judith Paxton, Tasmanian Legal Ombudsman
+Mr Bernard Harrington, Retirement Manager, Centrelink
+Monday. 25 June 2001, Canberra
+Australian Prudential Regulation Authority
+Mr Earl Burgess, Senior Manager, Specialised Institutions Division
+Mr Les Phelps, Executive General Manager, Specialised Institutions
+Mr William Stow, Manager, Specialised Institutions Division
+Mr Graeme Thompson, Chief Executive Officer
+Thursday. 23 August 2001. Canberra
+National Institute of Accountants
+Mr Reece Agland, General Counsel
+Mr Paul Bartley, Deputy State Chairman SA
+Australian Prudential Regulation Authority
+Mr Roger Brown, Senior Manager, Specialised Institutions Division
+Mr Les Phelps, Executive General Manager, Specialised Institutions
+Division
+Mr Senthamangalam Venkatramani, General Manager, Diversified
+Institutions Division
+Australian Taxation Office
+Mrs Lesley East, Assistant Commissioner
+Mr Trevor Thomas, Assistant Commissioner
+Auditing and Assurance Standards Board
+Mr William Edge, Board Member
+Mr Richard Mifsud, Executive Director
+Australian National Audit Office
+Mr David McKean, Executive Director, Assurance Audit Services
+Group
+Australian Securities and Investments Commission
+Mr Ian Mackintosh, Chief Accountant
+Mr Douglas Niven, Deputy Chief Accountant
+CPA Australia
+Mr Christopher Malkin, Vice President Victorian Division; Member,
+Superannuation Centre of Excellence
+
+
+Institute of Actuaries of Australia
+Ms Helen Martin, Senior Vice President
+Institute of Chartered Accountants in Australia
+Mrs Susan Orchard, Superannuation Technical Consultant
+Mr Richard Rassi, Chairman, National Superannuation Taskforce
+Mr Keith Reilly, Technical Adviser
+Professor Anthony Harris (private capacity)
+Mr John Shanahan (private capacity)
+(Hansard transcripts of the nine hearings held in 2000 were tabled on 22 March 2001
+when the Committee presented its report on term of reference (b) - The opportunities
+and constraints for Australia to become a centre for the provision of global financial
+services. Hansard transcripts of the five hearings held by the end of June 2001 were
+tabled when the Committee presented its First Report on term of reference (a) -
+Prudential Supervision and Consumer Protection for Superannuation, Banking and
+Financial Services. )
+
+
+
+
+APPENDIX 3
+TABLED DOCUMENTS/EXHIBITS
+1. ASFA submission on Financial Services Reform Bill. May 2000 - tabled by
+Ms Philippa Smith, CEO, ASFA, 15 May 2000, Sydney.
+2. Correspondence from Hesta Super Fund to Barry Terzic, AMWU, dated 12 May 2000
+relating to Superannuation - Process Pack - tabled by Mr Barry Terzic, National
+Research Officer, AMWU, 15 May 2000, Sydney.
+3. Extract from Workplace Relations Act 1996 - tabled by Mr Barry Terzic, National
+Research Officer, AMWU, 15 May 200, Sydney.
+4. Correspondence to APRA, dated 20 August 1999 and correspondence from APRA,
+dated 9 September 1999 relating to monitoring gainful employment for members over
+age 65 - tabled by Ms Lynn Ralph, CEO, IFSA, 15 May 2000, Sydney.
+5. Opening statement by Mr Les Hosking, Chief Executive Officer, Australian Centre
+for Global Finance and fact sheets about the Centre - tabled by Mr Les Hosking,
+CEO, Australian Centre for Global Finance, 16 May 2000, Sydney.
+6. AFMA 1999 Australian Financial Markets Report - Overview - tabled by Mr Kenton
+Farrow, Chief Executive, Australian Financial Markets Association, 16 May 2000,
+Sydney.
+7. IBSA 1999 Annual Report - tabled by Mr Robert Webster, Executive Director,
+International Banks and Securities Association of Australia, 16 May 2000, Sydney.
+8. ‘Disclosure Model’ - tabled by Ms Ann Byrne, Convenor, Industry Funds Forum,
+15 June 2000, Melbourne.
+9. The following documents, issued by the Queensland Department of Justice and
+Attorney-General were tabled by Mr Baker, Puzzle Financial Advice Pty Ltd, 16 June
+2000, Brisbane:
+• Enduring Power of Attorney
+• Powers of Attorney Act 1998
+• Advance Health Directive
+• Statutory Health Attorney
+• Enduring Power of Attorney - long form.
+10. Law Employees Superannuation Fund (LESF), Annual Report to Members for the
+year ending 30 June 1999 - tabled by Ms Carmel Reading, 16 June 2000, Brisbane.
+
+
+11
+12
+13.
+14.
+15.
+16.
+17.
+18.
+19.
+20.
+21.
+22.
+A document issued by the Hotel Motel & Accommodation Association of Queensland
+entitled ‘ Important notice to members - EPAS superannuation 28/9/98’ - tabled by
+Mr Geoff Heaton, 16 June 2000, Brisbane.
+Report prepared for ASIC by Phillips Fox Actuaries and Consultants, Financial
+Products and Intermediary Remuneration, 10 November 1999 - provided by ASIC in
+response to questions taken on notice at the public hearing in Melbourne on 9 June
+2000.
+A document entitled, ‘An IOSCO Technical Committee Release: International
+Securities Regulators Issue New Economy Bulletin, Sydney Australia 19 May 2000’,
+provided by ASIC in response to questions taken on notice at the public hearing on 9
+June 2000.
+Response by Ms Yvonne Bell, Hairdressers Association Superannuation Fund, to
+questions taken on notice at the public hearing in Brisbane on 16 June 2000, relating
+to names of trustees and the court involved.
+A document entitled, ‘National Bandwidth Inquiry - Report of the Australian
+Information Economy Advisory Council’, provided by National Office of Information
+Economy in response to questions asked at the public hearing on 14 July 2000.
+Four discussion papers, ‘Establishing the Boundaries’, ‘Issuing the Permits’,
+‘Crediting the Carbon’ and ‘Designing the Market’, provided by the Australian
+Greenhouse Office in response to questions asked at the public hearing on 14 July
+2000.
+Final Report from the Centre for International Economics Canberra and Sydney,
+which was commissioned by the Australian Greenhouse Office, provided by the
+Australian Greenhouse Office in response to questions asked at the public hearing on
+14 July 2000.
+Australian Institute of Criminology brochure outlining the Institute's function, aims
+and programs, tabled by Dr Adam Graycar, Director, at the committee's public
+hearing on 1 September 2000.
+Australian Institute of Criminology brochure No. 56 - Superannuation Crime - tabled
+by Dr Adam Graycar, Director, at the committee's public hearing on 1 September
+2000.
+Australian Institute of Criminology brochure No. 132 - Fraud & Financial Abuse of
+Older Persons - tabled by Dr Adam Graycar, Director, at the committee's public
+hearing on 1 September 2000.
+Australian Institute of Criminology brochure No. 139 - Substitute Decision Making
+and Older People - tabled by Dr Adam Graycar, Director, at the committee's public
+hearing on 1 September 2000.
+Chant Links & Associates, 1999 Superannuation Guarantee Audit Summary Report,
+provided by the Australian Taxation Office and received as an exhibit to the inquiry
+on 3 October 2000.
+
+
+23. Brochure entitled Code of Ethics & Rules of Professional Conduct, provided by the
+Financial Planning Association and received as an exhibit to the inquiry on 3 October
+2000.
+24. National Farmers' Federation publication Reform, Spring 2000, provided by Mr
+Richard Calver, NFF, during the public hearing on 16 October 2000.
+25. Article entitled Disclosure paper on the current commission disclosure issue in
+Australia, provided by Mr John Hibberd, Association of Financial Advisers at the
+public hearing on 16 October 2000.
+26. Policy/discussion paper entitled Distribution Disclosure or Commission? Bias and
+Conflict of Interest Examined, provided by Mr John Hibberd, Association of
+Financial Advisers at the public hearing on 16 October 2000.
+27. Australian Competition and Consumer Commission - Overview of consumer
+protection functions, October 2000, tabled by Mr Allan Asher, ACCC, at the public
+hearing on 17 October 2000.
+28. Approval of external complaints resolution schemes, tabled by the Australian
+Securities and Investments Commission at the public hearing on 17 October 2000.
+29. A User's Guide to ASIC, tabled by the Australian Securities and Investments
+Commission at the public hearing on 17 October 2000.
+30. ASIC more than a corporate watchdog, tabled by the Australian Securities and
+Investments Commission at the public hearing on 17 October 2000.
+31. Educating Financial Services Consumers, discussion paper tabled by the Australian
+Securities and Investments Commission at the public hearing on 17 October 2000.
+32. Submission to the Review of the Code of Banking Practice, tabled by the Australian
+Securities and Investments Commission at the public hearing on 17 October 2000.
+33. Submission to the Parliamentary Joint Committee on Corporations and Securities
+inquiry into fees on electronic and telephone banking, tabled by the Australian
+Securities and Investments Commission at the public hearing on 17 October 2000.
+34. Documents provided by the ACCC in response to questions taken on notice at the
+public hearing on 17 October 2000.
+• Report to the Australian Senate on anti-competitive and other practices by health
+funds and providers in relation to private health insurance for the period ending
+30 June 2000;
+• Debit and credit card schemes in Australia. A study of interchange fees and
+access. Reserve Bank of Australia, Australian Competition and Consumer
+Commission, October 2000;
+• ACCC submissions - First, Second and Third - to the Financial System Inquiry
+(Wallis Inquiry) 1996 and 1997.
+
+
+35. Extract from Hobart Council minutes of 4 February 1990 on Trust Account
+Inspections - tabled by Mr C E Clark on 15 June 2001 in Hobart.
+36. Extract from Minutes of a Meeting of the Executive Committee held at Hobart on
+Monday, 28th May 1990 at 1.00 pm - tabled by Mr Jackson, Law Society of Tasmania,
+on 15 June 2001 in Hobart.
+37. Memorandum from the Legal Ombudsman, Tasmania to Legal Profession Act
+Review at the Department of Justice and Industrial Relations, Hobart dated 1
+September 2000 - tabled by Ms Judith Paxton, Legal Ombudsman on 15 June 2001 in
+Hobart.
+38. Legal Ombudsman Annual Report for 1 January to 31 December 2000 and covering
+letter to the Hon P. J. Patmore, MHA, Attorney-General, Tasmania - tabled by Ms
+Judith Paxton, Legal Ombudsman on 15 June 2001 in Hobart.
+39. Legal Ombudsman Annual Report for the year ended 31 December 1999 - tabled by
+Ms Judith Paxton, Legal Ombudsman on 15 June 2001 in Hobart.
+40. A research study on financial reporting and auditing - bridging the expectation gap,
+CPA Australia/ICAA, December 1993 - tabled by Mr Keith Reilly, Institute of
+Chartered Accountants in Australia (ICAA) on 23 August 2001 in Canberra.
+41. Beyond the gap, CPA, June 1996 - tabled by Mr Keith Reilly, Institute of Chartered
+Accountants in Australia (ICAA) on 23 August 2001 in Canberra.
+42. Report of a working party of the Ministerial Council for Corporations, Review
+of requirements for the registration and regulation of company auditors, July
+1997 - provided by Mr Keith Reilly, Institute of Chartered Accountants in Australia
+(ICAA), received as an exhibit to the inquiry on 18 September 2001.
+
+
+APPENDIX 4
+SUPERANNUATION INDUSTRY (SUPERVISION) ACT 1993
+PART 16—ACTUARIES AND AUDITORS OF
+SUPERANNUATION ENTITIES
+128 Object of Part
+The object of this Part is to set out special rules about actuaries and auditors
+of superannuation entities.
+129 Obligations of actuaries and auditors—compliance
+When section applies
+(1) This section applies to a person in relation to a superannuation entity
+if:
+(a) the person forms the opinion that it is likely that a contravention
+of this Act or the regulations may have occurred, may be
+occurring, or may occur, in relation to the entity; and
+(b) the person formed the opinion in the course of, or in connection
+with, the performance by the person of actuarial or audit
+functions under this Act or the regulations in relation to the
+entity.
+Section does not apply if the person believes that his or her opinion is not
+relevant to the performance of actuarial or audit functions
+(2) This section does not apply to the person if the person has an honest
+belief that the opinion is not relevant to the performance of those functions.
+Trustee to be told about the contravention
+(3) Subject to subsection (3A), the person must tell the trustee of the
+entity about the matter in writing.
+The person may not have to tell the trustee about the contravention
+(3A) The person does not have to tell the trustee of the entity about the
+matter if:
+
+
+(a) the person has been told by another person who is subject to
+section 129 that:
+(i) that other person has already told the trustee about the
+matter; and
+(ii) that other person has also told APRA about the matter
+or has given the trustee a written notice under subsection
+129(5); and
+(b) the first-mentioned person has no reason to disbelieve that other
+person.
+Penalty for misleading information
+(3B) If:
+(a) this section applies to a person; and
+(b) that person is aware of a matter that must, under this section, be
+told to the trustee; and
+(c) the person knowingly tells another person that he or she has
+taken the action described in subparagraphs (3A)(a)(i) and (ii)
+when the person has not taken that action;
+the person is guilty of an offence against this subsection.
+Penalty: Imprisonment for 12 months.
+APRA may be told
+(4) The person may tell APRA about the matter. The person is not liable
+in a civil action or civil proceeding in relation to the telling.
+Trustee’s report
+(5) If a person:
+(a) tells the trustee about the matter; and
+(b) does not tell APRA about the matter;
+the person must, as soon as practicable, give the trustee a written notice
+requesting the trustee to give the person, before the end of the period
+specified in the notice, a written report about the action (if any) the trustee
+has taken, or proposes to take, to deal with the matter. The period specified
+in the notice must be reasonable. The trustee must comply with the request.
+
+
+Report to APRA
+(6) If:
+(a) a person makes such a request; and
+(b) either:
+(i) the trustee does not comply with the request; or
+(ii) the trustee complies with the request, but the person is
+dissatisfied with:
+(A) the action taken, or proposed to be taken, by the trustee
+to deal with the matter concerned; or
+(B) the inaction of the trustee in relation to the matter
+concerned;
+the person must give APRA a written report about the matter as soon as
+practicable after:
+(c) if subparagraph (b)(i) applies—the expiry of the deadline for the
+receipt of the report; or
+(d) if subparagraph (b)(ii) applies—the person becomes dissatisfied
+as mentioned in that subparagraph.
+Offence
+(7) A person who intentionally or recklessly contravenes subsection (3),
+(5) or (6) is guilty of an offence punishable on conviction by a fine not
+exceeding 50 penalty units.
+130 Obligations of actuaries and auditors—solvency
+When section applies
+(1) This section applies to a person in relation to a superannuation entity
+if:
+(a) the person forms the opinion that the financial position of the
+entity may be, or may be about to become, unsatisfactory; and
+(b) the person formed the opinion in the course of, or in connection
+with, the performance by the person of actuarial or audit
+functions under this Act or the regulations in relation to the
+entity.
+
+
+Trustee to be told about the financial position
+(2) Subject to subsection (2A), the person must tell the trustee of the
+entity about the matter in writing.
+The person may not have to tell the trustee about the financial position
+(2A) The person does not have to tell the trustee of the entity about the
+matter if:
+(a) the person has been told by another person who is subject to
+section 130 that:
+(i) that other person has already told the trustee about the
+matter; and
+(ii) that other person has also told APRA about the matter
+or given the trustee a written notice under subsection 130(4);
+and
+(b) the first-mentioned person has no reason to disbelieve that other
+person.
+Penalty for misleading information
+(2B) If:
+(a) this section applies to a person; and
+(b) that person is aware of a matter that must, under this section, be
+told to the trustee; and
+(c) the person knowingly tells another person that he or she has
+taken the action described in subparagraphs (2A)(a)(i) and (ii)
+when the person has not taken that action;
+the person is guilty of an offence against this subsection.
+Penalty: Imprisonment for 12 months.
+APRA may be told
+(3) The person may tell APRA about the matter. The person is not liable
+in a civil action or civil proceeding in relation to the telling.
+Trustee's report
+(4) If a person:
+(a) tells the trustee about the matter; and
+(b) does not tell APRA about the matter;
+
+
+the person must, as soon as practicable, give the trustee a written notice
+requesting the trustee to give the person, before the end of the period
+specified in the notice, a written report about the action (if any) the trustee
+has taken, or proposes to take, to deal with the matter. The period specified
+in the notice must be reasonable. The trustee must comply with the request.
+Report to APRA
+(5) If:
+(a) a person makes such a request; and
+(b) either:
+(i) the trustee does not comply with the request; or
+(ii) the trustee complies with the request, but the person is
+dissatisfied with:
+(A) the action taken, or proposed to be taken, by the tmstee
+to deal with the matter concerned; or
+(B) the inaction of the trustee in relation to the matter
+concerned;
+the person must give APRA a written report about the matter as soon as
+practicable after:
+(c) if subparagraph (b)(i) applies—the expiry of the deadline for the
+receipt of the report; or
+(d) if subparagraph (b)(ii) applies—the person becomes dissatisfied
+as mentioned in that subparagraph.
+Offence
+(6) A person who intentionally or recklessly contravenes subsection (2),
+(4) or (5) is guilty of an offence punishable on conviction by a fine not
+exceeding 50 penalty units.
+When financial position is unsatisfactory
+(7) For the purposes of this section, the financial position of an entity is
+taken to be unsatisfactory if, and only if, under the regulations, the financial
+position of the entity is treated as unsatisfactory.
+
+
+131 Auditors-—disqualification orders
+Disqualification order
+(1) APRA may make a written order (disqualification order)
+disqualifying a person from being an approved auditor for the purposes of
+this Act if:
+(a) the person has failed, whether within or outside Australia, to
+carry out or perform adequately and properly:
+(i) the duties of an auditor under this Act or the
+regulations; or
+(ii) any duties required by a law of the Commonwealth, a
+State or a Territory to be carried out or performed by an
+auditor; or
+(iii) any functions that an auditor is entitled to perform in
+relation to this Act or the regulations; or
+(b) the person is otherwise not a fit and proper person to be an
+approved auditor for the purposes of this Act.
+Date of effect
+(2) A disqualification order takes effect on the day specified in the order.
+The specified day must be within the 28-day period beginning on the day on
+which the order was made.
+Notification
+(3) APRA must give a copy of the order to the person.
+Gazettal
+(4) APRA must cause particulars of the disqualification order to be
+published in the Gazette as soon as practicable after it is made.
+(4A) If APRA’s decision to make the disqualification order is varied or
+revoked by APRA as a result of a reconsideration under subsection 344(4),
+APRA must cause particulars of the variation or revocation to be published
+in the Gazette as soon as practicable after the decision is made.
+(4B) If:
+(a) APRA’s decision to make the disqualification order is
+confirmed or varied by APRA as a result of a reconsideration
+under subsection 344(4); and
+(b) the decision as so confirmed or varied is varied or set aside by
+the Administrative Appeals Tribunal;
+
+
+APRA must cause particulars of the Tribunal’s decision to be published in
+the Gazette as soon as practicable after it is given.
+Revocation
+(5) APRA’s may revoke a disqualification order. APRA’s power to
+revoke may be exercised:
+(a) on APRA’s own initiative; or
+(b) on written application made by the disqualified person.
+Revocation—decision on application
+(6) If an application is made for the revocation of a disqualification order,
+APRA must decide to:
+(a) revoke the order; or
+(b) refuse to revoke the order.
+Revocation—grounds
+(7) APRA must not revoke a disqualification order unless APRA is
+satisfied that the person concerned:
+(a) is likely to carry out and perform adequately and properly the
+duties of an auditor under this Act or the regulations; and
+(b) is otherwise a fit and proper person to be an approved auditor for
+the purposes of this Act.
+Revocation—date of effect
+(8) A revocation of a disqualification order takes effect on the day the
+revocation is made.
+Reasons for revocation
+(9) If APRA decides to refuse an application for revocation of a
+disqualification order, APRA must cause to be given to the applicant a
+written notice setting out the decision and giving the reasons for the
+decision.
+Gazettal
+(7) If APRA revokes a disqualification order under subsection (5), APRA
+must cause particulars of the revocation to be published in the Gazette as
+soon as practicable after it occurs.
+
+
+131A APRA may refer matters to a professional association
+(1) If APRA is of the opinion that an approved auditor or an actuary:
+(a) has failed, whether within or outside Australia, to carry out or
+perform adequately and properly:
+(i) the duties of an auditor or an actuary under this Act or
+the regulations; or
+(ii) any duties required by a law of the Commonwealth, a
+State or a Territory to be carried out or performed by an
+auditor or an actuary; or
+(iii) any functions that an auditor or actuary is entitled to
+perform in relation to this Act or the regulations; or
+(b) is otherwise not a fit and proper person to be an approved
+auditor or an actuary for the purposes of this Act;
+APRA:
+(c) may refer the details of the matter to the persons specified in
+subsection (2); and
+(d) if APRA does so—must inform the person to whom the details
+are referred of the person’s obligations under subsection
+346(6B).
+(2) The persons specified in relation to an approved auditor or an actuary
+for the purposes of subsection (1) are those members of the auditor’s or
+actuary’s professional association whom APRA believes will be involved:
+(a) in deciding whether the professional association should take any
+disciplinary or other action against the auditor or actuary in
+respect of the matter referred; or
+(b) in taking that action.
+(3) In relation to an approved auditor, the power of APRA under
+subsection (1) may be exercised whether or not APRA has made a written
+order disqualifying the auditor under subsection 131(1).
+(4) If, under this section, APRA refers details of a matter involving an
+approved auditor or an actuary, APRA must, as soon as practicable but, in
+any event, not later than 7 days after the referral, by notice in writing given
+to the auditor or actuary, inform the auditor or actuary:
+(a) of the fact that a matter has been referred under subsection (1);
+and
+(b) of the nature of the matter so referred.
+
+
+APPENDIX 5
+LIST OF COMMITTEE REPORTS
+Reports of the Select Committee on Superannuation
+(1991-1998)
+□ Super System Survey - A Background Paper on Retirement Income Arrangements
+in Twenty-one Countries (December 1991)
+□ Papers relating to the Byrnwood Ltd, WA Superannuation Scheme (March 1992)
+Interim Report on Fees, Charges and Commissions in the Life Insurance Industry
+(June 1992)
+□ First Report of the Senate Select Committee on Superannuation - Safeguarding
+Super - the Regulation of Superannuation (June 1992)
+□ Second Report of the Senate Select Committee on Superannuation - Super
+Guarantee Bills (June 1992)
+□ Super Charges - An Issues Paper on Fees, Commissions, Charges and Disclosure
+in the Superannuation Industry (August 1992)
+□ Third Report of the Senate Select Committee on Superannuation - Super and the
+Financial System (October 1992)
+□ Proceedings of the Super Consumer Seminar, 4 November 1992 (4 November
+1992)
+□ Fourth Report of the Senate Select Committee on Superannuation - Super - Fiscal
+and Social Links (December 1992)
+□ Fifth Report of the Senate Select Committee on Superannuation - Super
+Supervisory Levy (May 1993)
+□ Sixth Report of the Senate Select Committee on Superannuation - Super - Fees,
+Charges and Commissions (June 1993)
+□ Seventh Report of the Senate Select Committee on Superannuation - Super Inquiry
+Overview (June 1993)
+□ Eighth Report of the Senate Select Committee on Superannuation - Inquiry into the
+Queensland Professional Officers Association Superannuation Fund (August
+1993)
+
+
+□ Ninth Report of the Senate Select Committee on Superannuation - Super
+Supervision Bills (October 1993)
+□ Tenth Report of the Senate Select Committee on Superannuation - Super
+Complaints Tribunal (December 1993)
+□ Eleventh Report of the Senate Select Committee on Superannuation - Privilege
+Matter Involving Mr Kevin Lindeberg and Mr Des O'Neill (December 1993)
+□ A Preliminary Paper Prepared by the Senate Select Committee on Superannuation
+for the Minister for Social Security, Options for Allocated Pensions Within the
+Retirement Incomes System (March 1994)
+□ Twelfth Report of the Senate Select Committee on Superannuation - Super for
+Housing (May 1994)
+□ Thirteenth Report of the Senate Select Committee on Superannuation - Super Regs
+/(August 1994)
+□ Fourteenth Report of the Senate Select Committee on Superannuation - Super Regs
+II (November 1994)
+□ Fifteenth Report of the Senate Select Committee on Superannuation - Super
+Guarantee - Its Track Record (February 1995)
+□ Sixteenth Report of the Senate Select Committee on Superannuation - Allocated
+Pensions (June 1995)
+□ Seventeenth Report of the Senate Select Committee on Superannuation - Super
+and Broken Work Patterns (November 1995)
+□ Eighteenth Report of the Senate Select Committee on Superannuation - Review of
+the Superannuation Complaints Tribunal (April 1996)
+□ Nineteenth Report of the Senate Select Committee on Superannuation - Reserve
+Bank Officers ’ Super Fund (June 1996)
+□ Twentieth Report of the Senate Select Committee on Superannuation - Provisions
+of the Social Security Legislation Amendment (Further Budget and Other
+Measures) Bill 1996 - Schedule 1 (November 1996)
+□ Twenty-first Report of the Senate Select Committee on Superannuation -
+Investment of Australia's Superannuation Savings (December 1996)
+□ Twenty-second Report of the Senate Select Committee on Superannuation -
+Retirement Savings Accounts Legislation (March 1997)
+□ Twenty-third Report of the Senate Select Committee on Superannuation -
+Superannuation Surcharge Legislation (March 1997)
+
+
+□ Twenty-fourth Report of the Senate Select Committee on Superannuation -
+Schedules 1,9 & 10 of Taxation Laws Amendment Bill (No. 3) 1997 (June 1997)
+□ Twenty-fifth Report of the Senate Select Committee on Superannuation - The
+Parliamentary Contributory Superannuation Scheme & the Judges' Pension
+Scheme (September 1997)
+□ Twenty-sixth Report of the Senate Select Committee on Superannuation - Super -
+Restrictions on Early Access: Small Superannuation Accounts Amendment Bill
+1997 and related terms of reference. (September 1997)
+□ Twenty-seventh Report of the Senate Select Committee on Superannuation -
+Superannuation Contributions Tax Amendment Bills. (November 1997)
+□ Super Taxing - An information paper on the Taxation of Superannuation and
+related matters. (February 1998)
+□ Twenty-eighth Report of the Senate Select Committee on Superannuation - Choice
+of Fund. (March 1998)
+□ Twenty-ninth Report of the Senate Select Committee on Superannuation -
+Superannuation Legislation (Commonwealth Employment) Repeal and Amendment
+Bill 1997, Commonwealth Superannuation Board Bill 1997, Superannuation
+Legislation (Commonwealth Employment - Saving and Transitional Provisions)
+Bill 1997. (April 1998)
+□ Thirtieth Report of the Senate Select Committee on Superannuation - Workplace
+Relations Amendment (Superannuation) Bill 1997. (May 1998)
+□ Thirty-first Report of the Senate Select Committee on Superannuation - Resolving
+Superannuation Complaints - options for dispute resolution following the Federal
+Court decision in Wilkinson v CARE. (July 1998)
+
+
+Reports of the Select Committee on Superannuation and Financial
+Services
+(1999 - 2001)
+□ Choice of Superannuation Funds (Consumer Protection) Bill 1999 (November
+1999)
+□ Superannuation Legislation Amendment Bill (No. 4) 1999 (November 1999)
+□ Roundtable on Choice of Superannuation Funds (March 2000)
+□ Provisions of the Superannuation (Entitlements of Same Sex Couples) Bill 2000
+(April 2000)
+□ New Business Tax System (Miscellaneous) Bill No 2 2000 (June 2000)
+□ Financial Sector Legislation Amendment Bill (No 1) 2000 (August 2000)
+□ Interim report on the Family Law Legislation Amendment (Superannuation) Bill
+2000 (November 2000)
+□ Taxation Laws Amendment (Superannuation Contributions) Bill 2000 (December
+2000)
+□ Family Law Legislation Amendment (Superannuation) Bill 2000 (March 2001)
+□ The opportunities and constraints for Australia to become a centre for the
+provision of global financial services (March 2001)
+□ A 'reasonable and secure' retirement? The benefit design of Commonwealth
+public sector and defence force unfunded superannuation funds and schemes
+(April 2001)
+□ Enforcement of the Superannuation Guarantee Charge (April 2001)
+□ Issues arising from the Committee's report on the Taxation Laws Amendment
+(Superannuation Contributions) Bill 2000 (May 2001)
+□ Report on the Provisions of the Parliamentary (Choice of Superannuation) Bill
+2001 (August 2001)
+□ Prudential supervision and consumer protection for superannuation, banking and
+financial services - First Report (August 2001)
+□ Prudential supervision and consumer protection for superannuation, banking and
+financial services - Second Report - Some case studies (August 2001)
+
+
+
+
+THE PARLIAMENT OF THE
+COMMONWEALTH OF AUSTRALIA
+PARLIAMENTARY
+PAPER
+No. 218 of 2001
+ORDERED TO BE PRINTED
+ISSN 0727-4181

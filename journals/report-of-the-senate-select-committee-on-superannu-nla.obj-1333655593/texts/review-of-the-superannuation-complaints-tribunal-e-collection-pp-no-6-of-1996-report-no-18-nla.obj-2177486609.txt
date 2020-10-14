@@ -1,0 +1,1629 @@
+
+
+Eighteenth Report of the
+Senate Select Committee on Superannuation
+Review
+of the
+Superannuation
+Complaints Tribunal
+Parliament of the Commonwealth of Australia
+April 1996
+
+
+
+
+Eighteenth Report of the
+Senate Select Committee on Superannuation
+Review
+of the
+Superannuation
+Complaints Tribunal
+Parliament of the Commonwealth of Australia
+Canberra
+April 1996
+
+
+© Commonwealth of Australia 1995
+ISBN 0 642 24881 8
+This document was produced from camera-ready copy prepared by the Senate Select
+Committee on Superannuation Secretariat, and printed by the Senate Printing Unit,
+Parliament House, Canberra.
+
+
+MEMBERS OF THE COMMITTEE:
+Secretariat Staff:
+Secretary:
+Senior Research Officers:
+Executive Assistant:
+Ms Krista Gerrard
+Mr David Risstrom
+Mr Rod Adams
+Ms Jade Ricza
+Address: The Senate
+Parliament House
+CANBERRA ACT 2600
+Telephone: (06) 277 3439
+Facsimile: (06)277 5719
+
+
+
+
+CONTENTS
+Page
+Members of the Committee.i
+Contents.jjj
+Recommendations..
+Chapters:
+1. Introduction .1
+. How the inquiry came about
+• Conduct of the inquiry
+2. Performance of the Tribunal.5
+. What is it required to do?
+. How well did it operate?
+. Performance assessment
+. Achievements
+3. Management and staff.13
+• Delay in government appointments
+. Executive staff resignations and rearrangements
+. Non-executive staff
+. Management of staff
+4. Jurisdiction .17
+. What jurisdiction
+. Jurisdictional problems
+• Transitional problems
+. New legislation
+• Conclusion
+5. Medical evidence.23
+. Background
+Regulations concerning medical evidence complaints
+. Current legislation affecting the operation of the Tribunal
+. How is medical evidence best assessed?
+. The impact of the Tribunal hearing medical complaints
+. Conclusions
+. Time limitations
+
+
+Contents
+. Trustee’s reasons
+. To whom should medical evidence be available?
+6. An independent consumer advice service.35
+. Yes please - the case for an independent consumer advice
+service
+. No thanks - the case against an independent consumer
+advice service
+. The role of the service
+. Should the Commonwealth government fund such a service?
+. Conclusions
+Appendices:
+A. List of written submissions .43
+B. List of witnesses at public hearings .45
+C. List of committee reports .49
+D. Table of complaint procedure .53
+
+
+RECOMMENDATIONS
+CHAPTER 2
+Recommendation 2.1:
+The Committee recommends that the government reconsider the legislative
+requirement that the Tribunal must include the Chair or Deputy Chair when
+exercising its powers and assess whether it would enhance the timeliness of the
+Tribunal to have a less restrictive provision such as those found in the
+Administrative Appeals Tribunal Act, Social Security Act and the Migration
+Act.
+Recommendation 2.2:
+The Committee recommends that the Superannuation Complaints Tribunal
+develop a charter of access and service, using those developed by the Federal
+Court, the Family Court and the Administrative Appeals Tribunal as a model.
+CHAPTER 4
+Recommendation 4.1:
+The Committee recommends that all superannuation fund members, including
+members of excluded funds, should have access to the Superannuation
+Complaints Tribunal. The Committee has reservations about the participation
+in excluded funds of employee members and is of the view that such
+membership should be discouraged.
+CHAPTER 5
+Recommendation 5.1:
+The Committee recommends that where possible the trustees should provide
+reasons for their decisions.
+
+
+Recommendations
+CHAPTER 6
+Recommendation 6.1:
+The Committee recommends that a limited government funded superannuation
+consumer advice service be established within the existing community legal or
+credit advice centres; that there be a general limit of two appointments for each
+client; and that the service be restricted to providing advice and information
+only and not extend to the running of cases before the Tribunal. The Committee
+further recommends that this arrangement be reviewed after two years and an
+assessment as to its adequacy be made at that time.
+
+
+CHAPTER 1
+INTRODUCTION
+1.1 The Superannuation Complaints Tribunal (the Tribunal) began operating
+on 1 July 1994 to provide for the conciliation of complaints, and for the fair,
+economical, informal and quick review of the decisions of trustees if required.1
+How the inquiry came about
+1.2 In response to the growth in superannuation membership and the
+increasingly complex administration that has ensued, the first report of the
+Senate Select Committee on Superannuation, Safeguarding Super, examined
+the need for dispute resolution mechanisms. That report recommended the
+establishment of an external disputes resolution mechanism.
+1.3 The Tribunal was established under the Superannuation (Resolution of
+Complaints) Act 1993 (the Act) which established a scheme for the external
+resolution of complaints by members and beneficiaries of superannuation funds
+and approved deposit funds.
+1.4 Conscious of the need to ensure the Tribunal remain a low cost, informal
+and expeditious vehicle for resolving disputes, the Commonwealth Parliament
+considered the need to review the operation of the Tribunal, and whether to
+augment its operation with an independent advisory service.
+1.5 On 22 November 1993, the Senate considered the House of
+Representatives’ disagreement to the Senate’s schedule of amendment to the
+Superannuation (Resolution of Complaints) Bill 1993. The Senate had
+proposed assistance to complainants in the making of their complaints. In
+response to the House of Representatives’ rejection of the Senate amendments,
+the Senate resolved to refer the matter of assistance to complainants to the
+Senate Select Committee on Superannuation for inquiry and report.
+1.6 Under the terms of reference established on 22 November 1993, the
+Senate Select Committee on Superannuation has undertaken a review of the
+Tribunal following its first twelve months of operation, examining whether it
+meets the needs of superannuation fund members, and the efficacy of
+establishing a funded superannuation consumer advice service.
+Section 11, Superannuation (Resolution of Complaints) Act 1993
+
+
+Review of the Superannuation Complaints Tribunal
+1.7 The terms of reference for inquiry and report are:
+(a) the operation of the Superannuation Complaints Tribunal in the
+first 12 months of its work;
+(b) whether the tribunal is adequately meeting the needs of
+superannuation fund members; and
+(c) whether an independent superannuation consumer advice
+service should be established and supported by grants from
+Consolidated Revenue.
+1.8 The significant impact of superannuation trustee decisions and the
+importance of an avenue of review of decisions of superannuation trustees was
+highlighted in the decision of Bryson J in Vidovic v Email Superannuation Pty
+Ltd,~ on 3 March 1995. That matter involved a total and permanent disability
+claim from 1986. In commenting on the discretionary nature of decisions of
+trustees, his Honour stated:
+It is a marked anomaly to use mechanisms drawn from fields of law remote
+from employment and relating to trusts for bounty or charity to administer
+important entitlements in an employment relationship. I find it difficult to
+understand why the entrenchment of such important rights against review is so
+usual, and why this kind of arrangement is so commonly found acceptable to
+employees in view of the economic significance of such decisions and the
+economic function of superannuation, not well represented in the terms of the
+documents, as a contracted employment benefit for which value is given.
+These anomalies appear particularly clearly where, as in this case, the fund out
+of which benefits are paid is contributory and an employee claiming benefits is
+claiming to be paid, at least in part, in his own coin.
+1.9 A pervasive theme in the evidence to this inquiry was the hearing of
+‘medical evidence complaints’ by the Tribunal. The Senate Select Committee
+on Superannuation’s thirteenth report, Super Regs I, also gave consideration to
+the reception of medical evidence by the Tribunal.
+1.10 More generally, the need for the Tribunal was borne out by the number
+of inquiries and complaints that were made. As noted by the Association of
+Superannuation Funds of Australia:
+2
+Supreme Court (NSW), Equity Division, File No 2745/86
+
+
+The fact that there are currently close to 1000 complaints before
+the Tribunal, apart from those which have been settled by whatever
+means, suggests that people do know that it exists and that it is the
+right vehicle to go to.
+Conduct of the inquiry
+1.11 The Committee called for submissions on the reference by placing an
+advertisement in the Australian newspaper on 27/28 May 1995. It also
+contacted persons and organisations who had expressed interest in
+superannuation matters and were on the Committee’s mailing list. The
+Committee received 35 written submissions.4 Thirty-three witnesses5 appeared
+before the Committee to give oral evidence during five hearings conducted in:
+1.12 In this inquiry, the Committee has particularly sought the evidence of
+those people who have had dealings with the Tribunal, or who have expressed
+an opinion as to changes that might improve the operation of the Tribunal.
+1.13 To facilitate discussion of the issues raised in the terms of reference, and
+in accordance with the Committee’s previous resolutions, unless otherwise
+ordered, written submissions were published on receipt and uncorrected
+Hansard transcripts were circulated as soon as they became available.
+1.14 Oral evidence is cited by reference to Hansard as follows: ‘Evidence, p
+XX’. Written submissions are referred to by their registration number:
+‘SCTREV Sub No XX’.
+1.15 The Committee records its appreciation to those who made written
+submissions and gave oral evidence in the inquiry.
+Lockery, Evidence, p 43
+See Appendix A
+See Appendix B
+
+
+
+
+CHAPTER 2
+PERFORMANCE OF THE TRIBUNAL
+What is it required to do?
+2.1 The Tribunal is an independent statutory body established under the
+Superannuation (Resolution of Complaints) Act 1993 (the Act). Its role is to
+resolve complaints that members of superannuation funds may have in relation
+to certain decisions of trustees of regulated superannuation funds or approved
+deposit funds.
+2.2 Section 12 of the Act specifies the functions of the Tribunal:
+• to inquire into a complaint and try to resolve it by conciliation; and
+. if the complaint cannot be resolved by conciliation, to review the
+decision of the trustee to which the complaint relates.
+A table describing the complaint procedure is set out in Appendix D.
+How well did it operate?
+2.3 There was substantial evidence to suggest there were some significant
+operational problems. The Committee has been made aware of the pressures
+experienced by the Tribunal in its first 12 months, however, it appears to the
+Committee that the operational problems resulted from a convergence of
+factors, some of which were beyond the control of the Tribunal, others which
+could have been averted.
+2.4 The Committee recognises that superannuation has developed very
+rapidly. Such rapid development in any industry creates difficulties for the
+bureaucratic process responsible for its supervision. The Committee therefore
+acknowledges that whilst leadership issues were raised in this inquiry, the
+Tribunal did not have the time that was available to other parts of the
+superannuation industry to evolve and develop its processes.
+2.5 In its first 12 months, the Tribunal received 881 complaints, 465 of
+which fell outside its jurisdiction. Of the complaints within jurisdiction,
+
+
+Review of the Superannuation Complaints Tribunal
+12 determinations were made. The Chairperson has stated that the Tribunal will
+soon be delivering two review decisions per week.1
+Delays
+2.6 The Committee heard evidence of delays in the handling of member
+complaints. One example was a member of an industry fund who lodged a
+complaint on 6 March 1995. The fund involved approached the Tribunal on
+6 July to see what was happening with the complaint. On 18 July the Tribunal
+advised that it had no jurisdiction over the matter as the member had made the
+complaint outside the 28 day period within which to object.2
+2.7 Another example is that of Mrs Sonia Nolan. Her case before the
+Tribunal began with a submission to the Insurance and Superannuation
+Commission (ISC) in January 1994 who forwarded it to the Tribunal in June
+1994. Mrs Nolan completed the appropriate form and visited the offices of the
+Tribunal on about 21 July 1994 and had a lengthy discussion with an officer
+there.3
+2.8 Mrs Nolan was correctly informed that the fund had 90 days to respond,
+before the Tribunal could act. That period expired in October 1994 with a
+refusal by the fund to settle her matter so she then telephoned the Tribunal.
+Following the passage of another 45 days the Tribunal advised it had all the
+relevant documentation and would look into the matter. Mrs Nolan’s evidence
+continued in this way:
+I received a couple of letters saying that the tribunal was now
+looking at the matter and then, in January [1995], I received a
+lengthy letter from the tribunal saying that basically it could not
+hear my case. It was out of its jurisdiction; it could not handle my
+particular complaint.4
+2.9 The Tribunal provided justification for time taken to finalise complaints:
+The average time taken to finalise a complaint that was within
+jurisdiction was 95 days ... If a complainant comes in and the fund
+is responding to the limit of the time-lines given, there would be a
+minimum of three months before a complaint could be concluded.
+Lockery, Evidence, p 46
+SCTREV Sub No 18
+Evidence, p 75
+Evidence, p 76
+
+
+So our 95 days as against 84 days, if the full time limit is taken by
+the complainant or the trustee.5
+2.10 It was put to the Committee that ‘delays are often a symptom of poor
+information management’.6 The evidence certainly pointed to a slow flow of
+information.
+A set of procedures should be devised in consultation with the
+users and strictly enforced and the tribunal must take control of the
+caseflow. This means tracking cases, enforcing deadlines and
+rewarding compliance with deadlines.7
+Case management
+2.11 The Committee questions the adequacy of the system of case
+management. The Australian Federation of Consumer Organisations (AFCO)
+was very critical of the case management system in saying that it ‘has failed
+under testing every time’. Ms Jenni Mack said:
+What this means is that the Tribunal has no way of recording and
+categorising data in a way that fosters efficient reporting. The
+Chair informed me that record keeping is done manually and that
+is why material is being produced with mistakes and with great
+difficulty.8
+Ms Mack emphasised that an ‘effective case management system must be put
+in place with utmost urgency’.9
+2.12 The appropriate information technology was not in place:
+The capacity of the Tribunal to monitor and report on its
+operations has been hampered during the year by the absence of an
+adequate database or case management system. By the end of the
+reporting period such a system was still not fully operational ...
+Cardiff, Evidence, p 216
+Transformation Management Services, SCTREV Sub No 31
+ibid
+8 SCTREV Sub No 26
+9 SCTREV Sub No 26
+10 Superannuation Complaints Tribunal, SCTREV Sub No 19
+
+
+The statutory constitution of the Tribunal
+2.13 The Committee considered section 9 of the Act, a section which provides
+for the constitution of the Tribunal for the purposes of exercising its powers.
+2.14 The section requires the Tribunal, when exercising its functions and
+powers in relation to a complaint, to include the Chairperson or the Deputy
+Chairperson. During the Tribunal’s first 12 months, there was no provision for
+a Deputy Chairperson and the Chairperson was required to be part of the
+Tribunal when it exercised its powers. This placed a certain degree of pressure
+on the Chairperson and may well have contributed to the delays reported to the
+Committee. Mr Ken Lockery expressed ASFA’s view that:
+given that the chairperson currently sits on all review cases, it is
+difficult to see how they would do more than two or three [matters]
+a week.11
+He went on to observe that:
+if we have got the best part of a thousand complaints before the
+Tribunal, settling two a week means that we have got nine years
+worth of complaints currently there.12
+2.15 The Committee notes that other merit review tribunals do not have a
+comparable requirement. The Administrative Appeals Tribunal, the Social
+Security Appeals Tribunal and the Refugee Review Tribunal are not required to
+be constituted in such a restricted manner.13 The report of the Administrative
+Review Council of the merits review tribunals, Better Decisions: Review of
+Commonwealth Merits Review Tribunals,14 recommended that ‘the composition
+of panels to review particular cases should be left to the discretion of review
+tribunals’.15
+2.16 Whilst the legislation which now provides for a Deputy Chairperson is an
+improvement, the statutory requirements relating to the composition of the
+Evidence, p 46
+Evidence, p 47
+Administrative Appeals Tribunal Act 1975, section 21; Social Security Act 1991, section 1327;
+Migration Act 1958, section 421
+Report No 39, 1995
+Recommendation 7
+
+
+Tribunal remain inappropriate in the view of the Committee. The Committee
+considers that the constraint put on the composition of the Superannuation
+Complaints Tribunal may increasingly inhibit its ability to meet the objective
+of providing a ‘quick’16 dispute resolution mechanism.
+Recommendation 2:1
+The Committee recommends that the government reconsider the legislative
+requirement that the Tribunal must include the Chair or Deputy Chair
+when exercising its powers and assess whether it would enhance the
+timeliness of the Tribunal to have a less restrictive provision such as those
+found in the Administrative Appeals Tribunal Act, Social Security Act and
+the Migration Act.
+Performance assessment
+2.17 In seeking to evaluate the performance of the Tribunal the Committee
+used the following criteria:
+. accountability
+. corporate planning
+. the handling of inquiries
+. available information.
+Accountability
+2.18 Any particular tribunal can be accountable in various ways to different
+stakeholders in relation to different aspects of its operations. For this Tribunal
+there was basic accountability to Parliament through the submitting of an
+annual report.17
+2.19 There is also a relationship to the Insurance and Superannuation
+Commission (ISC), the body responsible for planning the establishment of the
+16
+17
+Section 11
+Section 67(1)
+
+
+Tribunal. The ISC continues its involvement through responsibility for the
+staffing, budgets and policy formulation of the Tribunal.
+2.20 The Committee considered there was an inadequate accountability to
+other stakeholders, notably trustees, actual and potential complainants, and the
+industry generally. This essentially related to a lack of information about the
+operation of the Tribunal. AFCO said the Tribunal was ‘yet to settle on a
+methodology for reporting’ and even if reports were available the SCT had no
+means of distribution.18 The reporting of its decisions is discussed below in
+paragraph 2.29.
+Corporate planning
+2.21 There was an absence of corporate vision in the establishment and early
+operation of the Tribunal. The Committee is concerned that little seems to have
+happened since, in relation to corporate planning, beyond the implications of
+the expansion in the jurisdiction of the Tribunal.
+2.22 In the Tribunal’s annual report for the year 1994/95, there is information
+provided about structure and operation including the Memorandum of
+Understanding between the Tribunal and the ISC. However, the Committee
+detects no overall corporate strategy that could be fairly identified as a
+corporate vision or plan.
+The handling of inquiries and complaints
+2.23 While raw statistics were provided on the number of complaints handled,
+together with a degree of characterisation, the Committee would also like to see
+implemented some ‘best practice’ initiatives. These should include a minimum
+time for responding to telephone and written inquiries and an effective file
+tracking system. It was suggested to the Committee that perhaps 28 days was
+an appropriate turnaround time, that being the figure applicable to complaints
+in the banking industry.19
+2.24 The Tribunal advised that it was ‘currently fine-tuning its computerised
+complaints management system to provide throughput indications’.20 It said:
+Statistics on the time taken to handle different types of complaints
+will be available in future reports.21
+18 SCTREV Sub No 26
+Wallace, Evidence, p 181
+SCTREV Sub No 19
+20
+
+
+2.25 The Access to Justice Report recommended that each Commonwealth
+court and tribunal should develop a charter, with a view to setting standards for
+all aspects of its dealings with the public.
+2.26 In its Justice Statement, the previous government supported the
+development of charters of access and service. Over the next two years the
+Federal Court, the Family Court and the Administrative Appeals Tribunal will
+develop charters.22
+2.27 The Committee is of the view that such a charter is an appropriate
+document for the Superannuation Complaints Tribunal to develop.
+Recommendation 2.2:
+The Committee recommends that the Superannuation Complaints
+Tribunal develop a charter of access and service, using those developed by
+the Federal Court, the Family Court and the Administrative Appeals
+Tribunal as a model.
+Available information
+2.28 There was a general impression through the evidence of inadequate
+information at two levels. Firstly the inadequacy of statistical data was
+indicated by the Federal Bureau of Consumer Affairs."3 Second, the issue of
+public awareness of the Tribunal and its function may need to be further
+addressed.
+2.29 Also the Tribunal faced difficulties in distributing its determinations.
+Distribution through the legal publishers Butterworths was said by AFCO to
+have ‘worked reasonably well as far as the industry was concerned but none
+reached the community sector’.24 AFCO pointed to the subscription costs as
+effectively excluding community groups and said:
+At any rate this is not information the community should expect to
+f 25
+pay tor.
+21
+SCTREV Sub No 19
+The Justice Statement, May 1995, pp 57-58
+SCTREV Sub No 16
+SCTREV Sub No 26
+SCTREV Sub No 26
+25
+
+
+2.30 The Committee was surprised to learn from its own inquiries that one
+state consumer complaints tribunal was unaware of the existence of the
+Superannuation Complaints Tribunal and welcomed the Committee’s advice of
+the Tribunal’s existence.
+2.31 The Committee is aware that the provision of information about the
+Tribunal has evolved since the Tribunal completed its first year of operation. It
+must continue to evolve and must be reviewed to ensure this continues.
+Achievements
+2.32 In the period 1 July 1994 to 30 June 1995 a total of 881 written
+complaints and 5188 telephone inquiries were received by the Tribunal with 53
+per cent of the written complaints being outside the Tribunal’s jurisdiction. Of
+the 416 complaints within jurisdiction 321 (77 per cent) were in the
+inquiry/conciliation stage at 30 June 1995, while 83 (20 per cent) had been
+completed after inquiry and conciliation. Another 12 (three per cent) had gone
+to review hearings.26
+SCTREV Sub No 19
+
+
+CHAPTER 3
+MANAGEMENT AND STAFF
+3.1 This was an area of considerable concern to the Committee particularly
+given the fact that the management was aware that a review was to be done on
+the Tribunal’s first twelve months operation. The Committee found it
+surprising that no mention was made of its review of the Tribunal in the Annual
+Report.
+Delay in government appointments
+3.2 Part 2 of the Act establishes the Tribunal with a full-time Chairperson, a
+Deputy Chairperson and between 7 and 10 other members. The Chairperson
+and the Deputy Chairperson are appointed by the Governor-General, and the
+Tribunal members by the Minister.
+3.3 Mr Neil Wilkinson took up his appointment as inaugural Chairperson of
+the Tribunal on 5 September 1994, that is, some two months after the
+commencement of the operation of the Tribunal. Ms Jill Cardiff was the Acting
+Chairperson between 18 July 1994 and 5 September 1994. All other original
+members of the Tribunal were appointed in either August or September 1994.
+3.4 The Committee considers the failure to have had appointments ready
+before the commencement of operation of the Tribunal on 1 July 1994, could
+have contributed to the slow progress the Tribunal made in establishing itself in
+an operational sense.
+Executive staff resignations and rearrangements
+3.5 Senior staff were appointed in May 1994 with other staff progressively
+employed from June to mid-August 1994.2 There was a major staff turnover
+mid-way through the Tribunal’s first year involving the departure ‘for various
+reasons’ of three of the four senior staff.3 They were the Executive Director, the
+Director of Inquiries and Conciliation and the Assistant Director of Inquiries
+and Conciliation. A staffing review was conducted in February and March
+1995:
+Annual Report, p xi
+Annual Report, p 1
+Annual Report p, 2
+
+
+Review of the Superannuation Complaints Tribunal
+which resulted in a restructure to make more effective use of the available
+resources.4
+3.6 Mr Wilkinson was critical of some of the staff who had left the Tribunal,5
+but the Committee did not find a satisfactory explanation for major staff
+changes.
+Non-executive staff
+3.7 There was evidence of the inexperience of the staff handling inquiries
+and complaints. The Industry Superannuation Funds (ISF) noted that:
+many, though not all, of the SCT [Tribunal] staff with whom they deal are
+apparently inexperienced in dealing with the subject matter of the complaints.6
+3.8 The Seafarers Retirement Fund considered the Tribunal staff Tacked
+commercial experience’7 while the Committee concurs with the
+recommendation of the Construction + Building Unions Superannuation Fund
+(C+BUS) that all staff appointed to fill future vacancies or new positions be
+required to have experience in the administration of superannuation.8
+3.9 The Committee considers that qualities apart from experience in the
+administration of superannuation are appropriate for Tribunal staff. For
+example, skills in handling complaints and ‘first contact’ experience are at least
+as vital in the Tribunal’s operation.
+3.10 AFCO advocated that not only should the staff appointed have expertise
+in the consumer complaints process, but existing staff ‘must be trained in
+community expectations of a consumer complaints body’.9 AFCO indicated it
+would be happy to assist with this training.
+3.11 The Committee did receive positive comment in relation to the attitude of
+staff in their dealing with complainants, with ‘the experience of practitioners
+generally [being] that the Tribunal has been very helpful in the way in which it
+has been conducted.’10 However, the Committee was concerned at a possible
+lack of direction for staff. For example the ISF believed ‘that many staff did not
+SCTREV Sub No 19
+Evidence, p 140
+SCTREV Sub No 18
+SCTREV Sub No 23 (Supp)
+SCTREV Sub No 12
+SCTREV Sub No 26
+Davis, Evidence, p 52
+
+
+clearly understand their role’ and tended to act as if they were agents for the
+prosecution rather than staff of an independent Tribunal.11 They said:
+Many SCT staff appear to operate on the basis that the lodging of a complaint
+by a member indicates that a prima facie case exists and that the onus is on the
+Fund to disprove the member’s allegations. This is a very serious concern of the
+ISFs.12
+Management of staff
+3.12 The Committee finds staff management was inadequate. From recruiting
+right through to the guidance of staff on the job, the evidence suggested
+weaknesses.
+3.13 In its Annual Report the Tribunal provided details of training undertaken
+by staff.13 However, formal training courses (all but three of which were
+provided internally or by the ISC) are not the full answer to equipping staff to
+effectively function in the operation of a new statutory Tribunal. The matters
+raised by the Seafarers Retirement Fund, C+BUS and ISF and outlined above
+should also be given attention.
+SCTRJEV Sub No 18
+SCTREV Sub No 18
+Annual Report, p 49
+13
+
+
+
+
+CHAPTER 4
+JURISDICTION
+4.1 The Tribunal experienced frustration and difficulty as a result of
+limitations on its jurisdiction.
+What jurisdiction
+The Tribunal's position
+4.2 In hearing a complaint, the Tribunal essentially sits in place of the
+trustee. For the purposes of reviewing a decision of a trustee, the Tribunal has
+all the powers, obligations and discretions conferred on a trustee by law or
+under the governing rules of the fund. 'The Tribunal effectively stands in the
+shoes of the fund trustee and examines the original decision which is at issue'.1
+It has power to:
+. affirm the trustee's decision;
+. remit the matter to which the decision relates back to the trustee for
+reconsideration in accordance with the directions of the Tribunal;
+. vary the decision; or
+2
+. set aside the decision and substitute its own.
+4.3 However, there is an important discipline placed on the operation of the
+Tribunal. Where it considers the trustee's decision to have been fair and
+reasonable in all the circumstances, the Tribunal must affirm that
+decision.3
+Which decisions can it deal with
+4.4 Complaints can be made about a trustee's decision, or failure to make a
+decision, in relation to a member, former member, beneficiary or former
+beneficiary of a fund. A person can complain that the decision was in excess of
+SCTREV Sub No 19
+Section 37C(2)
+Part 6, SRC Act
+
+
+Review of the Superannuation Complaints Tribunal
+the trustee's powers, an improper exercise of the powers, or was unfair or
+unreasonable.4
+4.5 Examples of complaints that could be made include:
+. the procedural or administrative aspects of disability claims;
+. errors in annual statements;
+. a belief that a death benefit was paid to the wrong person; and
+. miscalculation of a benefit.5
+4.6 Perhaps more significant, in some respects, were the complaints which
+the Tribunal was precluded from considering during its first 12 months. These
+included:
+. Complaints in relation to funds which had not elected to become
+regulated under the Superannuation Industry (Supervision) Act 1993
+(SIS).
+. Complaints in relation to funds with less than five members or approved
+deposit funds with only one beneficiary.
+The Investment Funds Association submitted that ‘it is quite likely that
+there will be legitimate grievances that arise amongst the membership of
+these excluded funds, and ... that people in those funds should have
+access to the Tribunal, as does any superannuanf .6 The Committee
+particularly is concerned for non-related members of excluded funds as
+those members will often be employees who had no choice in their
+membership of the excluded fund. Also of concern are those who become
+involved in family law proceedings and have ‘no idea what was
+happening with the superannuation fund and the way in which it was
+dealt with, and the fact that money might have disappeared from it.’7 It
+was submitted that ‘arms-length members of small superannuation funds
+should be able to make a complaint in the same way as members of a
+larger fund.’8 It certainly appears that there is some demand for a dispute
+Section 14 of the Act
+SCTREV Sub No 19
+Hutley, Evidence, p 49
+Davis, Evidence, p 57
+Davis, Evidence, p 57
+
+
+resolution mechanism for these members as ‘there are 37 complaints that
+have been currently withdrawn from the SCT’s jurisdiction to date from
+excluded super funds’.9
+Complaints that relate to the management of the fund as a whole and
+affect all members, for example, the fund's investment strategy.
+. Complaints concerning the assessment of medical evidence.
+. Complaints about the actions of third parties such as life offices and their
+agents and about annuities sold by life companies.10
+. Complaints against an employer, unless the employer is also a trustee.
+. Complaints relating to some State and Commonwealth government
+superannuation schemes.
+. Complaints which deal with matters which are the subject of legal
+proceedings before a court.
+Jurisdictional problems
+4.7 The Tribunal claimed jurisdictional issues constituted a major problem,
+with the Tribunal not being able to deal with over 50 per cent of complaints
+made to it. (However, more than one third of ‘out of jurisdiction’ complaints
+related to a failure to go through the section 101 procedure.) Three exclusions
+were highlighted. They were complaints:
+about public sector funds;
+Paatsch, Evidence, p 113
+Most of these complaints are currently referred to the Life Insurance Complaints Service.
+10
+
+
+. involving the assessment of medical evidence; and
+. about life office superannuation, including allegations of agent
+misrepresentation.11
+4.8 A separate chapter (Chapter 5) has been dedicated to the question of
+medical evidence. For public sector funds the lodgement date for election to
+become regulated under the SIS Act was 1 July 1995 (extended to 1 July 1996
+for some specific funds).
+Most Commonwealth public service funds became regulated on
+30 June 1995 and now fall under the Tribunal’s jurisdiction.12
+4.9 Complaints involving allegations of agent misrepresentation, represented
+over half of out of jurisdiction complaints referred by the Tribunal to the Life
+Insurance Complaints Service (LICS). They were 22 per cent of all complaints
+made out of jurisdiction (other than those referred to funds internal review
+processes pursuant to Section 101 of the Act).13
+Transitional problems
+4.10 The Tribunal in its submission noted that funds only slowly became
+regulated under SIS and thereby subject to the Tribunal's jurisdiction. The
+number of regulated, non-excluded superannuation entities falling under
+jurisdiction were estimated as:
+4.11 This gradual increase over the year was said by the Tribunal to have had
+a significant impact. It submitted:
+As at 1 July 1994 there were practically no complainants who had been through
+the section 101 complaint process and were eligible to bring a complaint to the
+Tribunal. Much of the Tribunal's time was spent in informing potential
+complainants of the Tribunal's process and the need to first make a complaint to
+the Fund.15
+SCTREV Sub No 19
+Superannuation Complaints Tribunal, Annual Report, p 4
+SCTREV Sub No 19
+SCTREV Sub No 19
+SCTREV Sub No 19
+15
+
+
+4.12 On 24 July 1994, the ISC announced that non-excluded funds other than
+public sector funds, had until 31 October 1994 to elect to become regulated
+under SIS and therefore come under the Tribunal’s jurisdiction16 (previously,
+the deadline had been 28 July 1994). So, in fact there was only a maximum of
+four months of 1994/95 where the number of funds under jurisdiction would
+have been low.
+4.13 The Tribunal said considerable resources were taken up in determining
+whether a fund was regulated and from when, with funds sometimes incorrectly
+advising they were regulated at the time they considered the section 101
+complaint. This resulted in delays in processing claims at the Tribunal in
+1994.17
+New legislation
+4.14 The Superannuation Industry (Supervision) Legislation Amendment Bill
+1995 was passed on 30 November 1995. It received Royal Assent on 16
+December 1995. It amends the SRC Act to expand the jurisdiction of the
+Tribunal. The various amendments:
+. enable the Tribunal to review and make determinations about insurers’
+decisions relating to death and disability benefits provided through
+regulated superannuation funds;
+. enable the Tribunal to provide appropriate remedies where it determines
+that the decision of a trustee to admit a person to a fund, where that
+member is covered by a life policy maintained by the trustee for the
+purposes of the fund, was unfair or unreasonable (conduct by an insurer
+or representative of the insurer will be relevant for the Tribunal in
+making the determination in this regard);
+. enable the Tribunal to review life office conduct, and decisions in
+relation to the sale an management of superannuation-related annuity
+products acquired after Royal Assent;
+. allow the Tribunal to review decisions as to whether, and to what extent,
+a person is totally and permanently disabled, where those decisions are
+made by persons other than a trustee or insurer;
+CCH Superannuation Source Materials, Report No 34 of 25 July 1994
+SCTREV Sub No 19
+17
+
+
+. exclude disability complaints where more than one year has elapsed
+since the decision to which the complaint relates, or where the trustee
+decision was taken before 1 November 1994, or where a person fails to
+lodge a claim for a disability benefit with the trustees within one year of
+permanently ceasing employment due to disability;18
+• remove the requirement for the Tribunal to establish that a complaint has
+been dealt with "adequately" by the other complaint handling body;
+. allow a person with a disability to be represented by an agent only where
+the disability is of a kind that makes such representation necessary, and
+that bodies corporate (like complainants) cannot have agent
+representation as a matter of course;
+• clarify that certain provisions relating to complaints about benefit
+payments can only apply to complaints about death benefit payments;
+. where a complaint has been made about a death benefit payment, require
+other persons who have an interest in the outcome of a complaint to be
+notified and given the opportunity to become a party to the complaint;
+and
+• allow the appointment of a Deputy Chairperson and two additional part-
+time members to assist the Tribunal in dealing with the increased volume
+and complexity of complaints that are expected to occur following these
+amendments.19
+4.15 Relevant areas of the proposed new legislation are discussed in the
+following chapter.
+Conclusion
+4.16 The Committee recognises that jurisdiction was limited and this may
+have created some problems for the Tribunal in its first year. However, the
+Committee considers that, in some respects at least, the limited jurisdiction
+could, and perhaps should, have meant an opportunity to get the management
+settings right and systems in place while the operational demands were low.
+18
+This provision has now been dealt with in amended Regulation 4 of the SRC Regulations with effect
+from 1 November 1995
+CCH Super News p 37
+19
+
+
+CHAPTER 5
+MEDICAL EVIDENCE
+Background
+5.1 The capacity of the Superannuation Complaints Tribunal to hear and
+assess medical evidence has remained a contentious issue since the Senate
+Select Committee on Superannuation first discussed it in its Ninth Report,
+Super Supervision Bills.
+5.2 Until 1 November 1995 the Tribunal had been barred by regulation from
+receiving medical evidence in relation to a person’s incapacity. The reasons
+why are discussed below.
+Regulations concerning medical evidence complaints
+5.3 Due to concerns about the capacity of the Tribunal to deal with medical
+complaints, the regulations governing its jurisdiction have undergone a number
+of changes.
+5.4 Section 14(5) of the Superannuation (Resolution of Complaints) Act
+1993 provides that the Tribunal may not deal with a complaint to the extent that
+it relates to ‘excluded subject matter’. This is defined under Section 3 as
+‘subject matter that is declared by regulations to be excluded subject matter’.
+Consequently, the limitations on the hearing of medical evidence have been
+defined by regulation.
+5.5 The Superannuation (Resolution of Complaints) Regulations were
+gazetted on 11 March 1994 and tabled in the Senate and House of
+Representatives on 17 and 22 March 1994, respectively. Regulation 4 of SR No
+56 of 1994 defined ‘excluded subject matter’ to include matter in relation to
+which the Tribunal, in dealing with the matter:
+(a) would have to undertake the assessment or evaluation of medical
+evidence, opinion or reports; or
+(b) would have to consider, having regard to medical evidence, opinion or
+reports, the question of a person's incapacity; or
+l Statutory Rules No 56 of 1994
+
+
+Review of the Superannuation Complaints Tribunal
+(c) would be likely to have to perform a function mentioned in paragraph (a)
+or (b).
+5.6 Following tabling of the Senate Select Committee on Superannuation’s
+report Super Regs /, on 29 August 1994, the Senate disallowed Regulation 4.
+5.7 The government responded to the concerns of the Senate by signalling its
+intention to amend the regulation so that it had no effect after six months from
+that day. On 17 October 1994 the Senate rescinded its resolution of 29 August,
+to allow for a new regulation excluding medical evidence complaints, but only
+for six months.
+5.8 The government gazetted the amended regulation on 1 November 1994,
+deferring the handling of complaints involving the assessment of medical
+evidence until 1 May 1995.2 Subsequently, a further amendment was gazetted
+extending the exclusion of medical evidence complaints until 1 November
+1995.3 On 1 November 1995 the Tribunal finally had authority to hear medical
+evidence complaints. There is a new Regulation 4 with effect from 1 November
+1995 limiting what medical evidence can be heard (see paragraph 5.15 below).
+Current legislation affecting the operation of the Tribunal
+5.9 The Superannuation Industry (Supervision) Legislation Amendment Act
+1995 amends the Superannuation Industry (Supervision) Act 1993, the
+Superannuation (Resolution of Complaints) Act 1993, the Insurance Act 1973
+and the Life Insurance Act 1995, and in doing so, aims to expand the
+jurisdiction and improve the effectiveness of the Superannuation Complaints
+Tribunal.
+5.10 The Superannuation Industry (Supervision) Legislation Amendment Act
+1995 enables the Tribunal, inter alia, to:
+. review and make determinations in respect of insurer decisions relating
+to death and disability benefits provided through regulated
+superannuation funds;
+. review decisions made by certain persons other than a trustee or insurer
+as to whether and to what extent a person is totally and permanently
+disabled; and
+Statutory Rules No 374 of 1994
+Statutory Rules No 77 of 1995
+
+
+• exclude disability complaints where more than one year has elapsed
+since the decision to which the complaint relates, where the trustee
+decision was taken before 1 November 1994, or where a person fails to
+lodge a claim for a disability benefit with the trustee within one year of
+permanently ceasing employment due to disability.
+5.11 These amendments allow the Tribunal to independently review medical
+evidence, and empower it to make orders directly against an insurer in relation
+to death and disability complaints where a superannuation fund has entered into
+a contract with an insurer for that purpose.
+Summary
+5.12 In summation, the regulations which determine the matters that the
+Superannuation Complaints Tribunal is excluded from considering no longer
+prohibit the hearing of medical evidence complaints.
+5.13 Based on the evidence considered below, the Committee expresses its
+concern that the uncertainties and confusion caused by the turbulent history of
+the Tribunal’s jurisdiction may have resulted in unnecessary hardship and been
+inimical to the Government of the day’s stated commitment to ‘improving
+community access to our courts and tribunals’.4 As the experience of Ms Sonia
+Nolan testifies, the uncertainty and delay surrounding the Tribunal’s capacity to
+hear medical evidence has impacted upon some individuals markedly.
+5.14 Consequently, the Committee regrets that in seeking to resolve this
+uncertainty the Government of the day sought to define the jurisdiction of
+the Tribunal by regulation rather than enactment.
+5.15 Regulation 4 of the Superannuation (Resolution of Complaints)
+Regulations has been amended, with effect from 1 November 1995, to exclude
+from the Tribunal’s jurisdiction medical evidence complaints where more than
+one year has elapsed since the trustee’s decision or where the person making
+the complaint failed to lodge a claim for a disability benefit with the trustees
+within one year of permanently ceasing employment due to disability.5
+Attorney-General’s Department, May 1995, The Justice Statement, p. 55
+Statutory Rules No 318 of 1995
+
+
+5.16 This use of delegated legislation to define the jurisdiction of the Tribunal
+is contrary to the Administrative Review Council’s opinion that all exemptions
+from the jurisdiction of the Tribunal should be specified in the Act.6
+Conclusion
+5.17 The Committee believes that confirming the authority and capacity of the
+Superannuation Complaints Tribunal to review medical evidence is an
+important development in building member confidence in superannuation.
+How is medical evidence best assessed?
+5.18 In anticipation of the Tribunal being able to deal with medical evidence
+complaints, the Committee heard evidence of how this medical evidence might
+best be assessed by the Tribunal. The proposals put to the Committee included:
+. the Tribunal hear medical evidence itself without any major changes to
+its operation;
+. the Tribunal hear medical evidence itself while ensuring that its
+membership contained a medically trained representative;
+. an independent medical panel be established to provide the Tribunal with
+its assessment of medical evidence; and
+. that in instances where an internal review Committee of a fund has made
+a determination, whether or not that involved medical evidence, the
+member forfeit the right to have the decision reviewed by the Tribunal.
+The Tribunal hears the matter
+5.19 Some witnesses expressed concern as to whether the Tribunal was the
+best body to receive and assess medical evidence.
+5.20 On the basis that the proper function of the Tribunal is to ‘stand in the
+shoes of trustee’ Jacques Martin expressed the opinion that trustees who have
+not been sufficiently diligent to provide medical evidence upon which a
+decision could be reviewed should be required to submit further evidence
+which will allow a proper review.7 Jacques Martin stated that:
+SISREG Sub No 22, Administrative Review Council, p 3
+SCTREV Sub No 20
+
+
+We do not believe that it is appropriate for the SCT to directly seek
+medical evidence in its own right. That is the role of the insurer.8
+5.21 Suggesting that it is unnecessary and unwise for the Tribunal to usurp the
+evidence gathering responsibilities of trustees, Mr Vernon of Jacques Martin
+told the Committee that:
+... the emphasis should be on the trustee being in control of the
+process and looking after the interest of its members. That is where
+it must start and finish.9
+5.22 After having surveyed its members, Mr Paatsch presented the AIST’s
+concern that competing medical evidence could make the review of medical
+complaints solely by reference to the papers unsatisfactory, as it provided little
+opportunity for objectively verifying the competing reports.10 AIST’s claims
+add weight to the argument that the Tribunal should more frequently extend
+review of matters beyond the use of papers.
+The Tribunal include members having medical qualifications
+5.23 This option was for the Tribunal ‘to have a medical practitioner sitting as
+a part-time tribunal member’.11 This would allow it to receive and
+expeditiously deal with medical evidence. This view was not a widely reflected
+in evidence however, with the stronger opinion suggesting that where expert
+opinion was necessary for review, it should be sought from outside the
+Tribunal.
+An independent medical panel
+5.24 A number of witnesses including Mr Paatsch and Mr Abramovich
+suggested that the best way to receive and deal with medical evidence was to
+have it heard by an independent medical advisory board that would report on
+the medical evidence provided to it, and if necessary, provide an opportunity
+for a physical examination of the complainant.12
+SCTREV Sub No 20
+Vernon, Evidence, p 110
+Evidence, p 116
+Abramovich, Evidence, p 11
+Evidence, p 116
+12
+
+
+5.25 The proposal of AIST provided to the Committee allowed for:
+. the establishment of a review panel chaired by an independent person,
+approved by or acceptable to the Tribunal, together with member and
+insurer representatives; and
+. the ability of the review panel:
+to bind the insurer;
+to follow certain procedural guidelines for hearing claims set down
+by the Tribunal; and
+to access the same independent panel of doctors to advise them on
+the veracity of competing sets of medical evidence.13
+5.26 Ms Nerida Wallace of Transformation Management suggested the use of
+panels are a useful way of stopping an escalation of ‘duelling panels’,14
+although she noted concern has been expressed in legal circles about doctors
+considering ‘issues of fact’ without the necessary qualification.15 Ms Wallace
+cited this as being a particular concern in jurisdictions where the certificates of
+medical panels are binding or conclusive and reasons are not given, noting that
+this matter was the subject of a Full Court appeal.16
+5.27 The submission of Transformation Management made the observation
+that medical panels tend to fail where:
+. cases are not screened out and the facts are not established prior to
+hearing;
+. the best medical experts are not used; and
+• courts or tribunals are allowed to consider other opinions as well as those
+of the medical panel when hearing cases.
+5.28 Consequently, Transformation Management recommended that:
+• medical panels should be used sparingly and as a place of last resort;
+SCTREV Sub No 27
+Wallace, Evidence, p 172
+SCTREV Sub No 31
+SCTREV Sub No 31
+
+
+. their members be paid commensurate with their other work;
+• preliminary screening processes be employed were possible; and
+. doctors not be required to establish facts outside their area of medical
+expertise.17
+Internal claims review committee
+5.29 In instances where total and permanent disability claims are made by a
+member of C+BUS and are denied by the insurer, they are reviewed by the
+National Claims Manager of the C+BUS Administrator and then forwarded to
+the trustee for review. If the trustee requires further medical evidence or if the
+insurer has made an error, the claim is referred back to the insurer for
+reassessment. If the insurer denies the claim and the trustee believes that it
+should not be denied, with the agreement of the member, the claim is referred
+to the Claims Review Committee for determination.18
+5.30 Under this process of review by the Claims Review Committee, which is
+comprised of a representative of the insurer, a representative of the member
+appointed by the national office of the union covering the occupation of the
+member concerned19 and an independent chairperson, claims are determined on
+the basis of fairness and reasonableness and not legal precedent or legal
+. 20
+argument.
+5.31 C+BUS proposed that where funds provide satisfactory internal review,
+whether medical evidence is considered or not, that the right of review to the
+Tribunal be relinquished by the member. Ms Robertson of C+BUS described
+the potential role of internal review committees, such as that operated by
+C+BUS, by saying:
+Our model does not resolve everything, but ... when medical
+evidence comes as part of the tribunal’s process, there ought to be
+some consideration given to those funds which have in place
+[such] a process.21
+17 SCTREV Sub No 31
+18 SCTREV Sub No 12
+19 SCTREV Sub No 12
+20 SCTREV Sub No 12
+21 Evidence, p 83
+
+
+5.32 Indeed, the existence of such a process would support an assertion that
+the trustee’s decision was fair and reasonable, in which case the Tribunal is
+required by the Act to affirm the trustee’s decision. The Committee agrees with
+Mr Berrill’s submission that:
+a tribunal could, should, take into account the quality of the
+alternative dispute resolution process in assessing whether the
+decision has been unfair and unreasonable.22
+5.33 C+BUS sees internal review of complaints involving medical evidence as
+a worthwhile alternative to review of medical evidence by the Tribunal. Whilst
+administration of C+BUS in this respect is quite advanced, the Committee
+believes that, even if all funds could achieve the same degree of sophistication
+in their internal reviews, it is not reasonable to remove the right of appeal to the
+Tribunal.
+5.34 Mr Goldberg of Andrew Fairley noted that while this system may be ‘all
+right for the big players’ small funds would not have the resources.23
+Mr Paatsch of AIST stated:
+What we are advocating is the approved review panel process for
+funds with the capacity to implement it, but we are saying they
+should get access to the same medical advice that the Tribunal
+does, they should be subject to procedural guidelines set out by the
+Tribunal and they should have an independent chair which is either
+approved by the Tribunal or comes from a body of people who are
+approved by the Tribunal.24
+The impact of the Tribunal hearing medical complaints
+5.35 The Tribunal has acknowledged that the inclusion of medical complaints
+evidence within the Tribunal’s jurisdiction will increase the number of
+complaints it handles.25 Due to the uncertainty as to the quantity of medical
+evidence complaints that the Tribunal may receive, LIFA has recommended a
+cautious approach by placing a cap on the size of claims which can be
+22
+Evidence, p 101
+Evidence, p 129
+Evidence, p 115
+SCTREV Sub No 19
+25
+
+
+determined by the Tribunal.26 Mr McCutcheon of LIFA suggested that
+$100 000 was an appropriate cut-off mark.27
+5.36 LIFA expressed its desire that the ‘cut-off point for making medical
+evidence complaints should be the earlier of either 24 months from the
+cessation of employment due to disablement, or 12 months from the date of the
+trustee’s decision to not pay the disablement benefit.28
+Conclusions
+5.37 The Committee notes that ‘no matter how many processes we put in
+place ... there is still recourse to law’.29 It is not persuaded that access to the
+Tribunal should be determined by internal arrangements in individual funds.
+5.38 The Committee is concerned that funds’ internal review processes, as
+required and supported by section 101 of the Act, work to the maximum
+efficiency. In this respect the Committee commends the arrangements outlined
+by C+BUS in their evidence, and discussed above. With internal review
+arrangements of the quality of C+BUS, the Committee would expect the
+Tribunal to be used only in the case of serious breakdown in member-fund
+relationships.
+5.39 The Committee considers an objectively efficient and transparent internal
+review process within a fund would itself add weight to the Tribunal’s
+deciding, should a complaint against the fund come before it, to consider the
+trustee’s decision ‘fair and reasonable’. If the Tribunal so finds, it is required
+under the Act to affirm the decision.
+5.40 The Committee was concerned that some witnesses seemed unaware of
+this requirement under the Act for the Tribunal to affirm the trustee’s decision
+if it is satisfied that the decision was fair and reasonable in all the
+circumstances.
+5.41 The Committee believes that medical evidence would best be dealt with
+by standard Tribunal practice, except where the use of medical experts on the
+panel is considered necessary in the circumstances of the particular case.
+26
+SCTREV Sub No 29
+Evidence, p 151
+SCTREV Sub No 29
+Robertson, Evidence, p 85
+29
+
+
+Time limitations
+5.42 Regulation 4 of the Superannuation (Resolution of Complaints)
+Regulations now excludes disability complaints where the decision was made
+before 1 November 1994, or where more than one year has elapsed since the
+decision to which the complaint relates, or where the person fails to lodge a
+claim for a disability benefit with the trustees within one year of permanently
+ceasing employment due to disability.
+5.43 The implications for funds which arise from the ability of members to
+lodge complaints involving medical evidence were heard from a number of
+witnesses, including LIFA, AIST and the Seafarers Retirement Fund.30
+5.44 The Seafarers Retirement Fund, a defined benefit and self-insured fund,
+provided evidence that the time allowances for claims will have financial
+implications for funds in general, and for itself in particular.31 Additionally,
+AIST noted that at the time of providing its submission, the exposure of
+trustees to claims was not met by any commensurate binding of insurers. The
+amendments to the SRC Act now enable the Tribunal to review insurer
+decisions relating to death and disability benefits provided through regulated
+superannuation funds. However, this was not in place by 1 November 1995.
+5.45 The Committee notes that members and funds had been on notice since
+November 1994 that the former Government intended to allow the Tribunal to
+receive medical complaints evidence.
+Trustee’s reasons
+5.46 There is no explicit requirement for the trustee of a superannuation fund
+to give reasons for its decisions.
+5.47 However, decisions of superannuation trustees relating to the payment of
+benefits such as total and permanent disability benefits are clearly within the
+realm of public decisions.
+5.48 The Committee notes the requirement for other decision makers in the
+public realm to provide reasons. Section 28 of the Administrative Appeals
+Tribunal Act 1975 provides:
+SCTREV Sub Nos. 29, 27 and 23 (Supp)
+SCTREV Sub No 23 (Supp)
+
+
+(1) Where a person makes a decision in respect of which an
+application may be made to the Tribunal for a review, any person
+... who is entitled to apply to the Tribunal for a review of the
+decision may, ... request that person to furnish to the applicant a
+statement in writing setting out the findings on material questions
+of fact, referring to the evidence or other material on which those
+findings were based and giving the reasons for the decision, and
+the person who made the decision shall, as soon as practicable but
+in any case within 28 days after receiving the request, prepare, and
+furnish to the applicant, such a statement.
+5.49 Evidence was received from Barker Gosling, the Consumer Credit Legal
+Service, Larry Rees, John Moratelli of the New South Wales Legal Aid
+Commission, David Vernon of Jacques Martin, and Sonia Nolan that the
+provision of a trustee’s statement of reasons to the complainant would greatly
+facilitate the Tribunal’s capacity to make fair and robust decisions. Mr Noel
+Davis of the New South Wales Law Society also canvassed this issue, and
+submitted that ‘there should be a conscious decision on the part of the
+parliament as to whether or not the tribunal can ask trustees to give the reasons
+for their decisions’/2 It was Mr Abramovich’s submission that the Act ‘be
+amended to make it compulsory for trustees to give reasons for their
+decisions’.33
+5.50 The Committee also notes that the supplying of the trustee’s statement of
+reasons would also enhance the Tribunal’s capacity to execute its statutory duty
+to affirm the decision of the trustees if it is satisfied that the decision was fair
+and reasonable in all the circumstances.
+Recommendation 5,1; .
+The Committee recommends that where possible the trustees should
+provide reasons for their decisions.
+To whom should medical evidence be available?
+5.51 An issue associated with the giving of reasons is access to the medical
+evidence upon which the trustee’s decision was made - the material that
+contributed to the reasoning behind the decision. A superannuation fund
+Evidence, p 53
+Evidence, p 8
+33
+
+
+member does not have the right to access the medical evidence used by a
+trustee in making a decision to reject their claim. In contrast, those who seek to
+derive an income from the state in similar circumstances, such as disability
+benefit applicants, must be given reasons if their application is rejected and be
+given the opportunity to address any matters raised in the evidence used to
+make the decision. The basis of this seeming anomaly is the formation of
+superannuation funds as trusts. This is despite the important distinction
+observed by Bryson J that superannuation payments are ‘important entitlements
+in an employment relationship’ and are not ‘trusts for bounty or charity’.34
+5.52 Mr Proctor of the Consumer Credit Legal Service told the Committee:
+In no other case ... in which I have ever acted as a lawyer, have I not been able to get
+access to the information on which the opposing party makes its decision.35
+5.53 The issue of access is not only one of availability of information but also
+one of how it is conveyed and by whom. Ms Robertson of C+BUS and
+Mr Vernon of Jacques Martin expressed concern that if medical evidence were
+made available to members, it should be by reference through their own doctor
+in recognition of the sensitivities involved. Concern that medical records may
+contain information which would be harmful to a particular patient if disclosed
+has been argued in legal proceedings where patients have sought access to their
+medical records.36
+5.54 Finally, the question of whether patients have a legal right to their
+medical records is the subject of the matter of Breen v Williams, heard by the
+High Court on 21 November 1995. The Court has reserved its decision. In
+Canadian jurisdictions, the existence of a fiduciary duty between doctor and
+patient has been argued and has been accepted as creating the right of access to
+medical records because the patient ‘entrusts’ personal information to the
+doctor for medical purposes. There has not been a wholesale endorsement of
+this approach in the Australian courts.37 The interesting distinction between
+Breen and the situation of superannuation trustees is that there is no dispute
+that superannuation trustees have a fiduciary relationship with the members.
+Vidovic v Email Superannuation Pty Ltd, Supreme Court (NSW), Equity Division, File No 2745/86, pi 1
+Evidence, p 80
+Parkinson, “Before the High Court Fiduciary Law and Access to Medical Records: Breen v Williams”,
+(1995) 17 Sydney Law Review 433 at 435
+37
+Ibid
+
+
+CHAPTER 6
+AN INDEPENDENT CONSUMER ADVICE SERVICE
+6.1 The Committee examined the evidence for and against the establishment
+of an independent advice service and whether such a service should be
+government funded.
+Yes please - the case for an independent consumer advice service
+For consumer protection
+6.2 Throughout the evidence there was an impression of the complexity of
+superannuation arrangements producing confusion and an imbalance in the
+relationship between funds and their members. Ms Jenni Mack, former Director
+of Australian Federation of Consumer Organisations (AFCO), was clear in her
+view:
+there is an obvious need for a special community based
+superannuation legal service. The limitations of the tribunal are
+obvious. It is not able to provide detailed advice to consumers and
+it does not provide legal representation, nor should it.
+6.3 Ms Mack indicated how the need for special legal centres had been well
+acknowledged and already existed in the tenancy, credit and welfare areas. She
+said:
+Superannuation is very complex and the public is very confused
+about it. I think there is a need for such a service to provide advice,
+education, legal representation, policy advice to government and to
+negotiate with industry to improve its practices.
+6.4 The role of such a service in education and information was highlighted
+by Mr John Goldberg who considered 'the consumer elements of it have to be
+addressed'. He considered:
+Tribunals, disputes resolution, complaints, et cetera all have that
+adversarial feel about them.3
+Evidence, p 162
+Evidence, p 162
+Evidence, p 132
+
+
+Review of the Superannuation Complaints Tribunal
+6.5 Educational needs were also considered by Mr Philip Noonan, Executive
+Director of the Federal Bureau of Consumer Affairs (FBCA). He said of
+superannuation:
+because of its inherent complexity, consumers need not only access
+to information, but also assistance in interpreting that information.
+Ideally, that interpretation or oral advice needs to be independent.4
+6.6 The FBCA recommended the establishment of a superannuation advisory
+service through the use of an existing consumer credit legal centre. If such a
+service were to be funded by government 'it could be reviewed after two years
+to ascertain its effectiveness'.5
+6.7 Superannuation is becoming something of a specialised field with
+lawyers becoming important players. With the great percentage of all workers
+now members of superannuation funds as a result of the government's
+initiatives, there is a push for lower income workers to be protected. The
+Australian Council of Social Service (ACOSS) indicated the need for 'separate
+and distinct services' and said:
+There are advantages in locating such services within community
+legal centres; which have a high profile in the local community and
+can provide much of the infrastructure such a service requires.6
+As a means of comparing funds
+6.8 One of the problems for members and potential members of
+superannuation funds is how to assess the relative performance and integrity of
+different funds. Where choice of fund is available to an individual, the question
+is then on what rational basis can the choice be made. The WA Shearing
+Contractors Association submitted:
+if a consumer advisory service was established, it would be the
+ideal organisation to ensure that a mechanism to provide a uniform
+comparison of the performance of all superannuation funds,
+especially those open to the general public, could be implemented.
+Evidence, p 202
+SCTREV Sub No 16
+SCTREV Sub No 30
+SCTREV Sub No 8
+
+
+The last word - from a consumer
+6.9 Given the potential complexity of a superannuation dispute it was put to
+the Committee that assistance from a specialist legal service was considered
+appropriate:
+A private Lawyer at $180.00 per hour is not a viable option.8
+No thanks - the case against an independent consumer advice service
+6.10 The Insurance and Superannuation Commission (ISC) did not consider
+such a Government funded service to be 'necessary or desirable'. It submitted
+two 'administrative and policy reasons for this view'.9 First, it considered such a
+service could jeopardise the ability of the Tribunal to operate as a fair,
+economical, informal and quick disputes resolution mechanism as it is required
+to do under the Act. Lawyers from such a service would apply pressure to
+represent complainants before the Tribunal according to the ISC. It said:
+This could make the SCT more legalistic in its approach and
+expanded members of staff would be needed to interpret complex
+legal submissions. The result would be a Tribunal that is slow,
+expensive, formalistic and unlikely ... to produce outcomes that are
+r ■ 10
+any tairer.
+6.11 Secondly, the ISC pointed to the 'range of administrative measures to
+assist consumers in making complaints' alfeady put in place by the
+Government. These measures were listed as:
+. the obligation imposed on the Tribunal (section 16 of the Act) to assist
+persons in making a complaint (for example the Tribunal assists persons
+in putting their complaint in writing);
+. the Tribunal provides an interpreter service where necessary;
+. the Tribunal can be rung from anywhere in Australia for the cost of a
+local call;
+. regional offices of the ISC can assist people wanting to make complaints
+to the Tribunal;
+SCTREV Sub No 34
+SCTREV Sub No 17
+SCTREV Sub No 17
+10
+
+
+. the existence and functions of the Tribunal are required to be disclosed to
+all members on joining a fund and each year in annual statements;
+. the ISC and the Tribunal are conducting a joint educational campaign
+about the Tribunal (including advertising in community newspapers);
+. the Tribunal has distributed over 32,000 copies of its publication on how
+to lodge complaints; and
+. there is no application fee for lodging a complaint with the Tribunal and
+no costs are charged to the member or the fund.11
+6.12 The ISC considered the Tribunal and its secretariat can be relied upon to
+provide accurate and impartial assistance in resolving complaints.12
+6.13 Mr Mikula, who at the time of the inquiry was the only community
+lawyer with the specific brief of superannuation, responded to the ISC’s
+assertion that it could assist complainants. He told the Committee that ‘the ISC
+has already approached me to see where and how it can refer people to me
+where it is basically unable to assist them’.13
+6.14 Perhaps the best summary of the ISC case was put by its Commissioner,
+Mr George Pooley, when he said the 'formal, adversarial and selective approach
+of a consumer legal service is in contrast to the Tribunal's charter to be
+informal, quick and low cost'. He continued:
+The tribunal is intended to provide an alternative to legal avenues,
+not an extension of them. In effect, consumer legal services seek to
+uncover and litigate disputes in a selective manner, while the
+intention with an informal complaints handling body is, ultimately,
+to encourage better industry practices so that disputes do not arise
+in the first place or else are resolved through internal processes.14
+Additional bureaucracy
+6.15 Always a legitimate question when proposing additional government
+funded bodies is the potential for increasing the administrative complexity of a
+situation for no added value. UniSuper considered that an independent advisory
+SCTREV Sub No 17
+SCTREV Sub No 17
+Mikula, Evidence, p 70
+Evidence, p 191
+14
+
+
+service should not be established regardless of the source of funding. It
+submitted:
+A fourth bureaucracy, alongside the ISC, SCT and ATO, would
+add to the confusion about superannuation which has already been
+observed in the community.15
+6.16 UniSuper considered the boundaries between superannuation and other
+financial services as blurred. Accordingly, ‘any consumer service should refer
+to all financial services’.16
+The Tribunal in the advisory role
+6.17 The role of the Tribunal in providing advisory services to people was
+alluded to by the ISC in evidence discussed earlier in this chapter. However,
+that tends to be only at the stage when people are ready to lodge a complaint
+against a fund. It was suggested that the Tribunal could play the role of a
+consumer advice centre in the way that 'equal opportunity tribunals around the
+country have a similar sort of role'.17
+6.18 The Law Society of New South Wales submitted that the Tribunal was
+'not an appropriate body to provide legal advice to consumers given its
+functions'.18 It submitted:
+The Tribunal is there to determine rights between parties, and it
+would detract from its public standing if it were to agitate on
+behalf of one party.19
+The final word - from a lawyer
+6.19 Mr George Raitt is a partner in the legal firm of Blake Dawson Waldron,
+a superannuation lawyer and a mediator accredited with the Australian
+Commercial Disputes Centre in Sydney and the Law Institute of Victoria.
+Mr Raitt submitted that an independent superannuation advisory service would
+be:
+an unnecessary expense ...[given] ... the focus of SIS upon internal
+complaints handling procedures and review by the Tribunal.
+15
+SCTREV Sub No 6 (Supp)
+16 SCTREV Sub No 6
+Paatsch, Evidence, p 118
+SCTREV Sub No 10
+SCTREV Sub No 10
+19
+
+
+The role of the service
+6.20 It was submitted that a specialised superannuation consumer advisory
+service should operate within the current structures.21 The existing legal advice
+structures are the private legal sector and the community legal service sector.
+Representatives from both of these sectors supported an advisory service.22
+6.21 In response to the ISC’s concern that such a service might make the
+Tribunal too legalistic, the community legal sector submitted that what the
+advisory service would provide would be:
+ongoing support to people who were able to represent themselves
+... [who] might ring up for advice occasionally or need to be told
+what documents to collect or to discuss particular issues that arise
+within those documents.23
+6.22 It was also put to the Committee that in cases where legal argument is
+needed, ‘the Tribunal clearly would benefit by having them properly argued
+before it’.24
+6.23 ACOSS envisaged the role of such services extending to 'information
+provision and education about consumer rights, as well as individual casework
+with clients who have complaints'.25
+Should the Commonwealth government fund such a service?
+6.24 If the decision is made to establish an independent advisory service, the
+C ommonwealth’s ‘policy decision to promote superannuation as the vehicle for
+national savings’ provides a strong argument for government funding of advice
+services for consumers.26
+6.25 Certainly the industry would be particularly unhappy with funding such a
+service.27 ASFA commented on a proposal to establish an industry-funded legal
+centre to redress the imbalance between consumers and superannuation
+SCTREV Sub No 33
+Mikula, Evidence, p 65
+Mikula, Evidence, p 65; Goldberg, Evidence, p 132
+Mikula, Evidence, p 65
+Mikula, Evidence, p 65
+SCTREV Sub No 30
+SCTREV Sub No 10
+Lockery, Evidence, p 35
+
+
+trustees. It said there was 'no merit' in requiring funds to support another
+organisation as they already finance the Tribunal, and added:
+If there are any shortcomings in the roles of the SCT it would be
+much better to extend its function than to require funds to support
+another body ... .28
+6.26 The Committee concurs with the comments of John Berrill, a partner in
+the legal firm of Maurice Blackburn & Co:
+It is our experience that there is much public ignorance and
+misunderstanding of superannuation. Many fund members are
+unaware of their rights and benefits. For example many are
+unaware of their entitlements to claim death and disability benefits
+and are confused as to their avenues of complaint.29
+6.27 While undoubtedly there is more information available as a result of the
+current ‘prudential regime’,30 the Committee agrees with Mr Berrill that:
+there is still a significant information gap which an independent
+superannuation advice service would assist in addressing.31
+Conclusions
+6.28 The Committee considers there is a case for a limited government funded
+superannuation consumer advice service and proposes that it operate out of
+existing community legal or credit advice centres. The Committee believes the
+track record of the funds is not yet at a satisfactory level, and this combined
+with the compulsory and complex nature of superannuation arrangements, is
+sufficient justification for the establishment of such a service.
+6.29 A concern of the Committee is that such a service needs to be contained.
+That means a restricted service to the individual service users, generally limited
+to two appointments, and restricted to advice and information only; not for the
+running of cases before the Tribunal or elsewhere.
+6.30 The Committee believes that over time people will become more aware
+of their superannuation rights and entitlements through the education and
+information programs of the ISC and other bodies. Therefore, the Committee
+28
+SCTREV Sub No 15 (Supp)
+SCTREV Sub No 28
+30 SCTREV Sub No 28
+SCTREV Sub No 28
+31
+
+
+advocates the life of the advisory service outlined in the above two paragraphs
+be limited to two years, at which time a further assessment of the advisory
+needs of superannuation members would be made. At that time, the
+government must review the experience of this type of educational advice and
+assess whether it is adequate.
+Reconuneodation 6A:
+The Committee recommends that a limited government funded
+superannuation consumer advice service be established within the existing
+community legal or credit advice centres; that there be a general limit of
+two appointments for each client; and that the service be restricted to
+providing advice and information only and not extend to the ranning of
+cases before the Tribunal* The Committee farther recommends that this
+arrangement be reviewed after two years and an assessment as to its
+adequacy be made at that time* __
+
+
+APPENDIX A
+LIST OF WRITTEN SUBMISSIONS
+
+
+Review of the Superannuation Complaints Tribunal
+
+
+APPENDIX B
+LIST OF WITNESSES AT PUBLIC HEARINGS
+SYDNEY, 9 AUGUST 1995
+Mr Mark Abramovich, Associate, Barker Gosling Legal Group
+Mr Noel Davis, Member, Superannuation Committee, Law Council of
+Australia
+Mr Peter Hutley, Executive Director, Investment Funds Association of
+Australia
+Mr Peter Kell, Senior Policy Officer, Australian Consumers Association
+Mr Kenneth Lockery, Federal President, Association of Superannuation
+Funds of Australia
+Mr Christian Mikula, Solicitor, Consumer Credit Legal Centre
+Mr John Moratelli, Legal Officer, Legal Aid Commission of New South
+Wales
+Mr Ben Slade, Manager, General Law, Legal Aid Commission of New
+South Wales
+MELBOURNE, 10 AUGUST 1995
+Mr Anthony Ashton, Secretary, Seafarers Retirement Fund
+Mr John Berrill, Partner, Maurice Blackburn & Co
+Ms Ellen Cardiff, Executive Director, Superannuation Complaints
+Tribunal
+
+
+Review of the Superannuation Complaints Tribunal
+Mr Colin Cassidy, Manager, National Claims and Insurance, Jacques
+Martin Industry
+Mr John Goldberg, Andrew Fairley and Associates
+Ms Helen Hewett, Deputy Fund Secretary, Construction and Building
+Unions Superannuation Fund
+Mrs Sonia Nolan
+Mr Dean Paatsch, Executive Officer, Australian Institute of
+Superannuation Trustees
+Mr Ian Proctor, Director, Consumer Credit Legal Service
+Ms Mavis Robertson, Fund Secretary, Construction and Building Unions
+Superannuation Fund
+Mr David Vernon, Manager, Market Development and International,
+Jacques Martin Industry
+Mr William Wilkinson, Chairperson, Superannuation Complaints Tribunal
+CANBERRA, 24 AUGUST 1995
+Mr Darren Davis, Assistant Manager, Operations, Life Insurance
+Federation of Australia
+Ms Jenni Mack, Australian Federation of Consumer Organisations
+Mr John McCutcheon, Life Insurance Federation of Australia
+Mr Lawrence Rees
+Mr Kenneth Robinson, Chairman, Superannuation Committee, Life
+Insurance Federation of Australia
+
+
+CANBERRA, 28 AUGUST 1995
+Ms Nerida Wallace, Principal, Transformation Management Sendees
+Ms Ellen Cardiff, Executive Director, Superannuation Complaints
+Tribunal
+Ms Amanda Doherty, Senior Officer Grade C, Federal Bureau of
+Consumer Affairs
+Mr Roger Freney, First Assistant Commissioner, Superannuation,
+Insurance and Superannuation Commission
+Mr John Larkin, Director (Policy), Policy, Legal and Actuarial Group,
+Insurance and Superannuation Commission
+Ms Janet Murphy, Assistant Secretary, Access, Education and Finance
+Branch, Federal Bureau of Consumer Affairs
+Mr Philip Noonan, Acting Executive Director, Federal Bureau of
+Consumer Affairs
+Mr Frederick Pooley, Commissioner, Insurance and Superannuation
+Commission
+Mr William Wilkinson, Chairperson, Superannuation Complaints Tribunal
+
+
+
+
+APPENDIX C
+LIST OF COMMITTEE REPORTS
+Super System Survey - A Background Paper on Retirement Income Arrangements in
+Twenty-one Countries (December 1991)
+Papers relating to the Bymwood Ltd, WA Superannuation Scheme (March 1992)
+Interim Report on Fees, Charges and Commissions in the Life Insurance Industry
+(June 1992)
+First Report of the Senate Select Committee on Superannuation - Safeguarding Super -
+the Regulation of Superannuation (June 1992)
+Second Report of the Senate Select Committee on Superannuation - Super Guarantee
+Bills (June 1992)
+Super Charges - An Issues Paper on Fees, Commissions, Charges and Disclosure in the
+Superannuation Industry (August 1992)
+Third Report of the Senate Select Committee on Superannuation - Super and the
+Financial System (October 1992)
+Proceedings of the Super Consumer Seminar, 4 November 1992 (4 November 1992)
+Fourth Report of the Senate Select Committee on Superannuation - Super - Fiscal and
+Social Links (December 1992)
+Fifth Report of the Senate Select Committee on Superannuation - Super Supervisory
+Levy (May 1993)
+Sixth Report of the Senate Select Committee on Superannuation - Super - Fees,
+Charges and Commissions (June 1993)
+
+
+Appendix C
+Seventh Report of the Senate Select Committee on Superannuation - Super Inquiry
+Overview (June 1993)
+Eight Report of the Senate Select Committee on Superannuation - Inquiry into the
+Queensland Professional Officers Association Superannuation Fund (August 1993)
+Ninth Report of the Senate Select Committee on Superannuation - Super Supervision
+Bills (October 1993)
+Tenth Report of the Senate Select Committee on Superannuation - Super Complaints
+Tribunal (December 1993)
+Eleventh Report of the Senate Select Committee on Superannuation - Privilege Matter
+Involving Mr Kevin Lindeberg and Mr Des O'Neill (December 1993)
+A Preliminary Paper Prepared by the Senate Select Committee on Superannuation for
+the Minister for Social Security, Options for Allocated Pensions Within the Retirement
+Incomes System (March 1994)
+Twelfth Report of the Senate Select Committee on Superannuation - Super for Housing
+(May 1994)
+Thirteenth Report of the Senate Select Committee on Superannuation - Super Regs I
+(August 1994)
+Fourteenth Report of the Senate Select Committee on Superannuation - Super Regs II
+(November 1994)
+Fifteenth Report of the Senate Select Committee on Superannuation - Super Guarantee
+- Its Track Record (February 1995)
+Sixteenth Report of the Senate Select Committee on Superannuation - Allocated
+Pensions (June 1995)
+Seventeenth Report of the Senate Select Committee on Superannuation - Super and
+Broken Work Patterns (November 1995)
+
+
+Eighteenth Report of the Senate Select Committee on Superannuation - Superannuation
+Complaints Tribunal Review (April 1996)
+
+
+
+
+APPENDIX D
+COMPLAINT PROCEDURE
+
+
+THE PARLIAMENT OF THE
+COMMONWEALTH OF AUSTRALIA
+PARLIAMENTARY
+PAPER
+No 6 of 1996
+ORDERED TO BE PRINTED
+ISSN 0727-4181

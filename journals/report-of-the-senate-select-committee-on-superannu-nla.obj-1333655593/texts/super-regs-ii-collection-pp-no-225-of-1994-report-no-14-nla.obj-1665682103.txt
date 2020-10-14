@@ -1,0 +1,2170 @@
+
+
+Super Regs II
+Fourteenth Report of the
+Senate Select Committee on Superannuation
+Parliament of the Commonwealth of Australia
+Superannuation Industry
+(Supervision) Regulations
+Statutory Rules 1994 No. 57
+November 1994
+
+
+
+
+Super Regs II
+Fourteenth Report of the
+Senate Select Committee on Superannuation
+Parliament of the Commonwealth of Australia
+Canberra
+November 1994
+
+
+© Commonwealth of Australia 1994
+ISBN 0 642 22131 6
+This document was produced from camera-ready copy prepared by the
+Senate Select Committee on Superannuation Secretariat, and printed by the
+Senate Printing Unit, Parliament House, Canberra.
+
+
+Members
+MEMBERS OF THE COMMITTEE:
+Senator John Watson Chair
+Senator Sue West Deputy Chair
+Senator Bruce Childs
+Senator Chris Evans
+Senator Alan Ferguson
+Senator John Woodley
+Tasmania
+New South Wales
+New South Wales
+Western Australia
+South Australia
+Queensland
+Secretariat Staff:
+Secretary:
+Principal Research Officer:
+Senior Research Officer:
+Senior Research Officer:
+Executive Assistant:
+Mr Richard Gilbert (to 14.10.94)
+Ms Krista Gerrard (from 17.10.94)
+Ms Krista Gerrard (to 14.10.94)
+Mr James Satrapa
+Ms Ann Settin
+Ms Janice Scarabottolo
+Address: The Senate
+Parliament House
+CANBERRA ACT 2600
+Telephone: (06) 277 3439
+(06) 277 5719
+Facsimile:
+
+
+
+
+CONTENTS
+Contents
+Page
+Members of the Committee. i
+Contents. iii
+Chapters:
+1. Introduction . 1
+2. Member Choice. 5
+3. The Sole Purpose Test and Charges over Assets. 33
+4. The Remaining Regulations. 45
+5. AWU-FIME. 61
+Appendices:
+A- Terms of Reference . 65
+B. List of Committee Reports and Papers. 67
+C. List of Written Submissions. 69
+D. List of Witnesses at Public Hearings. 71
+E. ASSET Portfolios for BIC. 73
+F. Selected Results of Survey on Beneficiary
+Investment Choice. 75
+G. Article in The Australian of 13 July 1994 . 77
+H. Letter from Hon. Paul Elliott, MP. 79
+
+
+
+
+CHAPTER 1:
+INTRODUCTION
+Introduction
+The object of this report is to examine concerns raised about the
+Superannuation Industry (Supervision) Regulations.
+Background
+1.1 Pursuant to the Superannuation Industry (Supervision) Act 1993 (the
+'SIS Act') are the Superannuation Industry (Supervision) Regulations,
+Statutory Rules No. 57 of 1994 (the 'SIS regulations'). These regulations
+were made on 4 March 1994, gazetted on 11 March 1994, and tabled in the
+Senate and the House of Representatives on 17 and 22 March 1994,
+respectively. The SIS regulations were referred to the Senate Select
+Committee on Superannuation on 16 March 1994. The terms of reference
+of this inquiry appear at Appendix A.
+1.2 The SIS regulations prescribe the standards to apply in relation to an
+extensive array of issues, including the provision of information for members
+and other persons, matters associated with public offer entities, the
+management and trusteeship of superannuation entities, minimum benefits,
+payment standards (formerly known as preservation standards), contributions
+and benefit accruals, the financial management of funds, eligible rollover
+benefits, information to be given to the Insurance and Superannuation
+Commissioner, pre-1 July 1988 funding credits, and a number of
+miscellaneous and transitional provisions.
+The issues
+1.3 Beneficiary investment choice (otherwise known as 'member choice
+or 'member investment choice'), the standards for which are prescribed
+
+
+under SIS regulation 4.02, was the issue which drew the largest response in
+terms of submissions and evidence given at the hearings. A number of other
+equally important issues that were raised included the possible impact that
+the prohibition of charges over assets under SIS regulation 13.14 would have
+on funds' custodial services; whether partial disability benefits would conflict
+with the sole purpose test; whether the new preservation requirements
+should be implemented earlier; whether the age at which a person is
+deemed to have retired should be lowered; and the controversy surrounding
+the arrangement between the AWU-FIME and the administrator of the
+Nationwide Superannuation Fund, the Professional Services Investment Pty
+Ltd (PSI).
+Conduct of the inquiry
+1.4 On 24 March 1994, the committee wrote to about 400 persons and
+organisations on its mailing list. Thirty six written submissions were received.
+The list of written submissions appears at Appendix C.
+1.5 The committee conducted public hearings on 20 and 23 June 1994
+in Canberra and heard evidence from AWU-FIME and PSI on
+19 September 1994. A list of witnesses who gave evidence at these hearings
+appears at Appendix D.
+Superannuation (Resolution of Complaints) Regulations: Update
+1.6 On 29 August 1994, the committee tabled its thirteenth report,
+Super Regs /, on the Superannuation (Resolution of Complaints)
+Regulations. On the same day, the Senate resolved to disallow these
+regulations. On 17 October 1994, the Senate rescinded that resolution.
+1.7 The Government has stated that a new regulation is to be made
+which will exempt medical evidence for six months. However, during this
+period, the Superannuation Complaints Tribunal is 'to evaluate ways of
+dealing with complaints involving medical evidence'.1
+1
+Press Release No. pstl9, by the Parliamentary Secretary to the Treasurer,
+13 October 1994
+
+
+1.8 Also on 17 October 1994, Senator Sherry, at Senator Watson's
+request, said that the Government now favours giving the Tribunal resources
+and powers to deal with the consideration of medical evidence, and will take
+steps to ensure that this occurs from the date of expiry of the proposed new
+exemption regulation.2
+1.9 On 1 November 1994 the Superannuation (Resolution of
+Complaints) Regulations (Amendment), Statutory Rules 1994 No. 374, were
+notified in the Commonwealth of Australia Gazette.
+1.10 The new Regulation 4 commences on gazettal, 1 November 1994,
+and ceases six months thereafter. Regulation 4 reads:
+(1) For the purposes of the definition of 'excluded subject matter' in section
+3 of the Act, excluded subject matter is matter in relation to which the Tribunal,
+in dealing with the matter:
+(a) would have to undertake the assessment or evaluation of medical
+evidence, opinion or reports; or
+(b) would have to consider, having regard to medical evidence, opinion
+or reports, the question of a person's incapacity; or
+(c) would be likely to have to perform a function mentioned in
+paragraph (a) or (b).
+(2) This regulation ceases to have effect at the end of 6 months after it
+commences.
+1.11 As at 15 November 1994, Statutory Rules 1994 No. 374 had not been
+tabled.
+Acknowledgments
+1.12 The committee records its appreciation of the written submissions
+and oral evidence to this inquiry. In particular, the committee acknowledges
+the diligence and cooperation of the Insurance and Superannuation
+Commission (ISC) in resolving a number of issues which were raised in
+submissions before the hearings were conducted. The committee also
+expresses its appreciation for the cooperation extended by Brian Scott of
+2
+Senate Hansard, 17 October 1994, p 1811
+
+
+Towers Perrin in enabling the committee to use the survey information
+referred to in this report.
+
+
+CHAPTER 2:
+MEMBER CHOICE
+Member Choice
+Beneficiary investment choice must be within the investment strategy laid
+down by the trustee for the fund as a whole.
+Introduction
+2.1 This chapter examines the issue of members' right to choose funds
+and the effect of SIS legislation upon funds which offer their beneficiaries
+choice in how their superannuation money is invested. It also examines the
+feasibility of mandating the right of beneficiaries to choose investments.
+Member choice
+2.2 Member choice has two key strands:
+• choice of fund membership; and
+• members and beneficiaries of funds choosing investment strategies
+offered by trustees.
+Choice of funds
+2.3 If a voluntary member of a public offer fund is dissatisfied with the
+performance of the fund, regardless of the investment strategies on offer,
+that member is free to move his/her money to another fund, which would
+necessarily be another public offer fund.
+2.4 That freedom of fund choice is not fully available to all members of
+standard employer-sponsored funds, usually industry funds, frequently
+because of the conditions imposed by a governing award.
+State awards - choice of funds
+2.5 However, the committee notes that most states (New South Wales,
+Victoria, Tasmania and Western Australia) have enacted legislation affecting
+state awards which allows superannuation payments to be paid into a fund
+
+
+of the employee's choice, provided the employer agrees. South Australia
+does not have such legislation but was apparently discussing changes similar
+to those enacted in New South Wales.3 The extent to which fund members
+have taken advantage of these opportunities is unknown to the committee.
+Federal awards - choice of funds
+2.6 The Department of Industrial Relations (DIR) has previously
+provided the committee with the results of a survey of major state and
+federal awards (those covering over 10,000 employees).4 At the time of the
+DIR survey, ten major federal awards had been identified in the Australian
+Bureau of Statistics Award Coverage Survey. Only two of these ten awards
+did not provide any choice of fund. Of the rest, two allowed the individual
+employee the choice of funds nominated under the award. Membership of
+funds in the remaining six awards were generally decided by agreement of
+the union members or following discussions between employers and unions.
+(See Table 1.)
+2.7 The test case decision handed down on 7 September 1994 by the
+Australian Industrial Relations Commission (AIRC) about what provision,
+if any, awards of the AIRC should contain with respect to employee
+contributions, left the choice of fund provisions intact.5
+2.8 The recent introduction of enterprise bargaining may have been
+expected to introduce an extra element of choice for a substantial number
+of workers. However, the DIR recently advised the committee that as at
+13 September 1994, superannuation provisions have been a feature in only
+428 of the 2,461 enterprise agreements made, with 332 of those agreements
+dealing with the issue of choice of fund.6 Of those 332 agreements, 235
+(71%) provided no choice of fund:
+• 205 provisions specify one fund only;
+Superfunds, The brave new world of industry super', by Beth Quinlivan,
+April 1994, p 18
+4 Submission No 81 to the committee's original inquiry, sent 1 May 1992
+5 Australian Industrial Relations Commission Superannuation Test Case,
+Melbourne, 7 September 1994, Print No L5100
+6
+SGCREV Sub No 94
+
+
+Table 1
+Source: Adapted from 'Survey of Major Awards - Superannuation Provisions' prepared and
+supplied by Mr Grant Doxey, Director, Employment Conditions Section, Department of Industrial
+Relations
+
+
+84 agreements provide a choice of two or more funds for
+superannuation contributions;
+• 30 agreements specified the fund in relation to Superannuation
+Guarantee (SG) contributions; and
+• 13 superannuation provisions did not limit payments to any specific
+fund.
+It is possible that the reduced number of employees in any given enterprise
+agreement, vis-a-vis an award agreement, resulted in restricted choice to
+facilitate employers' administration of their superannuation obligations.
+High Court judgment
+2.9 On 1 July 1993, the High Court held that, special circumstances
+aside, an award cannot require employer superannuation contributions
+which are made in respect of employees who are not members of a union
+to be paid into a specified fund. This judgment of the High Court may
+facilitate some members having a greater choice in nominating their
+superannuation fund.
+Beneficiary investment choice (BIC)
+The legislation
+2.10 The SIS legislation prescribes the circumstances in which a trustee
+may be given directions, thereby allowing the beneficiaries of a fund to
+choose an investment strategy or a combination of strategies offered by the
+trustee. However, such choices, known as beneficiary investment choices
+(BIC), are only possible at the discretion of the trustee.
+2.11 Subsection 52(4) of the SIS Act states that:
+An investment strategy is taken to be in accordance with paragraph (2)(f)
+[concerning the covenant requiring trustees to formulate and give effect
+to an investment strategy] even if it provides for a specified beneficiary
+or a specified class of beneficiaries to give directions to the trustee,
+where:
+7
+Re Financial Sector Union of Australia; Ex Parte Financial Clinic (Vic) Pty Ltd
+and Others, 178 CLR 352
+
+
+(a) the directions relate to the strategy to be followed by the trustee in
+relation to the investment of a particular asset or assets of the
+entity; and
+(b) the directions are given in circumstances covered by regulations
+made for the purposes of this paragraph.
+2.12 The regulation made for the purposes of paragraph 52(4)(b) of the
+Act is SIS regulation 4.02:
+REGULATION 4.02 COVENANTS IN GOVERNING RULES OF A
+SUPERANNUATION ENTITY - BENEFICIARY INVESTMENT
+CHOICE
+4.02(1) [Circumstances in which directions may be given] For the
+purposes of paragraph 52(4)(b) of the Act, the circumstances in which a
+direction of the kind referred in that paragraph (other than a subsequent
+direction of that kind) may be given are:
+(a) in the case of a direction by a specified beneficiary who is, or a
+class of specified beneficiaries each of whom is, a standard
+employer-sponsored member - the circumstances stated in
+subregulations (2) and (3); and
+(b) in any other case - the circumstances stated in subregulation (2).
+4.02(2) [Choice of investment strategies] For the purposes of
+paragraphs (l)(a) and (b), the following circumstances are stated, namely
+that:
+(a) the trustee gives to the beneficiary, or to each member of the class
+of beneficiaries, a choice of 2 or more investment strategies from
+which the beneficiary, may choose a strategy, or combination of
+strategies; and
+(b) the beneficiary, or each member of the class of beneficiaries, is
+given:
+(i) the investment objectives of each of the strategies mentioned
+in paragraph (a); and
+(ii) all information the trustee reasonably believes a person
+would reasonably need for the purpose of understanding the
+effect of, and any risk involved in, each of those strategies;
+and
+
+
+(c) the beneficiary, or each member of the class of beneficiaries, is fully
+informed of the range of directions that can be given and the
+circumstances in which they can be changed; and
+(d) the direction is given after compliance with the above paragraphs,
+and the direction specifies:
+(i) which of the strategies or which combination of strategies
+referred to in paragraph (a) is to be followed in relation to
+investments of the beneficiary's or class of beneficiaries'
+interest in the fund; and
+(ii) where applicable, matters related to the choice referred to
+in that paragraph.
+2.13 This type of choice which is allowed by the legislation can and
+should be distinguished from the kind of member-directed investment
+choice where the trustee is required to implement any investment or
+investment strategy for a member at the direction of that member.
+The legislation is concerned with existing investment strategy options
+which a trustee can offer fund members.
+The main concerns about BIC
+2.14 The evidence taken by the committee indicated that there is broad
+support for BIC. However, a number of concerns were expressed about the
+manner in which BIC would operate under the SIS regime. These concerns
+merit serious consideration by trustees and the regulator, the ISC.
+2.15 Some evidence suggested that BIC be a requirement rather than an
+option for some or all superannuation funds, either on moral/ethical
+grounds, or as a means of ensuring that members achieve optimal returns on
+their superannuation savings investments (under BIC, investment decisions
+could take into account such factors as the member's age, marital status,
+gender and financial commitments), or to discourage the establishment of
+excluded funds which would not be bound by the constraints on BIC in the
+
+
+legislation.8 Others expressed concern that SIS regulation 4.02 undermined
+the basis upon which a number of master funds operate, namely: the right
+of investors to select and formulate investments that are appropriate to their
+own preferences and circumstances.9
+Beneficiaries with limited choice
+2.16 The committee considers that the lack of choice available to standard
+employer-sponsored (compulsory) members of some funds warrants closer
+examination than has occurred in its previous inquiries into the regulation
+of superannuation. In contrast, the committee has fewer concerns in this
+regard about voluntary members of public offer funds (including master
+trusts) who could become members as an act of personal choice and who,
+in many cases, are offered the opportunity to select a preferred investment
+strategy.
+2.17 As noted previously, the voluntary members of public offer funds
+retain the option of transferring their accrued entitlements to other funds
+if they are dissatisfied with a fund's performance, even though exit fees may
+be substantial. Such an option may not be available to members of some
+funds where their membership of a fund is compulsory as a consequence of:
+(i) conditions of an award negotiated with the Industrial Relations
+Commission; or
+(ii) the employer's choice of fund into which compulsory superannuation
+contributions will be paid under the Superannuation Guarantee
+(Administration) Act 1992, or
+(iii) agreed conditions of employment.
+8 Howard Pender, Australian Ethical Investment Trust, and Caroline Le Couteur,
+August Financial Management Limited; Evidence, pp 11-22 and
+SISREG Sub No 15
+Jock Rankin and Judith Towler, Financial Planning Association,
+Evidence, pp 37-59 and SISREG Sub No 11
+Sly & Weigall, Lawyers, SISREG Sub No 13
+9 J K Tidswell, SISREG Sub No 3; R E Nixon, Freedom of Choice, SISREG Sub
+No 4; Don Blyth, Trustee Corporations Association, SISREG Sub No 6
+
+
+2.18 However, as noted in paragraph 2.5, recently enacted state legislation
+enables limited mobility for some fund members.
+Fund members at risk
+2.19 Several factors, especially when taken together, appear to prejudice
+beneficiaries whose membership of funds is compulsory (standard employer-
+sponsored members). These factors are:
+(i) the general shift from defined benefit funds to accumulation funds,
+following the introduction of award superannuation and the SG
+legislation, moved the investment risk in the pre-retirement stage of
+a beneficiary's career from the employer to the beneficiary;10
+(ii) employers choose the fund to which the compulsory SG
+contributions are paid; and
+(iii) trustees are protected from liability for poor investment performance
+where investments have been made in accordance with an investment
+strategy formulated under the relevant covenant in the SIS Act.11
+It can be argued that the outcome of these factors operating together is that
+most standard employer-sponsored members are required to bear the
+investment risk without having the power to effect the investment outcome.
+But countering this line of reasoning is the view that the majority of
+beneficiaries are not in a position to make prudent judgments on
+superannuation investments. These two arguments need to be carefully
+assessed.
+10 (i) Financial Planning Association, SISREG Sub No 11
+(ii) From an edited transcript of a presentation by Robert Birnbaum, of
+J.P. Morgan, on 19 July 1994 at the J.P. Morgan Industry Funds
+Symposium in Sydney, provided by the Australian Institute of
+Superannuation Trustees Inc
+(iii) David M. Knox, A Critique of the Direction of Current Superannuation
+Developments Using a Simulation Approach'; Colloquium of
+Superannuation Researchers, University of Melbourne, 8-9 July 1993
+11 (i) Financial Planning Association, SISREG Sub No 11
+(ii) Subsection 55(5) of the SIS Act 1993
+
+
+Defined benefit funds
+2.20 The Life Insurance Federation of Australia (LIFA) submitted that
+BIC was inappropriate in the case of defined benefit funds because benefits
+are not directly related to investment earnings.12 While this argument has
+some merit, it could not be extended to all defined benefit funds, as some
+of these funds have benefits which are supplemented by member generated
+accumulation components. In respect of this component of a member's
+superannuation plan, there is a role for an element of member choice.
+Advantages of BIC
+2.21 The advantages of BIC were perceived to be that:
+(i) it allows members to personalise their superannuation investments;
+(ii) it allows members to complement their existing superannuation and
+non-superannuation investments;
+(iii) it gives members what they want;
+(iv) it would alter the current level of fiduciary responsibilities and
+obligations of trustees; and
+(v) it avoids possible inequities in accumulation schemes by not having
+to use smoothing and reserving.13
+Drawbacks of BIC
+2.22 However, BIC has some possible drawbacks, namely, the perception
+that:
+(i) overly conservative choices would be made by beneficiaries;
+(ii) member benefits would no longer be protected by informed
+investment decisions made by investment professionals;
+12
+13
+Supplement to SISREG Sub No 17
+Towers Perrin, Topics, 'Results of survey on member investment choice,
+May 1994
+
+
+(iii) generally members are not sufficiently sophisticated to make
+informed long term investment decisions;
+(iv) BIC would interfere with trustees responsibility to protect their
+members superannuation savings;
+(v) increased difficulty of administration would result; and
+(vi) the added cost of introducing BIC could not be justified.14
+Costs
+2.23 LIFA estimated that the cost to a fund of introducing BIC into an
+existing accumulation scheme could be about 10 cents per member per
+month, plus a $20 charge for switching between options. This estimate took
+into account costs involving:
+• trust deed amendments, processing of BIC requests, and various
+disclosure requirements;
+• the development and implementation of the investment strategies;
+and
+• advice to members.15
+The estimate assumed that:
+(i) the charge would be applied to all members of a fund rather than
+those who use the service;
+(ii) there was no computer enhancement;
+(iii) there was no personalised advice;
+(iv) the choice was only available on joining and then annually; and
+14 Towers Perrin, Topics, 'Results of survey on member investment choice',
+May 1994
+SISREG Sub No 17, supplementary
+15
+
+
+(v) there would be a choice of four investment options for existing
+balances and/or future contributions.
+LIFA estimates did not take into account certain investment costs such as
+buy/sell expenses.16
+2.24 Where a 'user pays' principle is introduced, the cost per user would
+be higher. One estimate is that the cost of installing member choice was
+about $70 to $80 per head, but with little extra cost thereafter.17
+Jacques Martin estimated that based on the US experience (see below),
+administration costs, if spread across all members, will rise by between 25 to
+50 per cent for simple investment choice arrangements.18 For more
+complex arrangements, the costs could double.
+2.25 While these estimates are approximate, the committee considers that
+the introduction of BIC into a fund need not be accompanied by substantial
+costs, particularly if, in the case of industry funds, simple choices are made
+available.
+2.26 The following case study indicates to the committee that if BIC were
+to be integrated into a new fund's administrative systems from the outset,
+albeit in its simplest form, it may not add appreciably to the financial burden
+imposed on a fund and its members.19
+2.27 Queensland Coal and Oil Shale Mining Industry Superannuation
+Fund (QCOS) (see paragraph 2.33 below), an industry fund which
+introduced BIC after the fund was established, found that BIC generated
+extra costs associated with providing information to members as part of a
+communication program designed to both inform and educate members of
+16
+SISREG Sub No 17, supplementary
+17 Estimate attributed to Robert Birnbaum of J P Morgan in Barrie Dunstans
+column in the Financial Review on 27 July 1994; article titled 'Super tund
+investment choice still a long way off
+18 SISREG Sub No 32
+19 Information supplied by State Street - SISREG Sub No 35
+
+
+Case Study:
+The Australian Superannuation Savings Employment Trust (ASSET),
+is an industry fund which has been offering simple BIC since it was
+established (see Appendix E). The trustees charge members of the fund
+about 85 cents per person per week in administrative fees, which
+appears to be in a competitive price range for industry funds. As BIC
+was an integral part of the services administered for the fund, it is not
+possible to clearly quantify the cost of providing that option. However,
+it seems that the administrative costs charged to the members of that
+fund would not be appreciably less if members did not have the option.
+the fund into investment choice.20 Despite this, the fund was proceeding
+with the program, which was comprehensive in its scope (detailed further at
+paragraph 2.66 below).
+Choosing choice
+2.28 The committee considers that in principle it is appropriate for both
+choice of fund and BIC to be available to all members of superannuation
+funds as it believes this would:
+(i) promote competition between funds;
+(ii) enhance consumer understanding of superannuation; and
+(iii) empower individual members of funds to influence their
+superannuation arrangements and provide them with an increased
+sense of ownership of their superannuation balances, thereby
+assisting them in achieving the objectives of self provision in the
+Government's retirement incomes policy.
+2.29 The committee considers that the advantages to beneficiaries would
+easily outweigh the disadvantages provided that beneficiaries were more fully
+20 Greg Bright, Case Study Two: 'Costs rise with choice of investment' in article
+titled 'It's a whole new ball game', Super Review; August 1994
+
+
+informed and educated to the range and nature of investment opportunities
+available. These advantages could be enhanced if members were also given
+some practical information as to how the various investment options could
+be used to optimise their superannuation entitlements given their individual
+circumstances and preferences.
+2.30 The obvious advantages of BIC increasingly will be embraced by the
+community and be reflected in market forces which will further its cause.
+As homogenous investment strategies will be perceived by many members
+to be inadequate for their individual needs, it is expected that members, and
+possibly their representatives, who in some funds, act on their behalf, will
+demand greater choice in the manner in which their money is invested.
+Similarly, trustees and investment managers of funds would be expected to
+perceive that they should offer their members choices which would more
+closely suit their needs.
+The current market
+2.31 The committee is encouraged to learn that some industry funds are
+already offering BIC. As noted in the case study, one such fund, ASSET,
+offers BIC in a simple form, by way of a choice of two portfolios (see
+Appendix E).21 One portfolio is market linked, with its attendant risks and
+designed as a long term investment because of the likely fluctuations in the
+year to year returns, while the other, designed for older members closer to
+retirement, consists mainly of capital guaranteed funds or capital stable
+investment arrangements.
+2.32 The committee's attention was drawn to certain terminology used by
+the industry to describe different types of investment, for example: capital
+stable, capital guaranteed, and capital secure. Although these terms have
+very specific meanings within the industry, the distinctions between them are
+often lost on consumers. The current market can be bewildering for
+superannuants. The committee therefore calls on industry to ensure that
+their clients are clearly apprised of these distinctions before they enter
+investment arrangements. The committee also calls on the regulator, the
+ISC, to monitor compliance with the requirement that the trustee provide
+21
+ASSET employer kit
+
+
+all the information that a person requires to understand their choice of
+investment strategy.
+2.33 As noted at paragraph 2.27, QCOS also provides BIC.22 In
+October 1993, QCOS introduced BIC to members who make voluntary
+contributions. Of the 10,400 members of the fund, 5,406 are voluntary
+contributors, of whom 1,113 (21%) elected to make a choice:
+Of those who participated, just over a third chose a mix of investments
+recommended by trustees according to the age of the member and two-thirds
+decided to mix and match their own choices from pools of capital guaranteed,
+balanced and 100 per cent equities. Those who did nothing had their voluntary
+contributions placed in the capital guaranteed pool, while the mandatory funds
+which made up the majority were managed in accordance with a member-age
+schedule.23
+2.34 One of the largest industry fund administrators is also in the process
+of promoting BIC for the funds it administers.24 The committee
+commends those funds which have taken, and are taking, this very important
+initiative.
+2.35 The simple alternatives offered by ASSET are one end of the
+spectrum of possibilities which BIC opens to members. At the other end of
+the spectrum, a sophisticated range of BIC offerings is in the process of
+being formulated by AMP for public offer employer-sponsored funds - these
+are the traditional funds where employer contributions are supplemented by
+employee co-contributions.25 The AMP plan includes an array of
+investment options ranging from very conservative capital guaranteed
+investments, such as short term Australian fixed interest securities, to
+investments with high levels of exposure to Australian and international
+Greg Bright, Case Study Two: 'Costs rise with choice of investment' in article
+titled 'It's a whole new ball game', Super Review,; August 1994
+23 Greg Bright, Case Study Two: 'Costs rise with choice of investment' in article
+titled 'It's a whole new ball game', Super Review, August 1994
+Barrie Dunstan, 'AMP prepares for super push', Australian Financial Review,
+25 August 1994
+25 Information supplied by AMP on 19 August 1994
+
+
+shares, in which the investor accepts a high level of volatility in return for
+the prospect of a high level of real returns associated with long term share
+investment.
+Attitudes to superannuation which inhibit BIC
+2.36 A combination of market forces and changing community
+expectations may not, on their own, be sufficient to entrench BIC
+throughout the superannuation industry. BIC, in the absence of steps to
+educate the community about its benefits, could prove to be:
+a way of guaranteeing members the total right to be wrongs6
+2.37 Another factor suggested as inhibiting the introduction of BIC' is
+that:
+there was no demonstrated demand for it, except for the top few per cent of
+people in superannuation.27
+2.38 The BIC dilemma could well be explained by the widespread
+confusion which still surrounds the whole issue of superannuation. The
+Sweeney Report, which was commissioned by the Department of Social
+Security, published survey data indicating that about 50 per cent of
+Australians were confused about superannuation and that most did not
+know how much superannuation they needed to provide for a comfortable
+retirement.28 An important message emerging from this report was that
+a very significant number of people would consider contributing more if they
+26 Comment by Garry Weaven, executive chairman of Industry Funds Services Pty
+Ltd, reported by Barrie Dunstan, in 'Member choice a super danger', Financial
+Review, 21 July 1994
+27 Comment by Garry Weaven, executive chairman of Industry Funds Services Pty
+Ltd, reported by Barrie Dunstan, in 'Member choice a super danger' Financial
+Review
+28 Kalisch and Patterson of the Department of Social Security, 'Australia s
+Retirement Incomes System: Interactions and Attitudes' presented at the hirst
+Annual Colloquium of Superannuation Researchers at the University of
+Melbourne on 8-9 July 1993
+
+
+understood more about superannuation. Higher levels of contributions
+would undoubtedly encourage a higher level of participation in choosing
+investments most appropriate to individual needs.
+The pace of change
+2.39 The pace of change in this area of superannuation activity will be
+influenced by the extent of trustee and beneficiary education. In its sixth
+report, the committee recommended that the ISC and key superannuation
+industry groups representing the interests of consumers and providers,
+combine to develop and implement a five year superannuation consumer
+education strategy for implementation in early 1994.29
+2.40 The committee understands that following the Treasurer's Statement
+of 28 June 1994, a consumer education campaign is to be managed by the
+Australian Taxation Office, working closely with the ISC, various other
+government agencies and through a Public Education Focus Group which
+includes these and a number of other interest groups, including some private
+sector industry groups/'0 Although BIC was only a very small part of this
+education strategy, the ISC has recently produced a Superannuation Circular
+stating its position on this issue.31 But it is important to note in this regard
+that ISC Superannuation Circulars are more for consumption by trustees
+than for fund members.
+2.41 It is the committee's expectation, therefore, that BIC should be an
+integral component of the superannuation education plan of both the ISC
+and the superannuation industry.
+29 Recommendation 3.10 of the Sixth Report of the Senate Select Committee on
+Superannuation titled Super - Fees, Charges and Commissions
+30 Michael Monaghan, ATO, Evidence, 23 September 1994, pp 611-612
+31 Superannuation Group, Superannuation Circular No II.D.l, 'Investment
+Strategies and Beneficiary Investment Choice', September 1994
+
+
+Recommendation 2.1
+The committee recommends that in developing its comprehensive public-
+education campaign on the consumer elements of superannuation, the
+Government make BIC a component of the forthcoming ATO/ISC
+campaign.
+Beneficiaries who already have the right to choose
+2.42 Although BIC has long been a feature of personal superannuation
+policies and has recently become a major selling point with a number of
+master funds, several submissions were received expressing concern that SIS
+regulations 4.02 and 4.09 would restrict the ability of such funds to enable
+their members to selectively tailor their investment strategies.32 Included
+in these concerns was that these regulations will not allow investment
+strategies to be implemented unless they are formulated before being
+offered to all members through a prospectus.33
+2.43 Freedom of Choice Funds Management Limited submitted that
+subregulation 4.09(2), which requires the trustee of a superannuation entity
+to formulate and give effect to an investment strategy that has regard to all
+the circumstances of the entity, is the reverse of their current practice which
+is to accept the strategy and place the investments as selected.34 Freedom
+of Choice maintains that it is not possible for it to formulate and promulgate
+through its prospectus a range of strategies to suit every new applicant.
+32
+J.K. Tidswell, SISREG Sub No 3
+R.E. Nixon, Freedom of Choice Fund Management Limited,SISREG Sub No 4
+Don Blyth, Trustee Corporations Association, SISREG Sub No 6
+33 R.E. Nixon, Freedom of Choice Fund Management Limited, SISREG Sub No 4
+J.K. Tidswell, SISREG Sub No 3
+34
+SISREG Sub No 4
+
+
+2.44 Another problem raised by Freedom of Choice was an extension of
+this perceived constraint, that is: a member who decides to replace one
+investment with another investment is prevented from doing so because
+under the SIS regulations the participant cannot direct the trustee to replace
+investments unless it is an investment strategy which has already been
+formulated by the trustee.35
+2.45 Tidswell Benefit Consultants and Fund Administrators and the
+Trustee Corporations Association of Australia raised similar concerns.36
+Freedom of Choice and Tidswell both submitted that many of their subplans
+would be likely to leave the master trust and establish their own excluded
+superannuation funds, which are not bound by SIS regulation 4.09, and
+which would therefore regain direct control over their investment options.
+2.46 The Australian Government Actuary commented on this issue:
+...our experience is that the members of [master trusts with subplans of less than
+five members] definitely do need prudential protection from the ISC. It has been
+suggested that the effect of the legislation may be a swing from these master
+trusts to excluded funds...Some of these very free choice master trusts may break
+up into their constituent subfunds...In a prudential sense, this is probably a
+positive move because the separate subfunds will then be separately audited and
+have separately identified assets, which will deal with one of the major
+prudential problems that we have detected so far...37
+2.47 Notwithstanding this line of reasoning, the committee is not troubled
+by the mode of operation of master trusts which actively formulate
+individual investment strategies in consultation with members of their
+subplans, as long as these are consistent with all the circumstances of the
+fund, particularly with the overall investment strategy formulated for the
+fund as a whole. The essential ingredient in this process is that the trustee
+accepts responsibility for the final design and selection of investments. The
+committee does, however, have concerns that the software used by some
+35 SISREG Sub No 4
+36 SISREG Sub Nos 3 and 4
+Evidence, p 105
+37
+
+
+master trusts has been inadequate for the task, generating unacceptable
+delays in administrative processing.
+2.48 Although the members of funds most likely to participate in
+designing and implementing investment strategies would be generally those
+with substantial investments in superannuation, the committee does not
+consider that this option should be denied to less affluent fund members.
+This will become increasingly important as the accrued entitlements of
+members of funds grow under the SG regime.
+Recommendation 2.2
+The committee recommends that the ISC review the SIS regulations to
+ensure that the formulation of an individual investment strategy by a
+trustee in consultation with a fund beneficiary will not be a breach of
+operating standards, provided this strategy is consistent with the overall
+investment strategy that the trustee has formulated for the fund as a
+whole.
+
+
+Should a beneficiary be given the right to choose investment strategies?
+2.49 Mr Howard Pender, of the Australian Ethical Investment Trust, and
+Ms Caroline Le Couteur of August Financial Management Limited,
+submitted, in effect, that standard employer-sponsored members of a fund,
+who are compelled to join their industry fund or corporate sub-plan, and
+who have moral or ethical objections to the manner in which a trustee of a
+fund invested a member's contributions, should be able to exercise some
+right of choice as to where their money is directed.38 Such a direction
+would, amongst other things, be subject to the trustee being satisfied that
+the proposed investment strategy was suitable for superannuation purposes.
+2.50 Ms Judith Towler and Mr Jock Rankin of the Financial Planning
+Association (FPA) were also in favour of members having the choice of
+fund and the choice of an investment strategy within funds.39 The FPA's
+submission was that individuals would be better off if allowed to make a
+choice based on their needs, personal circumstances and risk tolerance, with
+that choice being made within the context of competent and unbiased
+financial advice.
+2.51 In examining the issue of whether or not BIC should be mandated,
+the committee considered that such a course of action would be premature,
+if done immediately, for the following reasons:
+(i) a concern that one of the cornerstones of SIS, namely, the concept
+of a single entity, the trustee, taking full responsibility for running the
+fund, may be undermined;
+(ii) at this stage, there appears to be only a small demand for BIC by
+members of superannuation funds; and
+(iii) enhanced community education about superannuation is needed
+before a mandatory BIC regime is implemented.
+38 Evidence, p 21
+39 Evidence, p 45
+SISREG Sub No 11
+
+
+These concerns are discussed in further detail below.
+2.52 The committee gained the impression that BIC, while frequently
+discussed, was not a matter upon which some key superannuation groups
+have formulated firm policy positions.40 The absence of publicly stated
+positions by some of these industry players underscores the impression that
+although BIC has been allowed under trust law for some considerable time,
+it is in conceptual and practical terms, in its embryonic stages of
+development.
+The trustee as the sole entity responsible for running a superannuation fund
+2.53 This key element to the SIS legislation and its attendant prudential
+safeguards was recommended by the committee in its first report,
+Safeguarding Super. The committee maintains that trustees should not be
+forced to, or be able to, avoid responsibility of designing an investment
+strategy and, ultimately, selecting particular investments. Should this occur,
+there would be a severe risk of undermining the whole purpose of the SIS
+legislation, namely, to attain prudential control and security of
+superannuation assets. This risk would be heightened if individual BIC were
+to be mandated, and a trustee required to accept an investment strategy or
+a particular investment preference of any individual member or group of
+members, regardless of whether or not that investment or investment
+strategy was certified by an accredited financial adviser as being suitable for
+superannuation. The basic role of a trustee includes the right to make, and
+to take full responsibility for, the fundamental evaluation of whether an
+investment or an investment strategy is suitable for superannuation.
+2.54 Nevertheless, the danger to a trustee's responsibility and
+independence would clearly stem not from BIC per se, regardless of whether
+40 For example, Australian Institute of Superannuation Trustees; Association of
+Superannuation Funds of Australia; and the Australian Consumers Association
+did not give oral evidence on this issue. Of these three organisations, only ASI-A
+forwarded a submission which took a position on this issue, maintaining that it
+should be '...up to funds as to whether to offer investment choice to members...
+Member choice should not be compulsory in the current environment.
+SISREG Sub No 28
+
+
+or not it is mandatory, but from investments and investment strategies being
+forced upon a trustee.
+Demand for BIC
+2.55 The results of the symposium held by J.P. Morgan with industry
+representatives on 19 July 1994 seemed to indicate that BIC would inevitably
+become a more entrenched feature of the industry.41 In addition, a survey
+conducted by Towers Perrin of 139 superannuation funds, revealed that
+15 per cent of the funds surveyed already offered BIC, and that a further
+50 per cent of the funds surveyed are planning to, or will consider, offering
+members a choice of investment.42 Of the remaining 35 per cent of funds
+that did not intend to offer BIC to their members, over two thirds indicated
+that pressure from members would make them reconsider their decision not
+to offer BIC. A smaller but significant proportion indicated that market
+pressure and a decrease in costs associated with establishing BIC would
+make them reconsider. Appendix F includes some of the results of the
+Towers Perrin survey.
+2.56 These findings were also reflected at the J.P. Morgan symposium
+where, although less than one third of the industry representatives at the
+symposium stated that their funds currently offered BIC, and only about half
+stated that their funds intended to offer BIC within two years, over
+two thirds agreed that fund members should have a say in what choices the
+fund should offer. In addition, nearly three quarters of these representatives
+agreed that BIC would increase voluntary contributions to the fund while
+nearly half considered that BIC would increase participation in the fund.
+Furthermore, nearly two thirds agreed that members of funds are interested
+in how investment alternatives affect their retirement income.
+41 J.P. Morgan Industry Funds Symposium, Interactive Session Results - Sydney,
+19 July 1994
+4" Towers Perrin, Topics, 'Results of survey on member investment choice',
+May 1994
+
+
+The US experience
+2.57 In evaluating what appears to be a lack of demand for BIC on the
+part of members of funds at large, the committee examined the origin of
+BIC in the USA, where it has become a popular feature of retirement
+savings plans. Mr Robert Birnbaum, of J.P. Morgan, maintained that the
+first factor that arose in the US was the shift from defined benefit funds to
+defined contribution funds (accumulation funds) which were less expensive
+to fund and operate than traditional pension plans.43 In addition,
+employers wished to avoid liability for poor performance. Finally, as their
+accounts grew, employees, who bore the investment risk in defined
+contribution plans, demanded control over investments involving their funds.
+2.58 The extent of member choice in the US is immense. According to
+statistics quoted by Mr Birnbaum, by 1993 there were nearly US$1.2 trillion
+invested in defined contribution plans which incorporate member choice,
+drawing level with the amount invested in defined benefit plans.
+Mr Birnbaum stated that:
+The growth in the US pension industry over primary savings has really been in
+the member choice area. It's anticipated by the turn of the century that member
+choice will be the dominant form of retirement savings in the US...[member
+choice] plans are enormously popular and enormously visible. People receive
+statements, they think of it as their money, they see money flowing in both from
+their own salaries and the company contribution. They see investment growth.
+They know if they leave their company these things are portable: they can take
+their money with them. They are very popular benefits. If you look in classified
+advertisements in newspapers for jobs in the United States, you will very
+frequently see these plans as the key benefits for attracting employees.
+43
+44
+From an edited transcript of a presentation by Robert Birnbaum, of
+J.P. Morgan, on 19 July 1994 at the J.P. Morgan Industry Funds Symposium in
+Sydney, provided by the Australian Institute of Superannuation Trustees Inc
+From an edited transcript of a presentation by Robert Birnbaum, of
+J.P. Morgan, on 19 July 1994 at the J.P. Morgan Industry Funds Symposium in
+Sydney, provided by the Australian Institute of Superannuation Trustees Inc
+
+
+In Australia
+2.59 A salient feature of superannuation plans in the US is that, in the
+main, membership is voluntary. This, of course, contrasts with the
+compulsory nature of much fund membership in Australia, generated as it
+has been by award superannuation and SG contributions, and employment
+contract arrangements.
+2.60 Within Australia, a substantial portion of fund membership is within
+the large industry funds which are a product of the award superannuation
+developments of the 1980s. By and large, these funds are defined
+contribution plans, the members of which, as noted previously, bear the
+investment risk in relation to the contributions made on their behalf by their
+employers.
+2.61 About a third of the almost 4 million members of 80 or so industry
+funds which responded to a recent survey are classified as 'inactive'
+members.45 This description generally refers to members in relation to
+whom no contributions have been received for 12 months or more.46 This
+is an inhibiting factor which clearly militates against BIC at this stage. Until
+an effective mechanism is implemented to address the small amounts/inactive
+members problem, industry funds will find it difficult to have high levels of
+member participation or choice.
+Educating members of superannuation funds
+2.62 The low level of participation in industry funds, the ongoing
+confusion in the minds of the community concerning superannuation, and
+the complexity of investment decisions in exercising BIC, leads the
+committee to reiterate that extensive and effective community education
+needs to be given priority and fully implemented, regardless of whether or
+not BIC becomes mandated. The committee again notes in this context that
+greater knowledge of superannuation is likely to lead to significantly higher
+levels of voluntary contributions by fund members, and that a greater stake
+45 Beth Quinlivan, 'The brave new world of industry super', Superfunds,
+April 1994
+Ibid
+46
+
+
+in a fund, particularly a voluntary stake, often leads to greater
+participation.4
+2.63 An interesting corollary of an education process leading to greater
+participation and therefore greater use of BIC opportunities, is that B1C
+plans themselves may provide educational opportunities because:
+they are visible, people care about them, they watch what happens to them and
+perhaps this is a chance to educate the...public around financial and economic
+48
+issues.
+2.64 The committee is encouraged to learn that the process of trustee and
+beneficiary education seems to be gaining substantial momentum in a
+number of quarters.
+2.65 In addition to the recent seminars conducted by J.P. Morgan on the
+subject of BIC for the benefit of the industry, ASFA intends conducting
+seminars, surveys and study groups on the issue of BIC.4;
+2.66 The QCOS experience in developing a communication program on
+BIC is a noteworthy example at the individual fund level. The QCOS
+program addresses the characteristics of each investment option available to
+members, the administration requirements for investment choice, and how
+their investment choice fits in with the fund's investment strategy in the
+context of superannuation.50 The fund also distributes a booklet
+describing its investment strategy, holds meetings of members and their
+spouses, uses company and union representatives to provide information and
+issues a quarterly newsletter to all work sites for dissemination to members.
+In the future, the fund intends providing members with additional
+investment performance information and more detailed annual reports.
+47 The Sweeney Report, mentioned in paragraph 2.38, refers
+48 Robert Birnbaum, from edited transcript of presentation at the J.P. Morgan
+Industry Funds Symposium in Sydney on 19 July 1994
+49 SISREG Sub No 27
+Greg Bright, Super Review, August 1994, 'It's a whole new ball game
+50
+
+
+2.67 Another insight into BIC at the fund level was provided by
+Mr Bob Putnam at the J.P. Morgan Industry Funds Symposium. The CSR
+Staff Superannuation Fund under Mr Putnam's leadership has been
+administering BIC since 1983.51
+2.68 The committee considers that standard employer-sponsoredmembers
+of funds should ultimately have the right to choose between investment
+strategies. It is acknowledged that the introduction of BIC would add to
+operating costs of existing funds. It is essential that these operating costs
+should be explicitly identified.
+2.69 As evidence to the committee (outlined at paragraphs 2.23 to 2.27)
+suggests that those costs can be reasonably contained, and as market
+pressure will push administrators into implementing BIC, existing standard
+employer-sponsored funds with fifty or more members should not be
+exempted from being required to provide BIC.
+2.70 The committee considers that smaller funds should be exempted from
+the administrative burden of mandatory BIC unless a future review
+determines that such an exemption is not an appropriate course of action.
+2.71 The committee wishes to encourage a regime which will make BIC
+mandatory and anticipates that such a requirement could be phased in over,
+say, five years. This would allow the superannuation industry, with
+Government assistance, the opportunity to implement appropriate education
+strategies and sufficient lead time for trustees to reorganise the
+administrative/technological capacities of their funds.
+2.72 The committee notes LIFA's evidence that, if the trustee of any
+industry fund wanted to offer a particular service involving BIC, then one
+or more of its (LIFA's) members would be able to accommodate that
+need.52
+51
+'Should your fund offer member investment choice?', presented by Bob Putnam,
+Manager Superannuation, CSR Limited, at the J.P. Morgan Industry Funds
+Symposium on 19 July 1994 in Melbourne
+Evidence, p 91
+52
+
+
+Recommendation 2.3
+The committee recommends that the trustees of all standard employer-
+sponsored funds with fifty or more members (except those defined
+benefit funds which have no member generated accumulation
+component) be required to offer beneficiary investment choice to their
+members in accordance with the provisions of SIS regulation 4.02.
+The committee also recommends that this not be introduced before the
+community education campaign, being conducted by the superannuation
+industry in conjunction with the ISC and ATO, nor before fund trustees
+are able to reorganise, as necessary, the administrative/ technological
+capacities of their funds to ensure the smooth introduction of BIC.
+
+
+
+
+CHAPTER 3:
+THE SOLE PURPOSE TEST
+AND CHARGES OVER ASSETS
+The Sole Purpose Test and Charges over Assets
+Introduction
+3.1 This chapter deals with issues arising from the submissions and
+evidence concerning the sole purpose test (section 62 of the SIS Act) and
+SIS regulation 13.14 which prevents charges over the assets of funds.
+3.2 These issues are:
+(i) that SIS regulation 13.14, preventing charges on superannuation
+assets, be relaxed;53 and
+(ii) the possible conflict between garnishee orders issued under section
+1233 of the Social Security Act 1991 and the sole purpose test.54
+Charges over the assets of funds
+Legislation
+3.3 SIS regulation 13.14 states:
+For the purposes of subsections 31(1) and 32(1) of the Act, it is a standard
+applicable to the operation of regulated superannuation funds and approved
+deposit funds that, subject to regulation 13.15, the trustee of a fund must not
+give a charge over, or in relation to, an asset of the fund.
+53
+National Australia Bank, SISREG Sub No 5
+54
+Arthur Robinson and Hedderwicks, SISREG Sub No 19
+LIFA, SISREG Sub No 17
+
+
+3.4 SIS regulation 13.15 states:
+The standards stated in regulations 13.12, 13.13 and 13.14 do not apply to an
+assignment or charge that is permitted, expressly or by implication, by the Act
+or these Regulations.
+The provision of security against various transactions
+I - Derivatives
+3.5 Arthur Robinson & Hedderwicks (ARH) submitted that the
+prohibition against charges over assets, as currently worded, could operate
+to prevent trustees from entering into agreements with brokers which would
+enable them to undertake transactions in respect of futures, options and
+other derivative instruments, both in Australia and overseas.55 These
+transactions could be prevented because the 'standard form' agreements
+upon which these transactions are based require the fund trustees to lodge
+with brokers an amount of money or securities in a 'collateral account'.
+These accounts are charged in favour of the broker as security against
+unfavourable margin calls and can be viewed as a charge over the assets of
+the fund. ARH stated in their submission that the ISC had advised that the
+legislation had not been intended to prevent trustees from entering into
+derivative transactions.
+3.6 Notwithstanding that derivatives transactions can be a valuable
+instrument for managing financial risk, for example, by hedging funds'
+exposure to currency and other risks, the committee considered that a
+cautionary note needed to be sounded in the use of these financial products.
+Although the use of such derivatives to manage financial risk would appear
+to be perfectly legitimate in the financial management of superannuation
+funds, overseas experience, particularly in the United States of America, has
+demonstrated that some derivative transactions have been devised which
+move beyond this relatively simple function. One example is the volatile,
+illiquid derivative based on the price of mortgages.56 Such transactions
+appear to be approaching the realm of speculative investments for their own
+55
+SISREG Sub No 19
+56
+'Mutual funds' derivatives dilemma', The Economist, 3 September 1994,p73
+
+
+sake, rather than serving any hedging function. They do not appear to be
+investments appropriate to superannuation, other than within the normal
+construction of diversified portfolios, with their attendant spectrum of risk
+profiles.
+3.7 The Committee considers that it would be appropriate for this issue
+to be examined in greater detail, as excessive use of these transactions may
+well expose superannuation funds, and hence their members' accrued
+entitlements, to unnecessary risk.
+Recommendation 3.1
+The committee recommends that the Government review, and if
+necessary move to limit, the exposure of superannuation entities to
+certain derivatives transactions.
+II - Custodians
+3.8 In a supplementary submission, ARH stressed the importance of
+custodians, particularly master custodians, within the superannuation
+industry:
+...many large superannuation funds engage a master custodian to take
+responsibility for all of the fund's investment asset administration needs, and to
+provide clearing and settlement functions, consolidating reporting, "paperwork
+control" and information regarding rights issues, takeovers and other corporate
+actions relevant to shares held in the portfolio. Most master custodians also
+provide valuations, asset performance measurement, accounting, taxation and
+other related services and some also provide securities lending programs, foreign
+exchange services, proxy voting, and compliance services.
+Where a superannuation fund engages more than one investment manager,
+difficulties can arise in reconciling differences in reporting methods, keeping
+track of asset allocations, effecting securities settlement and safekeeping,
+collecting and reconciling income and other receipts, analysing asset
+performance and other areas.
+...around 80 Australian superannuation funds have engaged a master custodian.
+Most of these are superannuation funds with more than $100 million in assets
+and who use four or more investment managers...
+
+
+We further understand from Towers Perrin that capacity among the suppliers
+of custodian services for the Australian market is not sufficient to meet the
+present demand. As a result, Towers Perrin has found that client superannuation
+funds are sometimes unable to enter into custody arrangements with a preferred
+custodian which has had insufficient capacity to take on a new portfolio within
+a required time frame.57
+The place of the master custodian and the sub-custodians in the
+superannuation fund structure is set out in a diagram provided by ARH and
+appears at Figure 1.
+TRUSTEE OF SUPERANNUATION FUND
+ASSETS
+Mata C*mo4y A*rocroa>i*
+MASTER CUSTODIAN
+FUND ADMINISTRATOR
+Sub-
+INVESTMENT MANAGERS
+SUB CUSTODIANS
+57 SISREG Sub No 19, supplementary
+
+
+3.9 ARH submitted that master custody agreements put to trustees
+invariably contain provisions that a charge be granted to the custodian to
+cover claims for payment of fees and expenses, and that these charges are
+required for two reasons:
+(i) such a charge is customary within the custodianship industry to
+protect custodians from occasional substantial exposures resulting
+from their payment of registration fees, transaction charges,
+production fees, script exchange fees and the like which enable them
+to discharge their obligations to effect settlements; and
+(ii) sub-custodians engaged by master custodians (to deal with local
+settlements and transactions et cetera especially in other countries)
+generally request charges to cover their own exposure.
+3.10 The National Australia Bank's Custodian Services (NAB) expressed
+very similar concerns over regulation 13.14, asserting that:
+The undoubted interests of fund members in unencumbered, ungeared portfolios
+must be balanced against the bona fide interest of service providers to the fund
+or trustees in being remunerated for their services and reimbursed for expenses
+incurred in good faith. Protection of such interests is specifically provided in
+comparable regulations in other jurisdictions.58
+The other jurisdictions referred to by the NAB include the USA, Canada,
+the UK and Hong Kong. The NAB submits that:
+the prudential standard applicable to Australian superannuation entities should
+equate to that applying in comparable jurisdictions, ie fees, costs and expenses
+attributable to the safe keeping or administration of fund assets should be
+exempted from any prohibition against encumbering fund assets.
+3.11 Roger Nairn of NAB reiterated that there were a number of
+transactions which are normal administrative management matters for which
+a supplier would expect to be covered, for example, on short term
+borrowings where fees in advance are required. Other examples given
+58
+SISREG Sub No 5
+59
+SISREG Sub No 5
+
+
+included within-the-day facilities to support trading activities, and forward
+foreign exchange dealing facilities which create obligations and which are
+provided against the general financial strength of the fund.60
+3.12 The fundamental point made by NAB was that a range of
+transactions, which are normal to the operation of a fund, including bona
+fide investment activities by funds, may be severely impeded with little
+consequential benefit to members and trustees if regulation 13.14 prohibition
+was applied literally. This would also be the case if regulation 13.14 applied
+to fees which are payable for the safe custody and administration of fund
+assets. In some major jurisdictions, such fees appear to be exempt from
+prohibitions upon rights, charges, liens, pledges, security interest or any
+other encumbrances.
+Possible Consequences
+3.13 A possible scenario postulated by Mr Nairn was that if service
+providers were denied exemptions from the prohibition they would:
+...almost certainly seek to minimise their exposures by not permitting borrowing,
+requiring fees in advance, the establishment of slush funds for the payment of
+incidental costs and expenses and/or refuse to meet such expenses until finances
+to cover are provided by the fund.61
+3.14 ARH similarly submitted that it would be reasonable to expect that
+custodians who are asked to provide the usual range of services without the
+usual security will consider:
+• whether fees charged to Australian superannuation fund clients need to be
+increased to take account of the higher level of risk (we understand that
+some custodians have already increased fees);
+• whether trustees should be required to permit the custodian to keep liquid
+funds available to the extent required to enable a custodian and sub-
+custodians to meet transaction and other costs "up front" (with
+corresponding effects on the fund's rate of return);
+60
+Evidence, pp 60-65
+SISREG Sub No 5
+61
+
+
+• whether their own insurance arrangements are affected by the absence of
+security in respect of Australian superannuation fund portfolios, with
+consequential pressures on costs;
+• whether, in the absence of security, custody agreements need to include
+stronger indemnities and other provisions aimed at strengthening the
+custodian's position;
+• whether other jurisdictions offer business opportunities which should be
+pursued ahead of those available in the Australian market.62
+Other Matters
+3.15 In its supplementary submission, NAB sought to address concerns
+raised by the committee that the prohibition of charges over assets in
+relation to custodians serves as a means of enforcing rigorous control of
+expenditure by the custodian, thereby preventing abuse of power or the
+claiming of unauthorised expenditure.63
+3.16 NAB submitted that the exemption sought in relation to custody of
+a fund's assets would not of itself create charges over assets, but simply
+provides a fund with more room to manoeuvre in negotiating investment
+activities.64 NAB also maintained that allowing such exemptions would
+benefit members as well as custodians because many types of investments,
+risk management techniques, facilities and services which may well have
+been closed to an investor if security of the obligations involved cannot be
+given, would remain available. In addition, NAB submitted that custodians
+have no power to encourage prudence in investment as, by its nature,
+custody of assets occurs after the investment has been made.
+3.17 The committee acknowledged the difficulties in evaluating an area
+of considerable financial and legal complexity. The committee understands
+that the prohibition in the SIS Act upon borrowings by superannuation
+entities did not extend to many debts and other liabilities incurred by funds
+62 SISREG Sub No 19, supplementary
+63 Evidence, p 62
+SISREG Sub No 5, supplementary
+64
+
+
+in the normal conduct of their business, for example: reimbursement of fees
+and advances, within-the-day settlement of transactions, and 'standard form'
+agreements with brokers and daily running expenses. The committee also
+understands that the ISC intends, in due course, to issue a Superannuation
+Circular to clarify this issue.
+3.18 It seemed inconsistent that a range of routine transactions which
+incur debts and other liabilities and which are not prohibited under the anti-
+borrowing rules should be prevented by the operation of regulation 13.14.
+Given that debts and other liabilities would often only be able to be
+incurred upon provision of a security, in this case, the assets of a fund, the
+committee believes that it would be appropriate for the ISC to re-examine
+regulation 13.14. But the committee wishes to reiterate its statements in
+previous reports on the need for a prudential regime which provides the
+utmost protection for superannuation funds. In particular, the committee
+considers that custodians should not be given the status of a preferred
+creditor, nor should any charge over assets exercised by a custodian
+significantly exceed the amount required to cover expenses outlaid by the
+custodian or apply at all in respect of custodian's fees.65
+3.19 NAB also submitted that similar problems may be associated with
+some conditions being drafted by the ISC for the purposes of
+subsection 26(3) of the SIS Act. These conditions will include the provisions
+which must be included in any agreement between the trustee and a
+custodian of assets of superannuation entities. The committee considers that
+the importance of proper custodial and other financial services for
+superannuation entities, and their possible impact on members' benefits,
+should not be underestimated.
+65
+Arthur Robinson & Hedderwick, SISREG Sub No 19, supplementary
+
+
+Recommendation 3.2
+The committee recommends:
+(i) that, within the context of a clear need for a strong prudential
+supervision regime for superannuation funds, the Government
+review the operation of SIS regulation 13.14 to establish whether
+it unnecessarily constrains legitimate investment activities of
+superannuation entities;
+(ii) that if any such unnecessary constraints are identified, they be
+remedied, after consultation with the major providers of
+financial services to superannuation entities, through appropriate
+amendments to the legislation; and
+(iii) that the ISC publish an explanation of this review in a
+Superannuation Circular.
+The sole purpose test and garnishee orders under the Social Security
+Act 1991
+3.20 LIFA submitted that section 1233 of the Social Security Act 1991,
+which enables the Department of Social Security to serve garnishee notices
+on debtors, has been used by that Department to gain access to accrued
+entitlements of members of superannuation funds. LIFA submitted that
+a trustee who obeyed such a notice would be in breach of:
+• section 62 of the SIS Act, the 'sole purpose test', which prescribes
+the timing of benefit delivery and the persons to whom benefits
+become payable;
+• SIS regulation 6.22, which limits the cashing of benefits in regulated
+superannuation funds in favour of persons other than members; and
+66
+SISREG Sub No 17
+
+
+• SIS regulations 13.12, 13.13, and 13.14, which prevent a trustee from
+recognising an assignment of a superannuation interest of a member
+or beneficiary, or from giving a charge over minimum benefits,
+preserved benefits, non-commutable income streams, or an asset of
+a fund.
+3.21 A breach of these provisions can subject a trustee to monetary
+penalties or imprisonment. 67
+3.22 The committee notes that this issue has also arisen in considerations
+involving the recovery of outstanding money following bankruptcy
+proceedings, as well as recovery of unpaid tax. The committee understands
+that measures are being implemented to make the necessary changes to the
+SIS Act and the Bankruptcy Act which will allow the assignment of
+superannuation entitlements which exceed a member's RBL. In a
+supplementary submission, the ISC has advised that it has taken the view
+that superannuation assets should not be accessible by garnishee orders and
+other claims for indebtedness, particularly for preserved benefits.68
+3.23 The issues involving conflicts between the SIS sole purpose test and
+associated SIS legislation on the one hand, and the service of garnishee
+orders from the Department of Social Security as well as recovery of unpaid
+tax by the Australian Tax Office on the other hand, appear to fall within a
+common category. The committee expects that these issues will be resolved
+through consultation with the appropriate organisations.
+67 (i) Part 21 of the Act provides for certain criminal consequences of
+contravening or of being involved in a contravention of subsection 62 (1)
+of the Act.
+(ii) SIS Regulations 6.22, 13.12, 13.13 and 13.14 prescribe standards under one
+or more of Sections 31, 32 and 33 of the Act, intentional or reckless
+contravention of which is punishable on conviction by a fine
+SISREG Sub No 20, supplementary
+68
+
+
+Recommendation 3.3
+The committee recommends that, consistent with the policy of limiting
+recovery of Commonwealth debts from the members' superannuation
+accounts to those amounts which exceed RBL levels, the Government
+review and reconcile any conflict arising between:
+(i) the SIS legislation; and
+(ii) the tax and social security legislation which enables recovery of
+money.
+
+
+
+
+CHAPTER 4:
+THE REMAINING REGULATIONS
+The Remaining Regulations
+Introduction
+4.1 This chapter addresses the following submissions and evidence
+brought to the committee's attention during the inquiry:
+(i) that the definitions of 'member' and 'beneficiary' in the SIS Act and
+SIS regulations be clarified;69
+(ii) that various disclosure requirements be changed;70
+(iii) that the number of members of 'excluded funds' (currently less than
+5) be enlarged or that funds with non-arms length members receive
+different treatment under SIS;71
+(iv) that old life policies be convertible into superannuation policies;72
+(v) that the age at which retirement can be presumed when a person has
+ceased gainful employment be reduced from 60 to 55;73
+69 LIFA, SISREG Sub No 17; Evidence, p 86
+70 ANZ Funds Management, SISREG Sub No 7
+Office of the Cabinet, Queensland, SISREG Sub No 10
+Financial Planning Association of Australia, SISREG Sub No 11
+LIFA, SISREG Sub No 17
+Permanent Trustee Company, SISREG Sub No 24
+71 Howard V Smith and Associates Pty Ltd, SISREG Sub No 12
+G&E Foti Enterprises Pty Ltd, SISREG Sub No 18
+72 Chris Hanson, SISREG Sub No 9
+73 LIFA, SISREG Sub No 17
+
+
+(vi) that the preservation of benefits arising out of SG contributions and
+the changes to the preservation rules take effect from
+1 July 1995;74
+(vii) problems with the pension and annuity standards;75
+(viii) various technical amendments;76 and
+(ix)
+concerns about the possibility of retirement being inappropriately
+enforced on a member of a fund on medical grounds.7
+4.2 The committee also acknowledges the receipt of submissions from
+the following persons. Mr J. M. Kelberg expressed concern with the manner
+in which the Shell Superannuation Fund repatriated surplus to the Shell
+Company.78 Mr Bryce Jarrett submitted that a system be introduced
+enabling lump sum superannuation payments to be directly invested as
+venture capital.79
+4.3 Prior to the hearings, the ISC resolved issues relating to a submission
+from the Bus and Coach Association that the 'approved trustee'
+requirements for industry funds with self employed members should be
+relaxed.80 Also resolved was the problem of whether 'excluded funds'
+74 UFA, SISREG Sub No 17
+75 UFA, SISREG Sub No 17
+76 ANZ Funds Management, SISREG Sub No 7
+Office of the Cabinet, Queensland, SISREG Sub No 10
+77 SISREG Sub No 27
+78 SISREG Sub No 21
+79 SISREG Sub No 25
+80 Issue raised in SISREG Sub No 2 from the Bus and Coach Association; its
+resolution foreshadowed by ISC Information Statement No 4 of 20 June 1994
+in which the ISC announced that certain public offer funds will be temporarily
+exempted from the requirement to have an 'approved trustee' under SIS
+
+
+should be exempted from the requirements imposed on public offer funds,
+raised in a submission by Self Management Retirement Systems Pty Ltd.M
+Definition of 'member' and 'beneficiary'
+Definition of'member1
+4.4 SIS regulation 1.03 defines a 'member' to mean:
+(a) ...
+(b) in relation to a regulated superannuation fund - a member of the fund;
+The definition of 'member' in Part 2 of the SIS regulations, which prescribes
+the standards applying to the provision of information to members and
+others, includes pensioners and deferred beneficiaries.
+4.5 LIFA submitted that the definition of 'member' in
+SIS regulation 1.03:
+does not actually provide any meaning of who constitutes a member of a
+superannuation fund;82
+and that it was:
+imperative that a substantive definition of member is given in relation to a
+superannuation fund which overrides any trust deed requirements in relation to
+the fund in this regard.83
+4.6 LIFA did not support their submission on this matter except to
+suggest that the definition be redrafted along the following lines:
+81
+82
+Issue raised in SISREG Sub No 16 by Self Management Retirement Systems Pty
+Ltd; its resolution was also foreshadowed in ISC Information Statement No. 4
+of 20 June 1994 in which the ISC announced that 'excluded funds' which met
+certain requirements will not be considered to be public offer funds
+SISREG Sub No 17
+83
+SISREG Sub No 17
+
+
+a person who has been accepted by the trustees as a member of the fund and
+in respect of whom the trustees have not fully discharged their liability to pay
+the person a benefit or benefits84
+The committee notes that such an amendment would more or less bring the
+definition in line with the expanded definition in Part 2 of the SIS
+regulations.
+4.7 The committee considers that small funds could be disadvantaged if
+the current definition was amended in this way, as the inclusion of
+pensioners and/or deferred beneficiaries into the main definition could in
+many cases inflate the numbers of members in such a fund beyond two key
+thresholds.
+4.8 The first was the threshold of 4 members which constitutes an
+excluded superannuation fund, and which is not subject to some of the more
+onerous provisions of the SIS legislation.
+4.9 The second was the threshold of 49 members, which is the maximum
+number of members which may be in a non-public offer fund after
+1 July 1995 to which the alternative agreed representation rules can apply
+(that is: as an alternative to basic equal representation rule which requires
+equal numbers of employer representatives and member representatives
+amongst the trustees, a corporate trustee can be appointed following
+nomination by agreement between the majority of the members of the fund
+and the employer(s) of the members).
+4.10 These thresholds do not affect funds with 50 or more members. It
+would appear that as the requirements under the regulations for trustees of
+funds to disclose information to members already included pensioners and
+deferred beneficiaries, the principal impact of the inclusion of these
+beneficiaries within the definition of 'member' would be in the areas of
+notifying members in case of a repatriation of surplus to employers, and
+equal representation of employers and members on trust boards.
+84
+SISREG Sub No 17
+
+
+4.11 The committee sees no reason why pensioners and beneficiaries of
+superannuation funds should not be members, with the attendant rights of
+member representation. It seems anomalous that:
+(i) funds are required to provide the same information to pensioners
+and deferred beneficiaries that they are required to offer 'active'
+members;
+(ii) funds are empowered to offer beneficiaries (including pensioners and
+deferred beneficiaries) choice in the manner in which their money is
+invested; and
+(iii) funds have an obligation to pay certain pensioners and deferred
+beneficiaries;
+but under the current SIS regime, these pensioners and deferred
+beneficiaries are not considered to be members.
+4.12 The thresholds issue referred to in paragraphs 4.8 and 4.9 could
+perhaps be addressed by allowing excluded funds and funds with less than
+50 'members', as currently defined, to continue to be considered to come
+under the thresholds for the purposes associated with those thresholds.
+Recommendation 4.1
+The committee recommends that the Government review the definition
+of a 'member' of a regulated superannuation fund under SIS with a view
+to including those persons who are pensioners or deferred beneficiaries
+of such a fund.
+
+
+Definition of 'beneficiary
+4.13 The definition of 'beneficiary' in subsection 10(1) of the SIS Act
+states that:
+"beneficiary", in relation to a fund, scheme or trust, means a person (whether
+described in the governing rules as a member, a depositor or otherwise) who has
+a beneficial interest in the fund, scheme or trust and includes, in relation to a
+superannuation fund, a member of the fund despite the express references in
+this Act to members of such funds.
+4.14 LIFA submitted that the definition of 'beneficiary' was inadequate,
+as it was insufficiently broad to include a number of categories of persons
+who would have a legitimate interest in decisions made by trustees.85 Of
+the examples provided by LIFA, one was a dependant of a member in
+respect of whom the trustees have not or will not exercise their discretion
+as to the distribution of a death benefit (and hence is not a beneficiary as
+defined in the Act for the purposes of being able to lodge a complaint with
+a fund, and hence the Superannuation Complaints Tribunal, because s/he
+does not have a beneficial interest in the fund until the trustee has exercised
+its discretion in that person's favour).
+4.15 The committee considers that the SIS legislation should be applied
+fairly and, to this extent, considers it appropriate to ensure that the
+Superannuation Complaints Tribunal be empowered to hear the legitimate
+complaints of persons affected by trustees' decisions.
+Recommendation 4.2
+The committee recommends that the Government amends any
+inconsistencies in the definition of 'beneficiary' in the SIS legislation to
+allow full access to:
+(i) the internal complaints mechanisms within superannuation
+funds; and
+(ii) the Superannuation Complaints Tribunal.
+85
+SISREG Sub No 17
+
+
+Disclosure requirements for superannuation entities
+4.16 A number of submissions were received raising concerns about the
+various requirements to disclose and forward information:
+(i) Permanent Trustee Company Limited submitted that the requirement
+for audit certificates in relation to employer-sponsored public offer
+funds to be given to trustees within four months is unnecessarily
+burdensome. A six month requirement was suggested.86
+(ii) LIFA expressed concerns about the benefit illustration requirements
+in a forthcoming ISC Determination which is being drafted by the
+ISC pursuant to section 159 of the SIS Act in relation to prospective
+beneficiaries other than standard employer-sponsored members.87
+LIFA submitted that the requirement in the SIS regulations to report
+contributions arrears to members, as well as the action that the
+trustees had taken or were proposing to undertake to have the
+contributions paid, should be amended in the light of industry fund
+experience which makes accurate information in this context difficult
+to report.
+(iii) The Financial Planning Association suggested that the SIS
+regulations be amended to compel employer-sponsored
+superannuation funds to meet the same disclosure requirements as
+applying to public offer funds, and for employer-sponsored members
+to receive information that was sufficient for them to make informed
+decisions.88
+(iv) The Queensland Office of the Cabinet expressed concerns at the
+difficulty some funds will encounter in complying with some of the
+disclosure requirements in the SIS regulations. For example, the
+requirement for a fund to provide certain information to a member
+86
+SISREG Sub No 24
+87
+SISREG Sub No 17
+88
+SISREG Sub No 11
+
+
+who is exiting a fund within one month of ceasing membership may
+be difficult to comply with if the fund does not have all available
+information to process benefit details. Another concern was that
+eligible rollover funds may not be able to supply the Insurance and
+Superannuation Commissioner with all the information required
+under the SIS regulations as some information may not be held by
+the fund transferring the information.89
+(v) ANZ Funds Management requested that the SIS regulations which
+require a trustee to quantify in a report to a member the amount of
+benefits which must be preserved, be amended to make it clear that
+the amount referred to in the report should be the amount
+preservable under the governing rules of the fund, if that amount is
+higher than the amount preservable under the regulations.90
+4.17 In addition, the committee noted that Noel Davis had recently
+commented in the print media that there was an anomaly in the SIS
+legislation relating to disclosure.91 He commented that trustees are not
+required to provide a prospectus to standard employer-sponsored members
+of a fund that is not a public offer fund, but are required to provide a
+prospectus to standard employer-sponsored members of a fund that is a
+public offer fund. The committee notes that under the SIS legislation, the
+requirement for prospectuses has been replaced by the requirement to
+provide certain information to prospective members.
+4.18 While the majority of these concerns amount to possible
+'housekeeping' amendments, the level of information to be provided to
+standard employer-sponsored members will need to be upgraded once BIC
+has become an entrenched feature of standard employer-sponsored funds,
+and members of these funds take a more active interest in their participation
+in superannuation.
+89 SISREG Sub No 10
+90 SISREG Sub No 7
+91
+Australian Superannuation Law Bulletin Editorial, (1994) 6 SLB 29
+
+
+Recommendation 4.3
+The committee recommends that:
+(i) the Government examine the concerns expressed to the
+committee about the various disclosure requirements and take
+appropriate action; and
+(ii) consistent with any policy to implement BIC initiatives, the
+Government review and upgrade the provisions in the SIS
+legislation, prescribing the amount of information to be provided
+to standard employer-sponsored members.
+Small and excluded superannuation funds
+4.19 The SIS Act defines an excluded superannuation fund as a
+superannuation fund:
+of which there are fewer than five members.92
+4.20 Howard Smith & Associates submitted that the definition of
+'excluded superannuation fund' should be amended to allow funds with up
+to 9 members or to allow family members to join without depriving a fund
+of its 'excluded' status. This reflects their concern that:
+Over the years we have seen an increase of family members being introduced
+into the fund and when children marry, it is increasingly becoming a problem for
+in-laws to be admitted to these funds. The cost of establishing a second fund is
+in many instances prohibitive.93
+4.21 Mr Cosimo Foti of G. & E. Foti Enterprises expressed similar
+concerns, namely that:
+92 Subsection 10(1) of the SIS Act 1993
+SISREG Sub No 12
+93
+
+
+because my parents had three children instead of only two, ...our superannuation
+fund must adhere to the same reporting requirements as AMP and National
+Mutual.94
+4.22 The committee noted that the SIS legislation exempted excluded
+superannuation funds from some of the more onerous requirements of the
+SIS Act and SIS regulations. In addition, the committee noted that the ISC
+had released an Information Bulletin on 20 June 1994 announcing that
+excluded funds which met certain requirements will not be considered to be
+public offer funds and will not therefore be required to have an 'approved
+trustee' under SIS or to meet public offer disclosure rules.
+4.23 Moreover, subsection 18(7) of the SIS Act enables the Insurance and
+Superannuation Commissioner to declare a fund not to be a public offer
+fund, which enables family funds such as the ones described above to be
+exempted from many public offer obligations.
+4.24 However, there appear to be a substantial array of rules under SIS
+which exempt excluded funds, but do not exempt small funds, for example:
+• the requirement that a trustee give each new member of a fund an
+extensive inventory of information, including statements of how fees,
+charges and administrative or other operational costs are attributed,
+either directly or indirectly, to members;95
+• an operating standard which requires the trustee of a fund to
+formulate and give effect to an investment strategy;96
+• the prohibition of trustees acquiring the assets of members or their
+relatives;
+94 SISREG Sub No 18
+95 SIS regulation 2.16
+96 SIS regulation 4.09
+97 Section 66 of the SIS Act
+
+
+• equal representation and alternative agreed representation
+requirements;98
+• the restrictions on the appointment of investment managers and
+custodians;99
+• payment of surplus amounts to employer-sponsors;100
+• various duties of trustees and investment managers of
+superannuation entities, including the need to establish internal
+complaints mechanisms;101
+• various requirements in relation to auditing of fund accounts and the
+lodgment of annual returns;102
+• trustees not being subject to direction, and exercises of discretion by
+persons other than trustees;103 and
+• amendments of governing rules;104
+4.25 The committee did not see that an exemption from many or all of
+these requirements for a fund such as the kind described in paragraphs 4.19
+and 4.20 would prejudice the SIS legislation.
+98
+Part 9 and section 107 of the SIS Act
+99 Part 15 of the SIS Act
+100 Section 117 of the SIS Act
+101 Part 12 of the SIS Act
+102 For example: SIS regulations, 1.04(2), 8.03 and 11.02
+103 Sections 58 and 59 of the SIS Act
+104
+Section 60 of the SIS Act
+
+
+Recommendation 4.4
+The committee recommends that the Government examine the rules
+imposed under the SIS legislation upon small non-excluded
+superannuation funds consisting of non-arms length membership, with
+the aim of introducing flexibility into the requirements.
+Presumed age of retirement
+4.26 The SIS regulations enable a person aged 60 or more to gain access
+to that person's preserved benefits once s/he has ceased an employment
+arrangement (for example, through resignation, retirement, retrenchment,
+redundancy or on medical grounds).10^ The SIS regulations also enable
+a person aged 55 or over to gain access to the preserved benefits if s/he has
+similarly ceased employment and the trustee is reasonably satisfied that the
+person has, in effect, retired.
+4.27 LIFA submitted that the age where retirement is presumed in such
+circumstances should be lowered to age 55 because for trustees:
+to continue to need to satisfy themselves that a person who resigns from
+employment from age 55 to 59 is retiring, unnecessarily adds another layer of
+complexity to the process of paying benefits.106
+4.28 The committee accepted LIFA's assertion that the current
+requirement adds an unnecessary layer of complexity to the process of
+paying benefits. The committee also considered that lowering the age of
+presumed retirement should also eliminate any administrative costs
+associated with the need for trustees to investigate a person's employment
+circumstances and to attempt to verify what are often subjective motivations
+on the part of fund members. The requirement for trustees to evaluate the
+employment circumstances of beneficiaries in the age 55 to 59 bracket
+105 SIS regulation 6.01 (7)
+SISREG Sub No 17
+106
+
+
+would, in any case, disappear once preservation to age 60 became universal
+by the year 2025.
+Recommendation 4.5
+The committee recommends that the Government review SIS
+subregulation 6.01(7), which relates to the presumed age of retirement,
+to ensure that it is consistent with its overall policy on preservation.
+Preservation rules
+4.29 LIFA also submitted that, in the interests of simplicity, benefits
+arising out of SG contributions and the new preservation rules which have
+been included in Part 6 of the SIS regulations should commence from a
+common date.107 LIFA suggested delaying the preservation of SG
+contributions until the 1996 calender year (in line with the Part 6
+requirements for preservation generally), or to bring the date of effect of
+Part 6 forward to 1 July 1995 and to also commence preservation of SG
+benefits from that date.
+4.30 The committee is unable to endorse these suggestions because the
+preservation date for SG contributions has already been deferred twice,
+from 1 July 1992 and 1 July 1993 to 1 July 1994. Further deferrals would
+significantly reduce the amounts of benefits preservable until members'
+retirements, an important plank in retirement income policy. Although this
+may be offset under the second option by bringing forward the preservation
+requirements from 1996 to 1995, the committee does not consider that any
+further changes to the preservation rules can be justified.
+Pension and annuity standards
+4.31 The committee agrees with LIFA's submission that the pension and
+annuity standards which were recently copied into the SIS regulations from
+107
+SISREG Sub No 17
+
+
+the Occupational Superannuation Standards (OSS) regulations are
+incomplete, in particular in relation to the tax treatment of commutations
+of allocated pensions and annuities.108 Currently, the regulations prescribe
+upper and lower limits on the amounts of benefits that can be paid in
+relation to allocated income streams in any given year of income. Although
+commutations above the upper limit are specifically allowed under the
+standards, the Government has not as yet finalised the rules governing the
+tax treatment of such commutations.
+4.32 It is a matter of some considerable concern to the committee that
+important rules concerning allocated pensions and annuities have not yet
+been completed, particularly in light of the popularity of such products. The
+committee is concerned that this delay will generate a policy, virtually by
+default, that may result in unduly generous tax treatment of commutations
+on allocated income streams.
+4.33 The committee understands that the ISC is conducting a review of
+the pension and annuity standards. Nevertheless, the issue involving the tax
+treatment of commutation of allocated pensions and annuities has been
+outstanding since the standards were promulgated in the OSS regulations in
+late 1992.
+Recommendation 4.6
+The committee recommends that the Government remove uncertainty
+surrounding the tax treatment of commutations of allocated pensions
+and annuities by expeditiously finalising the rules governing the tax
+treatment of commutations of these benefits.
+108
+LIFA SISREG Sub No 17
+
+
+Inappropriate retirement on medical grounds
+4.34 Dr G.J. Acton, of Seaview Downs in South Australia, expressed
+concerned about the accountability of trustees who inappropriately retired
+members on medical grounds as totally and permanently incapacitated
+(T&PI), reviewed those members a short time later and reduced their
+benefits following a determination that the person concerned was no longer
+T&PI.109 Dr Acton expressed a concern that he had not been able to
+have his case determined by an independent tribunal such as the recently
+established Superannuation Complaints Tribunal (the Tribunal).
+Other matters
+4.35 ANZ Funds Management and the Queensland Office of the Cabinet
+raised a number of issues of a technical nature, the latter expressing
+concerns about whether partial disability pensions were allowed under SIS,
+and whether the prohibition of liens over benefits was wider than
+intended.110 Mr Chris Hanson, of Hawthorn in Victoria, was concerned
+that a whole-of-life insurance plan which he had taken out in 1972 could not
+now be converted into a superannuation policy because of the changes in
+the rules concerning superannuation since that time.111
+4.36 The committee considers that it would be appropriate to refer these
+matters to the ISC for review, and if possible, resolution.
+109
+SISREG Sub No 27
+no
+SISREG Subs Nos 7 and 10, respectively
+in
+SISREG Sub No 9
+
+
+
+
+CHAPTER 5:
+AWU-FIME
+AWU-FIME
+Background
+5.1 On 13 July 1994, The Australian published an article titled 'Union
+gets 20pc of super fund as management fee'. The following day, the same
+newspaper followed this up with another article: 'ABA denounces union-
+super pact'.112
+5.2 This issue provoked some discussion in the committee during its
+hearing on 13 July 1994. It also provided an opportunity for the committee
+to seek the views of other industry players on the arrangement that had
+been entered into by the AWU/FIME Amalgamated Union and the
+administrators of the Nationwide Superannuation Fund (NSF), Professional
+Services Investment Pty Ltd (PSI). 13 That arrangement involves twenty
+per cent of the 73 cent administration fee levied by the NSF and received
+by PSI being paid to the AWU-FIME by the PSI as a contractual obligation
+to cover some of the costs incurred by the union in marketing the fund.114
+The sole purpose test
+5.3 One of the committee's concerns about the arrangement between the
+AWU-FIME and the PSI was the question of whether there had been a
+breach of the sole purpose test under either the Occupational
+Superannuation Standards Act 1987 or the SIS Act, given that part of the
+112
+See Appendix G
+113 Namely, David Goodear and David Vernon of Jacques Martin Industry, who
+expressed opposition to the arrangement - Evidence, pp 139-141, 13 July 1994
+114 AWU/FIME, SISREG Sub No 29
+Steve Harrison, Evidence, p 486, 19 September 1994
+
+
+administration fees reimbursed to the union had been used in providing
+scholarships to members of the union.115
+5.4 Evidence given by Steve Harrison of the AWU/FIME and
+Michael Tyler, Chairman of PSI, to the committee on 19 September 1994
+denied any breach of the sole purpose test.116 A letter from Paul Elliott,
+the Parliamentary Secretary to the Treasurer, published by the committee
+on 23 September 1994, supports this assertion. The ISC had provided
+Mr Elliott with information following a meeting between the ISC, the AWU-
+FIME, the trustees of NSF, and PSI. Mr Elliott's letter stated:
+* The agreement is between PSI and FIMEE, rather than between NSF and
+FIMEE, and it relates to the subcontracting of administration and
+promotional services to FIMEE. Although the trustees of NSF were aware
+of the agreement, they were not a party to it and were not concerned by
+it.
+The administration fee earned by FIMEE is a commercial arrangement
+made on an arm's length basis...
+* The link between union scholarships and the fee derived by FIMEE ...has
+nothing to do with arrangements between NSF and PSI and is not a
+concern to either NSF or the ISC because the arrangement with FIMEE
+is on commercial terms.
+On the basis of the information and documentary evidence provided by NSF and
+FIMEE, the fees earned by FIMEE, and the linking of union scholarships and
+other benefits for union members, in return for services provided by FIMEE is
+not seen as inappropriate or a threat to the retirement incomes of NSF
+members.117(original emphasis)
+115
+116
+Information concerning use of reimbursement provided by AWU-FIME,
+SISREG Sub No 29
+Evidence, p 497, 19 September 1994
+SISREG Sub No 31
+117
+
+
+Conclusion
+5.5 Mr Elliott's letter referred to 'many factual inaccuracies' in the article
+by The Australian. The committee expresses the hope that such inaccuracies
+would in future be kept to a minimum to enable a climate of reasoned
+debate and discussion. The whole field of superannuation and retirement
+income policy is fraught with enough complications without the issue being
+further complicated by such misreporting.
+5.6 In any event, the committee notes that this matter has raised some
+consternation in the superannuation industry, and understands that it is
+currently under examination by the ISC.
+
+
+
+
+APPENDIX A:
+TERMS OF REFERENCE
+Terms of Reference
+16 March 1994
+That, without prejudice to any inquiry or report that may be made by the
+Standing Committee on Regulations and Ordinances, the following
+regulations be referred to the Senate Select Committee on Superannuation
+for inquiry and report on or before the last sitting day in November 1994:
+(a) Superannuation Industry (Supervision) Regulations (Statutory
+Rules 1994 No. 57); and
+(b) Superannuation (Resolution of Complaints) Regulations
+(Statutory Rules 1994 No. 56).
+
+
+
+
+APPENDIX B:
+LIST OF COMMITTEE REPORTS AND PAPERS
+List of Committee Reports
+Super System Survey - A Background Paper on Retirement Income
+Arrangements in Twenty-one Countries (December 1991)
+Papers relating to the Byrnwood Ltd, WA Superannuation Scheme
+(March 1992) Interim Report on Fees, Charges and Commissions in
+the Life Insurance Industry (June 1992)
+First Report of the Senate Select Committee on Superannuation -
+Safeguarding Super - the Regulation of Superannuation (June 1992)
+Second Report of the Senate Select Committee on Superannuation -
+Super Guarantee Bills (June 1992)
+Super Charges - An Issues Paper on Fees, Commissions, Charges
+and Disclosure in the Superannuation Industry (August 1992)
+Third Report of the Senate Select Committee on Superannuation -
+Super and the Financial System (October 1992)
+Proceedings of the Super Consumer Seminar, 4 November 1992 -
+(4 November 1992)
+Fourth Report of the Senate Select Committee on Superannuation -
+Super - Fiscal and Social Links (December 1992)
+Fifth Report of the Senate Select Committee on Superannuation -
+Super Supervisory Levy (May 1993)
+
+
+Sixth Report of the Senate Select Committee on Superannuation -
+Super - Fees, Charges and Commissions (June 1993)
+Seventh Report of the Senate Select Committee on Superannuation
+Super Inquiry Overview (June 1993)
+Eighth Report of the Senate Select Committee on Superannuation -
+Inquiry into the Queensland Professional Officers Associate
+Superannuation Fund (August 1993)
+Ninth Report of the Senate Select Committee on Superannuation -
+Super Supervision Bills (October 1993)
+Tenth Report of the Senate Select Committee on Superannuation -
+Super Complaints Tribunal (December 1993)
+Eleventh Report of the Senate Select Committee on Superannuation
+Privilege Matter Involving Mr Kevin Lindeberg and Mr Des O'Nd
+(December 1993)
+A Preliminary Paper Prepared by the Senate Select Committee or
+Superannuation for the Minister for Social Security, Options for
+Allocated Pensions Within the Retirement Incomes System (March 1994]
+Twelfth Report of the Senate Select Committee on Superannuation -
+Super for Housing (May 1994)
+Thirteenth Report of the Senate Select Committee on Superannuation •
+Super Regs I (August 1994)
+Fourteenth Report of the Senate Select Committee on Superannuation -
+Super Regs II (November 1994)
+
+
+APPENDIX C:
+LIST OF WRITTEN SUBMISSIONS
+List of Written Submissions
+No 1 Australian Consumers' Association (ACA)
+No 2 Bus and Coach Association
+No 3 Tidswell Benefit Consultants and Fund Administrators
+No 4 Freedom of Choice Fund Management Ltd
+No 5 National Australia Bank
+No 6 Trustee Corporations Association of Australia
+No 7 ANZ Funds Management
+No 8 Australian Federation of Consumer Organizations Inc. (AFCO)
+No 9 Chris Hanson
+No 10 Office of the Cabinet, Queensland
+No 11 Financial Planning Association of Australia (FPA)
+No 12 Howard V Smith & Associates Pty. Ltd.
+No 13 Sly & Weigall
+No 14 Attorney-General's Department
+No 15 August Financial Management Limited
+No 16 Self Management Retirement Systems Pty Ltd
+
+
+No 17 Life Insurance Federation of Australia Incorporated (LIFA)
+No 18 G. & E. Foti Enterprises Pty. Ltd.
+No 19 Arthur Robinson & Hedderwicks
+No 20 Insurance and Superannuation Commission (ISC)
+No 21 Mr J. M. Kelberg
+No 22 Administrative Review Council (ARC)
+No 23 Superannuation Trust of Australia (STA)
+No 24 Permanent Trustee Company Limited
+No 25 Mr Bryce Jarrett
+No 26 Maurice Blackburn and Co., Barristers and Solicitors
+No 27 Dr J.G. Acton
+No 28 Association of Superannuation Funds of Australia Limited (ASFA)
+No 29 The AWU-FIME Amalgamated Union
+No 30 In camera
+No 31 Parliamentary Secretary to the Treasurer
+No 32 Jacques Martin Industry
+No 33 COMSUPER
+No 34 Construction + Building Unions Superannuation (C + BUS)
+No 35 State Street Australia Limited
+No 36 Senate Standing Committee on Regulations and Ordinances
+
+
+APPENDIX D:
+LIST OF WITNESSES AT PUBLIC HEARINGS
+List of Witnesses
+CANBERRA, 20 JUNE 1994
+Ms Caroline Le Couteur, Director, August Financial
+Management Ltd
+Mr Robert Drake, Senior Policy Officer, Australian Consumers
+Association
+Mr Robert Gunning, Adviser, Bus and Coach Association
+Mr Roger Nairn, General Manager, Custodian Services Division,
+National Australia Bank Ltd
+Mr Howard Pender, Director, Management Co., Australian Ethical
+Investment Trust
+Mr Ronald J Rankin, Chief Executive Officer, Financial Planning
+Association of Australia
+Mr Trevor J Thomas, Assistant Commissioner, Review Branch,
+Insurance and Superannuation Commission
+Ms Judith N Towler, Member, Legislative and Regulatory
+Committee, Financial Planning Association of Australia
+Mr Michael B White, Executive Director, Disabled Peoples
+International (Australia) Ltd
+
+
+CANBERRA, 23 JUNE 1994
+Mr Darren Davis, Assistant Manager, Operations, Life Insurance
+Federation of Australia
+Mr Donald B Duval, Australian Government Actuary and First
+Assistant Commissioner, Policy, Legal and Actuarial, Insurance
+and Superannuation Commission
+Ms Prudence Ford, Director, Federal Bureau of Consumer Affairs,
+Attorney-General's Department
+Mrs Wendy Robinson, Director, Review and Legislation Section,
+Insurance and Superannuation Commission
+Mr Kenneth Robinson, Member, Superannuation Committee, Life
+Insurance Federation of Australia
+Ms Dusanka Sabic, Acting Assistant Secretary, Consumer Policy
+Branch, Federal Bureau of Consumer Affairs
+Mr Trevor John Thomas, Assistant Commissioner, Review Branch,
+Insurance and Superannuation Commission
+Mr Tim Williams, Member, Superannuation Committee, Life
+Insurance Federation of Australia
+CANBERRA, 19 SEPTEMBER 1994
+Mr Stephen Harrison, National Secretary, AWU-FIME
+Mr Graham Poole, Director, PSI Superannuation
+Management Pty Ltd
+Mr Michael Tyler, Chairman of Board, PSI Superannuation
+Management Pty Ltd
+
+
+APPENDIX E:
+ASSET PORTFOLIOS FOR BIC
+Asset Portfolios for BIC
+INVESTMENTS
+118
+How are the contributions invested?
+You have the choice as to how your money is
+invested as follows:
+Portfolio 1 - is a market-linked investment
+arrangement where the investments are spread over
+a wide spectrum of investment products.
+These would include Australian and overseas
+shares, property, Government bonds and liquid
+investments such as cash. The rates of return may
+vary substantially from year to year depending on
+the performance of the various investment sectors.
+This portfolio should be viewed as a long-term
+investment.
+Portfolio 2 - investments are mainly in life office
+capital-guaranteed funds or capital stable
+investment arrangements. This portfolio is designed
+for high security and stable returns. Members who
+are close to retirement may be more comfortable
+with Portfolio 2.
+You may vary your investment twice at any time
+during the year ending 30 June without an
+additional charge. You will be fully informed on a
+regular basis of the status of your investments.
+118
+Source: Australian Superannuation Savings Employment Trust (ASSET):
+Employer Kit - ASSET Member Booklet Working Hard for your Retirement
+(extract)
+
+
+
+
+APPENDIX F:
+SELECTED RESULTS OF SURVEY ON
+BENEFICIARY INVESTMENT CHOICE 119
+Selected Results of Survey
+I - Number of superannuation funds surveyed: 139
+ILA. - Size of funds surveyed (number of members)
+IIB - Size of funds surveyed (size of assets)
+TABLE 1: Funds and BIC
+119
+Source: Selected from Towers Perrin's 'Results of survey on member
+investment choice', May 1994 - courtesy of Brian Scott, Towers Perrin
+
+
+APPENDIX F (Continued)
+TABLE 2:
+Which Issues are Important in Determining Availability of BIC?
+* The number shown in brackets is the percentage of the first number who
+thought that the issue was very important
+TABLE 3: Who Should Choose?*
+* Of the two industry funds known by the committee to offer BIC, both
+feature default options for members not exercising investment choice
+
+
+APPENDIX G:
+ARTICLE IN ’THE AUSTRALIAN’
+OF 13 JULY 1994
+Article in 'The Australian'
+
+
+
+
+APPENDIX H:
+LETTER FROM HON. PAUL ELLIOTT, MP
+Letter from Hon. Paul Elliot, MP
+Thank you for your letters of 19 July 1994 to the Treasurer and to the Insurance and
+Superannuation Commissioner in which you expressed concern over an arrangement (reported
+in The A usIraJian, 13 July 1994) involving the Australian Workers Union-Federation of
+Industrial, Manufacturing, and Engineering Employees (AWU-FIMEE), the Nationwide
+Superannuation Fund (NSF) and NSF's administrator, PSI Superannuation Management (PSI)
+The article reported that AWU-FIMEE received 20% of the administrative charges paid by
+the NSF to PSI as a commission
+In order to fully address your concerns, and in order to clarify conflicting statements within
+the article, ISC officers met with the trustees of NSF, along with officials from the
+administrator and FIMEE.
+The ISC has provided me with the information that follows In the course of those
+discussions, it was ascertained that the article contained many factual inaccuracies
+A brief summary of the arrangement is as follows
+• The agreement is between PSI and FIMEE, rather than between the NSF and FIMEE,
+and it relates to subcontracting of administration and promotional services to FIMEE
+Although the trustees of NSF were aware of the agreement, they were not a party to it
+and were not concerned by it.
+• The administration fee earned by FIMEE is a commercial arrangement made on an
+arm's length basis The existence of a financial benefit for FIMEE was disclosed to
+NSF members in material accompanying the application form to join NSF This
+material also contained a declaration of interest by one of the member representative
+trustees, an employee of FIMEE on the basis that FIMEE receives a financial benefit
+for the promotion of NSF
+
+
+• The link between union scholarships and the fee derived by FIMEE was made to
+assuage possible fears of union members that union officials would personally derive a
+benefit from the services provided by the union This link has nothing to do with
+arrangements between NSF and PSI and is not a concern to either NSF or the ISC
+because the arrangement with FIMEE is on commercial terms
+• The Industrial Relations Commission (IRC) did not "approve" the arrangement as was
+alleged in The Australian article The arrangement was in fact raised in argument by
+unions in competition with FIMEE, in the process of the IRC hearing an application
+for an amendment to certain awards so that members could have some freedom of
+choice in relation to the superannuation fund that their award contributions would be
+directed to
+On the basis of the information and documentary evidence provided by NSF and FIMEE, the
+fees earned by FIMEE, and the linking of union scholarships and other benefits for union
+members, in return for services provided by FIMEE is not seen as inappropriate or a threat to
+the retirement incomes of NSF members.
+As a final point, the article also gave the impression that the arrangement with FIMEE was
+"unique". While such an arrangement with a union may well be unusual, there is nothing
+unusual about administrators entering into agreements with third parties for promotion of a
+particular superannuation fund. Such agreements are acceptable provided they are conducted
+on a commercial basis and provided there is adequate disclosure to superannuation fund
+members where such disclosure is appropriate (for example, as in this case, where there is a
+connection between a third party and the superannuation fund).
+The SIS legislation requires that all transactions entered into by a trustee or an investment
+manager of a superannuation fund be on an arm's length basis (commercial terms) and
+disclosure of commissions is required in certain circumstances In light of this case, ISC staff
+are currently investigating whether an amendment to the disclosure requirements would be
+appropriate
+If you or other members of the Select Committee on Superannuation have any further
+concerns on this, or related matters, please do not hesitate to contact me
+Yours sincerely
+Paul Elliott
+
+
+
+
+THE PARLIAMENT OF THE
+COMMONWEALTH OF AUSTRALIA
+PARLIAMENTARY
+PAPER
+No. 225 of 1994
+ORDERED TO BE PRINTED
+ISSN 0727-418

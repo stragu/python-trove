@@ -1,0 +1,528 @@
+
+
+24th Report of the
+Senate Select Committee on Superannuation
+SCHEDULES
+1,9 & 10
+OF
+TAXATION LAWS
+AMENDMENT BILL
+(NO. 3) 1997
+Parliament of the Commonwealth of Australia
+Canberra
+June, 1997
+
+
+Twenty-fourth Report of the
+Senate Select Committee on Superannuation
+SCHEDULES 1, 9 & 10
+OF
+TAXATION LAWS AMENDMENT BILL
+(NO. 3) 1997
+Parliament of the Commonwealth of Australia
+Canberra
+June 1997
+
+
+© Commonwealth of Australia 1997
+ISBN 0 642 25138 X
+This document was produced from camera-ready copy prepared by the Senate Select
+Committee on Superannuation Secretariat, and printed by the Senate Printing Unit,
+Parliament House, Canberra.
+
+
+MEMBERS OF THE COMMITTEE:
+Secretariat Staff:
+Secretary:
+Principal Research Officer:
+Senior Research Officer:
+Executive Assistant:
+Mr Peter Hallahan
+Mr Rod Adams
+Mr James Greentree
+Ms Jade Ricza
+Address: The Senate
+Parliament House
+CANBERRA ACT 2600
+Telephone: (06) 277 3439
+Facsimile: (06)277 5719
+This report is also available on the Internet at: http://senate.aph.gov.au
+
+
+CONTENTS
+CONTENTS. i
+CHAPTER 1.1
+BACKGROUND.1
+Origin and conduct of the inquiry.1
+The schedules.1
+The issues..:.. 1
+CHAPTER 2.3
+CAPITAL GAINS TAX EXEMPTION.3
+What it does, why and to whom.3
+The Committee's examination.3
+Active and passive assets.3
+Controlling Interest.4
+Seven day limit on making an eligible termination payment (ETP).5
+CHAPTER 3. 7
+AGE LIMIT FOR SUPERANNUATION CONTRIBUTIONS.7
+What this provision does.^
+Some background to the provision.^
+Comment.^
+CHAPTER 4.9
+SPOUSE CONTRIBUTIONS.9
+What the provisions do.^
+Background and comment on the proposal.^
+Preservation.^
+Promoting the proposal.* ^
+CHAPTER 5.13
+RECOMMENDATIONS.13
+REPORT BY AUSTRALIAN LABOR PARTY SENATORS.15
+APPENDIX 1 - LIST OF WRITTEN SUBMISSIONS
+APPENDIX 2 - LIST OF WITNESSES AT PUBLIC HEARINGS
+APPENDIX 3 - LIST OF COMMITTEE REPORTS
+
+
+
+
+CHAPTER 2
+CAPITAL GAINS TAX EXEMPTION
+Capital Gains Tax Exemption
+What it does, why and to whom
+2.1 Provisions in Schedule 1 of the Taxation Laws Amendment Bill (No. 3) 1997 'allow
+small business taxpayers to claim an exemption from tax on capital gains made on the
+disposal of all or some of their active business assets if the proceeds are used for retirement'.1
+The limit on the amount exempted for this purpose is $500,000.
+2.2 The provisions recognise the fact that many small business people are not financially
+able to contribute to superannuation in the same way as other individuals, due to the need to
+reinvest earnings into their business. Also, many small businesses are regarded by their
+individual owners as, in effect, superannuation at the end of the owner's active business life.
+Those taxpayers eligible for the exemption are:
+individuals conducting business as sole traders or in partnership, and companies
+and trusts where there is a controlling individual who is also an employee of the
+company or trust.2
+The Committee's examination
+2.3 Primarily, the Committee sought to satisfy itself that the provisions as drafted would
+achieve the stated purpose of providing a superannuation concession to small business
+owners. In general, the Committee found the evidence presented at the public hearing,
+especially by the representatives from the Australian Taxation Office (ATO), indicated that
+the stated purpose was being achieved by the provisions of Schedule 1.
+2.4 However, there were some technical matters which raised specific questions for
+consideration.
+Active and passive assets
+2.5 The Association of Taxation and Management Accountants addressed the issue of
+restricting the exemption to the disposal of active business assets and its non-application to
+passive investments.3 An active asset is:
+one which, at a particular point in time, is used by the taxpayer in carrying on a
+business, for example, plant, machinery, and a factory of a manufacturing
+business. An active asset also includes an asset which is held ready for use in
+1 Second Reading Speech, Taxation Laws Amendment Bill (No. 3) 1997.
+2 Second Reading Speech, Taxation Laws Amendment Bill (No. 3) 1997.
+Submission TaxBill-1, p 4.
+3
+
+
+that business or an intangible asset which is held ready for use in that business,
+such as goodwill.4
+2.6 Other requirements are that the asset must be active for least half of the period that the
+taxpayer owned the asset, and active at the time of disposal. In this regard the Committee had
+concerns about the situation where a small business proprietor, such as a farmer, is struck ill
+and leases out the business pending recovery from the illness, only to then find that no return
+to work is possible and the business needs to be sold. The Australian Taxation Office (ATO)
+advised that in such circumstances:
+there is a rule that says, provided it was active up to the point where you ceased
+to carry on the business, and provided you then sell the business within 12
+mbnths, we will treat that as active.5
+'2.7 The other alternative available is for such a person to return and reactivate the
+business. In that case, the requirement that the asset must have been active for half of the time
+comes into play.
+Controlling Interest
+2.8 This exemption has been extended beyond sole traders and those in partnerships, to
+benefit those with controlling interests in trusts and private companies. The cut-off point is 50
+per cent, 'so that two people can benefit out of a company structure or out of a trust
+structure'.6 The ATO said the person needs to have at least 50 per cent control of voting rights
+and the rights to capital and income:
+The definition of control is about limiting it to two people per company.7
+2.9 The Association of Taxation and Management Accountants submitted that this
+limitation was too restrictive and cited the example of a business such as a fruit or flower
+shop, or a restaurant, which needs to operate beyond normal working hours. Such a business
+may demand a partnership of two couples and as such would not fall within the controlling
+interest test for the purposes of this exemption.
+2.10 However, the Committee recognises the need to retain a simple concept of controlling
+interest if the target group is to be reached. Accordingly, the Committee is satisfied that the
+exemption is not unduly restrictive, nor has it been extended beyond what was the intention
+to provide a benefit for small businesses.
+4
+Explanatory Memorandum, Taxation Laws Amendment Bill (No. 3) 1997, p 17.
+5 Evidence, p 38.
+6 Evidence, p 42.
+7 Evidence, p 43.
+8 Submission TaxBill-1.
+
+
+Seven day limit on making an eligible termination payment (ETP)
+2.11 The Australian Society of Certified Public Accountants (ASCPA) raised a potential
+problem with the short time frame in which a taxpaying entity has to make an ETP after
+receiving an amount of actual consideration in respect of a sale of assets. They said:
+An ETP must be made to the controlling individual within 7 days after the
+taxpayer receives an amount of actual consideration. Is the time frame of 7 days
+realistic in light of the fact that we are dealing with a sale of a small business
+where a multitude of red tape comes into play.9
+2.12 As part of the single-controller conditions, there is a new section 160 ZZPZH (5) in
+the Income Tax Assessment Act 1936. This provides that a private company or trust must
+make an ETP to the controlling individual(s) within 7 days after making the election to take
+the exemption, or within seven days after the taxpayer receives an amount of actual
+consideration, whichever comes later.
+2.13 The ASCPA submission may have overlooked the latter qualification. The provision
+allows for longer term planning than merely the seven day limitation, as the payment details
+will be apparent before the seven day period is triggered. However, while recognising the
+discipline imposed by this provision, the Committee believes there may be an unfair impact
+on those businesses in remote areas who may need more time to contact their financial
+services provider in relation to the actual payment of the ETP.
+9
+Submission TaxBill-3.
+
+
+
+
+CHAPTER 3
+AGE LIMIT FOR SUPERANNUATION CONTRIBUTIONS
+What this provision does
+3.1 Schedule 9 of the Bill has the effect of requiring employers to continue to pay the
+superannuation guarantee until employees reach the age of 70 years.
+Some background to the provision
+3.2 In its Seventeenth Report, Super and Broken Work Patterns, this Committee
+recommended regulations be amended to allow regulated superannuation funds to accept
+contributions from and for persons over age 65.1 Subsequently, in the 1996/97 Budget the
+Government announced that it would allow people over age 65 to continue contributing to a
+complying superannuation fund or RSA (Retirement Savings Account) up to age 70. The
+proviso is that they maintain a bona fide link with the paid workforce by being gainfully
+employed for at least 10 hours per week.2
+3.3 There are amendments to the Superannuation Industry (Supervision) Regulations
+which will facilitate these over age 65 voluntary contributions as from 1 July 1997.
+3.4 Schedule 9 of the Bill now before the Committee increases, from 65 to 70 years, the
+age threshold at which employers are no longer required to provide superannuation support
+for their employees under the Superannuation Guarantee (Administration) Act 1992. The
+Schedule also amends the Small Superannuation Accounts Act 1995 to the same effect.
+3.5 These changes are a direct consequence of the Government's 1996/97 Budget
+announcement outlined above. The amendment will apply from 1 July 1997 and also includes
+those employees who have already turned 65 as at that date.
+Comment
+3.6 The Association of Taxation and Management Accountants (ATMA) submitted that
+age limits for superannuation contributions are unnecessary and should be removed. They
+also said that in enacting such a provision as in Schedule 9, 'the existing rights of the
+individual to retire should not be compromised’.3 They added:
+The increase in age limit is viewed as a positive move which would extend the
+existing choice of individuals (employees) in determining when they wished to
+retire. From the perspective of employers (many of whom are represented
+1 Super and Broken Work Patterns, Recommendation 4.2.
+2 Explanatory Memorandum, Taxation Laws Amendment Bill (No. 3) 1997, p 80.
+3 Submission, TaxBill-1, p 11.
+
+
+through membership of the ATMA), the increase in age limit for superannuation
+purposes has little bearing.4
+3.7 The Committee agrees with the substance of these comments and supports this
+change.
+4
+Submission, TaxBilM, pi 1.
+
+
+CHAPTER 4
+SPOUSE CONTRIBUTIONS
+What the provisions do
+4.1 Schedule 10 of the Bill provides a taxation rebate to a person who contributes to
+superannuation on behalf of a low-income or non-working spouse. The rebate is calculated as
+18 per cent on contributions up to a limit of $3000. This limit is reduced where the spouse's
+assessable income exceeds $10,800. Overall there is provision for a rebate of up to $540 per
+annum to a taxpayer where:
+• the taxpayer has a spouse;
+. the taxpayer contributes to superannuation on behalf of his or her spouse;
+. the contributions made are not deductible to the taxpayer;
+. both the taxpayer and spouse are Australian residents; and
+. the spouse's assessable income is less than $13,800.1
+4.2 Contributions made on behalf of spouses that exceed the limit of $3,000 will not
+attract the rebate.
+4.3 All spouse contributions will be treated as undeducted contributions and will be
+preserved. This is consistent with the principle that contributions which receive tax
+concessions should be subject to preservation, and 'funds will have to put in place
+arrangements to identify what contributions are spouse contributions and earmark those for
+preservation'.2 Mr Larkin, Assistant Commissioner (Policy) of the Insurance and
+Superannuation Commission (ISC), added:
+We acknowledge that this will require some different interim administration
+arrangements leading up to the introduction of the new broader preservation
+rules ffom 1 July 1999. We also note that it is really a choice for individual
+funds as to whether they accept spouse contributions, and they will have to
+make their own commercial decisions about the costs and benefits of doing so.
+Background and comment on the proposal
+4.4 In Chapter 11 of its Seventeenth Report, Super and Broken Work Patterns, this
+Committee examined the issue of spouse contributions in some detail. At that time there was
+considerable evidence in favour of providing for spouse contributions. However, the ISC at
+1
+Explanatory Memorandum, Taxation Laws Amendment Bill (No. 3) 1997, p 79.
+2 Evidence, p 33.
+3 Evidence, p 33.
+Tabled in November 1995.
+4
+
+
+that time submitted that, while as a form of income splitting this might be attractive on
+retirement income grounds, the revenue and equity implications needed to be examined.5
+4.5 On the Bill presently before the Committee, the Australian Council of Social Service
+(ACOSS) oppose the provisions of Schedule 10, because they say the effect would be to:
+. mainly benefit high income couples; and
+. increase barriers to workforce participation by married women, in reducing the
+incentive to work when combined with the spouse rebate and the family
+payment and the associated stringent income tests applying to "second earners".6
+4.6 The Life, Investment and Superannuation Association of Australia (LISA) raised a
+. number of issues in its submission, mainly related to the complementary amendments to the
+Superannuation Industry (Supervision) Regulations. Generally, the Committee found the
+evidence from the Australian Taxation Office (ATO) and the ISC satisfied the points arising
+in the LISA submission. However, some comments on those matters are warranted.
+Preservation
+4.7 The LISA representatives at the public hearing were concerned about consistency in
+the treatment of all superannuation accounts with regard to preservation, given the major
+changes to preservation to apply generally in 1999. They said:
+we want to ensure that there is no inconsistency between current preservation
+requirements and any that might apply to spouse contributions.7
+4.8 Paragraph 4.3 above describes the requirements for preservation of the spouse
+contributions. While the Committee notes there may be some administrative difficulties
+created for funds, it could not accept the proposition that the spouse contributions should not
+be preserved. Without preservation, the integrity of this proposal in better providing for the
+retirement incomes of low income spouses would be undermined.
+4.9 Mr Larkin of the ISC distinguished between what are essentially two separate classes
+of spouse for the purposes of this rebate and in relation to the payment of preserved benefits.
+One class is the non-working spouse (although the Committee has difficulties with that
+terminology) and the other is the low-income class. Mr Larkin looked at the issue of
+retirement and the payment of benefits:
+In respect of the non-working spouse, the concept of retirement is meaningless;
+they are not retiring from work as such and, therefore, there will be an age based
+trigger for the payment of the preserved benefit from the fund. But to the extent
+that that non-working spouse may come into the workforce at some point during
+5 Submission SW Sub No 9.
+6 Submission TaxBill-4, p 4, together with some additional advice obtained from Mr Davidson.
+Evidence, p 6.
+7
+
+
+Spouse Contributions
+their life cycle then the normal triggers of retirement would reapply to that
+person.8
+4.10 The Committee is satisfied that the proposed preservation treatment is appropriate.
+Promoting the proposal
+4.11 LISA indicated they would be pushing to educate the community generally as to the
+benefits of saving and the benefits of allocating money to non-working spouses.9
+4.12 The Committee regards this rebate proposal as an important initiative in promoting
+savings for retirement. In that regard, some attention should be paid to encouraging the funds
+to accept spouse contributions. LISA had the view that 'generally speaking':
+it would seem to be a service that trustees of superannuant funds would
+generally want to provide.10
+4.13 The Committee requested that the modelling for this proposal be provided to it. To
+date, the modelling has not been provided.
+8 Evidence, p 36.
+9 Evidence, p 8.
+10 Evidence, p 9.
+
+
+
+
+CHAPTER 5
+RECOMMENDATIONS
+The Committee recommends those provisions of Schedules 1, 9 and 10 referred to this
+Committee for examination be passed.
+However, the Committee believes the Government should examine the seven day period in
+relation to the capital gains tax exemption, as outlined in paragraphs 2.11 to 2.23.
+Senator John Watson
+Chair
+
+
+
+
+REPORT BY
+AUSTRALIAN LABOR PARTY SENATORS
+ON SCHEDULES 1, 9 AND 10 OF THE
+TAXATION LAWS AMENDMENT BILL (NO. 3) 1997
+1.1 While in agreement with the main part of the Committee's report, Labor Senators wish
+to make the following additional comments in respect of schedules 1 and 10 of this
+legislation.
+Schedule 1: Capital Gains Tax exemption on the sale of a small business for retirement
+1.2 This provision of the Bill will see business owners who, upon the sale of their
+business, will be able to rollover up to $500,000 in capital gains tax (that would have
+ordinarily been payable to the ATO) into an approved retirement product, providing the net
+business assets of the business do not exceed $5m.
+1.3 Evidence presented to the Committee and in particular from the Association of
+Taxation and Management Accountants highlighted a number of problems with this section
+of the Bill regarding its practical operation.
+1.4 The Association was critical of the fact that if a business has more than two owners
+each with less than 50% ownership of the business, then they would all fail to qualify for
+rollover relief. The Bill fails to address this matter in the context of what constitutes business
+control.
+1.5 Evidence supported the fact that this measure will fail to assist small business owners
+unless they are a single person working as a sole trader, or a couple working in a partnership
+without any other family involved. Many small business operators will therefore not be able
+to access the exemption.
+1.6 Further issues brought to the attention of the Committee were those relating to the
+equity aspects of the CGT exemption.
+1.7 A small business operator with $5 million in net business assets would be equally as
+eligible for the CGT exemption as a small business owner who has only $100,000 in net
+business assets, and who would be genuinely expected to use the CGT exemption on the sale
+of the business to fund their retirement. In this sense, the CGT exemption can be accessed by
+those who potentially have significant means to fund their own retirement without the need
+for taxpayer funded assistance.
+1.8 Labor Senators note that the ATO gave evidence to the Committee that cost to
+revenue modelling on the CGT exemption was done by the Australian Taxation Office and
+
+
+the Treasury but this information was not provided to the Committee by the Assistant
+Treasurer when requested. This material is important in determining the equity impact of this
+measure.
+1.9 In the absence of such information the Committee is hampered in deciding the merits
+of this proposal from an equity perspective.
+Recommendation
+1.10 Labor Senators recommend that in light of the evidence presented to the Committee,
+the Government take the opportunity to review the legislation in the context of its
+workability, intended beneficiaries and equity impact.
+Schedule 9: Contributions after age 65
+1.11 Labor Senators do not oppose this measure.
+Schedule 10: Spouse rebate
+1.12 This measure will provide up to a maximum 18% tax rebate to the contributing spouse
+of up to $3000 of contributions made to the superannuation fund or RSA of what generally
+will be his/her non-working spouse's fund or RSA, provided the non-working spouse's
+taxable income does not exceed $13 800.
+1.13 Labor Senators have concerns relating to the equity aspects of the spouse rebate as
+contained in evidence presented to the Committee by ACOSS.
+1.14 ACOSS informed the Committee that high income earners would seem to have the
+most to gain from the 18% spouse rebate and are most likely to have additional funds
+available to contribute to the superannuation fund or RSA of a non-working or low income
+spouse.
+1.15 Considering while there is a $ 13 800 upper income test it will still be possible for the
+non-working spouse to have considerable assets, and the high income earning spouse will still
+qualify for the full rebate. For example a non-working spouse could have $200,000 in a cash
+deposit earning 5% or $10,000 interest and their high income earning working spouse can
+still qualify for the full 18% rebate. It is doubtful that many low to middle income earners
+will be in a similar position to take advantage of this tax rebate.
+1.16 Once again the ATO gave evidence to the Committee that the RIM Taskforce had
+modelled the spouse rebate proposal. This modelling was not presented to the committee as
+requested, and the committee is still waiting for the Assistant Treasurer to provide such
+information.
+1.17 It would seem as in the case of the CGT rollover proposal that the Government is
+reluctant to release the RIM modelling on this proposal as to its equity merits.
+
+
+Taxation Laws Amendment Bill (No. 3) 1997
+1.18 This proposal would therefore appear from an equity perspective to be dubious and
+skewed towards high income earners while being paid for by low to middle income earners.
+At this stage the Government has failed to present any evidence to the contrary.
+Recommendation
+1.19 Labor Senators recommend that the Government immediately release the modelling
+undertaken by the RIM Taskforce on this measure so that the Committee can make a full and
+proper assessment as to the equity impact of this proposal.
+Senator the Hon. Nick Shei
+Deputy Chairman
+Senator Chris Evans
+
+
+
+
+APPENDIX 1
+LIST OF WRITTEN SUBMISSIONS
+
+
+APPENDIX 2
+LIST OF WITNESSES AT PUBLIC HEARINGS
+CANBERRA, 4 JUNE 1997
+Ms Sharon Baker, Legislative Services, Australian Taxation Office
+Mr Robert Bastian, Chief Executive Officer, Council of Small Business Organisations
+of Australia
+Mr Shayne Carter, Member of the National Superannuation and Financial Planning
+Committee, Institute of Chartered Accountants
+Mr Damian Hill, Member, Retirement Savings Committee; Life, Investment and
+Superannuation Association of Australia
+Dr Kim Houghton, Projects Manager, Council of Small Business Organisations of
+Australia
+Senator The Hon Rod Kemp, Assistant Treasurer
+Mr John Larkin, Assistant Commissioner (Policy), Insurance and Superannuation
+Commission
+Mr Neil Oleson, Assistant Commissioner, Australian Taxation Office
+Ms Sandra Peacock, Assistant Commissioner, Legislative Services; Australian Taxation
+Office
+Mr Kenneth Robinson, Convenor, Retirement Savings Committee; Life, Investment
+and Superannuation Association of Australia
+Ms Julie Tinnion, Director, Superannuation Section; Department of the Treasury
+
+
+APPENDIX 3
+LIST OF COMMITTEE REPORTS
+Super System Survey - A Background Paper on Retirement Income Arrangements in
+Twenty-one Countries (December 1991)
+Papers relating to the Bymwood Ltd, WA Superannuation Scheme (March 1992)
+Interim Report on Fees, Charges and Commissions in the Life Insurance Industry
+(June 1992)
+First Report of the Senate Select Committee on Superannuation - Safeguarding Super -
+the Regulation of Superannuation (June 1992)
+Second Report of the Senate Select Committee on Superannuation - Super Guarantee
+Bills (June 1992)
+Super Charges - An Issues Paper on Fees, Commissions, Charges and Disclosure in the
+Superannuation Industry (August 1992)
+Third Report of the Senate Select Committee on Superannuation - Super and the
+Financial System (October 1992)
+Proceedings of the Super Consumer Seminar, 4 November 1992 (4 November 1992)
+Fourth Report of the Senate Select Committee on Superannuation - Super - Fiscal and
+Social Links (December 1992)
+Fifth Report of the Senate Select Committee on Superannuation - Super Supervisory
+Levy (May 1993)
+Sixth Report of the Senate Select Committee on Superannuation - Super - Fees,
+Charges and Commissions (June 1993)
+Seventh Report of the Senate Select Committee on Superannuation - Super Inquiry
+Overview (June 1993)
+
+
+List of Committee Reports
+Eighteenth Report of the Senate Select Committee on Superannuation - Review of the
+Superannuation Complaints Tribunal (April 1996)
+Nineteenth Report of the Senate Select Committee on Superannuation - Reserve Bank
+Officers ’ Super Fund (June 1996)
+Twentieth Report of the Senate Select Committee on Superannuation - Provisions of the
+Social Security Legislation Amendment (Further Budget and Other Measures) Bill 1996
+- Schedule 1 (November 1996)
+Twenty-first Report of the Senate Select Committee on Superannuation - Investment of
+Australia's Superannuation Savings (December 1996)
+Twenty-second Report of the Senate Select Committee on Superannuation - Retirement
+Savings Accounts Legislation
+Twenty-third Report of the Senate Select Committee on Superannuation -
+Superannuation Surcharge Legislation
+Twenty-fourth Report of the Senate Select Committee on Superannuation - Schedules 1,
+9 & 10 of Taxation Laws Amendment Bill (No. 3) 1997
+
+
+Eighth Report of the Senate Select Committee on Superannuation - Inquiry into the
+Queensland Professional Officers Association Superannuation Fund (August 1993)
+Ninth Report of the Senate Select Committee on Superannuation - Super Supervision
+Bills (October 1993)
+Tenth Report of the Senate Select Committee on Superannuation - Super Complaints
+Tribunal (December 1993)
+Eleventh Report of the Senate Select Committee on Superannuation - Privilege Matter
+Involving Mr Kevin Lindeberg and Mr Des O'Neill (December 1993)
+A Preliminary Paper Prepared by the Senate Select Committee on Superannuation for
+the Minister for Social Security, Options for Allocated Pensions Within the Retirement
+Incomes System (March 1994)
+Twelfth Report of the Senate Select Committee on Superannuation - Super for Housing
+(May 1994)
+Thirteenth Report of the Senate Select Committee on Superannuation - Super Regs I
+(August 1994)
+Fourteenth Report of the Senate Seiect Committee on Superannuation - Super Regs 11
+(November 1994)
+Fifteenth Report of the Senate Select Committee on Superannuation - Super Guarantee
+-Its Track Record (February 1995)
+Sixteenth Report of the Senate Select Committee on Superannuation - Allocated
+Pensions (June 1995)
+Seventeenth Report of the Senate Select Committee on Superannuation - Super and
+Broken Work Patterns (November 1995)
+
+
+THE PARLIAMENT OF THE
+COMMONWEALTH OF AUSTRALIA
+PARLIAMENTARY
+PAPER
+No 97 of 1997
+ORDERED TO BE PRINTED
+ISSN 0727-4181

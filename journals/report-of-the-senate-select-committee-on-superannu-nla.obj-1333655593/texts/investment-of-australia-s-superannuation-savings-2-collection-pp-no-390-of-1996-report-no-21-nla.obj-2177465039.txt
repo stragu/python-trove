@@ -1,0 +1,2749 @@
+
+
+21st Report of the
+Senate Select Committee on Superannuation
+INVESTMENT OF AUSTRALIA’S
+SUPERANNUATION SAVINGS
+Parliament of the Commonwealth of Australia
+Canberra
+December 1996
+
+
+
+
+21st Report of the
+Senate Select Committee on Superannuation
+INVESTMENT OF AUSTRALIA’S
+SUPERANNUATION SAVINGS
+Parliament of the Commonwealth of Australia
+Canberra
+December 1996
+
+
+© Commonwealth of Australia 1996
+ISBN 0-642-25119-3
+This document was produced from camera-ready copy prepared by the
+Senate Select Committee on Superannuation Secretariat, and printed by the
+Senate Printing Unit, Parliament House, Canberra.
+
+
+MEMBERS OF THE COMMITTEE:
+Members of the Committee
+Secretariat Staff:
+Secretary: Ms Bronwyn McNaughton (to 7/11/96)
+Senior Research Officer: Mr Rod Adams
+Executive Assistant: Ms Debbie McMahon (to 4/12/96)
+Address: The Senate
+Parliament House
+CANBERRA ACT 2600
+Telephone: (06) 277 3439
+Facsimile: (06)277 5719
+This report is also available on the Internet at: http://senate.aph.g0V.au
+
+
+
+
+PREFACE
+Preface
+This report provides an overview and analysis of the legal, economic, and
+social issues associated with the investment of superannuation savings. As such
+it represents an audit of some of the current market-place trends and policy
+developments in the area of superannuation investment.
+Underlying its analysis was the Committee's recognition that the primary
+purpose of superannuation is to provide retirement income. The Committee is
+mindful that any changes to the superannuation system must reflect this
+fundamental principle.
+
+
+
+
+RECOMMENDATIONS
+Recommendations
+Recommendation 3.1
+The Committee recommends that the government review the intent and
+operation of the infrastructure borrowings concessions and clarify the
+position.
+Recommendation 4.1
+The Committee recommends the government investigate the establishment
+of an independent and investor based credit-rating system for SMEs as a
+joint initiative of government and the relevant business groups.
+Recommendation 6.1
+The Committee recommends that the government review and monitor its
+superannuation policies and legislation to ensure the maximising of
+retirement incomes is not being unduly affected by short term investment
+considerations.
+Recommendation 7.1
+The Committee recommends that a review of superannuation investment
+policies and practices be undertaken by this Committee in three years time.
+
+
+
+
+CONTENTS
+MEMBERS OF THE COMMITTEE
+PREFACE
+RECOMMENDATIONS
+iii
+v
+vii
+CHAPTER 11
+BACKGROUND 1
+The market place 3
+Diversification 4
+Globalisation and economic sovereignty 5
+Conclusion 6
+CHAPTER 29
+BALANCED INVESTMENT 9
+The history and source of the law 9
+Trustees and investment 10
+Prudent investing 11
+SIS AND INVESTMENT STRATEGY 12
+Non-fin ancial considerations 13
+The American experience 14
+Striking the balance 15
+Fraud 19
+Socially responsible investment 20
+Economically targeted investments (ETIs) 21
+Legal regulation of ETIs 22
+A recent Australian case 23
+Conclusions 25
+CHAPTER 327
+INFRASTRUCTURE 27
+Infrastructure Borrowings Tax Concession 29
+Infrastructure Investment In The United States Of America 32
+Trading In Infrastructure 33
+Conclusions 34
+CHAPTER 435
+INVESTING IN SMALLER ENTERPRISES 35
+A CREDIT-RATING SYSTEM 36
+Business loans 37
+Equity capital 38
+The problem of matching 38
+Directed investment 41
+Development capital 42
+Conclusion 44
+
+
+CHAPTER 5
+SUPER FOR HOUSING 45
+Investment in housing infrastructure 45
+Home purchase assistance 48
+The actu/National Mutual scheme 50
+Conclusion 51
+CHAPTER 653
+SHORT TERMISM - PERCEPTION OR REALITY 53
+The issue 53
+Competition and choice 54
+The short term perspective 55
+POLICIES TO COMBAT SHORT TERMISM 60
+Conclusion 63
+CHAPTER 7_ 65
+SUPER FUNDS AND SOCIAL OBJECTIVES 65
+Broader objectives 65
+Economically targeted investment (ETI) 66
+Socially responsible investment 67
+Informed choices 68
+A NATIONAL STRATEGY TO HARNESS SUPER SAVINGS 69
+Conclusion 70
+APPENDIX A - CONDUCT OF THE INQUIRY 73
+APPENDIX B - LIST OF WRITTEN SUBMISSIONS 75
+APPENDIX C - LIST OF WITNESSES AT PUBLIC HEARINGS 77
+APPENDIX D - LIST OF COMMITTEE REPORTS 79
+APPENDIX E - LIST OF ABBREVIATIONS 83
+APPENDIX F - GRAPHS
+85
+
+
+CHAPTER 1
+BACKGROUND
+Background
+1.1 The purpose of this inquiry is to examine the implications of the rapid
+growth in superannuation fund assets, in particular for the availability of
+development capital, the funding of infrastructure projects, the capital needs of
+small and medium sized Australian enterprises and housing finance. The
+Committee is required to consider the possible role that the investment of
+superannuation savings might play in furthering broader social, economic or
+industry policy objectives. It will also consider whether there is an undue focus
+on short term results, and the need for long term investment in providing for
+retirement incomes.
+1.2 This examination of Australia's superannuation system will be premised
+upon the understanding that the primary purpose of the assets held by
+superannuation funds is the provision of retirement income. The funds
+represent the retirement savings of fund members and their use must, in the first
+instance, enhance their primary purpose.
+1.3 With the advent of award superannuation in 1986, the establishment of
+the Insurance and Superannuation Commission (the ISC) in 1987, the
+introduction of the Superannuation Guarantee in 1992 and the implementation
+of the SIS Act during 1994-95, Australia's super system has developed into a
+world leader in many respects. Given the growth patterns that are evident and
+that are anticipated to continue, it is therefore now timely to take stock of both
+the extent and the nature of our superannuation savings.1
+1.4 The ISC in its June Bulletin provides a snapshot of the state of the
+superannuation system. At the end of the June quarter 1996, the value of total
+assets in the superannuation system was $248.7 billion. This represented an
+increase in the value of those assets of $25.5 billion over the year (11.4%).
+During the year ending June 1996, member accounts increased by 973 000 to
+15.9 million, employers contributed $17.5 billion (68%) and employees $8.2
+billion (32%) into super funds.2
+1.5 There are various estimates of the growth in the value of assets in the
+super system. The Committee was told that the value of those assets will grow
+1
+For a description of the kinds of pension fund arrangements that exist in various other countries, see
+Yours, Mine or Ours?Is There A Case For Directed Superannuation Investment, Parliamentary
+Research Service, Research Paper No 32 1994/1995, pp49-54.
+Insurance and Superannuation Commission Bulletin, June 1996, pp30, 33.
+2
+
+
+to some $400 billion by the year 2000,3 $500 billion by 20054 and to some
+$2 000 billion by 2020.5 Superannuation fund investment therefore has a
+significant and growing impact on investment patterns by Australians. This
+growth in super savings has the potential to shape the economic health and
+stability of the nation, especially if it grows at a rate around twice as fast as
+expected economic growth and demand for capital over the next ten years, as
+evidence put to the Committee by Mr Michael Costello, Deputy Managing
+Director of the Australian Stock Exchange (ASX), suggests.6
+1.6 Mr Costello said:
+The net annual flow of funds into superannuation (contributions
+plus earnings less costs, taxes and benefit payouts) is
+approximately $12-15 billion or 3 per cent of GDP and has been
+projected to grow to around 4 per cent of GDP over the next ten
+years, or around $25 billion per year in today's dollars.
+...The stock of superannuation assets is expected to grow strongly
+over the next ten years, increasing from $240 billion now to around
+$500 billion (in today's dollars) in 2005.7
+1.7 Australia's universal super system is now firmly established and widely
+accepted in concept. Its fundamental features of compulsory superannuation,
+supplemented by voluntary arrangements, and operated largely through private
+sector organisations, are strongly endorsed by the World Bank as important
+aspects of a retirement income system.8 These features have been put in place
+over the last decade, largely with bi-partisan support. The Committee intends to
+examine this system and consider whether its present directions are well suited
+for the future.
+1.8 As the Australian Investment Managers' Association (AIMA) points out
+in their submission, another feature of the last ten years has been the growing
+role of fund managers in the intermediation of superannuation savings. AIMA's
+members managed approximately $327 billion as at 30 June 1996. One reason
+for outsourcing the investment function is the increasingly complex nature of
+the financial markets. Outsourcing in this way means that trustees are able to
+3 Submission from LISA Inc (SI-14), p 1.
+4 Submission from AIMA (SI-21), p2.
+5 Submission from Australian Institute of Superannuation Trustees (SI-18), p5.
+6 Evidence, pS35.
+Submission SI-19, para 1.1. (Note that these estimates predated 1996-97 Budget measures.)
+Averting the Old Age Crisis - Policies to Protect the Old and Promote Growth, A World Bank Policy
+Research Report, Oxford University Press, 1994.
+
+
+rely on professional expertise and advice in relation to investment opportunities
+and balancing risk and return.9
+The market place
+1.9 Superannuation savings are invested by the funds in the financial
+markets. While stock exchanges are generally regarded as efficient markets,
+their high degree of efficiency may also operate as a barrier to achieving high
+returns.
+1.10 In recent years, the western world has enjoyed sustained low inflation
+and moderate economic growth. These factors have contributed to a stabilising
+of the equities markets. However, they also mean that the huge returns from
+equities that have been seen in the past will not readily be realised in the near
+future.10
+1.11 Australia's stock exchange is the tenth largest stock exchange in the
+world on the basis of domestic market capitalisation, and eleventh largest on
+the basis of turnover. However, it represents only 1.6% of the Morgan Stanley
+Capital International (MCSI) world index (which includes 22 of the world's
+mature markets). By way of comparison, the United States accounts for 41% of
+the index, Japan 23% and the United Kingdom 9%. In the Asia-Pacific region,
+Hong Kong has a 1.9% weighting, Malaysia 1.4% and Singapore 0.8%. Over
+the past ten years, the Australian market has performed well, returning to
+investors considerably more than the world average (+274% as opposed to
++ 199% on the Morgan Stanley Accumulation Indices).11
+1.12 The ASX does not raise capital itself, but provides the market place
+where capital may be raised and securities traded. The price signals reflected in
+yields and share values are based on the information available to market
+participants. Where the market is functioning efficiently, price signals help
+direct capital to where it is most highly valued. As superannuation fund assets
+grow, trustees and managers will exert pressure on the market to absorb the
+funds and help put them to productive local use. The ASX states: 'Retention of
+those funds in Australia will require a larger and more liquid capital market';
+and identifies scale as an important factor in a market retaining the status of a
+9 Submission SI-21, p3.
+10 Evidence (Dr Gray), pS 18.
+11 ASX submission to the Financial System Inquiry, Sept 1996, paras 1.1.6, 1.1.7.
+
+
+distinct and well researched destination for both domestic and international
+investment.12
+1.13 In addition to the estimated 2.5 million Australians (or 21% of Australian
+adults) who are direct investors on the Australian Stock Exchange, the ASX
+advised that 'virtually all working Australians are now indirect owners of shares
+through their superannuation fund investments'.13 In the June 1996 quarter, the
+proportion of superannuation assets invested in equities was around 28 per
+cent.14
+1.14 The importance of superannuation funds to the national economy is a
+trend evident also in other countries. In the United States, for example, pension
+funds are increasingly being seen as the investment capital that drives the
+economy. They own one fifth of all of the financial assets in the United States,
+25% of the market value of all stocks on the New York Stock Exchange, and
+over 32% of the daily trading on that stock exchange. They have been
+described indeed as 'the owners of corporate America'.15
+Diversification
+1.15 As super fund trustees and managers seek out high yielding investments
+with acceptable risk levels, there will inevitably be a greater diversity in
+investment patterns. This diversification, or spreading of risk, can be expected
+to embrace both domestic and overseas investments. 'The extent to which
+domestic investment opportunities can claim the lion's share of this
+diversification, vis a vis overseas avenues, will depend crucially on the quality
+and competitiveness of Australia's capital markets', the ASX wrote.16 To the
+extent that our market place is not fully representative of the Australian
+economy, then increasingly Australian fund managers will be forced to look
+overseas for the needed diversification.
+1.16 As Australians look overseas for investment opportunities, so will other
+countries seek to invest in Australia. Mr Michael Costello of the ASX told the
+12 ASX submission to the Financial System Inquiry, Sept 1996, paras 1.2.5, 1.2.6.
+13 Submission SI-19, para 1.1.
+14 ISC Bulletin, June 1996, p31.
+15 Superannuation US - Investment, Practices and Regulation, speech given to the Evatt Foundation./ACTU
+conference 'Super 2000 - Investing in the Community', 24-25 November 1994, by Olena Berg, Assistant
+Secretary, Pension and Welfare Benefits Administration, US Department of Labor, Washington DC.
+16 Submission SI-19, para 1.1
+
+
+Committee that one third of Australian market capitalisation is currently
+foreign owned. He said:
+Cross border trading in shares is a fact of life in this business,
+which is a global business now. Some SUS4-5 trillion in shares are
+traded across borders each year out of a possible SUS12-14
+trillion.17
+1.17 Trustees may find the increasingly global nature of financial transactions
+difficult to accept, although globalisation is an inescapable fact in a world that
+is shrinking.18 In the increasingly competitive quest to maximise returns for
+their members, they will be required to acknowledge this aspect of the market
+place. Indeed, super funds are at the forefront of the global trend, primarily
+because of the large amounts of money they are investing.
+1.18 To the extent that funds flow to productive areas of growth, however,
+citizens will benefit. Mr Costello put the ASX's view that the attractiveness of
+domestic equity investment would be hampered if the Australian market
+continued to have poor representation of growth areas such as
+telecommunications, infrastructure, utilities, agriculture and smaller growth
+companies. This would mean that superannuation fund managers would be
+unable to gain exposure to these areas without looking to overseas markets.19
+1.19 Areas which are under-represented in Australia currently include
+telecommunications, pharmaceuticals and agriculture. One area, however, that
+is particularly well represented is resources, currently representing over 30% of
+our stock market. Mr Costello pointed out that every major portfolio in the
+world needs some representation in its portfolio of resources and that Australia
+was among the few countries in the world where it was possible to gain that
+exposure. This would account for some of the flow of funds into the Australian
+market. Furthermore, this in-flow can be expected to increase because funds
+from the US and elsewhere are currently not as internationally invested as they
+should be in accordance with the theory of diversification.20
+Globalisation and economic sovereignty
+1.20 Diversification of portfolio is not the only reason that funds will flow
+into Australia. The regulatory environment, and the extent to which it is viewed
+17 Evidence, pS36.
+18 For example, see address given by Ms Vivian Banta Eversole of the Chase Manhattan Corporation,
+ASFA National Conference 1996, 'Making Our Savings Work', Brisbane 15-18 October 1996.
+19 Evidence, pS36. Also see Evidence (Mr Costello), pS39.
+20 Evidence (Mr Costello, Mr Bladier), ppS39-41.
+
+
+as facilitative and flexible, are also important. The Committee was given the
+example of an Australian technology company which chose to list on the
+Australian Stock Exchange because, among other things, there was a lower
+threshold and it was cheaper to list. Other favourable factors included less
+regulation, fewer layers of bureaucracy to deal with and generally a more
+helpful environment. In addition, the Committee was told that people here are
+more prepared to invest substantially in this type of company and so there was
+a higher price.21
+1.21 Currency fluctuations will also be a factor affecting capital flow. The ISC
+reports, for example, that during the March quarter it appears that super fund
+managers took advantage of the enhanced buying power of the Australian
+dollar and invested a further $3.6 billion overseas. This pushed the percentage
+of super funds invested overseas from 15% to 15.6% over the quarter.22
+1.22 On a purely economic rationalist view of the world, the Committee was
+told, focusing on risk return, it might be expected that 40-50% of Australian
+investment would go offshore, although the typical fund has about 20%
+offshore. To take this even further, and giving no thought to any question of
+economic sovereignty or Australian national economic interest, it was
+suggested that a fund might consider investing as little as 2% in Australia as a
+starting point, given Australia's equity trading weight in the world.
+1.23 There seems to be little research data on the consequences of such global
+capital flow, but clearly there are psychological barriers that run counter to
+such an extreme position. While an economist might argue that an equilibrium
+would be struck by capital flows, it is more likely that Australians would only
+own a small portion of, say, Microsoft, whereas overseas interests might well
+be able to purchase an Australian enterprise in its entirety. The question of
+sovereignty transcends issues of pure economic rationalism.23
+Conclusion
+1.24 In the interest of maximising returns within an acceptable risk
+framework, it is inevitable that fund managers would not be blind to the
+advantages offshore investment opportunities may present. Many factors will
+be relevant to such investment decisions, including currency volatility and
+hedging and the spreading of risk and asset classes within the portfolio.
+21 Evidence (Mr Costello, Mr Roche), ppS51-2.
+22 ISC Bulletin, March 1996, p29.
+23 Evidence (Dr Gray, Committee members), ppS23, S26.
+
+
+1.25 While very many Australians would have a strong preference for
+supporting Australian enterprise and productivity if and when such opportunity
+presents itself within an acceptable risk framework, it is trustees and fund
+managers who are responsible for implementing these investment choices. If
+fund members have full information about the investment policies of their
+funds and of the choices that their trustees and fund managers must make from
+time to time, as well as the implications of such investment choices for the
+provisions of retirement income, then they will be well placed to make their
+views known to those responsible for the investment of their funds.
+
+
+
+
+CHAPTER 2
+BALANCED INVESTMENT
+Balanced Investment
+There has been an overly cautious approach to investment by some trustees
+and their investment managers. This caution comes, in part, from a false
+perception of 'prudence' encouraged by the regulatory environment. Some have
+referred to this caution as 'reckless conservatism'.1
+2.1 In this chapter the Committee examines investment by superannuation
+funds in the context of the fiduciary responsibilities of trustees, the
+requirements of law and the investment initiatives that are being taken.
+Although the law requires trustees to act in the best interests of their
+beneficiaries, there is a view that trustees are being too conservative. To make
+an assessment of the health of the superannuation investment environment, it is
+first necessary to look at the requirements of the law and the legal history of
+superannuation investment.
+2.2 The concept of 'reckless conservatism' has arisen out of the requirement
+for prudency in investment decisions which some have argued has created a
+caution in the minds of trustees which has been carried too far. One view
+'attributes trustee conservatism to their duties and their lack of awareness of
+investment principles'.2
+The history and source of the law3
+2.3 Superannuation funds are normally constructed as a trust. Ford and Lee
+define a trust as:
+... an obligation enforceable in equity which rests on a person (the
+trustee) as owner of some specific property (the trust property) to
+deal with that property for the benefit of another person (the
+beneficiary) or for the advancement of certain purposes.4
+1 Submission SI-11 (ASFA), p 1.
+2 Submission SI-19 (ASX), p 15.
+3 Note: In this chapter information was drawn from the Australian Housing and Urban Research Working
+Paper 1, by Mark Jobling, A Legal Perspective on Targeted Superannuation Fund Investment: a
+Comparison between the United States and Australia, referred to hereafter as the AHURI Paper.
+Ford & Lee, Principles of the Law of Trusts (2nd ed, 1990), p8.
+4
+
+
+2.4 In this way a legal obligation is imposed on the trustee of a
+superannuation fund to hold and deal with the assets of the fund (including
+investment) for the benefit of the members of the fund.
+2.5 Australian trust law developed from the English experience and it seems
+English law on trustee investment began with the bursting of the South Sea
+Bubble in 1720.5 Following the collapse of the South Sea Company, the
+Chancery Court limited the range of investments to which funds paid into court
+could be committed:
+The Chancery Court also insisted that, without express
+authorisation, a trustee was also confined to the range of
+investments prescribed for funds paid into court. These
+requirements formed the origins of the concept of 'authorised
+investments' to which trustees had to adhere, unless the trust deed
+or the beneficiaries allowed the trustee to depart from those
+investments.6
+2.6 For a long time government stock was the only form of investment
+accepted without question and investment in private securities was described as
+a 'species of gambling'.7 (Some may argue, with some of the complex and
+speculative financial instruments available today, this comment may again be
+relevant.) During the period it took for this restriction to be slowly eased by
+statute, the lack of flexibility was overcome by individual trust deeds providing
+wide investment powers.
+Trustees and investment
+2.7 With the power they have to invest trust funds, trustees have an equitable
+obligation to invest them productively for the benefit of the beneficiaries unless
+the trust deed provides otherwise. Two requirements need to be satisfied. First,
+the investment must be authorised by the trust deed, the relevant state Trustee
+Act or by a court. Secondly, it must be a proper investment in accordance with
+the prudent person rule. There is a long history of case law on what this means
+in practice.
+2.8 The prudent person rule is now laid down in the Superannuation Industry
+(Supervision) Act 1993 (SIS), which includes as one of the covenants by
+5 AHURI Paper, pi.
+6 AHURI Paper, p 1.
+Baron Hotham in Adze v Feuilleteau (1783) 1 Cox 24, 29 ER 1045
+7
+
+
+trustees:
+...to exercise, in relation to all matters affecting the entity, the same
+degree of care, skill and diligence as an ordinary prudent person
+would exercise in dealing with property of another for whom the
+person felt morally bound to provide.8
+2.9 An examination of how the rule operates in practice has been provided in
+a recent Australian case which is discussed later in this chapter. In addition the
+ISC has provided guidelines to trustees in relation to the investment strategy
+requirements of SIS.
+Prudent investing
+2.10 The prudent person test has changed over time and does not mean
+trustees have to avoid all risk. The key distinction for the trustee is 'between a
+prudent degree of risk on the one hand, and a hazard on the other'.9 An exercise
+of professional judgment by the trustee in determining the risk is required, and
+the larger the fund the greater the degree of risk that will be considered
+reasonable.
+2.11 Modem portfolio theory, which is based on the need for diversification,
+to some extent contradicts the traditional tmst law approach to prudent
+investment. One definition of this theory is:
+The theoretical constructs that enable investment managers to
+classify, estimate and control the sources of risk and return. In
+popular usage, the term encompasses all notions of modem
+investment, as well as portfolio theory. The end objective is to
+select optimal combinations of assets to produce the highest
+returns for a given level of risk, or the least risk for a given level of
+return.10
+2.12 Recent English case law supports modem portfolio theory as a desirable
+investment strategy,11 an approach which is likely to be endorsed by Australian
+courts.12
+8 Section 52(2)(b).
+9 Bartlett v Barclays Bank Trust Co Ltd [1980] 1 All ER 139 at 150.
+10 County NatWest, Dictionary of Investment Terms Third Edition, p94.
+11 Nestle v National Westminster Bank, unreported, Eng HC(ChD) No 1897, 1988.
+Finn & Ziegler, 'Prudence and Fiduciary Obligations in the Investment of Trust Funds', (1987) 61 ALJ
+329 at 332.
+12
+
+
+SIS and investment strategy
+2.13 SIS recognises quite explicitly that prudence is to be judged in a portfolio
+context. Section 52(2)(f) deems, inter alia, the following covenant to be part of
+a fund's governing rules:
+...to formulate and give effect to an investment strategy that has
+regard to the whole of the circumstances of the entity including,
+but net limited to, the following:
+...(ii) the composition of the entity's investments as a whole
+including the extent to which the investments are diverse or
+involve the entity in being exposed to risks from inadequate
+diversification ...
+2.14 Thus there is clear evidence of a move in Australian law away from
+analysing the prudence of investment in isolation and toward recognising
+investment theories like modem portfolio theory.13
+2.15 The ISC Superannuation Digest describes 'investment strategy' for SIS
+purposes as follows:
+An investment strategy is a plan for making, holding and realising
+fund investments which reflect the fund's objectives (e.g.
+increasing the value of members' interests) and circumstances. It is
+used as a means of pursuing one or more investment objectives. A
+strategy will rarely be concerned with individual investments,
+rather a strategy should be concerned with asset classes. It may
+include, for example, plans to invest in equities and if so, what
+proportion of assets to invest.
+It is important that once an investment strategy for the fund has
+been formulated and implemented (in the light of the
+circumstances of the fund as a whole) that it should also be
+regularly monitored and reviewed to ensure that it remains
+appropriate. It will be rare for a strategy once set in place to not
+need some later revision in the light of the changing circumstances
+of the fund as a whole (e.g. changes in the size and characteristics
+of the fund's beneficiaries) and external economic conditions.
+Diversification is a particularly important element in the
+formulation of an investment strategy. Diversification normally
+involves a spread of investments between different classes (such as
+shares, property, fixed interest etc) as well as within each asset
+class. However, the requirement to have regard to the need for
+_diversification does not prevent a fund from formulating a strategy
+13 AHURI Paper, pp5-6.
+
+
+which may result in the holding of a single asset or a single class of
+assets, providing that decision was made after proper
+consideration...14
+2.16 The Committee considers that the investment strategy requirement, as
+overseen by the ISC, substantially assists in overcoming the criticism of
+'reckless conservatism'.
+Non-financial considerations
+2.17 Trust law does not permit trustees to be influenced solely by political or
+social concerns, but requires them 'to exercise their powers in the best interests
+of the beneficiaries'.15 The Mineworkers case is the main authority where
+Megarry VC said:
+The starting point is the duty of trustees to exercise their power in
+the best interests of the present and future beneficiaries of the trust
+... When the purpose of the trust is to provide financial benefits for
+the beneficiaries, as is usually the case, the best interests of the
+beneficiaries are normally their best financial interests.16
+2.18 It needs to be noted, however, that Megarry VC recognised that best
+interests may not always be best financial interests. He stressed such a case
+would be very rare, and the burden would be heavy on those so asserting, but
+said:
+... if the only actual or potential beneficiaries of a trust are all
+adults with very strict views on moral and social matters,
+condemning all forms of alcohol, tobacco and popular
+entertainment, as well as armaments, I can well understand that it
+might not be for the 'benefit' of such beneficiaries to know that
+they are obtaining rather larger financial returns ... The
+beneficiaries might well consider that it was far better to receive
+less than to receive more money from what they consider to be evil
+and tainted sources.17
+2.19 Apart from the fiduciary duties to act in the best interests of their
+members and to act with reasonable care, skill and diligence, trustees have
+statutory duties to comply with SIS and other relevant legislation such as the
+14 ISC Superannuation Digest, CCH Australia, para 3.431, 17-20.
+15 AHURI Paper, p6.
+16 Cowan v Scargill [ 1984] 2 All ER 750 at 760.
+17 Cowan v Scargill [1984] 2 All ER 750 at 761-2.
+
+
+state Trustee Acts, and by reason of the duties imposed by law, other
+'consequential' obligations in practice, including:
+. in the area of financial management: to ensure there are sufficient
+liquid assets to meet the fund's ongoing liabilities (including
+payouts to members as well as overheads); and
+. effective risk management: an overriding duty not to accept an
+excessive risk exposure in relation to a fund's total portfolio.18
+The American experience
+2.20 Private pension plans in the United States are governed by The Employee
+Retirement Income Security Act of 1974 (ERISA).
+2.21 ERISA provides a broader definition of fiduciary than traditional Anglo-
+Australian trust law, to include:
+. a person who exercises any discretionary authority or control in
+management or disposition of the fund's assets;
+. those who render investment advice for a fee; or
+. those who have any discretionary authority or responsibility in the
+administration of the plan.19
+2.22 This definition clearly includes investment managers. However, trustees
+cannot generally delegate responsibility unless the plan employs an investment
+manager who acknowledges their status as a fiduciary under ERISA in
+writing.20 Having so delegated, the trustees are relieved of their fiduciary
+responsibilities so long as they have:
+. been prudent in selecting the investment manager;
+. established investment guidelines; and
+. regularly monitored the manager's performance.21
+18 Submission SI-19, pp 14-15.
+19 AHURI Paper, pi5.
+20 Section 402(c)(3).
+21 AHURI Paper, pp 15-16.
+
+
+2.23 Fiduciaries have a duty of loyalty, to act in the best interests of
+beneficiaries and for the sole purpose of providing benefits to them. The
+prudent person standard of plan administration applies and requires fiduciaries
+to discharge their duties:
+... with the care, skill, prudence, and diligence under the
+circumstances then prevailing that a prudent man acting in a like
+capacity and familiar with such matters would use in the conduct
+of an enterprise of a like character and with like aims.22
+2.24 There is a focus on the nature and requirements of each particular plan
+which may include the need for liquidity, the size of the fund, and the ages and
+characteristics of the employees. Subsequent regulations interpreting the rule
+endorse modem portfolio theory as a method of judging prudence: 'the
+prudence of investments must be judged in relation to their contribution to the
+risk level of the entire portfolio'.23
+2.25 The case law indicates that trustees need to use experts familiar with the
+particular type of investment24 and to diversify assets to minimise the risk of
+large losses, unless it is clearly not prudent to do so in the circumstances.25
+Striking the balance
+2.26 There is some pressure in Australia for trustees to use their investment
+powers in various socially responsible ways. Doing so, in the absence of other
+concerns, may prejudice the duty to act solely for the benefit of contributors.
+'Pension funds stand as tantalising vehicles for those advocating the use of
+funds to achieve other objectives such as regional development or employment
+creation.'26 In the Committee's view, any consideration of the use of
+superannuation funds in this way must be in full recognition that the funds are
+the sole property of the members.
+2.27 Within the framework described, trustees must strike an 'appropriate
+balance between maximising the investment returns and minimising the
+22 Section 404(a)(1)(B).
+23 AHURI Paper, pi6.
+24 Katsarod v Cady 744 F 2d 270 (2nd Cir 1984).
+25 AHURI Paper, pi7.
+26 AHURI Paper, p7.
+
+
+exposure to risk of the monies under their control'.27 The Australian Institute of
+Superannuation Trustees (AIST) made the following claim:
+In the past three years trustees of superannuation funds, by
+example and by being able to bring pressure to bear on their
+service providers ... have achieved some significant watersheds in
+broadening investment priorities in Australia's capital markets.
+Their control of increasingly large accumulated investment capital,
+and their drive to maximise financial benefits for members has led
+to increasing diversification of funds' investments.28
+2.28 Within the superannuation system in Australia there is a heavy
+concentration of assets in the large funds. Of a total of around 120 400, 'the
+largest 1100 funds (roughly all those with assets over $10 million) cover 85%
+of industry by assets, and about 97% of members (as at December 1995)'.29
+2.29 The allocation of superannuation fund assets as at March 1996 has 15%
+invested overseas, and 85% invested in the Australian economy as:
+2.30 Superannuation funds are not yet investing large amounts in development
+and venture capital, infrastructure projects or small and medium enterprises
+(SMEs). In its submission the ISC cited two recent studies:
+. The National Investment Council found that less than one per cent
+of superannuation assets are in SME-based investments, only 17
+funds separately reported development capital investments ($536
+million or 1.6 per cent of their total assets), and the proportion of
+investment in venture/development capital by Australian
+superannuation funds 'appears to be considerably less than in the
+UK or USA'; and
+. ASFA found a low interest in infrastructure and development capital
+investment by superannuation funds, 'although 13 per cent of funds
+27 Submission SI-18, p7.
+28 Submission SI-18, p 1.
+29 Submission SI-13 (ISC), pi
+30 Submission SI-13, p2.
+
+
+reported they would be actively considering infrastructure
+investments and 17 per cent of funds development capital
+investments within the next year'. (Note: Industry funds were
+particularly active in this area with 28 per cent having at least some
+form of development capital investment compared to nil by retail
+funds.)31
+2.31 One of the purposes in the Committee undertaking this inquiry was to
+examine the structure of superannuation fund investment. The Committee notes
+the need to recognise the different types of funds (and their trustee structures):
+. corporate funds involving just one enterprise - with an average of
+three employer and three employee trustees, but where trustee
+numbers vary greatly (up to 14);
+. multi-employer industry funds - with an average of four employer
+representative trustees and four employee representatives, but again
+numbers vary greatly (up to 16);
+. public sector funds - an average of five employer and five employee
+representatives;
+. master trusts or public offer funds which are controlled by a trustee
+board; and
+. excluded funds, the so-called 'mum and dad' funds which generally
+have two trustees.32
+2.32 The break up of total superannuation assets as at June 1996 is as follows:
+. public sector funds hold 26% ($64.5 billion);
+. retail funds 24% ($59.5 billion);
+. corporate funds 20% ($49.9 billion);
+. excluded funds 10% ($24.2 billion);
+. industry funds 6% ($14.6 billion); and
+. annuity products, fund reserves and unallocated profits of life
+office statutory funds hold the remaining 14% ($36 billion).
+2.33 The requirement of funds to formulate and give effect to an investment
+strategy is outlined above. In the light of other duties imposed on trustees, what
+31 Submission SI-13, p2.
+32 Submission SI-18, p6.
+
+
+does this mean in practice? The ISC considers the following factors to be
+important for trustees:
+. the age profile of the members;
+. their risk tolerance;
+. the size of the fund;
+. its likely growth rate; and
+. whether it is a defined benefit or accumulation scheme.33
+2.34 The strategy may often be expressed as target rate of return. Once the
+strategy is set, the trustees need to consider what investment portfolio and
+management options are available to them to implement their strategy. The ISC
+says:
+Normally, this will result in the trustees building a model of their
+portfolio which will achieve the expected returns and match the
+fund's long-term liabilities and the risk profile of its members.
+This long-term model portfolio is usually called a strategic asset
+allocation.34
+2.35 Alternative strategies may include:
+. less exposure to shares than otherwise where reserves are low or
+where heavy retirement payments are imminent;
+. a lower foreign currency exposure if the sponsoring employer of a
+fund is a heavy exporter; and
+. increased investment in indexed bonds as protection against future
+inflation for a fund paying a significant number of inflation-indexed
+pensions.'5
+2.36 A key aim of the Committee's terms of reference was to initiate some
+thinking about how the Australian economy, and community as a whole, might
+benefit from the growing pool of superannuation monies. It is accepted that the
+Parliament is most unlikely to approve the formal directing of investment of
+superannuation assets. However, the question remains open as to what sorts of
+33 ISC Bulletin, March 1996, pi3
+34 ISC Bulletin, March 1996, pi4.
+35 ISC Bulletin, March 1996, pl4.
+
+
+innovative investment opportunities could and should be encouraged by
+government.
+2.37 From anecdotal evidence and other impressions in recent years there is a
+discernible sense of powerlessness on the part of many members of
+superannuation funds. The Committee believes there is generally an acceptance
+and approval in the community of the superannuation regime now firmly
+established in this country. It seems, however, that there is a lack of a sense of
+'ownership', or involvement, by members of funds and the Committee believes
+that offering more education, information and choice may be part of the answer.
+2.38 The Committee considers that 'the community' can be fairly well equated
+to the membership of superannuation funds, mainly as a result of the
+compulsory superannuation system now in place. While the superannuation
+system is expected to produce retirement incomes for its members, there is
+nevertheless an expectation that, to some degree at least, community benefit
+should ensue from the investment of superannuation funds. The issue then is
+the kind of benefit and the expectations in the community, and what should be
+done to reconcile the two.
+Fraud
+2.39 There is an expectation that superannuation assets will not be used for
+fraudulent purposes or otherwise misappropriated. The ASX submitted:
+With the enormous growth of superannuation fund assets and the
+number of funds, the propensity for fraud (and the potential
+amounts involved) will similarly increase. Accordingly, it may be
+appropriate to reconsider whether the current system will be
+adequate in the foreseeable future and possible ways fidelity cover
+could be improved.36
+2.40 A massive fraud on a pension fund was discovered in 1991 in the UK
+following the death of Robert Maxwell. More than 400 million pounds sterling
+was 'lost or misappropriated from the Mirror Group Pension Trust alone, and as
+a consequence, thousands of past and present Maxwell employees lost their
+pension entitlements'.37 Evidence to the UK parliamentary committee which
+investigated the scandal suggested that Robert Maxwell had abused his position
+as trustee to, among other things, engage in self investment.
+36 Submission SI-19, pi2.
+37 AHURI Paper, p8.
+
+
+2.41 In Australia the SIS legislation is regarded as a strong protection from the
+dangers of a Maxwell-type fraud in this country. The SIS regime is generally
+regarded as a world leader and the UK is now adopting many of the principles
+of SIS.
+2.42 Over recent years there have been some rather dire predictions regarding
+the vulnerability of the superannuation industry to fraud. However, the
+evidence from the law enforcement agencies who participated in a conference
+on superannuation crime does not substantiate these fears.38 At that conference
+it was generally agreed that while frauds have and are occurring, there is a
+resistance within the structure of the Australian superannuation system to large
+scale fraud, as a result of the regulatory system and other checks and balances.
+2.43 To date the incidence of fraud has been relatively minor, perhaps less
+than $20 million, which is a small amount in the context of a $240 billion plus
+industry. While not overly sanguine, the Committee is satisfied that the relevant
+authorities are mindful of the need for constant vigilance and scrutiny to ensure
+that the risk from all fraud is minimised, and indeed eliminated where possible.
+2.44 While there have been recent calls for less black letter law and more self
+regulation, the Committee considers that an appropriate balance has been struck
+through the standards imposed by SIS and the proper resourcing of the ISC.
+Socially responsible investment
+2.45 The Committee's terms of reference raise the issue of whether investment
+of a particular kind should be required of all funds. This is sometimes referred
+to as 'directed investment'.39 The concept of directed investment was widely
+rejected in both written submissions and oral evidence given to the
+Committee,40 although there was some discussion of whether trustees could be
+required to devote a specified period of time to the consideration of certain
+kinds of investments.41 In the Committee's view, it is difficult to see how such a
+proposal would work in practice. It is also difficult to see any parliamentary
+support for the kind of changes that a proposal to direct investment in any
+38 Conference jointly convened by the Australian Institute of Criminology and the University of Melbourne
+Department of Criminology, held in Melbourne on June 21 1996.
+39 On this topic, see generally 'Yours, Mine or Ours?’: Is There a Case for Directed Superannuation
+Investment?, Parliamentary Research Service Research Paper No 32 1994/1995, Department of the
+Parliamentary Library (henceforth PRS Research Paper No 32).
+40 See, eg, submissions SI-11 (ASFA), p6; SI-14 (LISA), p 10; SI-15 (AMP), pi8; SI-19 (ASX), pi 1; and
+Evidence (ASFA representatives and Committee members), pS21; although note Evidence (Mr Siddons,
+Committee members), ppS92-5.
+41 Evidence (ASX representatives, Committee members), ppS41-3.
+
+
+particular way would require. To mandate a certain type of investment would
+run counter to the present duty on trustees to maximise returns for the
+beneficiaries. Presumably either returns would be lower or risks unacceptable-
+if they were not, then investment would flow as a normal consequence of
+market forces.
+2.46 It is the Committee's view that there is no sustainable case for directed
+superannuation investment. It does find a case, however, for the consideration
+of 'socially responsible' investing and that in fact is what much of this report is
+about. The Committee can do no better than to adopt another's words:
+Notwithstanding the difficulty faced by trustees in identifying,
+analysing and accessing suitably structured non-traditional
+investment opportunities, the take-up of these opportunities by
+trustees offers a potential 'win/win' outcome for both
+superannuation fund members and the community at large.
+Trustees should therefore be encouraged and assisted to explore
+new areas of investment potential.42
+Economically targeted investments (ETIs)
+2.47 ETIs are investments 'which in addition to providing competitive risk-
+adjusted rates of return by exploiting market inefficiencies, also provide
+identifiable collateral economic benefits'.43 These benefits may include jobs,
+housing or infrastructure. However, they are to be distinguished from social
+investments which may involve accepting a lower return or higher risk to
+achieve a socially desirable goal. ETIs provide competitive rates of return with
+a collateral economic benefit.
+2.48 They originated in the United States during the 1980s, remain still in an
+early stage of development in that country and are untested in Australia:
+The phrase 'economically targeted investing' became associated
+with North American and European pension and superannuation
+funds directing investments into activities which are expected to
+create wealth for both the fund itself and for another group whose
+welfare is of interest to the participants or sponsor of the plan.44
+2.49 The rationale of ETIs lies in the imperfection of markets and the need to
+provide capital to areas where traditional capital providers are reluctant to go.
+There may be more complex structures involved with these sorts of investments
+42 Parliamentary Research Service Research Paper No 32, p55.
+43 AHURI Paper, p25.
+44 Parliamentary Research Service Research Paper No 32, p37.
+
+
+to make them attractive. Investments with high risk may be structured to
+separate most of the risk from the financing. For example, the government may
+absorb most of the risk (through guarantees perhaps) and allow the fund which
+provided the capital to obtain a competitive rate of return.
+Legal regulation of ETIs
+2.50 As described above, ERISA imposes the prudent person and the
+exclusive benefit rules. The interpretation of ERISA in relation to ETIs is
+known as the prevailing rate test and allows fiduciaries 'to consider objectives
+other than financial returns once they are satisfied that there is no sacrifice in
+expected returns or risk on the investment'.45 The diversification requirement is
+also relevant and must be taken into account in any targeted investments which
+may, for example, be concentrated in one industry.
+2.51 In Australia, ETIs which provide competitive risk-adjusted rates of return
+will not violate a trustee's fiduciary duties. Even if a targeted investment offers
+a lower rate of return, trustees may be able to establish prudency because of the
+role that the particular investment plays in the diversification or stability of the
+portfolio. However, as with ERISA in the US, trustees would need to 'consult
+experts, conduct investigations of the investment and have documentation that
+supports the inclusion of the asset in the portfolio'.46
+2.52 The SIS Act requires trustees to covenant 'to ensure that the trustee's
+duties and powers are performed and exercised in the best interests of the
+beneficiaries'.47 The most likely position, as a result of the Mineworkers case,48
+is that targeted investments offering a lower return but important collateral
+benefits will not be seen as in the best financial interests of beneficiaries.
+2.53 In addition, the sole purpose test required under SIS may be offended by
+such targeted investments. Section 62(1 )(a) requires a superannuation fund to
+be maintained solely for one or more of the following core purposes:
+• benefits for each member on or after the member's retirement or
+attaining the age of 65;
+• the provision of benefits to the legal representative or the
+dependents of a member on or after the death of the member,
+45 AHURI Paper, p27.
+46 AHURI Paper, p30.
+47 Section 52(2)(c).
+48 Cowan v Scargill [ 1984] 2 All ER 750.
+
+
+provided the death of the member occurred before he or she retired
+or reached 65.49
+2.54 Accepting that targeted investments producing significant collateral
+benefits, but lower returns, are not allowable in Australia, section 52(4) of SIS
+becomes relevant. That section enables members to give investment directions
+to trustees and may provide for members to make informed choices of
+investments yielding lower returns.30 However, the issues relating to member
+choice of investment are still under much debate in the superannuation
+industry.
+A recent Australian case
+2.55 The case of Australian Securities Commission v AS Nominees Limited &
+Others51 is helpful. The judgment examines many of the principles governing
+management practices by trustees and the standard of care required of
+superannuation fund trustees. The findings in this case formed the basis of an
+information letter circulated to all approved trustees from ISC.52 The
+Committee commends the ISC for this action and agrees with the ISC that the
+comments made in that case 'provide a strong indication of how the courts may
+regard a trustee's failure to adequately perform their duties in relation to a
+superannuation fund'.53
+2.56 The action had its origins in a random audit by the ISC in 1994 of four
+superannuation entities of which AS Nominees (ASN) was the trustee.
+Subsequently the audit was expanded and the concerns arising resulted in the
+ISC referring the matter to the Australian Securities Commission (ASC) for
+investigation under the Corporations Law.
+2.57 The case that finally came before Justice Finn involved an application to
+have a receiver or receiver and manager appointed, based on the conduct of an
+investigation by the ASC which had begun in November 1994. Although the
+ASC's action was based on the Corporations Law the judgment noted 'that here
+49 ISC Superannuation Digest, CCH Australia Limited, para 3-614.
+50 AHURI Paper, p31.
+51 Reported at (1966) 133 ASR 1.
+52 ISC information letter to all approved trustees, May 1996.
+53 ISC information letter, p 1.
+
+
+the emphasis on legal principle will be on the law of trusts and of fiduciary
+obligations more so than on company law'.54
+2.58 Some of the actions by ASN in relation to its investment decisions which
+were found to have constituted 'a grave breach of trust' were:
+. no minute of the decision;
+. absence of independent financial advice or current independent
+valuation of the investment property; and
+. total absence of consideration of the interests of beneficiaries, in
+fact a 'reckless indifference to its responsibility to the investor-
+beneficiaries'.55
+2.59 The judgment was strong on the failure to protect other investments
+where charges over loans had been lodged late and where solicitors had not
+prepared securities as instructed by the trustees, such neglect extending over
+three years. He said this amounted to the 'trustee failing to take appropriate
+steps to protect its investment given the concerns it is said to have had, or as a
+prudent person, should have had'.56
+2.60 The basic rule applied in the case was the prudent person test. That is,' in
+managing a trust business the trustee should exercise the same care as an
+ordinary, prudent business person would exercise in conducting that business as
+if it were his or her own'. The judgment went on to distinguish this standard in
+relation to trustees and company directors in the following way:
+It is this which, often enough, is used to differentiate the
+expectations properly to be had of trustees and of directors
+respectively.57
+... The person making investment provision for his or her future
+may be expected to be somewhat more risk averse than the
+corporate entrepreneur.58
+54 Australian Securities Commission v_4S Nominees Limited & Others (1966) 133 ASR 1 at 3 {the ASN
+case).
+55 The ASN case at 28.
+56 The ASN case at 32.
+57 The ASN case at 12-13.
+58 The ASN case at 29.
+
+
+2.61 Accordingly, although not necessary for deciding the case, Justice Finn
+found a higher standard of care for trustee companies which were:
+. carrying on business in the now established field of superannuation;
+. offering services as a funds manager to the public; and
+• charging significant fees for such services.59
+2.62 The fiduciary relationship was also stressed. That is, the beneficiaries of
+each trust are entitled to expect the trustee to act in their interests, to the
+exclusion of third parties, in its dealings in relation to each trust. Related to this
+is the duty to act swiftly to protect trust investments, and the importance of
+implementing and monitoring investment strategies.
+2.63 The judgment says of SIS that 'it is entirely appropriate to use this
+legislation to assist in illuminating the public interest in this matter'. Regarding
+the public interest, Justice Finn said this case had indicated the need to uphold
+high standards in the superannuation industry. Superannuation is an accepted
+instrument in making retirement provisions for the Australian workforce, and
+for increasing national savings, and there is also the compulsory aspect to be
+considered.60 The Committee welcomes these views.
+Conclusions
+2.64 Regulatory controls on superannuation trustees are not onerous, but the
+framework supports responsible, balanced and flexible investment of
+superannuation assets in response to the needs and requirements of fund
+members. The fundamental purpose of superannuation funds is to provide
+retirement incomes for members, but increasingly the funds are realising that
+there are many responsible ways of doing this within the present regulatory
+framework.
+2.65 There is nothing that requires the funds to actively seek alternative
+investment opportunities outside the traditional areas such as equities, property,
+fixed interest and cash, and it is unlikely that the Parliament would be prepared
+to legislate for directed investment. In the following chapters the Committee
+examines how investment patterns are changing to provide greater
+diversification, and considers how opportunities for socially responsible
+59 The ASN case at 12.
+60 The ASN case at 61 -2.
+
+
+investment may be taken up by the funds without compromising their
+fundamental role to provide retirement incomes.
+
+
+CHAPTER 3
+INFRASTRUCTURE
+Infrastructure
+[The] return achieved by private investors in infrastructure is purely monetary
+and relates only to revenue derived directly from the project, whereas the
+return achieved by government also includes social and economic benefits...1
+3.1 Infrastructure is a 'broad term for a range of economic and social assets
+with some distinctive characteristics'.2 The stock of infrastructure in Australia
+is valued at around $400 billion or one third of the nation's capital stock. What
+is normally termed economic infrastructure accounts for 70 per cent of this
+figure. This comprises transport and communication facilities, and the
+production and transmission facilities for electricity, water and gas.
+3.2 Social infrastructure comprises the other 30 per cent and includes
+'hospitals, schools, police stations, day care centres and prisons':3
+The Commonwealth is responsible for around 25 per cent of public
+investment and the State/local sector 75 per cent. The States
+provide a broad range of economic and social infrastructure
+including roads, railways, schools, hospitals, prisons, and libraries.
+In addition, State owned Government Business Enterprises (GBEs)
+provide most of the infrastructure in areas such as water and power
+supply.4
+3.3 The longer term nature of most infrastructure projects matches the
+essentially long term nature of superannuation in providing for retirement
+incomes, so there is a natural synergy between the two. The Australian Mutual
+Provident Society (AMP) told the Committee that superannuation funds should
+invest in infrastructure:
+There is in fact a strong argument that superannuation funds are the
+natural investors given their capacity to become involved in patient
+capital and their limited need for immediate cash flow ...
+1 Submission (ASFA) SI-11, p3.
+2 Economic Planning Advisory Committee (EPAC), Private Infrastructure Task Force Report, September
+1995 (Task Force Report), p5.
+3 Task Force Report, p6.
+Task Force Report, p6.
+4
+
+
+This has certainly been the case in countries as diverse as
+Singapore and Chile, where the national pension hinds have been
+the engines used to capture national savings and stimulate long
+term growth. Increasingly, European and North American pension
+funds are following a similar pattern and long ago Canadian life
+insurance and pension funds disintermediated the banks in that
+country.5
+3.4 Conceptually, infrastructure is a very appropriate vehicle for the
+investment of superannuation savings. There are advantages too for the
+economy in having the private sector finance those projects which would
+otherwise have to be funded directly by government. This releases government
+revenue for other spending priorities.
+3.5 As governments increasingly privatise existing infrastructure and look to
+the private sector to finance new developments, the need for private
+infrastructure capital is obvious. According to the Australian Institute of
+Superannuation Trustees (AIST), superannuation funds have been 'major
+participants in the successful privatisation of many public sector enterprises'.
+Examples cited are the privatisation of public energy facilities in Victoria, and
+the development of the M2 Motorway in Sydney and the Transurban City Link
+Project in Melbourne.6
+3.6 It would appear that there is no reluctance by the funds to invest in
+suitable infrastructure projects, and that there is in fact no shortage of capital.
+Rather there is a shortage of suitable projects which meet the required risk and
+return criteria. The Australian Council for Infrastructure Development
+(AusCID), for example, submitted there was no shortage of either debt or
+equity capital for projects and there was 'evidence that superannuation funds
+[were] beginning to invest in infrastructure opportunities'.7
+3.7 Infrastructure investments are resource intensive and it may be that only
+the larger funds 'have the resources and the desire to participate in their own
+right'.8 The Committee therefore notes with approval the existence of
+infrastructure development funds such as the two established by AMP, one
+specialising in equity and the other in debt.
+5
+Submission SI-15, p9.
+6 Submission SI-18, p 18.
+7 Submission SI-5, p2.
+Submission SI-14, p6.
+8
+
+
+3.8 Anecdotal evidence indicates that investment in development capital and
+infrastructure is growing.9 Opportunities in the infrastructure sector are
+increasingly opening up to stock market investors and superannuation funds, as
+the number of intermediaries offering investment in specific projects or in
+special purpose infrastructure funds grows.
+3.9 As super funds look more broadly for investment opportunities, and
+experience in non-traditional investments increases, their interest can be
+expected to continue. Because of the long time frames associated with such
+investment, it is difficult at this stage to be definitive about the value of the
+returns generally, although experience so far suggests they are worthwhile.
+Infrastructure investment, of course, can also offer considerable social benefits
+and contribute towards the nation's infrastructure base.
+Infrastructure borrowings tax concession
+3.10 The evidence included a number of references to the question of taxation
+with respect to infrastructure projects.10 Accordingly, the Committee sought
+expert evidence from officials of the Australian Taxation Office (ATO) on the
+operation of section 51 AD and Division 16D of the Income Tax Assessment Act
+1936 (the ITA Act).
+3.11 The ATO told the Committee that the Development Allowance Authority
+(DAA) and the ATO separately administer the infrastructure borrowings tax
+concession. Concessional tax treatment is available once an infrastructure
+borrowings certificate is granted. The DAA is responsible for certifying
+whether the requirements for a certificate are met. The requirements are
+specified in the Development Allowance Authority Act 1992 (the DAA Act).
+3.12 There are three kinds of infrastructure borrowing:
+. direct infrastructure borrowing - borrowing to spend on constructing
+an infrastructure facility (s93F, DAA Act);
+. indirect infrastructure borrowing - borrowing to lend to another
+person for whom the borrowing will be a direct infrastructure
+borrowing (s93G, DAA Act); and
+9 For example see 'Development Capital and Infrastructure Funds' in Super Review, vol 10 no 9, October
+1996, pp26-30, and 'Infrastructure Equity - do big assets equal big returns?' pp42-3.
+10 For example, Evidence (Mr Nolan), ppS6, 9-10; (Mr Campbell), ppS58-61; (Mr Maroney), pS124.
+
+
+. refinancing infrastructure borrowing - borrowing to refinance a
+direct or indirect infrastructure borrowing or a previous refinancing
+infrastructure borrowing (s93H, DAA Act).
+3.13 There are certain technical requirements to be met by borrowers in each
+of these categories in relation to their intention at the time of borrowing. A
+direct borrower is also required to own, use or have effective control of the
+facility for at least 25 years or to transfer to another borrower who intends to do
+so.
+3.14 The seven eligible types of infrastructure are a land transport facility; air
+transport facility; seaport facility; electricity generating, transmission or
+distribution facility; gas pipeline facility; water supply facility; sewage or
+wastewater facility in Australia, where the service is provided to the public at a
+charge (s93L, DAA Act).
+3.15 The special tax treatment for infrastructure borrowings is available for a
+maximum period of 15 years (sl59GZZZZD, ITA).
+3.16 Once an infrastructure borrowing has been certified by the DAA, the tax
+effect of the borrowings on borrowers and investors are:
+. interest derived under infrastructure borrowings is not assessable to
+investors;
+. interest paid on infrastructure borrowings is not an allowable
+deduction to borrowers;
+• any profit or a trading, revenue or capital nature derived on disposal
+or redemption of any debt instrument that constitutes an
+infrastructure borrowing is tax exempt; and
+• any loss of a trading, revenue or capital nature incurred on the
+disposal or redemption of any debt instrument that constitutes an
+infrastructure borowing is not tax deductible.11
+3.17 The Committee notes the recent indication of the limits on the granting of
+certificates by the DAA. The Treasurer, the Hon Peter Costello MP, announced
+on 10 September that he had directed the DAA to not accept further
+applications for infrastructure borrowings certificates until 30 June 1997. He
+11 Description of infrastructure borrowings tax treatment is based on submission SI-23 (ATO); also see
+Evidence (Mr Nolan, Mr Miller), ppS9-10.
+
+
+said this was consistent with the government's earlier announcement that it
+would keep infrastructure borrowings under review to ensure the program was
+meeting its objectives. The DAA Act (s93Y) provides that the intended
+maximum cost to the Commonwealth of the taxation consequences of the issue
+of certificates may be specified in advance. The maximum amount for 1996-97
+had been specified as $150 million and for 1997-98 $200 million. The DAA
+had advised the Treasurer that it had on hand applications for total
+infrastructure borrowings of $26.5 billion.12
+3.18 The Committee heard evidence that the introduction of infrastructure
+bonds had had a positive effect on the market:
+We have seen quite a lot of activity in the market relating to
+infrastructure bonds and we think that that has been a successful
+policy change. Certainly, the superannuation funds have shown a
+lot of interest in infrastructure bonds because they do help
+maximise returns for the funds.13
+3.19 Concerns were also noted. The Committee was told, first, that the types
+of projects that can be financed by infrastructure borrowings were limited. It
+was told, secondly, that the regulatory environment was a difficult one, and that
+a person wishing to utilise infrastructure bonds to finance a project had to deal
+with both the DAA and the ATO, and that this was time consuming. Thirdly,
+there was a 'certain lack of certainty concerning the infrastructure bond rules'.
+3.20 The uncertainty followed a 'possible change in government policy
+concerning taxation incentives generally' and a changed interpretation 'of
+various provisions of the infrastructure bond legislation in order to give effect
+to that policy'. The result was that those who had lodged proposals with the
+DAA did not have a clear understanding of whether their proposal was going to
+be acceptable.14 Mr David Campbell of Fay, Richwhite advised the Committee
+that the taxation provisions need clarification and defining. Mr Campbell said
+he considered that they had been drafted in much broader terms than the
+problem they were designed to address:
+Consequently, they have captured projects of a different nature to
+the projects that the provisions originally sought to affect.15
+12 Press release from the Treasurer, the Hon Peter Costello, MP, 10 September 1996. Also see submission
+SI 25 (The Treasury).
+13 Evidence (Mr Campbell), pS58.
+14 Evidence (Mr Campbell), pS58.
+15 Evidence, pS60.
+
+
+3.21 The Task Force on Regional Development, which reported to
+government in 1994, addressed infrastructure bonds in some detail and made a
+number of recommendations that were subsequently put into legislative form.
+Among these were an extension of the definition of infrastructure and that a
+body other than the ATO be responsible for approving projects for
+infrastructure bonds. The Task Force envisaged such an agency comprising
+both private and public sector representatives and having clear development
+goals. Despite the criticism put to the Committee that this involves dealing with
+two separate agencies, the Committee favours the role of the DAA in the
+approval of infrastructure bonds and would support the clear articulation by the
+DAA of the development goals that infrastructure bonds are intended to
+achieve.
+3.22 The Committee has been told there is confusion in the private sector
+about the intent of the infrastructure bond provisions. It is essential that any
+confusion be clarified if there is to be a healthy and productive involvement in
+the provision of infrastructure by the private sector. Announcements mid-year
+that no further applications for the bonds will be accepted, especially when
+there is a perception of a lack of clarity regarding what is acceptable, are also
+not conducive to the promotion of private investment in infrastructure.
+Recommendation 3.1
+The Committee reco
+operation of the infras
+i§!|!
+jgp
+I
+that the govi
+re borro
+concessi
+Infrastructure investment in the United States of America
+3.23 The Committee looked at how the American experience with
+superannuation investment in infrastructure could relate to Australia.
+3.24 In the United States, much of the reporting on the experience of
+infrastructure investment by the pension funds is in the context of economically
+targeted investment (discussed in chapter 2). In the broader economic context
+there were clear promises in the 1992 presidential campaign that the pension
+funds would be providing the capital backing to heavy investment in the
+country's infrastructure:
+When the Clinton Administration took office, one of its major
+goals was to face the task of global competition head on by
+pursuing a strategy of encouraging investment in human and
+
+
+physical infrastructure so as to enable the United States to compete
+successfully and create high wage jobs.16
+3.25 The sorts of investment projects undertaken are consistent with what
+could reasonably be expected to occur in Australia. However, there has been
+greater progress in this area than in Australia, and the American funds could be
+fairly described as more sophisticated in their infrastructure initiatives. The
+following two examples of pension fund investments are simple illustrations of
+that:
+. $200 million from the Boilermakers and Blacksmiths National
+Pension Funds used by the Trust Company of the West investing in
+energy infrastructure construction building throughout the country
+with a projected lifetime return of 14 per cent; and
+. Connecticut state's pension funds entering into a limited partnership
+to invest $50 million in job creation and economic growth in that
+state and receiving a 15 per cent return in 1993.17
+Trading in infrastructure
+3.26 It was put to the Committee that where there has been listing of projects
+on the stock exchange there has been ready acceptance by private investors. Mr
+Campbell claimed there was 'a huge market there which remains untapped at
+this point'.18 To list on the exchange removes one of the big problems for
+infrastructure projects given their long gestation period, namely that of
+marketing them. It also makes them tradeable, enabling super funds to maintain
+liquidity while investing in them.
+3.27 The listing of utilities was specifically examined in evidence before the
+Committee. At present there are virtually no utilities on the exchange, although
+it is seen likely that the Victorian utilities, having just recently been privatised,
+16 Superannuation US - Investment, Practices and Regulation, speech given to the Evatt Foundation/ACTU
+conference 'Super 2000 - Investing in the Community', 24-25 November 1994, by Olena Berg, Assistant
+Secretary, Pension and Welfare Benefits Administration, US Department of Labor, Washington DC,
+Conference Papers, pi7.
+17 Superannuation US - Investment, Practices and Regulation, speech given to the Evatt Foundation/ACTU
+conference 'Super 2000 - Investing in the Community', 24-25 November 1994, by Olena Berg, Assistant
+Secretary, Pension and Welfare Benefits Administration, US Department of Labor, Washington DC,
+Conference Papers, p22.
+18 Evidence (Mr Campbell), pS61.
+
+
+might well be listed in 'two or three years time'.19 The ASX made the general
+point about the need for greater representation on the exchange:
+... the more investable products you have available to give you the
+diversified spread, the more you will invest here rather than look
+overseas to get set in those products.20
+3.28 The ASX is in the process of developing a new index, indicating its
+willingness to assist in creating listable products.21 The Committee finds this
+encouraging and fully supports the initiatives of the ASX in creating a broader
+range of listings, especially in assisting the marketing of infrastructure projects
+in this way.
+Conclusions
+3.29 The Committee considers that investment in infrastructure is being
+undertaken by superannuation funds at an appropriate rate and considers the
+government's role is one of facilitation. It is the government's responsibility to
+make this form of investment attractive to the funds, and to not allow doubts
+about taxation provisions or other impediments to dissuade the funds from full
+consideration of the opportunities for investment in this area.
+19 Evidence (Mr Costello), pS49,
+20 Evidence, pS49.
+21 Evidence (Mr Costello), pS48,
+
+
+CHAPTER 4
+INVESTING IN SMALLER ENTERPRISES
+Investing in Smaller Enterprises
+As national savings become increasingly channelled into superannuation
+funds, the importance of this source of saving for investment into small
+business further increases whilst the pool of savings traditionally available for
+small business proportionally reduces.1
+4.1 Small business has traditionally looked to banks and similar institutions
+as its basic source of debt financing. Since the advent of the super system now
+in place, however, the role of superannuation funds as a source of saving has
+grown and superannuation savings have tended to displace the more traditional
+savings. Thus Small Business Victoria pointed out to the Committee the
+concomitant increase in importance of superannuation savings to small
+business in need of finance.
+4.2 The Industry Policy Division of the Department of Industry, Science and
+Tourism (DIST) also referred to the traditional reliance of small and medium
+sized enterprises (SMEs) on debt finance, and to the fact that banks and 'bank-
+like institutions' were the main provider, but it said:
+... the shift in the direction of household savings away from banks
+to superannuation funds may mean that the funds become a more
+important indirect financier of SMEs. This could occur as the
+banks continue to access an increasing proportion of their finance
+from the wholesale capital markets by issuing bills and other
+securities, and as superannuation funds continue to increase their
+purchase of these securities to replace the reduction in the supply
+of government debt.2
+4.3 The Committee recognises an increasing sophistication in the capital and
+savings markets. In particular the growth in the securitisation industry,
+'combined with the growth in demand by superannuation funds for securities,
+may lead to the securitisation of SME debt including loans and leases'.3 The
+Committee is encouraged by this possible development as it would have the
+two-fold effect of:
+1 Submission SI-16 (Small Business Victoria).
+2 Submission SI-17, p6.
+Submission SI-17, p7.
+3
+
+
+. opening up the opportunity for SMEs to access the wider market for
+investment by superannuation funds, correspondingly assisting the
+funds with diversification in their investment spread; and
+. helping to solve the inequalities in the matching equation between
+large superannuation investment amounts and the much smaller
+individual financing requirements of small business.
+4.4 DIST commented that this might require government support, as in the
+US 'where the securitisation of small business loans is stimulated by a Federal
+government guarantee attached to the principal of Small Business
+Administration loans'.4 The Committee is not in favour of such a guarantee as it
+considers such a move an unwarranted incursion by government into the field
+of commercial business finance.
+A credit-rating system
+4.5 The Committee does sees merit in an alternative proposed by DIST, the
+development of a credit-rating system which could:
+. facilitate more accurate 'price risk' assessment of SMEs by
+institutions and therefore assist in increased non-secured lending to
+SMEs; and
+• stimulate the process of SME loan securitisation and so enable the
+flow of debt capital from superannuation funds to SMEs.5
+4.6 Such a system would support and strengthen the natural processes of
+business financing and the opening up of opportunity. The Committee
+envisions such a system as a joint initiative of government and those business
+groups representative of SMEs, jointly funded by government and those
+groups. The intelligence gathered and made available by such a system would
+be along the lines of normal credit assessment, plus those additional
+sophistications which are deemed helpful to the investment decisions by
+superannuation funds.
+4 Submission SI-17, p7.
+Submission SI-17, p7.
+5
+
+
+Recommendation 4.1:
+The Committee recommends the government investigate the establishment
+of an independent and investor based credit-rating system for SMEs as a
+joint initiative of government and the relevant business groups.
+4.7 Independence would come from the establishment of a small specialised
+agency to undertake the assessment work and deal with the inquiries. After the
+establishment and initial research period, the Committee considers such an
+agency could be largely self-funding through the charging of fees to those
+potential investors who wish to use its services. However, some measure of on-
+going financial support by both government and the relevant business groups
+would also be seen as appropriate as evidence of their commitment to the
+scheme.
+Business loans
+4.8 An initiative which the Committee notes with approval is the Super
+Business Loans Program which was established by Industry Funds Services and
+National Mutual Funds Management. This program facilitates commercial
+loans at competitive rates to SMEs.
+Through a new investment vehicle "Super Business Loans Trust",
+around $200 million will be contributed by participating
+superannuation funds and loans will range from $100,000 to $10
+million.6
+4.9 The program also allows investors to request loans to be allocated in
+specific ways, 'such as to a particular industry or geographical region, to the
+benefit of employers and employees in that area'.7 Returns from investments
+made under the scheme can be measured against fixed interest benchmarks.
+4.10 The Committee considers such programs go to the heart of what it
+considers to be a desirable, but difficult to achieve, marriage between the
+investment of superannuation savings and the needs of SMEs. It encourages the
+further development of this and similar schemes.
+6 Submission SI-18, p 17.
+7 Submission SI-18, p 17.
+
+
+Equity capital
+4.11 Good business practice suggests that it is generally wise to have a
+mixture of debt and equity capital. This is as true of SMEs as it is for big
+business. Mr Chris Siddons, General Manager, Small Business Victoria,
+pointed to the problems of small business being purely funded by debt and
+consequently being extremely vulnerable to interest rate hikes, such as in the
+early 1990s. He said of those businesses:
+They have not got the buffer, as big companies do, of being able to
+say, 'Sorry, we can't pay dividends for a few years, until we get
+through the rough patch. We will then resume paying dividends'.
+That is what the big companies did. The small companies just went
+under.8
+4.12 As a matter of principle the Committee considers it desirable that there
+be avenues for superannuation funds to provide equity capital to small
+business. The Committee recognises, however, the practical difficulties for
+funds in assessing the merits of actually investing in this way within their
+overall investment strategy.
+4.13 Whether it be for the more developmental and venture companies, or
+established small businesses in need of capital infusion, the problems are
+similar. Indeed, the large volume of money most funds have available to
+allocate to individual investment decisions may itself be a barrier to funds
+taking up the investigation of investing in individual businesses, where the
+amounts sought may be considerably less than the funds have to offer.
+The problem of matching
+4.14 There is a difficulty of matching the investment of superannuation
+savings to the needs of investor ready business projects. The issue of small and
+medium sized businesses being investor ready is particularly significant, as the
+absence of such readiness is a natural barrier to the flow of investment. There is
+a degree of understandable rectitude in the case of many entrepreneurial (in the
+genuine sense) enterprises, where proprietors are reluctant to let go, especially
+on an equity basis, of their sole financial control. The bridge to outside
+investment is not easy to cross.
+4.15 An initiative of the previous government which came to light during the
+course of the inquiry was the establishment of an institutional investor
+information service (IIIS) which was designed to attract financial support for
+8 Evidence (Mr Siddons), pS94.
+
+
+regional projects. In relation to this service or register the Committee received
+this advice from the Association of Superannuation Funds of Australia (ASFA):
+Certainly some government money was provided. Officers from
+the department controlled the initial stages of it, but it was
+certainly the investment managers who were running it ... but
+AusCID was to manage the register. The investment community
+would be vetted and a list of advisers would come from the
+investment community who could go out and look at proposals and
+help the people get them into a ready stage.9
+4.16 In its submission, the Australian Council for Infrastructure Development
+(AusCID) said its members had no experience of a capital shortage for well-
+conceived and financially viable projects:
+There may, however, be a market defect in relation to the
+information flows between some classes of project
+sponsors/promoters and the providers of finance.10
+4.17 AusCID considers that government support may be warranted to
+underpin the mechanisms to address the suspected market failure. It noted the
+initiatives 'under way through the regional development mechanisms of the
+Federal Department of Transport and Regional Development' to address the
+issue. The Committee noted that Aus CID was 'prepared, subject to financial
+approval, to participate in and manage the operation of a register of investor-
+ready infrastructure projects in regional Australia'.11
+4.18 The Committee sought advice from the Parliamentary Secretary
+responsible for the project, the Hon Michael Ronaldson, MP. He advised that
+the IIIS project was still being developed, although the Commonwealth 'had
+agreed in principle to fund part of the establishment and running costs of the
+IIIS for a period of two years, subject to State and Territory governments
+agreeing to participation in and support for the project'. He said also that a
+number of governments had shown interest in linking up with the proposal.
+Departmental officials were working on funding arrangements with them.1^
+4.19 In the Committee's view this is an important initiative, and the
+Committee is pleased that its development continues despite the change of
+government since it was first mooted. It should provide a cost effective method
+9 Evidence (Dr Anderson), pS20.
+10 Submission SI-5, p3.
+11 Submission SI-5, p3.
+12 Letter from the Hon Michael Ronaldson MP, Parliamentary Secretary, Transport and Regional
+Development, to Senator John Watson, Chair of the Committee.
+
+
+of combining projects and capital that together will be significant for
+Australia's regional development. If it proves to be as successful as is predicted,
+it will be a useful model.
+4.20 The Victorian Employers' Chamber of Commerce and Industry (VECCI)
+established the Business Finance Support Program as a joint initiative with the
+federal government (which funded the project initially) to assist the matching
+of money and projects. The Program Coordinator, Mr Bob Beaumont, said of
+the aims of the program:
+The primary considerations are to improve access to finance and
+management schemes for growth small business. The secondary
+focus is towards developing a gateway or entry point to the
+establishment of a more formalised equity market at the SME
+level.13
+4.21 The program was launched in December 1994 and began to invite
+participants in March 1995. In September 1995 a matching process was begun
+'using a data base and several other mechanisms':
+Since that time we have had four dozen, if you like, matches per se
+and the capital outflows to date are just short of $5 million.14
+4.22 The size of the individual amounts of finance being provided is between
+$200 000 and $500 000 at this early stage of the program, but overseas
+experience suggests $100 000 may be the eventual lower level. The availability
+of capital declared is about $500 million. Projections of outflows have been
+made to the end of the 1998 fiscal year and the predicted figure is 'around the
+$50 million to $60 million mark'.15
+4.23 The reason for much of the success of the program is said to be that 'the
+small businesses realise they are not going to lose control':
+The informal investors really are looking for opportunities to use
+their skills and their capital to get a rate of return better than they
+might be getting currently, say, in investment funds.16
+4.24 On the question of rates of return, Mr Beaumont said:
+... the expected rate of return that most investors go in for is a
+flexible return, usually over a three to five year period. Anywhere
+13 Evidence, pS78.
+14 Evidence (Mr Beaumont), pS79.
+15 Evidence (Mr Beaumont), pS86.
+16 Evidence (Mr Beaumont), pS81.
+
+
+between 30 and 50 per cent is what they look for, which is not
+unusual. The beauty of this type of supply [of investors] is that
+because 90 per cent of them are active, not passive, they bring with
+them their management skills.17
+4.25 The Committee supports this program for what it is doing and for what it
+could achieve. In fact it could be seen as something of a model for the general
+matching process. However, the sort of matching that is taking place under this
+scheme has limited relevance for superannuation funds. Certainly the funds
+should be aware of the program and of any advantage they see in it, but the
+Committee considers that the relatively low individual investment amounts
+being sought mitigates the involvement of superannuation funds to any great
+extent.
+Directed investment
+4.26 Small Business Victoria raised the issue of requiring superannuation
+funds to apply (say) one per cent of their savings pool 'towards SMEs or
+companies that are in a developmental phase'.18 While the Committee is firmly
+against recommending any form of directed investment of superannuation
+savings, it does recognise that the SME sector is a legitimate investment option
+for the superannuation funds.
+4.27 One of the key problems for superannuation trustees in this area is the
+lack of time available to examine and assess the value of investment in
+particular businesses. The ASX commented that 'as part of the fiduciary
+responsibility of a trustee, they should be made responsible to consider the
+range of investment opportunities before them'.19 An interesting suggestion by
+ASX was for a 'statutory requirement directing trustees to devote some
+proportion of their time to actively consider investment in specific types of
+investments'.20 These could include smaller growth companies.
+4.28 The ASX commented that intermediaries who deal in specific
+investments such as venture and development capital and growth companies
+17 Evidence, pS82.
+18 Evidence (Mr Siddons), pS90.
+19 Evidence (Mr Bladier), pS42.
+20 Submission SI-19, p 11.
+
+
+report difficulties in getting busy trustees, or their advisers, to make time to
+even consider these options. It seemed, according to the ASX, that:
+... this resistance may arise from their lack of awareness of these
+types of investments and potential returns and to a lesser extent
+their averseness to risk.21
+4.29 The Committee found this evidence, rather than being critical of trustees,
+was more a recognition of the realities facing them in their investment decision
+making process. The ASX 'think the problem is an information gap':
+The problem is that people do not know about the existence of
+these enterprises wanting capital and, if they were listed, do not
+know about their stocks and are not prepared to spend the time and
+money researching them because they are too small for it to be
+worth their while.22
+4.30 In response to this situation the ASX referred to an idea they were
+developing to bring together the monies and the enterprises. An important
+aspect of this new proposal would be to free such enterprises from the very
+high costs associated with listing requirements. The ASX were unable to
+disclose further detail of their proposal because of the commercial sensitivities
+involved. Despite the lack of detail at this stage, the Committee would be
+attracted to this concept, as it was presented by the ASX, if it would operate to
+enhance the matching process and provide enhanced investment opportunities
+for superannuation funds.
+4.31 The Committee considers that directly mandating trustee time in the way
+suggested by the ASX would not be feasible. In fact, many of the difficulties in
+implementing such a proposal were acknowledged in the discussion Committee
+members had with representatives of the ASX.23 This is not to say, however,
+that SMEs may not present sound investment opportunities and trustees should
+be aware of this.
+Development capital
+4.32 DIST provided an outline of the development of the Australian
+development capital sector from which the SMEs have benefited.24 The value
+21 Submission SI-19, pi 1.
+22 Evidence (Mr Costello), p S44.
+23 Evidence, ppS41-2.
+24 Submission SI-17, p7.
+
+
+of the sector is estimated (probably conservatively) at $1.9 billion. DIST points
+out that:
+... superannuation funds usually do not provide development
+capital directly to small businesses, but rather a few put a small
+amount of their portfolio in the hands of some of the development
+capitalists who use their expertise to choose, through careful and
+diligent analysis, which small businesses to invest in.25
+4.33 A survey of the members of the Australian Development Capital
+Association Ltd (ADCAL) indicated 'that there was $868 million of capital
+under management for SME-based investments (companies with turnover of
+less than $100 million) at the end of 1995'.26 Superannuation funds provided
+about 37% of this and 50% of all new capital raised for SME-based investments
+in 1995.
+4.34 These are positive developments, although the figures are modest in
+absolute terms. According to DIST:
+Only about 8 per cent of all small firms aspire to significant (or
+high) growth and of these, less than one-quarter are actively
+seeking additional finance, with most looking for amounts of
+$500,000 or less.27
+4.35 Therefore only about two per cent of Australian small firms are in the
+high-growth category seeking additional finance. The National Investment
+Council reported that 'even among the small minority of firms that seek high
+growth and want external equity, relatively few understand what is needed to
+attract external equity investment'.28 Another study found that only nine of 52
+firms met the fundamental requirements to attract external investors, those
+requirements being:
+. appropriate governance - separation of proprietor's business and
+personal affairs;
+. lack of dependence on key personnel; and
+. an established market niche.29
+25 Submission SI-17, p8.
+26 Submission SI-17, p8.
+27 Submission SI-17, p8,
+28 Submission SI-17, p8.
+29 Submission SI-17, p9.
+
+
+4.36 The Committee considers there is a question of responsibility within the
+individual SMEs themselves in relation to being investment ready. SMEs need
+to come to terms with what is required to make themselves attractive to
+potential investors, especially superannuation funds with their particular need
+for clear and precise investment indicators. This is not a problem that
+governments or the financial community can overcome for them.
+Conclusion
+4.37 The Committee considers there is only a limited role for government in
+promoting superannuation investment in SMEs. It notes the increasing
+sophistication of the financial markets and the growing participation of
+superannuation funds in these market developments.
+4.38 Superannuation trustees are increasingly turning to a wider range of
+investment opportunities, albeit from a low base. Modem portfolio theory
+provides the sound principles of increased diversification of investment, while
+the SIS regulatory regime with its investment strategy requirement provides the
+support in practice.
+4.39 The Committee is not persuaded that there is a 'special case' for SMEs
+over other types of non-traditional superannuation investment. It considers
+there is need for SMEs themselves to become more involved and better
+educated about what is happening in the financial markets around them, in
+order that they may 'present' more attractively to those markets as potential
+avenues for investment, and perhaps that they may avail themselves of the
+investment opportunities available to enhance their businesses.
+
+
+CHAPTER 5
+SUPER FOR HOUSING
+Super for Housing
+5.1 The Committee is required to report on the implications of the enormous
+growth in superannuation fund assets in Australia for housing finance. It has
+considered two aspects of this question: investment in rental housing and
+public housing stock by super funds; and the drawdown of an individual's super
+funds to assist with the purchase of a home.
+Investment in housing infrastructure
+5.2 Typically, super funds have not invested directly in residential housing,
+probably because of its low unit cost and high administrative requirements. If
+super funds could be encouraged to do so, then a flexibility in the supply of
+public housing could be introduced. This is not necessarily to suggest that more
+housing is required, but that the private rather than the public sector build it,
+thus freeing up government money for other uses. The Department of Social
+Security (DSS) has advised the Committee of the Commonwealth's support for
+private investment in public rental housing.1
+5.3 Super funds will diversify their assets in order to reduce risk. Housing
+can be part of this diversification if it can be packaged in such a way as to
+provide the kind of returns that would attract super funds. Investment in
+residential property may also help reduce volatility in a portfolio.
+5.4 A project in housing could appeal to a super fund if the return was higher
+than the typically benchmarked return on government bonds, for example. It
+may be that housing projects could be packaged as some recent road projects
+have been, where securities have been listed on the stock exchange. The
+Committee was told that they had been readily accepted by investors and that
+there was a huge untapped market for such projects. Of course, the usual
+difficulties with infrastructure projects, such as the long gestation period,
+would have to be taken into account. The bond market provides another
+avenue. If a project were to be structured in such a way that there was a
+tradeable debt instrument rather than bank debt, a super fund would be able to
+invest and still maintain liquidity.2
+1 Submission SI-20, p27.
+Evidence (Mr Campbell), ppS61-2.
+2
+
+
+5.5 Examples of private involvement in public housing in New South Wales
+include the PEP (Public Equity Participation) Schemes I and II. Under these
+schemes, AMP purchased dwellings in Sydney which were then leased to the
+NSW Department of Housing.3
+5.6 In the first scheme, AMP provided initial capital to firnd the acquisition
+of 1 000 dwellings which were let to public housing tenants. The homes were
+leased to the NSW Department of Housing on a guaranteed inflation-linked
+rental and guaranteed re-purchase after twenty-one years. The Department of
+Housing assumed maintenance and management responsibility. The
+Department and AMP share in any capital gain in the houses over and above
+the compounded inflation rate. The overall cost to the NSW government was a
+one-off payment used to subsidise the difference between the investor yield
+required and net rental income.
+5.7 The second project took the form of an extension of the first, involving
+again a one-off payment by government.
+5.8 AMP has also invested $100 million in a single placement of state
+government guaranteed Victorian housing bonds, designed to provide housing
+for low income families.4
+5.9 These examples indicate one way housing can be 'packaged' into
+something that may appeal to super funds, provided returns are within the
+desirable parameters. AMP, however, has submitted that its analysis of such
+investments indicates that residential real estate is the least attractive of all the
+property classes for institutional investors, with other, alternative investments
+in infrastructure providing substantially higher returns. AMP has said that
+expectations of the returns and terms acceptable to attract institutional investors
+in social housing are 'extremely optimistic'.5
+5.10 The Committee notes differing views about what investment in social
+housing infrastructure can offer the institutional investor. It is not in a position
+to prefer one view over another. In so far as superannuation funds are
+concerned, that is the task of trustees and their investment managers.
+5.11 Lack of certainty about the taxation treatment of investment in housing
+has caused the private sector difficulty. Section 51 AD and Division 16D of the
+Tax Act, designed to deal with leasing arrangements with tax exempt entities,
+3 Details of the projects are taken from submission SI-20 (Department of Social Security), pp28-9.
+4 Submission SI-15, pi7.
+Submission SI-15, pi7.
+5
+
+
+operate to deny normal business deductions to a private sector owner of
+property who has entered into a lease arrangement with a tax exempt entity
+such as a government, the Committee has been told.6
+5.12 Mr Campbell, Director, Infrastructure Finance, Fay Richwhite Australia
+Ltd, said:
+It is obvious to see how this could impact in the housing arena,
+where a private sector owner seeks to lease residential housing to a
+state government authority for leasing to public supported tenants.
+The very fact that the government enters into a lease with the
+private sector could operate to deny the private sector owner the
+tax deductions which you or I as individuals would be able to
+access if we negatively geared a property investment.7
+5.13 The Committee considered whether some kind of investment allowance
+or special tax arrangement would be useful as a means of encouraging super
+funds to invest in housing. Mr Campbell noted 'an obscure section of the tax act
+which allows an investment allowance for short term traveller accommodation'
+and suggested that a similar type of proposal might work in relation to
+housing.8
+5.14 Mr Campbell made it clear that, in his view, his proposal for super fund
+investment in public housing infrastructure was viable without so-called tax
+concessions, as long as the law was clarified to establish that the funds could be
+entitled to the same sorts of deductions that personal investors would be
+entitled to if they were to invest in residential property.9 To the extent that the
+law is unclear in this way, the development of worthwhile projects could be
+hindered.
+5.15 The Committee recommended in chapter 3 that the government review
+the intent and operation of the infrastructure borrowings concessions and
+clarify the position. It believes this recommendation meets the concerns that
+have been raised by Mr Campbell. It does not believe that investment in
+housing infrastructure calls for any further special consideration.
+6
+Evidence (Mr Campbell), ppS58-9. (These provisions were examined in more detail in chapter 3.)
+7 Evidence, pS59.
+8 Evidence, pS59. The Committee has assumed reference was being made to Division IOC of the Tax Act.
+Evidence, ppS60-l.
+9
+
+
+Home purchase assistance
+5.16 From time to time, calls are made for the use of individuals'
+superannuation monies to assist with a home purchase. In the 1993 election
+campaign, both of the major parties put forward proposals to allow the use of
+superannuation funds to finance the purchase of housing by members.10 In
+October 1995, the Australian Democrats expressed support for a limited
+drawdown of super funds for low to middle income earners to assist with home
+purchase.11 More recently, the government in its pre 1996 election Housing
+Policy Statement, said it was attracted to allowing first home buyers to
+withdraw a portion of their superannuation contributions towards the cost of a
+deposit on their first home. The Committee understands that steps are currently
+underway to examine the implementation of this proposal.12
+5.17 In its report Super for Housing13 the Committee proceeded cautiously,
+noting many of the pitfalls inherent in such a proposal and advocating further
+investigation if such a scheme were to be set up. It concluded that any such
+scheme would have to be tightly targeted.
+5.18 In this inquiry, the Committee received a number of submissions
+claiming there was little justification for the introduction of a scheme whereby
+super funds could be drawn down and used for the purchase of a home. These
+included submissions from the Life Investment and Superannuation
+Association of Australia Inc (LISA) and the Association of Superannuation
+Funds of Australia Limited (ASFA).14
+5.19 A number of reasons are put forward in support of this position.
+Arguably, Australia does not need greater investment in housing. It already has
+one of the highest percentages of home ownership in the world, with around
+70% of Australians living in owner occupied dwellings. Lower interest rates
+mean that home affordability15 has increased and home accessibility16 has also
+improved in recent years. In addition, home ownership receives favourable tax
+treatment, for example in relation to capital gains tax.
+10 See Twelfth Report of the Senate Select Committee on Superannuation, Super for Housing, May 1994
+(henceforth Super for Housing), ppl-3.
+11 See submission SI-14. attachment 4.
+12 Submission SI-20, para 5.3.
+13 Twelfth Report, May 1994.
+14 Submissions SI-14 (see especially attachment 4) and SI-11.
+15 The relationship between median weekly family income and average monthly home loan repayments on
+new loans, or the ability to meet ongoing mortgage repayments.
+16 The ratio of deposit gap to annual income, or the cost of becoming a home owner.
+
+
+5.20 Allowing access to superannuation for housing is more likely to increase
+the average size or quality of dwellings (or allow people to increase current
+consumption, with lower mortgage payments) than the rate of home ownership.
+Thus additional investment in housing would be equivalent to consumption
+rather than adding to the productive capacity of the economy.17
+5.21 Superannuants are already able to access their super contributions in
+situations of hardship. Hardship may include a case where a person may lose
+his or her home if mortgage repayments cannot be met. In 1994-95, the ISC
+received 39 680 hardship applications, 82% of which were accepted in full and
+9% of which were accepted in part.18 Many of these related to housing.19
+5.22 Average balances per fund member tend to be small - the Committee has
+been told in the past that it would be some time in the next century before the
+average account member balance was as high as $10 OOO20 - and proposals for
+the draw down of super monies for housing have always only related to a
+portion of those monies. Yet it is usually a minimum of 10% of the purchase
+price that is required as a deposit on a home purchase. Based on home loan
+figures for 1994-95, the average deposit required would be at least $7-9000.21 It
+is likely that those who would be most in need of assistance for the purchase of
+a home would be those most unlikely to have sufficient super monies to draw
+down to assist.
+5.23 It is undeniable that home ownership contributes to security in retirement
+and that pensioners owning their own homes require less taxpayer support than
+renters. Home ownership may be seen as an alternative form of saving, as a
+source of security in later life, and as an opportunity to avoid the payment of
+rent. Home ownership is an important component of retirement needs, then, but
+it is not a substitute for income support, and comes at a cost to public saving:
+... access to superannuation funds would direct savings from an
+asset (superannuation) on which returns are taxed, even if
+concessionally, to an asset (housing) were returns are not taxed.22
+17 Fitzgerald, VW, National Saving - A Report to the Treasurer, June 1993, p61.
+18 Insurance and Superannuation Commission, Annual Report 1994-95, p75.
+19 The Committee has previously been told that the 'most common ground' on which the ISC releases super
+monies relates to housing. See the Committee's Twelfth Report, Super for Housing, para 4.30.
+20 Evidence to the Committee in Canberra on 25 February 1994 by Mr P Roberts, then Chief Executive
+Officer of the Real Estate Institute of Australia.
+21 Submission SI-14, attachment 4.
+22 Fitzgerald, VW, National Saving - A Report to the Treasurer, June 1993, p61.
+
+
+5.24 There would also be an adverse impact on a member's end benefit,
+perhaps out of proportion to the relatively small withdrawal that might have
+been made, because of the compound effect on the account of the interest
+forgone. It is difficult to estimate the effect on the overall level of
+superannuation funds if a 'super for housing' proposal were to be put in place.
+While it might be small initially, when few people could be expected to have
+sufficient super monies to draw down, the long term effects could be
+considerable, with a consequent increase in uptake of publicly funded pensions
+in addition to a reduced pool of national savings.
+The ACTU/National Mutual scheme
+5.25 The Committee notes the continuing success of the ACTU/National
+Mutual Super Members' Home Loans (SMHL) scheme, set up in 1994, and of
+other schemes that have adopted the practice of mortgage securitisation.
+Securitised funding and lending operate on smaller overheads and therefore
+assist more competitive housing finance. They do not require a base of equity
+capital as do the traditional lending institutions like banks and building
+societies, for example, and are not subject to prudential requirements for capital
+backing for funds raised from mortgage-backed securities.23
+5.26 Through the SMHL scheme, home loans are available to members of
+funds which invest in a trust managed by National Mutual Funds Management.
+Eighty funds have invested in the scheme, allowing some 4 million people
+access to loans. The first loan was settled in August 1994 and over 7 000
+people have applied for more than $700 million in home loans since the
+commencement of the scheme.
+5.27 The SMHL rate is currently 8.3%, having decreased from 8.7% mid
+September 1996. These rates are among the most competitive available.
+Schemes such as SMHL have increased competition in the home loan market
+generally, so that borrowers generally have benefited from lower rates, at the
+same time preserving their superannuation benefits for retirement.
+5.28 The Committee notes predictions that within 2-5 years, 25% of new
+lending for housing will be funded from securitised mortgages. In the United
+States, for example, mortgage companies represented 56.4% of the market in
+the last quarter of 1995 compared with 23.5% for the commercial banks and
+15.7% for savings and loans institutions. Already mortgage managers, as
+23 Submission SI-20 (DSS), para 4.1
+
+
+opposed to the traditional lenders, have shown strong penetration of the home
+lending market in Australia.24
+5.29 It appears there are generally no substantial regulatory impediments to
+the operation and development of mortgage securitisation, although there are
+suggestions that the introduction of the Uniform Consumer Credit Code
+(UCCC) in November 1996 might influence lenders to act more conservatively.
+DSS has advised that discussions between state authorities and industry bodies
+have been progressing towards ironing out technical details.25 The Committee
+considers that the implementation of the UCCC should be monitored so that
+any difficulties can be resolved at an early stage.
+Conclusion
+5.30 The Committee does not consider that the arguments in favour of a 'super
+for housing' initiative outweigh the arguments against such a proposal. Indeed,
+arguments in favour tend now to have been somewhat diminished by the
+relatively recent introduction and proliferation of securitisation schemes,
+compared with the appeal they have had in the past.
+5.31 It is the Committee's firm view that super funds must continue to be
+principally for the purpose of funding retirement income. They are not a source
+of funds to cover the range of contingencies that might arise from time to time
+in the course of a fund member's life. To the extent that genuine hardship
+arises, the ISC is already empowered to deal with it, and does so.
+5.32 Home loan schemes such as the ACTU/National Mutual scheme,
+however, are an innovative and practical way of using super funds to help with
+home purchase. They are able to facilitate home ownership without
+jeopardising the fundamental role of super funds to provide retirement income.
+Given the Australian situation of generally high levels of home ownership,
+affordability and accessibility, it is the Committee's view that such schemes are
+the preferred approach to assisting with home purchase, should a fund wish to
+invest in that way.
+24 Submission SI-20 (DSS), para 4.2.
+25 Submission SI-20 (DSS), para 4.6.
+
+
+
+
+CHAPTER 6
+SHORT TERMISM - PERCEPTION OR REALITY
+Short Termism - Perception or Reality
+Such a culture of short termism not only permeates the funds management
+industry, but its promotion through and by the mass media has resulted in an
+increasing concern by the members of the funds about short term financial
+returns on fund investments.1
+The issue
+6.1 The expression 'short termism' describes the practice of superannuation
+funds taking a more than necessary short term position in their investment
+spread. The definition provided by the Institute of Actuaries of Australia (IAA)
+describes short termism 'as a preference for an investment policy which seeks
+to minimise short-term fluctuations in the rate of return on assets'.2 There has
+been extensive research and examination of short termism by a number of
+people and organisation in recent times. There are differing views on whether,
+and the extent to which, it is a problem.
+6.2 The IAA believes 'that many superannuation funds are adopting a short-
+term approach to their fund's investment policy':
+... an overly short-term approach generally results in members
+receiving superannuation benefits which are only a fraction of the
+benefits which could be enjoyed under investment policies which
+adopt a long-term focus. The result is a reduction in the level of
+savings in the community and undue pressure on Government
+revenue in paying age pensions. Consequently such short-termism
+is contrary to the national interest and should be viewed with
+serious concern.3
+6.3 There is a view, however, suggesting short termism might be beneficial:
+A lot of the market players - I am not talking about the financial
+people, but a lot of the analysts and the economic thinkers - seem
+to believe that the pressure of short-termism actually leads to better
+1 Submission SI-18 (AIST), p24.
+2 Evidence (Mr Grenfell), pS65.
+3 Submission SI-6, p 1.
+
+
+economic results and puts more pressure on directors to perform
+than anything else.4
+Competition and choice
+6.4 Strong competition between fund managers has been one of the main
+reasons for a short term perspective in superannuation investment. That is
+because the measure of performance of fund managers is fairly well confined to
+short term investment results. However, a proposition the Committee finds
+difficult to dismiss came from the ASX, who said:
+If a fond manager consistently performs quarter by quarter, that has
+to be good for the owners of the fond.5
+6.5 Competition does affect trustees and fund managers in their investment
+outlook, in that:
+. trustees and fund managers are preoccupied with short term returns
+so as to look good and be competitive in the published comparative
+tables; and
+• members expect continually good results from their fund with no
+short term losses.6
+6.6 The general issue of choice has several relevant elements in the context
+of short termism. First, there is the issue of the trustees' choice of fund
+manager. Trustees will be heavily influenced by current performance levels of
+fund managers. Secondly, there are those aspects of choice which relate to
+members' choice of fund (which again will be influenced by current returns and
+hence short term considerations), and member choice of investment which is
+usually offered in the form of alternative investment portfolios.
+6.7 Choice of fund may lead to a need for greater liquidity and therefore a
+greater proportion of investments being held in cash. It was said that in some
+funds where there is member choice there was no investment in property for
+'exactly those reasons'.7
+4 Evidence (Mr Costello), pS47.
+5 Evidence (Mr Roche), pS47.
+6 Submission SI-19, p 13.
+Evidence (Dr Gray), pS17.
+7
+
+
+6.8 Other things being equal, it is generally thought that members will favour
+the more conservative options when they are given a choice of investments.
+This is perhaps understandable given the sensitive nature of retirement income
+savings, and the propensity of individuals to conserve (and also keep liquid)
+their superannuation assets. Again this leads to a short term approach to
+investment. Where choice of investment is offered, the default option can often
+be the most conservative, although the Committee notes with approval the more
+flexible default provisions, relating to the age of the member, being offered by
+some funds.
+6.9 The SIS legislation provides for beneficiary investment choice.8 The
+Committee considers that choice in this area need not necessarily be exercised
+so as to maximise short term effects in contrast to the longer term. Treasury
+said:
+We have seen greater awareness of superannuation from the
+household sector; it is one of the side effects of compulsory
+superannuation. People now have to be thinking in terms of a
+collective investment that is beyond just a bank deposit. If we start
+to introduce choice, they have to realise that it is the long-term
+benefits that they are looking at.9
+6.10 The Committee considers the issue of choice is slowly and sensibly being
+worked through by the industry. The Committee would stress, however, the
+need for constant attention to the requirements of the members for
+appropriately simple and accessible education to enable them to make informed
+choices, particularly in relation to alternative investment portfolios.
+The short term perspective
+6.11 The Committee examined the underlying causes of short term orientation
+toward investment. The IAA provided a comprehensive analysis of the factors
+affecting superannuation investment and 'believes that some of the features of
+the current superannuation environment are undesirable'.10 The more significant
+follow.
+6.12 Historically, most large funds were defined benefit funds where the
+employer bears the investment risk. With the rapid growth in superannuation
+savings, particularly through compulsory superannuation, the trend has been
+toward accumulation funds where it is the members who effectively bear the
+8 SIS Regulation 4.02 prescribes how this choice is to be offered.
+9 Evidence (Mr Callaghan), pS6.
+10 Submission SI-6, p8.
+
+
+risks of the funds' investments. The argument is that 'the members are generally
+more risk-averse and have a shorter time horizon than the employers'.11
+6.13 The IAA provided a comparison of the investment policies of
+accumulation and defined benefit funds and set out the evidence of short
+termism among the accumulation funds.12 In terms of performance, the direct
+implication of this evidence was that the returns from defined benefits funds
+exceed those from accumulation funds. The submission went on to highlight
+the trend toward accumulation funds in Australia:
+Over the six years to 1993 private sector fund membership of
+defined benefit funds grew by 670,000, but this is outweighed by
+almost eight times as many new members of accumulation funds
+over the same period
+... The trend is even more pronounced for public sector funds ...13
+6.14 Appendix F contains three graphs presented to the Committee depicting
+both the historical decline in long term assets held by superannuation funds,
+and projecting forward on the basis of three different assumptions:
+(a) the status quo without policy changes;
+(b) if wrong policy changes were made - especially further compulsory
+vesting of employer benefits, and member choice of investment or
+fund without adequate education; and
+(c) where IAA's policy proposals were heeded - especially the need to
+focus on adequacy of projected retirement benefits rather than
+contributions or vested benefits, and encouragement of members to
+take at least part of benefits as a pension or annuity instead of a
+lump sum.14
+6.15 Other IAA policy proposals, apart from those included in (c) above,
+include the following:
+. trustees should be educated about the dangers of short term
+investment policies and encouraged to think about long term effects;
+11 Submission SI-6, p8.
+12 Submission SI-6, pp 14-19.
+13 Submission SI-6, p20.
+14 Evidence (Mr Grenfell), pS65,
+
+
+. there should be education for members, especially where members
+are given a choice of investment, and choice should not be
+compulsory;
+. funds should allow those members who resign to preserve their
+benefits in the fund instead of transferring a lump sum to rollover or
+some other fund (UK evidence shows this allows the trustees to
+adopt a much longer-term investment horizon);
+. members should be given adequate information about projected
+benefits in order to allow them to plan for retirement, and the
+government should promote member communications which focus
+on expected retirement income rather than lump sums or vested
+benefits;
+. the taxation and regulation of superannuation should not be
+designed to make more difficult the operation of defined benefit
+funds;
+. preservation and portability rules should be designed so as to
+encourage longer term perspectives;
+. there should be no compulsory vesting of voluntary employer-
+financed benefits beyond the requirements of the Super Guarantee
+system; and
+. as well as members, trustees should receive intensive education
+before the introduction of member investment choice.15
+6.16 The Committee requested that the Retirement Income Modelling Task
+Force (RIM) assess the IAA's propositions. RIM advised:
+The Task Force's views on differences between investment returns
+by type of fund have been influenced by essentially the same data
+sources and research as quoted by the Institute of Actuaries.16
+6.17 RIM emphasised that projected levels of aggregate assets of
+superannuation funds 'are particularly sensitive to economic assumptions such
+as the level of return achieved by various funds'. They cited an example of an
+15 Submission SI-6, p30.
+16 Submission SI-24, p2.
+
+
+annual difference of one half of one per cent in return for the period to June
+2005 changing the grand asset total by plus or minus $17 billion.17
+6.! 8 The advice also made the following points in relation to the 'substantial
+potential effects of variations in long term earning rates on the accumulated
+benefits of individuals':
+. for most persons the effects are cushioned because of the impact of
+the age pension (and assets) tests, and to a lesser extent, the taxation
+system; and
+. to some extent the government, through the age pension and
+taxation systems, bears part of the investment risk, and conversely
+shares in the benefits of higher than average returns.18
+6.19 In this way the benefits of longer term investment strategies, with their
+higher overall returns, can be seen to benefit the whole community in terms of
+the lower demand on taxation revenue.
+6.20 The Committee considers the changing face of the work force, and the
+difficulty for defined benefit funds in accommodating a growing army of
+temporary and contract workers, is also relevant.19 As Dr Diana Olsberg,
+Executive Director of the Australian Institute of Superannuation Trustees
+(AIST), said:
+[T]he nature of the work force is just not compatible any longer
+with defined benefit funds. It is not only in those areas where we
+have considered there to be a high labour mobility but virtually
+across every area now. The short-term contract employment means
+that it is just impossible to operate a defined benefit fund.
+... [i]t is just not possible to any longer have defined benefit funds
+that are realistic in terms of the administration and the proper
+apportionment of benefits.20
+17
+Submission SI-24, p2.
+18 Submission SI-24, p2.
+19 In its 17th report. Super and Broken Work Patterns, the Committee examined in detail the situation of
+workers with non traditional working lives.
+Evidence, pSl 11.
+20
+
+
+6.21 The Committee is persuaded that accumulation funds are increasingly the
+more appropriate vehicle to receive the super guarantee. Furthermore, the
+Committee recognises:
+... that there is a great need to encourage voluntary contributions by
+members so that people, at times in their life when they actually
+have got some surplus money ... can actually contribute into their
+fund. That is only possible in an accumulation type fund.21
+6.22 The requirement that member representatives constitute half the trustees
+has resulted in a great number of inexperienced new trustees, many of whom
+could reasonably be expected to lack investment expertise. This lack of
+experience in itself would naturally lead to a less than adventurous investment
+outlook, especially given the strict fiduciary obligation of tmstees to act in the
+best interests of their members.
+6.23 The Committee acknowledges, however, the valuable work in trustee
+education and training being conducted by a number of organisations in the
+superannuation industry.
+6.24 More generally on the position of trustees and investment, the Committee
+notes the view of Mr Michael Costello of the ASX:
+... we think that there are trustees who believe that the law as
+currently structured poses a fiduciary duty on them that leads them
+down the short-term path. We think as a matter of law that that
+may well not be a correct perception on their part, but if you are a
+trustee you are probably not going to take the risk.22
+6.25 One of the consequential obligations of trustees is the need to ensure, as
+a matter of financial management, that the fund has sufficient liquid assets to
+meet its outgoings. Accordingly, to the extent that a fund requires additional
+liquidity to provide for the withdrawal of benefits on retirement or transfer to
+another fund, or for any other reason, there will be a need for greater
+conservatism in investment by that fund.
+6.26 Therefore it is appropriate to recognise that different funds may require
+different investment policies quite independent of any underlying bias or
+conservatism. This may be due to their differing age profiles or current
+popularity. Also, the same fund may change its investment strategies from time
+to time in response to the changing profile or needs of its members.
+21 Evidence (Dr Olsberg), pS 111.
+22 Evidence, pS47.
+
+
+Policies to combat short termism
+6.27 The Committee considers there needs to be attention paid to situations of
+undue short termism, bearing in mind that not all aspects of short term
+investment are undesirable.
+6.28 The Committee welcomes the consistent acknowledgment throughout the
+evidence presented to it that the primary purpose of superannuation is to
+provide for retirement income. The objective of maximising retirement
+incomes, therefore, should be the primary consideration when trustees are
+framing their investment strategies. The Committee agrees with Dr Michaela
+Anderson of the Association of Superannuation Funds of Australia (ASFA),
+who said:
+6.29 The Australian Society of Certified Practising Accountants (CPA) made
+a recommendation that a think tank or forum be established, to meet every two
+or three years to focus on the long term direction of superannuation. Such a
+forum would comprise the government and relevant stakeholders.24 The
+Committee thinks this could be a useful way of monitoring developments in
+superannuation investment.
+6.30 The payment of lump sums versus pensions was mentioned by the IAA in
+relation to the issue of conservatism by members:
+ASFA believes that the government should continually monitor
+and review its policies and legislation so as to ensure that the prime
+objective of maximising retirement income is not upset by short-
+term considerations,
+Much of the concern about members bearing the full risk of
+fluctuation in asset values is that they may be 'forced' to take their
+benefit at time of depressed values (eg when the sharemarket is at a
+relatively low point).25
+23 Evidence (Dr Anderson), pS 16.
+24 Submission SI-22, ppl and 6.
+25 Submission SI-6, p29.
+
+
+6.31 The IAA says this view by members 'focuses on the capital value of the
+benefit being paid, rather than the future income which that benefit may
+generate'.26 It is interesting to note that of total superannuation benefits paid by
+the funds in 1995-96 excluding transfers, lump sums accounted for 79% ($12.7
+billion), while the remaining 21% ($3.4 billion) were paid as pensions.
+However, the proportions are reversed when the capitalised value underlying
+the pensions paid is calculated: $45 billion (77%) compared to the $12.7 billion
+(23%) paid in lump sums.27
+6.32 There is still something of a 'lump sum mentality' in Australia, but the
+Committee considers that with the increased education of members of
+superannuation funds, especially in relation to matters of choice of
+superannuation product, a slow trend toward annuities and pensions can be
+expected.
+6.33 The Committee also noted the views of the Insurance and
+Superannuation Commission (ISC), that 'one of the Commission's long-
+standing concerns has been to avoid the situation where trustees, fund managers
+and members place undue emphasis on short-term returns'.28 The ISC provided
+some different emphases in listing some of the factors it saw as contributing to
+a short term outlook. These factors included:
+. the highly competitive but imperfectly informed private investment
+market;
+. SIS information disclosure requirements which place pressure on
+trustees to declare stable positive annual returns;
+. members lack of understanding of the long term nature of
+superannuation;
+. the short to medium term of trustee and fund manager appointments;
+and
+. the SIS penalty regime which may lead to greater trustee caution
+and investment conservatism.
+26 Submission SI-6, p29.
+27 ISC Bulletin, June 1996, p30.
+28 Submission SI-13, p7.
+29 Submission SI-13, p7.
+
+
+6.34 To assist members to assess the performance of their funds, the SIS
+regulations require trustees to report annually their compound five-year returns,
+as well as individual returns for the past five years. The SIS also has in place a
+requirement for a balanced investment portfolio for superannuation funds/0
+6.35 Other initiatives being undertaken to encourage the recognition of the
+long term nature of superannuation include improved communication, and
+education campaigns promoted by the ISC and other industry bodies31 to
+encourage longer term investment.
+6.36 A more technical and direct initiative has been to provide in the
+legislation for the smoothing of interest rates credited to members' accounts.
+The regulations allow trustees to increase the minimum guaranteed benefits by
+amounts in excess of fund earnings to an extent which would make the fund
+technically insolvent, provided this is in accordance with a plan designed by an
+actuary to ensure solvency within five years.32
+6.37 An industry based Working Party on Investment Performance
+Measurement has also been set up which, among other things, is assisting the
+education of members and trustees of funds in taking a long term perspective in
+assessing investment performance. The ISC is represented on this Working
+Party along with the IAA, Australian Investment Association (AIMA),
+Australian Custodial Services Group, asset consultants and administration
+systems firms.
+6.38 Probably the point most forcefully made to the Committee by the IAA
+was the need to disclose the retirement benefit:
+It is quite incredible that we have a set of regulations that goes into
+great detail about the need to disclose the current resignation
+benefit of your plan but ... there is nothing in the regulations that
+requires a superannuation trustee to quantify or disclose the
+retirement benefits.33
+6.39 Of course, in relation to accumulation funds, certain assumptions need to
+be made to indicate what retirement benefit a member could expect to receive.
+The IAA suggested that whenever a superannuation plan prepares an estimate
+of retirement benefits the standard basis could be used, at least as one
+30 Section 52(2)(f).
+31 See, for example, LISA's Get Rich Slow campaign.
+32 Submission SI-13, p8 and see SIS regulations 9.37 to 9.39.
+33 Evidence (Mr Grenfell), pS71.
+
+
+illustration.34 The 'standard' referred to here is that standard set of investment
+earning assumptions used in disclosures in the life office area and set by the
+ISC.
+6.40 The IAA considers that, in the first place, funds should be encouraged
+rather than required to produce such an illustration of retirement benefits, and
+have put this as a recommendation to the ISC.35 The Committee supports this
+view.
+Conclusion
+6.41 Recognising that a certain degree of short termism is a desirable and
+necessary part of a fund's investment strategy, the Committee believes the issue
+of short termism is of concern but that it is being appropriately addressed by the
+relevant industry players. Provided awareness of the potential for problems is
+raised, no special response by the government is required.
+6.42 The Committee believes that its conclusions and recommendations
+throughout this report will have the positive effect of moving superannuation
+fund investment toward a stronger and longer term perspective. This will assist
+the slow but steady progression to greater levels of annuities forms of
+retirement income rather than lump sums. In turn this will benefit the members
+by enhancing the prospects of satisfactory retirement incomes, and benefit the
+nation by lessening the burden on the taxpayer and by encouraging healthy
+domestic investment.
+34 Evidence (Mr Grenfell), pS75.
+35 Evidence (Mr Grenfell), pS75.
+
+
+
+
+CHAPTER 7
+SUPER FUNDS AND SOCIAL OBJECTIVES
+Super Funds and Social Objectives
+7.1 The essential question raised by the Committee's terms of reference is the
+compatibility of the furtherance of broader objectives, whether they be
+economic, social, industry or indeed other policy objectives, with the
+fundamental obligations flowing from the trust relationship, supplemented by
+legislative requirements. The trust relationship is pivotal to our superannuation
+system, has shaped its development to date, and has been its fundamental and
+defining characteristic. The Committee notes, however, the Budget 1996
+announcement that retirement savings accounts are to be set up outside the
+requirements of trust law.
+Broader objectives
+7.2 Social investment has been described elsewhere in this report as
+investment which may involve accepting a higher risk or lower return to
+achieve a socially desirable goal. This is in contrast to economically targeted
+investment (ETI) where investment at a competitive rate of return will also
+provide desirable identified economic benefits. It is also being used in contrast
+to socially responsible investment, which is investment within the present
+regulatory environment which might also meet socially desirable goals.
+7.3 The furtherance of broader objectives, or socially responsible investment
+as it has been referred to elsewhere in this report, is not necessarily
+incompatible with trustees' legal and fiduciary obligations. In a discussion of
+the breadth of trustees' duties, Mr Ian Court, President of the Australian
+Institute of Superannuation Trustees (AIST), told the Committee:
+There is never a simple answer ... it is a question of balance. The
+key thing that was picked up in the SIS legislation ... was adopting
+the modem portfolio approach. Under the old trust legislation, each
+investment had to be looked at on its own merits. Under the SIS
+approach, diversification is the key. In other words, if you have got
+a spread of investment - short-term investments, long-term
+investments, growth investments, defensive low-risk investments -
+which produces an overall risk in return profile which meets your
+trustee responsibilities, that is the key to it. Within that, those
+trustees that are a bit more energetic - and I use that word because I
+think this comes down to it and some managers can be quite lazy -
+if they are prepared to spend the time and put the work into it, they
+can construct their portfolio to produce some other benefits as well
+
+
+without compromising that first benefit [ie maximising returns for
+the members] and that is very important.1
+7.4 The furtherance of broader objectives happens in practice. Mr Court also
+told that Committee of a large industry fund which has a provision in its
+investment policy statement that, all things being equal in terms of returns and
+risks, trustees will prefer a project or investment 'which has job creation
+benefits or maximises job creation'.2 The fund was a significant investor in the
+building industry in accordance with that policy. Mr Court said:
+[W]e have to be careful that by doing that we are not asking our
+members to sacrifice returns because our primary responsibility or
+only responsibility is to those returns. But within that there are
+ways in which you can achieve both - good returns and maximise
+jobs.3
+7.5 ASFA described what it believes has been an 'overly cautious' approach
+to investment by some trustees and their investment managers, stemming at
+least in part from a false perception of 'prudence'. ASFA referred to this as
+'reckless conservatism'.4
+7.6 ASFA pointed out that there are strong technical reasons which should
+prompt superannuation trustees to consider investing in development capital,
+infrastructure and other types of non-traded asset classes. It will become harder
+over the next decade for super funds to make significant gains in the highly
+efficient markets in which they operate. Thus alternative asset classes that are
+suitable for super funds in a risk-return trade-off need to be identified.5 Others
+also noted that the increasing efficiency of the market would force trustees and
+their investment managers to range more broadly in developing appropriate
+investment strategies.6
+Economically targeted investment (ETI)
+7.7 The Committee was told that some industry funds have shown an interest
+in ETIs, and have reported positive feedback from members who are keen that
+their investment have a positive social side as well as being a good investment.
+1 Evidence, pSl 15.
+2 Evidence, pS 114.
+3 Evidence, pSl 14.
+4 Submission SI-11, pi.
+5 Submission SI-11, p 1.
+6 See, for example, Evidence (Mr Costello), pS35; (Mr Campbell), pS57.
+
+
+Within a diversified portfolio, a small percentage of it may be invested in this
+way in ETIs.7
+7.8 The Committee was told that relatively little of this type of investment
+has occurred, however, even in the United States, in part because it has been
+thought that ETIs are incompatible with the fiduciary obligations that apply
+under ERISA, in addition to the complexity that is usually associated with
+evaluation of ETI options. An ETI clearing house arrangement was proposed to
+overcome these difficulties by providing the information necessary for the
+evaluation of an investment, although it was not proposed that it would obviate
+the need for trustees to make their own inquiries and judgements.8
+Socially responsible investment
+7.9 It was suggested to the Committee that fund members could make their
+views on desirable kinds of investment known to their trustee representatives. It
+was recognised, however, that trustees were primarily bound to act according to
+their legal and fiduciary duties, and seeking the best return for the members
+would not necessarily result in the kind of investment otherwise sought by the
+members.9
+7.10 Trustees are required to make decisions in which the strict risk/retum
+analysis and their duties under the law leave little room for the consideration of
+objectives other than enhancing their members' financial interests. Funds may
+demonstrate preferences in their investing, to the extent that returns are not
+compromised.10 In the Australian context, there is little in the way of social
+investment beyond this, because of the conflict with trustees' legal and
+fiduciary obligations. The Committee was told that at least one fund had
+considered the issues of ethical and environmental investment, but had 'been
+unable to come up with a screen on our investment managers which could be
+applied effectively and which would not compromise returns'.11
+7.11 This kind of social investment is more common in the United States,
+although no concrete and detailed examples were given. A structure was
+described where 'traditional financial equity analysts' carry out a traditional
+financial analysis, identifying a list of equities for purchase. A second team
+7 Evidence (Dr Anderson), pS28.
+8 'Yours, Mine or Ours?' Is There a Case for Directed Superannuation Investment? Parliamentary
+Research Service Research Paper No 32 1994/1995, paras 13.1.2-3.
+9 Evidence (Committee members, AIST representatives), ppS 115-16.
+10 Evidence (Mr Court), pS 114.
+11 Evidence (Mr Court), pS 114.
+
+
+which has expertise in various social issues, perhaps involving churches,
+environmental groups and others, 'put[s] a screen over that and sift[s] out the
+ones that perform best by criteria which have been given to them by their
+investors'.12
+7.12 The Committee was warned that such an approach alone might not have
+much impact on corporate behaviour despite its potential to make a fund
+member 'feel good':
+You can feel good by not investing in tobacco but, if you wanted to
+effect some outcome because you had a view about tobacco, you
+would probably need to look at corporate governance as well. It
+was pointed out to me that in the US the twin approach of having
+some say through voting shares as a shareholder and having your
+social objectives screened gives you the best chance of whatever
+outcome you are after.13
+7.13 Although Australian markets have not yet developed the maturity of
+American markets, an increasing breadth and depth will evolve as super funds
+and investment managers seek out new areas of activity. The introduction of
+increased investor choice will hasten this development.
+7.14 Once fund members are being encouraged to more actively consider the
+kinds of investments they want to be involved in, it is to be expected that funds
+will seek to differentiate their products. One way of doing this will be to focus
+on particular areas of investment. Provided other regulatory requirements are
+met, the Committee considers this an entirely feasible approach and would
+expect to see this kind of trend emerging in the near future. This is what it
+would describe as socially responsible investment. In these circumstances, the
+Committee sees little need for government intervention at this point.
+Informed choices
+7.15 Fund members will need information to assist in making their long term
+investment decisions. They will need to be educated generally, so that they are
+aware of the primary purpose of superannuation saving, and they will need to
+be educated about the kinds of investment that are possible within the
+regulatory framework. In particular, they will need to understand the necessary
+long term perspective.
+12 Evidence (Mr Court), pS 116.
+13 Evidence (Mr Court), pSl 16.
+
+
+7.16 To the lay person, superannuation is already a difficult issue to
+understand. This needs to be kept in mind in future education and information
+campaigns. If people feel hopelessly overwhelmed by the information and
+choices available to them, a level of mistrust about the system generally may
+develop, and this would not be helpful.
+7.17 Already funds are required to provide certain information to their
+members. To require them to provide more detailed information has cost
+implications, although members faced with choices about investments will need
+to be in a position to make informed decisions. The Committee views the
+publication of an investment strategy to be a useful step in promoting informed
+investing. Fund members should also be encouraged to engage in dialogue with
+trustees as a means of enhancing the representative nature of trusteeship.
+A national strategy to harness super savings
+7.18 A view was put to the Committee that there was a need to develop a
+'conscious national strategy' to take advantage of the asset of super funds to
+determine our social and economic future. The recent pattern of decline in
+Australian public investment, resulting from both reduced public investment
+and a trend towards privatisation, formed the backdrop against which it was
+said that there was a need to harness for social and economic purposes the
+potential of savings in the form of superannuation.14
+7.19 To maximise the use of super funds in this way, it was said there would
+need to be a representative community input to decisions regarding the use of
+the funds. Government, industry and unions should also be represented at the
+decision-making level, it was argued. What was also required to make such a
+scheme operate satisfactorily, even if its application were limited to only a
+small portion of the aggregate of super savings, was 'a strong level of
+government guarantee and government protection':
+If the government not only underwrites or guarantees the outcomes
+and the safety of such investments but also considers the
+possibility of a top-up rate to ensure the attractiveness of the
+return, then that would add to the saleability of the proposition ...
+Alternatively, it could be dealt with by preferred tax treatment...15
+7.20 Two methods of reconciling this approach with trustees' current
+obligation to maximise returns for the beneficiaries were proposed: one was to
+14 Evidence (Mr Michael Salvaris), ppS97-8.
+15 Evidence (Mr Salvaris), pS99.
+
+
+change the law and the other was to change the perception of the beneficiaries
+so that this kind of investment was something that they would want.16
+7.21 Notwithstanding a certain allure in this proposal, the Committee is
+unable to foresee sufficient parliamentary will to revise our super system in this
+way. This is particularly so given the developments in investment patterns and
+in financial markets that the Committee has identified and described throughout
+this report. It also reflects a firm view that the key purpose of superannuation
+savings is to provide retirement income: the assets of super funds should not be
+regarded as a public asset. To the extent that retirement incomes can be self-
+funded, thereby reducing the pension burden for future taxpayers, and to the
+extent that increased domestic saving leads to higher levels of domestic
+investment, all Australians will benefit from the system presently in place.
+7.22 In the Committee's view, it is also highly unlikely that future
+governments would be inclined to underwrite such a scheme. With the growth
+in super savings that has been witnessed over recent years and that is forecast to
+continue, this would amount to a very significant financial commitment indeed.
+Government involvement in such a way would be at odds with the general
+nature of the Australian super scheme, in so far as it has been left to the private
+sector to invest and manage super monies.
+7.23 If a government in the future wished superannuation investment to
+promote some objective beyond the benefit of its members, then it would need
+to give consideration to how it might do this - whether by regulation or
+incentive, for example. It would also need to give consideration to how the
+appropriate standards of behaviour on the part of trustees might be judged, and
+to the effect of consequent leakage from the superannuation system.
+Conclusion
+7.24 Australia's superannuation system is rapidly growing, dynamic and
+complex. The Committee has found that the investment sector reflects these
+characteristics, and is generally developing a maturity and sophistication in
+accordance with its proper responsibilities. One measure of the significance of
+superannuation investment is the holding in equities of some 25 per cent of the
+total market capitalisation of the Australian Stock Exchange.
+7.25 There are signs that the existing structures of the superannuation system
+may be changed so as to have an impact on the investment sector, notably with
+16 Evidence (Mr Salvaris), pS99.
+
+
+the introduction of Retirement Savings Accounts without trust structures. The
+Committee considers there is a need for Parliamentary oversight of such
+changes.
+The Committee recommends that a review
+policies and practices be undertaken by this Commi
+vestment
+tree years time.
+44
+Senator John Watson
+Chair
+
+
+
+
+APPENDIX A
+CONDUCT OF THE INQUIRY
+CONDUCT OF THE INQUIRY
+1 The terms of reference for this inquiry were first referred to the Committee in
+November 1995.1 Following the federal election in March 1996, and the re-
+establishment of the Committee, the terms of reference were re-adopted.2
+2 The Committee advertised nationally for submissions and received 25
+written submissions. A list of written submission received by the Committee
+appears at Appendix B.
+3 Two public hearings were held; in Sydney on 28 August 1996 and in
+Melbourne on 5 September 1996. A list of witnesses who appeared before
+the Committee appears at Appendix C.
+4 The federal election and the commencement of the 38th Parliament occurred
+during the course of the Committee's inquiry into this matter, although the
+consideration of written and oral submissions, and the preparation of this
+report, has taken place entirely during the 38th Parliament.
+1 Journals of the Senate, No 208, 29 November 1995, p 4236.
+Journals of the Senate, No 14, 29 May 1996, p 255, and see also Journals of the Senate, No 20, 20 June
+1996, p352.
+
+
+
+
+APPENDIX B
+LIST OF WRITTEN SUBMISSIONS
+LIST OF WRITTEN SUBMISSIONS
+
+
+
+
+APPENDIX C
+LIST OF WITNESSES AT PUBLIC HEARINGS
+LIST OF WITNESSES A T PUBLIC HEARINGS
+Sydney, 28 August 1996
+Dr Michaela Anderson, Director, Policy and Research, Association of Superannuation Funds
+of Australia Limited
+Mr Robert Bladier, Consultant Strategic Policy, Australian Stock Exchange
+Mr Michael Callaghan, First Assistant Secretary, Financial Institutions Division, Department
+of the Treasury
+Mr Michael Costello, Deputy Managing Director, Strategy, Australian Stock Exchange
+Dr Jack Gray, Member, Investment Committee, Association of Superannuation Funds of
+Australia
+Mr Geoffrey Miller, Executive Officer, Legislative Services, Australian Taxation Office
+Mr Darrel Nolan, Assistant Commissioner, Legislative Services, Australian Taxation Office
+Mr Ian Robinson, Assistant Secretary, Superannuation Policy Branch, Department of the
+Treasury
+Mr Michael Roche, Economic Policy Consultant, Australian Stock Exchange
+Mr Simon Shields, Honorary Chairman, Investment Committee, Association of
+Superannuation Funds of Australia
+Melbourne 5 September 1996
+Mr Robert Beaumont, Program Coordinator, Victorian Employers Chamber of Commerce
+and Industry
+Mr David Campbell, Director, Infrastructure Finance, Fay, Richwhite Australia Limited
+Mr Ian Court, President, Australian Institute of Superannuation Trustees
+Mr Christopher Durack, Research Officer, Life, Investment and Superannuation Association
+Mr Paul Francis, Member, Superannuation Practice Committee, Institute of Actuaries of
+Australia
+
+
+Mr Colin Grenfell, Member, Superannuation Practice Committee, and Member, Retirement
+Income Policy Committee, Institute of Actuaries
+Mr Con Hristodoulidis, Senior Economist, Victorian Employers Chamber of Commerce and
+Industry
+Mr John Maroney, Executive Director, Life Insurance and Superannuation Association
+Dr Diana Olsberg, Executive Director, Australian Institute of Superannuation Trustees
+Mr Michael Salvaris, Senior Research Fellow, Centre of Urban and Social Research,
+Swinburne University of Technology
+Mr Christopher Siddons, General Manager, Small Business Victoria
+Mr Raymond Stevens, Member, Retirement Incomes Policy Committee, Institute of Actuaries
+
+
+APPENDIX D
+LIST OF COMMITTEE REPORTS
+LIST OF COMMITTEE REPORTS
+Super System Survey - A Background Paper on Retirement Income Arrangements in Twenty-
+one Countries (December 1991)
+Papers relating to the Bymwood Ltd, WA Superannuation Scheme (March 1992) Interim
+Report on Fees, Charges and Commissions in the Life Insurance Industry (June 1992)
+First Report of the Senate Select Committee on Superannuation - Safeguarding Super - the
+Regulation of Superannuation (June 1992)
+Second Report of the Senate Select Committee on Superannuation - Super Guarantee Bills
+(June 1992)
+Super Charges - An Issues Paper on Fees, Commissions, Charges and Disclosure in the
+Superannuation Industry (August 1992)
+Third Report of the Senate Select Committee on Superannuation - Super and the Financial
+System (October 1992)
+Proceedings of the Super Consumer Seminar, 4 November 1992 (4 November 1992)
+Fourth Report of the Senate Select Committee on Superannuation - Super - Fiscal and Social
+Links (December 1992)
+Fifth Report of the Senate Select Committee on Superannuation - Super Supervisory Levy
+(May 1993)
+Sixth Report of the Senate Select Committee on Superannuation - Super - Fees, Charges and
+Commissions (June 1993)
+Seventh Report of the Senate Select Committee on Superannuation - Super Inquiry Overview
+(June 1993)
+
+
+Eight Report of the Senate Select Committee on Superannuation - Inquiry into the
+Queensland Professional Officers Association Superannuation Fund (August 1993)
+Ninth Report of the Senate Select Committee on Superannuation - Super Supervision Bills
+(October 1993)
+Tenth Report of the Senate Select Committee on Superannuation - Super Complaints
+Tribunal (December 1993)
+Eleventh Report of the Senate Select Committee on Superannuation - Privilege Matter
+Involving Mr Kevin Lindeberg and Mr Des O'Neill (December 1993)
+A Preliminary Paper Prepared by the Senate Select Committee on Superannuation for the
+Minister for Social Security, Options for Allocated Pensions Within the Retirement Incomes
+System (March 1994)
+Twelfth Report of the Senate Select Committee on Superannuation - Super for Housing (May
+1994)
+Thirteenth Report of the Senate Select Committee on Superannuation - Super Regs I (August
+1994)
+Fourteenth Report of the Senate Select Committee on Superannuation - Super Regs II
+(November 1994)
+Fifteenth Report of the Senate Select Committee on Superannuation - Super Guarantee - Its
+Track Record (February 1995)
+Sixteenth Report of the Senate Select Committee on Superannuation - Allocated Pensions
+(June 1995)
+Seventeenth Report of the Senate Select Committee on Superannuation - Super and Broken
+Work Patterns (November 1995)
+Eighteenth Report of the Senate Select Committee on Superannuation - Review of the
+Superannuation Complaints Tribunal (April 1996)
+
+
+Nineteenth Report of the Senate Select Committee on Superannuation - Reserve Bank
+Officers ’ Super Fund (June 1996)
+Twentieth Report of the Senate Select Committee on Superannuation - Provisions of the
+Social Security Legislation Amendment (Further Budget and Other Measures) Bill 1996 -
+Schedule 1
+
+
+
+
+APPENDIX E
+LIST OF ABBREVIATIONS
+LIST OF ABBREVIA TIONS
+ACTU
+AIST
+ASFA
+ASX
+ATO
+DIST
+DSS
+LISA
+MPT
+SI
+SIS
+SME
+SMHL
+sub
+The Committee
+UCCC
+Australian Council of Trade Unions
+Australian Institute of Superannuation Trustees
+The Association of Superannuation Funds in
+Australia Ltd
+The Australian Stock Exchange Limited
+Australian Taxation Office
+Department of Industry, Science and Tourism
+Department of Social Security
+The Life Investment and Superannuation Association
+of Australia Inc
+modem portfolio theory
+Super investment (the shorthand title of this inquiry)
+Superannuation Industry (Supervision) Act 1993
+Small and medium size enterprise
+Super Members' Home Loans scheme
+submission
+The Senate Select Committee on Superannuation
+Uniform Consumer Credit Code
+
+
+
+
+APPENDIX F
+GRAPHS
+GRAPHS
+
+
+'fflLC'*/
+
+
+
+
+
+
+
+
+THE PARLIAMENT OF THE
+COMMONWEALTH OF AUSTRALIA
+PARLIAMENTARY
+PAPER
+No 390 of 1996
+ORDERED TO BE PRINTED
+ISSN 0727-4181

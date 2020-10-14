@@ -1,0 +1,1074 @@
+
+
+Thirteenth Report of the
+Senate Select Committee on Superannuation
+Super Regs I
+Superannuation
+(Resolution of Complaints) Regulations
+Statutory Rules 1994 No. 56
+Parliament of the Commonwealth of Australia
+□
+August 1994
+
+
+
+
+Thirteenth Report of the
+Senate Select Committee on Superannuation
+Super Regs I
+Parliament of the Commonwealth of Australia
+Canberra
+August 1994
+
+
+© Commonwealth of Australia 1994
+ISBN 0 642 21310 0
+This document was produced from camera-ready copy and prepared
+by the Senate Select Committee on Superannuation Secretariat, and
+printed by the Senate Printing Unit, Parliament House, Canberra.
+
+
+Members
+MEMBERS OF THE COMMITTEE:
+Senator John Watson Chair
+Senator Sue West Deputy Chair
+Senator Bruce Childs
+Senator Chris Evans
+Senator Alan Ferguson
+Senator John Woodley
+Tasmania
+New South Wales
+New South Wales
+Western Australia
+South Australia
+Queensland
+Secretariat Staff:
+Secretary:
+Principal Research Officer:
+Executive Assistant:
+Mr Richard Gilbert
+Ms Krista Gerrard
+Ms Janice Scarabottolo
+Address: The Senate
+Parliament House
+CANBERRA ACT 2600
+Telephone: (06) 277 3439
+(06) 277 5719
+Facsimile:
+
+
+
+
+Preface
+PREFACE
+The Senate Select Committee on Superannuation received a
+reference to examine the Superannuation Industry (Supervision)
+Regulations and the Superannuation (Resolution of Complaints)
+Regulations.
+This is the first of two reports on these Regulations.
+
+
+
+
+CONTENTS
+Contents
+Page
+Members of the Committee. i
+Preface. iii
+Contents.v
+Chapters:
+1. Introduction . 1
+2. Medical Complaints: Not Yet?. 7
+3. Medical Complaints: Now? . 17
+4. Compromise Positions. 25
+5. Regulating for Jurisdiction:
+An Inappropriate Delegation?. 27
+6. Conclusions and Recommendations. 29
+Appendices:
+A. Terms of Reference . 31
+B. List of Committee Reports and Papers. 33
+C List of Written Submissions. 35
+D. List of Witnesses at Public Hearings. 37
+
+
+
+
+CHAPTER 1:
+INTRODUCTION
+Introduction
+The object of this report is to examine the exclusion of
+medical complaints from the jurisdiction of. the
+Superannuation Complaints Tribunal.
+Background
+1.1 In its First Report, entitled Safeguarding Super; the Senate Select
+Committee on Superannuation recommended ‘ the establishment by
+legislation of an external disputes resolution mechanism, at the earliest
+practicable date *}
+1.2 Included in the package of legislation, that has become known as the
+SIS package of legislation,2 is the Superannuation (Resolution of
+Complaints) Act 1993. This Act establishes the Superannuation Complaints
+Tribunal (the Tribunal). The Tribunal was established on 1 July 1994.
+1 Recommendation 11.4, Safeguarding Super, Senate Select Committee on
+Superannuation, June 1992
+2 Superannuation Industry (Supervision) legislation which comprises the following
+Acts:
+Occupational Superannuation Standards Amendments Act 1993
+Superannuation (Financial Assistance Funding) Levy Act 1993
+Superannuation Industry (Supervision) Act 1993
+Superannuation Industry (Supervision) Consequential Amendments Act 1993
+Superannuation (Resolution of Complaints) Act 1993
+Superannuation (Rolled-Over Benefits) Levy Act 1993
+Superannuation Supervisory Levy Amendment Act 1993
+
+
+Super Regs I
+1.3 The objective of the Tribunal is:
+to provide mechanisms for:
+(a) the conciliation of complaints; and
+(b) if complaints cannot be resolved by conciliation - the review of
+the decisions of the trustees to which the complaints relate;
+that are informal, economical and quick.3
+1.4 Pursuant to the Superannuation (Resolution of Complaints) Act 1993
+(the Act), are the Superannuation (Resolution of Complaints) Regulations,
+Statutory Rules No. 56 (the Regulations). These regulations were made on
+4 March 1994, gazetted 11 March 1994, and tabled in the Senate and House
+of Representatives on 17 and 22 March, respectively. The Regulations were
+referred to the Senate Select Committee on Superannuation on
+16 March 1994. The terms of reference for this inquiry appear at
+Appendix A
+1.5 Two substantive issues are dealt with by the Superannuation
+(Resolution of Complaints) Regulations. Regulation 4 defines ‘excluded
+subject matter ’ and is the subject of this report. Regulation 5 defines the
+prescribed period for the purposes of paragraph 14(3)(b) and sub-
+paragraph 15(2)(a)(ii) of the Act. The definition in regulation 5 of the
+abovementioned prescribed period is in accordance with Recommendation
+2.3 of the Tenth Report of the committee and requires no further
+examination by this committee.
+The issues
+1.6 The issues that have emerged from the examination of the regulations,
+and in particular regulation 4, are:
+(i) the appropriate jurisdiction of the Superannuation
+Complaints Tribunal; and
+3
+Section 11, Superannuation (Resolution of Complaints) Act 1993
+
+
+Introduction
+(ii) the appropriate legislative instrument in which to
+define the Tribunal's jurisdiction.
+The jurisdiction of the Superannuation Complaints Tribunal
+1.7 The jurisdiction of the Superannuation Complaints Tribunal is outlined
+in Part 4 of the Act The jurisdiction is legislated in terms of:
+(i) the complaints that may be brought;4
+(ii) the persons who may bring a complaint;5
+(iii) the processes that must be undertaken between an applicant
+and a trustee prior to the Tribunal hearing a complaint,
+(iv) the time frames within which a complaint must be made;7 and
+(v) the exclusions made by way of regulation.8
+1.8 The Tribunal's jurisdiction is also examined in the Ninth and Tenth
+Reports of the Senate Select Committee on Superannuation.
+The legislative structure of the exclusions
+1.9 Subsection 14(5) of the Act provides:
+The Tribunal cannot deal with a complaint to the extent that it relates to
+excluded subject matter.
+4 Section 14, Superannuation (Resolution of Complaints) Act 1993
+Regulation 4, Superannuation (Resolution of Complaints) Regulations
+5 Section 15, Superannuation (Resolution of Complaints) Act 1993
+6 Section 19, Superannuation (Resolution of Complaints) Act 1993
+Section 101, Superannuation Industry (Supervision) Act 1993
+7 Subsections 14(4), 15(2),22(3),Superannuation (Resolution ofComplaints)Act 1993
+8 Subsections 14(2) and 14(5), Superannuation
+(Resolution of Complaints) Act 1993
+
+
+Super Regs I
+1.10 Section 3 of the Act is an interpretation section that defines ‘ excluded
+subject matter’ as:
+subject matter that is declared by the regulations to be excluded subject
+matter for the purposes of this Act [emphasis added}.
+1.11 Regulation 4 provides:
+4. For the purposes of the definition of "excluded subject matter" in
+section 3 of the Act, excluded subject matter is matter in relation to which
+the Tribunal, in dealing with the matter:
+(a) would have to undertake the assessment or evaluation of medical evidence,
+opinion or reports; or
+(b) would have to consider, having regard to medical evidence, opinion or
+reports, the question of a person's incapacity; or
+(c) would be likely to have to perform a function mentioned in paragraph (a)
+or (b).
+Throughout this report, complaints involving this excluded subject matter are
+referred to as ‘ medical complaints ’.
+1.12 The jurisdiction of the Tribunal can also be limited under the
+‘excluded complaint’ provision. Section 14 provides:
+(2) ... a person may make a complaint (other than an excluded complaint) to
+the Tribunal, that the decision...[emphasis added]
+1.13 ‘ Excluded complaint ’ is defined in section 3 to be a complaint about
+a decision of a trustee of a fund or a matter declared by the regulations to
+be a fund or a matter about which complaints may not be made under the
+Act. There are currently no regulations declaring ‘ excluded complaints ’.
+Conduct of the inquiry
+1.14 On 24 March 1994, the committee wrote to approximately 400
+previous submitters, interest groups, state and federal politicians and others
+on its mailing list. Twenty four written submissions were received. The list
+of written submissions appears at Appendix C.
+
+
+Introduction
+1.15 The committee conducted public hearings on 20 and 23 June 1994 in
+Canberra. A list of witnesses who gave evidence at these hearings appears
+at Appendix D. In addition to the oral evidence taken on these dates, the
+Trades and Labour Council of Western Australia gave evidence in relation
+to this inquiry to the committee in Perth on 14 July 1994.
+Acknowledgments
+1.16 The committee records its appreciation of the written submissions and
+oral evidence to this inquiry.
+
+
+
+
+CHAPTER 2:
+MEDICAL COMPLAINTS: NOT YET?
+Medical Complaints: Not Yet?
+Introduction
+2.1 This chapter examines the arguments that were put to the committee
+in support of the contention that medical complaints should be excluded
+from the jurisdiction of the Tribunal. Chapter 3 examines the arguments for
+the inclusion of medical matters in the Tribunal's jurisdiction.
+2.2. The Insurance and Superannuation Commission (ISC) contended that:
+(i) the assessment of medical evidence is a highly complex
+function and does not rest easily with the tribunal process,
+which is informal, economical and quick. It rests better in
+a court process where dealing with that type of
+disagreement is well established;9
+(ii) the cost of disability benefits falls on other members of
+the fund. These high costs could make small or medium
+funds insolvent unless the fund was able to recover the
+provision through insurance;10 and
+(iii) if a disability benefit is an extra $100 000, a large number
+of disability claimants would choose to go to the
+Tribunal,11 a ‘floodgate’ could open.
+2.3 These contentions raise two general categories of argument against the
+inclusion of medical complaints in the Tribunal's jurisdiction:
+9
+Duval, Evidence, p 111
+10 Duval, Evidence, p 112
+Duval, Evidence, pp 113-114
+it
+
+
+Super Regs I
+(i) that a floodgate of complaints could open; and
+(ii) that the Tribunal does not have the relevant expertise to hear
+matters involving medical evidence.
+Opening a ‘ floodgate ’ ?
+2.4 The ISC posed the rhetorical question: ‘What is the point of
+accepting an adverse decision of the trustee? ’ ,12 The Commission went on
+to postulate that disability claimants, the majority of whom the Commission
+has ‘no doubt’ are sick, would go to the Tribunal in large numbers ‘given
+the amount of money they might get if they did get a claim up’.13 These
+contentions were made by way of speculation, although the committee did
+seek to elicit more substantial material on the issue, but with little or no
+success.
+2.5 The evidence of Association of Superannuation Funds of Australia in
+the ninth inquiry of the committee was that disability claims would
+potentially overwhelm the Tribunal so that the Tribunal's time would be
+taken up in dealing with those matters rather than the other sorts of matters
+which would come before the Tribunal.14 The committee has received no
+evidence in support of this contention in the course of this inquiry. The
+committee has been provided with evidence that refutes the floodgate
+argument. After examining all of the evidence, the committee does not
+accept that a caseload of unmanageable proportions will be created as a
+result of the inclusion of medical complaints in the Tribunal's jurisdiction.
+Or a pinhole?
+2.6 In response to the floodgate argument put to the committee, a number
+of witnesses raised compelling counter-arguments.
+12 Duval, Evidence, p 113
+13 Duval, Evidence, p 114
+14 Senate Select Committee on Superannuation,
+Super Supervision Bills, October 1993, p 82
+
+
+Medical Complaints: Not Yet?
+2.7 In the committee's Ninth Report, evidence that disputes over medical
+evidence comprise a minority of disputes was provided. 5 This contention
+has been supported by the evidence received in this inquiry. The committee
+has received evidence on the types of disputes that arise with disability
+claims. Generally, they do not involve the assessment, evaluation or
+consideration of medical evidence, opinion or reports, but are disputes
+involving procedural fairness. These are discussed further at paragraph 3.9
+below.
+2.8 In the course of this inquiry, the committee has received substantial
+evidence on the pressure that matters involving medical evidence place on
+the workloads of other tribunals that deal with these sorts of matters. In
+particular, the committee received evidence on the Life Insurance
+Complaints Board (LICB), the Social Security Appeals Tribunal (SSAT), the
+Administrative Appeals Tribunal (AAT), the Defence Force Retirement and
+Death Benefits Authority (DFRDBA) and the Veterans' Review Board
+(VRB).
+2.9 In the period 1 July 1992 to 31 December 1993, the proportion of
+disability complaints made to the LICB represented 11 per cent of total
+complaints in that period. The most recent LICB data indicates a slight
+reduction in complaints re disability policies. 16 Although some predict that
+the number of complaints will increase, there has not been any evidence
+submitted that the proportion of medical complaints will increase.
+2.10 SSAT data demonstrates a similar trend, showing 9.5 per cent of
+persons denied the disability pension have appealed to the SSAT.17
+15 Senate Select Committee on Superannuation,
+Super Supervision Bills, October 1993, p 84
+16 Attorney General's Department, SISREG Sub No 14
+17 ACA, SISREG, Sub No 1 (Supplementary)
+AFCO, SISREG Sub No 18
+Drake, Evidence, p 24
+
+
+Super Regs I
+Half of these appeals
+Figure 1 below. 8
+have been successful. The statistics are set out at
+Figure 1:
+Statistics on the Social Security Appeals Tribunal
+Statistics for 1992/93 (rounded)
+Source: DSS Statistics office; Geoff Hall, Operations Manager of the
+SSAT and former SSATmember
+2.11 Ms Prudence Ford of the Attorney-General's Department submitted
+that at the time of the establishment of the SSAT, there had been a great
+deal of concern about vexatious complaints and difficult medical cases. In
+relation to the problems of backlogs, the SSAT has managed by changing
+procedures and appointments.19
+2.12 The potential for a relatively large number of persons to seek a merits
+review of decisions under a specific decision-making power does not justify
+18 SISREG Sub No 1 (Supplementary)
+Evidence, p 79
+19
+
+
+Medical Complaints: Not Yet?
+excluding those decisions from merits review.20 This has been the
+consistent argument of the Administrative Review Council (ARC),
+established under the Administrative Appeals Tribunal Act 1975 to advise
+the government as to the classes of administrative decisions that should be
+the subject of review by a court, tribunal or other body and the appropriate
+court, tribunal or other body to make that review. The ARC'S view on
+the relevance of potential numbers using a jurisdiction was endorsed by the
+Australian Consumers Association (ACA) which submitted that options for
+review of medical complaints are needed regardless of the number of cases
+involved.22
+2.13 As a precaution against any opening of a floodgate, it was put to the
+committee that the position of the Tribunal could be reviewed in 12 months
+so as to assess the impact of medical complaints. This would allow hard
+evidence to be available in relation to the volume and complexity of medical
+complaints.23
+Tribunal expertise and resources
+2.14 The submission that the assessment, evaluation or consideration of
+medical evidence would be too difficult for the Tribunal, was made by the
+ISC as set out at paragraph 2.2 above.
+Response to the ‘ too hard ’ argument
+2.15 The committee questioned the argument that trustees are better
+qualified than the Tribunal to make the decision on disability,24 as did
+other witnesses before the committee.
+20
+ARC, SISREG Sub No 22
+21 Section 51, Adminstrative Appeals Tribunal Act 1975
+22 Drake, Evidence, p 30, p 34
+23 Drake, Evidence, p 33
+24 Evidence, p 117 •
+
+
+Super Regs I
+2.16 ACA submitted that trustees are unlikely to have expertise in medical
+matters. Similarly, courts that rely on medical evidence to make
+determinations do not have medical expertise. Furthermore, primary
+decision-makers, such as the Commonwealth Superannuation Board of
+Trustees and the trustees of private superannuation funds are often involved
+in the assessment of medical evidence.25
+2.17 The ARC also expressed concern that the basis for the exclusion of
+medical complaints, as identified in the committee's Ninth Report, is that
+conflicts in medical opinion could only be adequately determined by a court
+and that there could be a flood of work in the area of medical complaints.
+The ARC has argued that the Tribunal would be as well placed as a court
+to determine complaints involving medical evidence.
+2.18 There is strong evidence that other tribunals handle cases involving
+medical evidence in a ‘ reasonably efficient way ’ P6 The AAT, the SSAT
+and the VRB are examples of alternative dispute resolution mechanisms that
+resolve disability cases involving medical evidence.27
+2.19 In response to ‘the inference that tribunals really do not have the
+competence to deal with the assessment of medical evidence ’, committee
+member, Senator Woodley, informed other members of the committee, and
+put on public record, that he had been a member of the SSAT in Brisbane.
+Senator Woodley stated that it was not his experience that tribunals were
+incompetent in making a judgement in disputes involving medical
+evidence.28 Mr White, of Disabled Peoples International, gave evidence
+that he had been a member of the Defence Force Retirement and Death
+Benefits Authority and that all the matters before that body involved the
+25
+ACA, SISREG Sub No 1 (Supplementary)
+26 Evidence, p 78
+27 ACA, SISREG Sub No 1 (Supplementary)
+AFCO, SISREG Sub No 8
+ARC, SISREG Sub No 22
+28
+Evidence, p 31
+
+
+Medical Complaints: Not Yet?
+assessment of medical evidence. Mr White agreed with Senator Woodley
+that, in his experience, tribunals are competent to deal with medical
+evidence.29
+The role of the insurance company in the payment of death and disability
+benefit
+2.20 It was put to the committee that the ability of a fund to recover a
+disability payment from its insurer is a paramount factor in the
+determination of disability claims. Maurice Blackburn & Co., a law firm with
+a superannuation disability claim practice of approximately 500 active cases,
+submitted that in its experience 80-90 per cent of claims are initially
+rejected, particularly in non-government superannuation funds. It stated that
+‘the claims process is substantially influenced by the role played by
+underwriting insurers’, some of whom adopt an adversarial attitude to
+claims.
+2.21 LIFA outlined to the committee the role of insurance in the
+superannuation industry. LIFA stated that there are two players: the trustee,
+that determines the benefits payable to an individual; and the insurance
+company, that provides cover on the policy.31 However, the committee also
+received evidence that, in a number of cases, trustees use the same assessors
+as the insurance companies, to the extent that trustees have in the past
+undertaken no assessment at all other than consulting the insurance
+company's assessors.32 Funds take out insurance with a life insurance
+company that covers both the eventuality of death and total and permanent
+disability.33 Throughout the inquiry the committee was told that there is
+a significant problem with inconsistencies between the definitions of
+disability in the insurance policy and the trust deed. This evidence is
+canvassed at paragraph 3.9.
+29 Evidence, p 31
+30 SISREG Sub No 24
+31 Robinson, Evidence, p 101
+32 Duval, Evidence, p 121
+33 Drake, Evidence, p 35
+
+
+Super Regs I
+2.22 The committee acknowledges that these discrepancies create
+difficulties for superannuation funds where an underwriting insurer refuses
+to accept a claim. However, it has been submitted that such problems can
+be overcome by superannuation funds renegotiating the decision-making
+process in group insurance policies and, in particular, binding the insurers
+to determinations made by the Tribunal. The argument is that, given the
+competitive insurance market, such modifications could be negotiated.34
+2.23 The ISC submitted that the inclusion of medical complaints in the
+jurisdiction of the Tribunal is likely to cause funds ‘ to tighten the definition
+so that it is abundantly clear what is covered and what is not ’ .35 In view
+of the plethora of evidence that the committee received on the discrepancies
+and uncertainties surrounding these definitions, the committee agrees with
+the ISC that such a move ‘ is quite significant ’
+2.24 A number of funds have now given members the right to choose
+whether they want this sort of cover and if so, at what level. It was put to
+the committee that it is very important that this choice be mandatory as
+there are people who have this type of cover elsewhere or for whom such
+cover is a waste of money.37
+Prudential impact
+2.25 The Attorney-General's Department has noted that the review of
+decisions involving medical evidence could possibly have a prudential impact
+on funds, that is, funds that have to make payments outside their insured
+cover will be at risk. The Department further noted that there appears to
+be no information available to gauge the possible prudential impact.38
+34
+Maurice Blackburn & Co., SISREG Sub No. 26, see also Duval, Evidence, p 123
+35 Duval, Evidence, pp 115-116
+36 Duval, Evidence, p 115
+37 Drake, Evidence, p 35
+SISREG Sub No 14
+38
+
+
+Medical Complaints: Not Yet?
+2.26 The distinction between the prudential impact of a court's judgement
+and a tribunal's decision has not been demonstrated to the committee.
+Medical cases decided by a court also have a prudential impact.39 If
+‘ prudential impact ’ is the reason for limiting the Tribunal's jurisdiction,
+there needs to be some very significant data collection, research and
+actuarial analysis to demonstrate and assess those impacts. Prudential
+reasons should be tested very rigorously so it can be determined whether
+they are an overriding consideration.40
+2.27 In commenting upon the LICB's decision to allow the panel to deal
+with medical complaints up to the investigation and conciliation phases,
+Ms Ford stated that the Board, in coming to this decision, took account of
+some of the prudential implications. The committee understands that the
+Board will review this position in two years. In view of the life industry's
+initiative in this regard, the committee is very concerned that a federal
+tribunal is lagging behind industry-based justice initiatives. It is particularly
+concerned that the needs of consumers, as identified by industry, for an
+alternative disputes resolution system in the area of medical complaints has
+not been addressed in the current environment of improving access to
+justice.
+2.28 The committee received a further submission from LIFA dated
+24 August 1994 expressing a concern that ‘ if the assumptions underlying
+premiums rates can be over-ridden by other non-judicial decisions, then the
+integrity of insurance products will be in jeopardy. In this situation, the
+solvency of some life companies could, ultimately, be at risk.’ The
+committee did not receive any supporting data and did not have the
+opportunity to test such statements with other witnesses.
+Government employees
+2.29 It was argued that, as the right to merits review at the AAT was
+withdrawn from public servants in the transition from the Commonwealth
+Superannuation Scheme to the Public Sector Superannuation Scheme, it
+would be inequitable to provide for merits review of disability decisions for
+members of non-public sector schemes. The committee understands that
+39
+Ford, Evidence, p 85
+Ford, Evidence, pp 84-85
+40
+
+
+Super Regs I
+both public sector scheme members and non public sector scheme members
+will have the same rights of review under SIS if they are members of a
+regulated fund. Both groups will have access to the Superannuation
+Complaints Tribunal. Indeed, following amendments debated in the Senate
+on 25 August 1994, it is likely that some state public sector superannuation
+funds, who have not elected to come under the SIS legislation, will be able
+to use the services of the Tribunal.
+2.30 This argument is no longer relevant to the debate.
+
+
+CHAPTER 3:
+MEDICAL COMPLAINTS: NOW?
+Medical Complaints: Now?
+Introduction
+3.1 In support of allowing the Tribunal to hear medical complaints, the
+committee received submissions on:
+• the effect that the exclusion could have on overall confidence in the
+superannuation system;
+• the drafting of regulation 4 and the width of the exclusion;
+• the accessibility of justice, in terms of the comparative costs to parties
+of conducting a matter in the courts, the cost to the community and
+the intimidation of procedural formalities;
+• the jurisdiction of other alternative dispute resolution fora and the
+mechanisms utilised by these bodies; and
+• the implications under disability discrimination legislation.
+3.2 A number of commentators in the area have also called on the
+government to review the situation and establish an all-encompassing body
+to deal with all manner of complaints and disputes if it is truly serious in the
+proper regulation of the burgeoning superannuation industry.41
+41 Abramovich M, The Superannuation Complaints Tribunal-a toothless tiger?,
+Superfunds, July 1994, p 9
+Wasiliev J, ‘ Tribunal to rule on fair treatment ’, Super Review, May 1994, p 47
+
+
+Super Regs I
+Confidence in the superannuation system
+3.3 A number of submissions addressed the broad and important issue of
+confidence in the superannuation system and the effect that the exclusion
+will have on this confidence. In a period when there is a decline in the
+number of people citing distrust of legislative changes, the committee
+believes that consumer confidence is a vital consideration.42
+3.4 ACA submitted that the consequences of excluding medical matters
+from, the Tribunal include damage to the public trust in the Tribunal. It
+asserts that ‘ the community's trust in superannuation will be maintained if
+disputes can be resolved in the Tribunal rather than being aired in a less
+balanced way in the press and on television’.43 AFCO also believes that
+the reputation of the Tribunal could be irreparably damaged if the
+government decides to exclude medical complaints.44
+Drafting of the regulation: how wide?
+3.5 In its Ninth Report, the committee recommended that the government
+not exclude from the Tribunal's jurisdiction the parts of a complaint
+involving issues of procedural fairness.45 The ISC advised the committee
+that the government had accepted that recommendation. The ISC submitted
+that the Regulations give effect to this acceptance.46 The Federal Bureau
+of Consumer Affairs also submitted that complaints involving procedural
+fairness have not been excluded.47
+42 MLC Superannuation Index #8, published 4 August 1994
+43 SISREG Sub No. 1 (Supplementary)
+44 SISREG Sub No 8
+45 Senate Select Committee on Superannuation, Super Supervision Bills,
+October 1993, Recommendation 16.2, p 88
+46 Duval, Evidence, pill
+47 SISREG Sub No 14
+
+
+Medical Complaints: Now?
+3.6 Notwithstanding the government's assertion that the Regulations do
+not traverse procedural matters, ACA gave evidence that regulation 4
+provides a seemingly ‘very wide exclusion’ and suggested that if the
+Tribunal stepped into the area ‘ it would be in the Federal Court before it
+could blink ’.
+3.7 Although procedural matters in disability cases have not been
+expressly excluded, it may be that the drafting of regulation 4 is such that
+all cases that have medical evidence on file could be excluded by
+regulation 4. ACA have submitted that trustees could use the regulation as
+it is currently drafted to ensure that their decisions are not within the
+Tribunal's jurisdiction. ACA suggested that by referring to medical evidence
+a trustee will be able to exclude any decision from review.49
+3.8 The committee has concluded that there is a lack of clarity in the
+drafting of regulation 4 as to the scope of the exclusion.
+3.9 It was noted in paragraph 2.7 above that the procedural aspects of
+disability claims form the basis of the vast majority of complaints about
+disability claims. The disputes do not involve medical evidence, opinion or
+reports. They involve the question of disability, which ‘is certainly not
+understood ’ .
+The criteria are certainly extremely strict and the notion of ability to work
+is misunderstood not only by the person who is insured, that is the member
+of the fund, but it is also very strictly applied in terms of the insurance
+company. My experience is that it is very difficult to get explanations out
+of the insurance company as to why it has made the decision it has. It
+involves three, four and five letters going back to the insurance company
+to provide an explanation regarding an individual.51
+48 Drake, Evidence, p 27
+49 SISREG Sub No 1 (Supplementary)
+50 Mayman, Evidence, 14 July 1994, p 285
+Mayman, Evidence, 14 July 1994, p 285
+51
+
+
+Super Regs I
+3.10 It is these types of complaints, that involve the procedural aspects of
+disability disputes, that the government has stated ‘should be within the
+Tribunal's jurisdiction ’ ,52
+Access to justice
+3.11 The Attorney-General's Department has submitted that ‘convincing
+reasons need to be provided either way, in light of the high cost of access
+to justice for the majority of Australians ’ .53
+Position of disability claimants
+3.12 The committee received evidence from the Attorney-General's
+Department that ‘ for the majority of Australians, that is neither the very
+rich nor the very poor, the Australian legal system is not within their reach ’
+and that ‘ Australians are effectively being denied access to justice ’. The
+Department contended that the availability of independent, low cost
+alternative dispute resolution mechanisms is an important step in the
+provision of justice.54
+3.13 The effect of the exclusion in regulation 4 falls entirely on people with
+some degree of disability.55 ACA stated that the regulation excludes a
+group whose need for access to such a tribunal would seem to be the
+highest - the people most in need.56 Those who are likely to bring
+complaints involving medical evidence are:
+normally unemployed, in a weak financial position and therefore ordinarily
+unable to take issue with an adverse decision that in the end result has a
+dramatic effect on the lives of those involved.57
+52 Duval, Evidence, p 111
+53 SISREG Sub No 14
+54 SISREG Sub No 14
+55 Drake, Evidence, p 25
+56 Drake, Evidence, p 26
+57 Senate Select Committee on Superannuation, Super Supervision Bills,
+October 1993, p 86
+
+
+Medical Complaints: Now?
+3.14 In the SIS inquiry, the ISC acknowledged that ‘ there are problems at
+the moment with the resolution of medical disputes ’ .58
+Costs
+3.15 On 22 August 1994, the Prime Minister, the Hon P.J. Keating, MP,
+stated in the opening of the Justice Forum, that ‘ the Attorney-General and
+the Minister for Justice are identifying the barriers to accessible justice ’. He
+said, £A major barrier to justice is cost’.59 A number of submissions
+identified the Tribunal as a forum where ‘complaints will be dealt with
+more quickly and cost-effectively than civil actions which can be both
+lengthy and involve substantial costs ’
+3.16 ACA submitted that regulation 4 effectively denies disabled persons
+any form of redress as ‘few disabled people could afford the money or
+stress or delay involved in litigation ’ 61 The ARC concurred with this view,
+noting that such complainants may be left without any accessible forum for
+the resolution of their complaint. To conduct a matter to judgment in the
+court system costs in the order of $10 000 per party, that is, a total of
+approximately $20 000 for a party against whom costs are ordered.63
+3.17 AFCO has submitted that the inclusion of medical complaints ‘ would
+result in considerable savings to the community .... by reducing long and
+costly legal battles in an already overloaded court system ’
+58 Senate Select Committee on Superannuation, Super Supervision Bills,
+October 1993, p 87
+59 Speech by the Prime Minister, the Hon. P.J. Keating, MP,
+opening the Justice Forum, Parliament House, Canberra, 22 August 1994
+60 Maurice Blackburn & Co., SISREG No. 26
+61 SISREG Sub No 1 (Supplementary)
+62 ARC, SISREG Sub No 22
+63 ACA, SISREG Sub No 1 (Supplementary) Burrill
+64 AFCO, SISREG Sub No 8
+
+
+Super Regs I
+Procedure
+3.18 The complexity of superannuation adds to the problems that
+consumers have in understanding their entitlements and rights. Additional
+complexities, by way of strict procedural and evidentiary requirements,
+alienate those attempting to ascertain and/or enforce their rights. Contrary
+to the view of the ISC that strict rules of evidence enhance the settlement
+of disputes,65 it is the committee's view that the resolution by informal
+means of complaints arising out of misunderstandings will be an important
+role of the Tribunal as it provides a grievance process with the emphasis on
+conciliation. Maurice Blackburn has submitted that the current emphasis on
+conciliation should be strengthened with the provision of formal conciliation
+conferences rather than conciliation by way of written correspondence. This
+law firm's experience is that face-to-face conferences with an independent
+conciliator have a high rate of settlement.66 It is for this reason that the
+committee considers that any limitation on the jurisdiction of the Tribunal
+needs to be thoroughly canvassed and evaluated. This can be done if
+exclusions can be made by way of regulations.
+3.19 Tribunals such as the Superannuation Complaints Tribunal work well
+and are of extreme benefit to consumers. It is much simpler and easier for
+consumers to have concerns addressed at a tribunal than it is for them to go
+to court.67
+Other tribunals and mechanisms available to resolve medical complaints
+3.20 Chapter 2 traverses the evidence received in relation to other tribunals
+that hear and determine medical cases.
+Mechanisms to deal with medical complaints
+3.21 A range of mechanisms by which the Tribunal could deal with medical
+complaints were mooted before the Tribunal:
+65 Duval, Evidence p 124
+66 Maurice Blackburn & Co., SISREG No 26
+Ford, Evidence, p 77
+67
+
+
+Medical Complaints: Now?
+(i) the appointment of a Tribunal member with medical
+expertise;
+(ii) the establishment by the Tribunal of a specialist panel;
+(iii) the discretion of the Tribunal not to hear medical
+complaints that it viewed as beyond its expertise;
+(iv) the provision of independent medical evidence from a
+doctor chosen by the Tribunal, and not by the
+complainant or the insurance company;
+(v) the use by the Tribunal of a list of specialists in the same
+manner as is proposed by the LICB, along with other
+appropriate guidelines such as the requirement that advice
+must be taken from two medical specialists in every case;
+and
+(vi) members of the Tribunal, whether medically qualified or
+not, to judge the evidence by an inquisitorial method. This
+mechanism could be implemented under the current
+Tribunal membership provisions in Part 2 of the Act.
+Disability discrimination legislation
+3.22 The Attorney-General's Department submitted that the exclusion of
+medical complaints is an act carried out in direct compliance with a law
+other than the Disability Discrimination Act 1992 (DDA), and that it is
+thereby exempt under the DDA for a period of three years. After the three
+year period that expires on 1 March 1996, the issue of inconsistency will be
+determined on the basis of existing evidence as to the reasons for the
+continued need for the medical exclusion.
+3.23 ACA has submitted that the exclusion of the disabled from the
+Tribunal is contrary to the spirit of the Act.68
+68
+Drake, Evidence, p 25
+
+
+Super Regs I
+Trustees could avoid scrutiny
+3.24 It has been submitted that the effect of the present exclusion would
+be that trustees could protect themselves from having any decision they
+made about disability from being reviewed by stating that in view of the
+medical evidence, the claim ought not be paid.69
+69
+ACA, Sub No 1 (Supplementary), Drake, Evidence, p 24
+
+
+CHAPTER 4:
+COMPROMISE POSITIONS
+Compromise Positions
+Introduction
+4.1 Two similar, middle ground positions were put to the committee. The
+implementation of any such solutions will be subsequent to the Senate's
+consideration of the disallowance motion.
+Discretion not to hear certain complaints
+4.2 ACA submitted that ‘the regulation could give the Tribunal a
+discretion to not hear a case involving medical evidence if the Tribunal
+believes the case could not be properly dealt with. This would allow the
+Tribunal to conciliate disability complaints and resolve the ones within its
+ability.’70
+Power to deal with complaints to the investigation and conciliation stage
+4.3 The other compromise position was put by the Attorney-General's
+Department. The mechanism of dispute resolution by the Tribunal involves
+three phases: investigation, conciliation and determination.71 The proposal
+is that the Tribunal have a role in the investigation and conciliation of
+matters involving medical evidence. However, it was also submitted by the
+Attorney General's Department that it is unclear as to whether regulation 4
+excludes the Tribunal from investigating and attempting to conciliate
+complaints involving medical evidence.72
+70
+SISREG Sub No 1 (Supplementary)
+71 Superannuation (Resolution of Complaints) Act 1993
+SISREG Sub No 14
+72
+
+
+Super Regs I
+4.4 Ms Ford submitted that experience with other dispute resolution
+mechanisms has demonstrated that quite a high proportion of complaints
+can be dealt with by way of conciliation which involves the disputing parties
+getting together to resolve a problem. She stated that the middle ground
+approach could allow for a significant number of medical complaints to be
+dealt with.73 This would be at least consistent with the LICB decision to
+extend the industry complaints mechanism to enable its panel to look at
+medical disputes up to the investigation and conciliation phase.74
+4.5 The response of ACA to this compromise proposal was that it would
+help in the resolution of some complaints, but that the Tribunal could do
+much better and should attempt to resolve all complaints that it decided it
+had the competence to deal with.75
+73
+SISREG Sub No 14, Ford, Evidence, pp 78-79
+74 Ford, Evidence, p 81
+75 Evidence, p 32
+
+
+CHAPTER 5:
+REGULATING FOR JURISDICTION:
+AN INAPPROPRIATE DELEGATION?
+Inappropriate Delegations of Power
+Introduction
+5.1 The Administrative Review Council (ARC) raised the issue of the
+appropriate legislative instrument in which the jurisdiction of a tribunal
+should be defined.
+5.2 As noted in Chapter 1, there are two provisions in the
+Superannuation (Resolution of Complaints) Act 1993 where, in order to
+ascertain the jurisdiction of the Tribunal, the regulations need to be
+consulted. These are subsections 14(2) and 14(5). The majority of this report
+deals with the regulations that prescribe ‘ excluded subject matter ’ referred
+to in subsection 14(5). The issue of the appropriate legislative instrument for
+the definition of jurisdiction is also relevant to regulations that may in the
+future prescribe an ‘ excluded complaint ’.
+5.3 The ARC has as part of its function, the mandate to inquire into the
+adequacy of the law and practice relating to the review by the courts of
+administrative decisions, and to make recommendations to the Minister as
+to any improvements that might be made in that law or practice.75
+5.4 The ARC has submitted to the committee that because the complete
+ambit of the Tribunal's jurisdiction is not complete on the face of the Act,
+it is necessary for users of the Tribunal to have access to delegated
+legislation. The ARC contends that this may cause unnecessary uncertainty
+for users of the Act.
+5.5 The ARC, therefore, has submitted that all exemptions from the
+jurisdiction of the Tribunal should be specified in the Act, possibly by way
+75
+Section 51, Administrative Appeals Tribunal Act, 1975
+
+
+Super Regs I
+of a schedule. If it is necessary to use regulations as a convenient short term
+mechanism, ‘ excluded subject matter ’ and ‘ excluded complaints ’ should
+be identified in the Act in due course.76
+5.6 In evaluating the evidence in relation to the appropriate legislative
+instrument for exclusions, the committee has examined the legislation that
+prescribes the jurisdiction of the Social Security Appeals Tribunal (SSAT).
+Section 1250 of the Social Security Act 1991 sets out the non-reviewable
+decisions. There is no delegation of authority to prescribe by regulation
+decisions that cannot be reviewed by the SSAT. Any decisions that are not
+to be reviewed by the SSAT must be set out in the primary legislation and
+pass through Parliament.
+76
+SISREG Sub No 22
+
+
+CHAPTER 6:
+CONCLUSIONS AND RECOMMENDATIONS
+Conclusions and Recommendations
+6.1 The committee is not convinced that there is not a role for the
+Tribunal to play in dealing with medical complaints.
+6.2 The committee recommends that, notwithstanding the outcome of the
+disallowance motion, the government re-examine the issue in the light of:
+(i) the evidence presented to the Senate Select Committee on
+Superannuation;
+(ii) the experience of the Tribunal over its first six months of
+operation; and
+(iii) a review of the range of mechanisms available to the Tribunal
+to deal with medical complaints.
+6.3 The committee further recommends that the Government:
+(iv) amend the legislation to remove any doubt that may exist in
+relation to the handling of procedural complaints by the
+Superannuation Complaints Tribunal; and
+(v) seek advice from the Regulations and Ordinances Committee on
+the appropriate legislative instrument for defining the
+jurisdiction of the Superannuation Complaints Tribunal.
+
+
+
+
+APPENDIX A
+TERMS OF REFERENCE
+19 May 1993
+Terms of Reference
+(1) That the following matters be referred to the Select Committee on
+Superannuation for inquiry and report:
+(a) increasing Superannuation Guarantee coverage from 9 to 12 per
+cent and the role of employee contributions in this process;
+(b) the use of superannuation funds to finance the purchase of
+housing by members;
+(c) legislation to implement the recommendations of the
+committee's first report, Safeguarding Super, and related
+matters; and
+(d) the likely effect of the changes in the treatment of allocated
+pensions and annuities for social security purposes contained in
+Division 19 of the Social Security Legislation Amendment Act
+(No. 3) 1992, with particular reference to:
+(i) the application of the proposed income test for allocated
+pensions,
+(ii) the likely impact of the changes on allocated pension
+holders,
+(iii) the implications of the changes for the integration of the
+taxation and social security systems,
+(iv) the implications of the changes for Australian retirement
+incomes policy,
+(v) the desirability, or otherwise, of equitable treatment
+between allocated pensions and annuities,
+
+
+Super Regs I
+(vi) the processes employed by the Department of Social
+Security and the Government in reviewing the treatment
+of allocated pensions for social security purposes, and
+(vii) any other matters related to the treatment of income
+stream retirement products for taxation and social security
+purposes.
+(2) That the committee report to the Senate not later than the last sitting
+day of each June and December until the end of Parliament or until
+the committee presents its final report, whichever first occurs.
+16 March 1994
+That, without prejudice to any inquiry or report that may be made by the
+Standing Committee on Regulations and Ordinances, the following
+regulations be referred to the Senate Select Committee on Superannuation
+for inquiry and report on or before the last sitting day in November 1994:
+(a) Superannuation Industry (Supervision) Regulations (Statutory
+Rules 1994 No. 57); and
+(b) Superannuation (Resolution of Complaints) Regulations
+(Statutory Rules 1994 No. 56).
+
+
+APPENDIX B:
+LIST OF COMMITTEE REPORTS AND PAPERS
+List of Committee Reports
+Super System Survey - A Background Paper on Retirement Income
+Arrangements in Twenty-one Countries (December 1991)
+Papers relating to the Byrnwood Ltd, WA Superannuation Scheme
+(March 1992)
+Interim Report on Fees, Charges and Commissions in the Life
+Insurance Industry (June 1992)
+First Report of the Senate Select Committee on Superannuation -
+Safeguarding Super - the Regulation of Superannuation (June 1992)
+Second Report of the Senate Select Committee on Superannuation -
+Super Guarantee Bills (June 1992)
+Super Charges - An Issues Paper on Fees, Commissions, Charges and
+Disclosure in the Superannuation Industry (August 1992)
+Third Report of the Senate Select Committee on Superannuation -
+Super and the Financial System (October 1992)
+Proceedings of the Super Consumer Seminar, 4 November 1992
+(4 November 1992)
+Fourth Report of the Senate Select Committee on Superannuation -
+Super - Fiscal and Social Links (December 1992)
+
+
+Super Regs I
+Fifth Report of the Senate Select Committee on Superannuation -
+Super Supervisory Levy (May 1993)
+Sixth Report of the Senate Select Committee on Superannuation -
+Super - Fees, Charges and Commissions (June 1993)
+Seventh Report of the Senate Select Committee on Superannuation -
+Super Inquiry Overview (June 1993)
+Eight Report of the Senate Select Committee on Superannuation -
+Inquiry into the Queensland Professional Officers Association
+Superannuation Fund (August 1993)
+Ninth Report of the Senate Select Committee on Superannuation -
+Super Supervision Bills (October 1993)
+Tenth Report of the Senate Select Committee on Superannuation -
+Super Complaints Tribunal (December 1993)
+Eleventh Report of the Senate Select Committee on Superannuation -
+Privilege Matter Involving Mr Kevin Lindeberg and Mr Des O'Neill
+(December 1993)
+A Preliminary Paper Prepared by the Senate Select Committee on
+Superannuation for the Minister for Social Security, Options for
+Allocated Pensions Within the Retirement Incomes System
+(March 1994)
+Twelfth Report of the Senate Select Committee on Superannuation -
+Super for Housing (May 1994)
+Thirteenth Report of the Senate Select Committee on Superannuation -
+Super Regs I (August 1994)
+
+
+APPENDIX C
+LIST OF WRITTEN SUBMISSIONS
+List of Written Submissions
+No 1 Australian Consumers' Association (ACA)
+No 2 Bus and Coach Association
+No 3 Tidswell Benefit Consultants and Fund Administrators
+No 4 Freedom of Choice Fund Management Ltd
+No 5 National Australia Bank
+No 6 Trustee Corporations Association of Australia
+No 7 ANZ Funds Management
+No 8 Australian Federation of Consumer Organizations Inc. (AFCO)
+No 9 Chris Hanson
+No 10 Office of the Cabinet, Queensland
+No 11 Financial Planning Association of Australia (FPA)
+No 12 Howard V Smith & Associates Pty. Ltd.
+No 13 Sly & Weigall
+No 14 Attorney-General's Department
+No 15 August Financial Management Limited
+No 16 Self Management Retirement Systems Pty Ltd
+No 17 Life Insurance Federation of Australia Incorporated (LEFA)
+No 18 G. & E. Foti Enterprises Pty. Ltd.
+No IS- Arthur Robinson & Hedderwicks
+
+
+Super Regs I
+No 20
+No 21
+No 22
+No 23
+No 24
+No 25
+No 26
+Insurance and Superannuation Commission (ISC)
+Mr J. M. Kelberg
+Administrative Review Council (ARC)
+Superannuation Trust of Australia
+Permanent Trustee Company Limited
+Mr Bryce Jarrett
+Maurice Blackburn and Co., Barristers and Solicitors
+
+
+APPENDIX D:
+LIST OF WITNESSES AT PUBLIC HEARINGS
+List of Witnesses at Public Hearings
+CANBERRA, 20 JUNE 1994
+Ms Caroline Le Couteur, Director, August Financial Management
+Ltd
+Mr Robert Drake, Senior Policy Officer, Australian Consumers
+Association
+Mr Robert Gunning, Adviser, Bus and Coach Association
+Mr Roger Naim, General Manager, Custodian Services Division,
+National Australia Bank Ltd
+Mr Howard Pender, Director, Management Co., Australian Ethical
+Investment Trust
+Mr Ronald J Rankin, Chief Executive Officer, Financial Planning
+Association of Australia
+Mr Trevor J Thomas, Assistant Commissioner, Review Branch,
+Insurance and Superannuation Commission
+Ms Judith N Towler, Member, Legislative and Regulatory
+Committee, Financial Planning Association of Australia
+Mr Michael B White, Executive Director, Disabled Peoples
+International (Australia) Ltd
+
+
+Super Regs I
+CANBERRA, 23 JUNE 1994
+Mr Darren Davis, Assistant Manager, Operations, Life Insurance
+Federation of Australia
+Mr Donald B Duval, Australian Government Actuary and First
+Assistant Commissioner, Policy, Legal and Actuarial, Insurance
+and Superannuation Commission
+Ms Prudence Ford, Director, Federal Bureau of Consumer Affairs,
+Attorney-General's Department
+Mrs Wendy Robinson, Director, Review and Legislation Section,
+Insurance and Superannuation Commission
+Mr Kenneth Robinson, Member, Superannuation Committee, Life
+Insurance Federation of Australia
+Ms Dusanka Sabic, Acting Assistant Secretary, Consumer Policy
+Branch, Federal Bureau of Consumer Affairs
+Mr Trevor John Thomas, Assistant Commissioner, Review Branch,
+Insurance and Superannuation Commission
+Mr Tim Williams, Member, Superannuation Committee, Life
+Insurance Federation of Australia
+
+
+
+
+THE PARLIAMENT OF THE
+COMMONWEALTH OF AUSTRALIA
+PARLIAMENTARY
+PAPER
+No. 170 of 1994
+ORDERED TO BE PRINTED
+ISSN 0727-418

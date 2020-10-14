@@ -1,0 +1,2681 @@
+
+
+Resolving
+Superannuation
+Complaints
+Options for dispute resolution following
+the Federal Court decision in Wilkinson v CARE
+Parliament of the Commonwealth of Australia
+31st Report of the
+Senate Select Committee on Superannuation
+Canberra
+July 1998
+
+
+
+
+Resolving
+Superannuation
+Complaints
+Options for dispute resolution following
+the Federal Court decision in Wilkinson v CARE
+Parliament of the Commonwealth of Australia
+31st Report of the
+Senate Select Committee on Superannuation
+Canberra
+July 1998
+
+
+Commonwealth of Australia 1998
+ISBN 0 642 25186 X
+This document was produced from camera-ready copy prepared by the Senate Select
+Committee on Superannuation Secretariat, and printed by the Senate Printing Unit,
+Parliament House, Canberra.
+
+
+MEMBERS OF THE COMMITTEE:
+Tasmania
+Tasmania
+Victoria
+Victoria
+Western Australia
+South Australia
+Victoria
+Secretariat Staff:
+Secretary: Peter Hallahan
+Principal Research Officer: Celia Tancred
+Executive Assistant: Jade Ricza
+Address:
+The Senate
+Parliament House
+CANBERRA ACT 2600
+Telephone: (02) 6277 3439
+Facsimile: (02) 6277 5719
+Senator John Watson
+Chair
+Senator the Hon Nick Sherry
+Deputy Chair
+Senator Lyn Allison
+Senator Stephen Conroy
+Senator Chris Evans
+Senator Alan Ferguson
+Senator Julian McGauran
+This report is also available on the Internet at:
+http://www.aDh.gov.au/senate
+
+
+
+
+CONTENTS
+CHAPTER 1
+1
+Background.1
+History and functions of the Superannuation Complaints Tribunal.1
+The Wilkinson v CARE decision.2
+Senate reference.2
+Background briefing paper.3
+Conduct of the Forum.4
+CHAPTER 2.5
+Government and Industry Briefing.5
+Government.5
+Industry.6
+CHAPTER 3.9
+Forum Process.9
+Framework of forum.9
+Essential elements.9
+Options.11
+CHAPTER 4.13
+Interim Solution.13
+Introduction.1..13
+Effect of Federal Court ruling.13
+Proposed interim solution.14
+Implementation.16
+Conclusion.17
+Recommendation.17
+CHAPTER 5.19
+Industry Complaints Body.19
+Outline of the option.19
+Existing models.20
+Forum views.20
+Enforcement and certainty.27
+Funding. 29
+Evaluation.31
+Conclusions.31
+
+
+Contents
+CHAPTER 6
+33
+Reconstitute the SCT as Part of the Federal Court.33
+Outline of the option.33
+Precedent. 33
+Forum views.34
+Evaluation.38
+Conclusions.38
+CHAPTER 7.41
+Amend the Complaints Act and Other Legislation.41
+Outline of the option.41
+Forum views.42
+Evaluation.49
+Conclusion.50
+CHAPTER 8.51
+State Based Body.51
+The option.51
+Precedents.51
+Forum views.52
+Evaluation against criteria.53
+Conclusions.53
+CHAPTER 9.55
+Status of Matters Already Decided by the SCT.55
+Introduction.55
+Conclusion.56
+Recommendation.56
+CHAPTER 10.57
+Conclusions. 57
+APPENDIX A...59
+List of Participants at Public Forum.59
+Sydney, 28 April 1998.59
+APPENDIX B.61
+Background Briefing Paper Prepared by Andrew Fairley of IFS Fairley.61
+APPENDIX C.75
+List of Committee Reports.75
+
+
+CHAPTER 1
+BACKGROUND
+History and functions of the Superannuation Complaints Tribunal
+1.1 In its first report, Safeguarding Super - the Regulation of Superannuation, the
+Committee recommended 'the establishment by legislation of an external disputes
+resolution mechanism'.1
+1.2 The Government accepted the Committee's recommendation with
+modification and subsequently established an independent statutory authority, the
+Superannuation Complaints Tribunal (SCT), following passage of the Superannuation
+(Resolution of Complaints) Act 1993 (the Complaints Act). The SCT commenced
+operating on 1 July 1994.
+1.3 The SCT provides a mechanism for superannuation fund members to resolve
+complaints about decisions or conduct of trustees, insurers, Retirement Savings
+Accounts (RSA) providers, superannuation providers and certain other decision
+makers in relation to regulated superannuation funds, approved deposit funds, life
+policy funds, annuity policies and RSAs.2
+1.4 In the first instance, the SCT is required to attempt to resolve disputes without
+resorting to arbitration and resolves the majority of disputes in this way. However,
+where conciliation proves ineffective, S37 of the Complaints Act gives the SCT the
+power to review trustees' decisions.
+1.5 The Complaints Act requires the Tribunal to affirm trustees' decisions if it
+finds them to be 'fair and reasonable in the circumstances'.3 Where this is not the case,
+the Tribunal has a number of options:
+• remit the matter to which the decision relates to the trustee, insurer or other
+decision-maker for reconsideration in accordance with the directions of the
+Tribunal; or
+• vary the decision; or
+• set the decision aside and substitute a decision for the decision set aside.
+1 Safeguarding Super - the Regulation of Superannuation, First Report of the Select Committee on
+Superannuation, June 1992, recommendation 11.4.
+2 Superannuation Complaints Tribunal Annual Report 1996-97, p. 90.
+3 S37(6) of the Act.
+
+
+Chapter 1
+1.6 However, in making a decision, the Tribunal must not do anything that would
+be contrary to law, to the governing rules of the fund concerned and, if a contract of
+insurance between an insurer and trustee is involved, to the terms of the contract.
+The Wilkinson v CARE decision
+1.7 On 14 February 1998, the Federal Court handed down a decision in Wilkinson
+V CARE4 which effectively removed all of the SCT's powers to make determinations.
+1.8 In the first instance, the Court unanimously found that the SCT was only
+entitled to receive (and therefore, resolve) complaints concerning trustees’
+discretionary decisions.5
+1.9 A majority of the Court also found that the exercise by the SCT of its
+determination making power under S3 7 of the Complaints Act constituted the exercise
+of a judicial power, in breach of the Constitution.
+1.10 The Tribunal's conciliation powers remain in place. However, the Court's
+decision means that where conciliation fails, the only avenue for fund members to
+resolve disputes with trustees is through the courts.
+1.11 In its first Report, Safeguarding Super, the Committee noted that the
+predominant view in evidence supported establishing a dispute resolution mechanism
+that 'avoided the courts as far as possible'. The Committee held the view that the cost
+of litigation in the courts was so high that it offered no real rights to members.6 The
+loss of the SCT's determination powers must therefore be considered a serious setback
+for superannuation fund members, leaving them with no effective avenue of pursuing
+complaints about trustee decisions.
+1.12 The gravity of this situation led to a number of initiatives, including a series
+of workshops sponsored by the Association of Superannuation Funds of Australia
+(ASFA) and the forum sponsored by this Committee which forms the basis of this
+report.
+Senate reference
+1.13 Following a proposal from within the Committee, on 7 April 1998 the Senate
+referred the following matter to the Committee for inquiry and report:
+4 Also referred to informally as the Bishop case.
+5 A discretionary decision is one where the trustee is lawfully entitled to choose between different results,
+for example, the allocation of a death benefit among one or more deserving dependants of a deceased
+member of a fund. A non-discretionary decision is one where the law allows there to be only one correct
+decision, for example, whether or not the death of a member of a fund gave rise to a death benefit or not.
+Source: Paper prepared for the Committee by IFS Fairley, p. 2.
+6 Safeguarding Super - the regulation of superannuation, First Report of the Select Committee on
+Superannuation, June 1992, p. 136.
+
+
+Options for dispute resolution consequential on the Federal Court decision
+concerning the powers of the Superannuation Complaints Tribunal.
+1.14 The Committee decided that the most appropriate way of approaching this
+reference would be to conduct a "round table forum", at which representatives from
+the Government, the superannuation industry, the legal profession and consumer
+groups could freely exchange views about the most appropriate method of addressing
+the problem.
+1.15 The Committee invited a range of representatives of these groups to attend the
+forum, which it conducted in Sydney on 28 April 1998. A list of those who
+participated in the forum appears at Appendix A.
+Background briefing paper
+1.16 In order to provide a legal and structural framework for the forum discussion,
+the Committee commissioned a Melbourne firm of superannuation lawyers, IFS
+Fairley, to prepare a background briefing paper. The Committee circulated the paper
+to the forum participants to provide a foundation for the subsequent discussions. A
+copy of the paper appears at Appendix B.
+1.17 The background paper is divided into several parts. Firstly, the paper
+identifies ten essential features of any future superannuation complaints handling
+mechanism, (described in paragraph 3.3)
+1.18 Having identified the essential features of a complaints handling scheme, the
+paper went on to canvass three alternative dispute resolution models that might be
+established in the aftermath of the Federal Court decision. These were:
+• establish a complaints body to be run by the industry;
+• reconstitute the Tribunal as part of the Federal Court. This solution would
+see the abolition of the Tribunal and effectively, the creation of a division
+within the Federal Court dealing with superannuation; and
+• rewrite the law to ensure constitutional validity of the SCT.
+1.19 The paper concluded:
+If the Commonwealth wishes to bypass the courts, there is no easy route to
+solving the difficulties exposed by Wilkinson for the Complaints Act.
+Whilst it is highly desirable to be pursuing the creation of a system which
+replicates that of the Tribunal, it may be that the nature of Australia's
+Constitutional arrangements is such that some elements of the Tribunal's
+objectives (fair, just, economical, informal and quick) will need to be
+sacrificed at the altar of practical expedience in the light of difficult
+Constitutional issues.
+
+
+Conduct of the Forum
+1.20 The forum's program was divided into four distinct sessions:
+• reports on Government and industry responses to the Federal Court
+decision;
+• discussion on criteria to be used for selecting a method of resolving
+disputes;
+• discussion on options; and
+• discussion on status of matters previously determined by the SCT.
+1.21 The following chapters of the Committee's report reflect this structure.
+
+
+CHAPTER 2
+GOVERNMENT AND INDUSTRY BRIEFING
+2.1 Following the Full Federal Court decision in the Wilkinson and Leshem cases,
+both Government and industry have been working to address the problems which the
+ruling has created for dispute resolution in the superannuation industry.
+Government
+Insurance and Superannuation Commission
+2.2 Mr John Larkin, Assistant Commissioner, Policy, Insurance and
+Superannuation Commission, briefed the forum on Commonwealth initiatives in
+response to the ruling, and policy issues under consideration for addressing the issue.
+2.3 He advised that the Government had lodged an application for special leave to
+appeal the Federal Court decision to the High Court.1 The High Court has now
+granted leave to appeal, however, the case may not be heard until the last quarter of
+this year.
+2.4 Given the likely delay in obtaining a High Court ruling, the Superannuation
+Complaints Tribunal (SCT) is placing greater emphasis on inquiry and conciliation in
+an effort to resolve more complaints prior to review. The government has obtained
+legal advice that the SCT’s inquiry and conciliation role is unaffected by the Court's
+ruling on the validity of its review powers.
+2.5 Mr Larkin told the forum that, following consultation with peak industry
+associations, consumer groups, the SCT and legal advisers, the ISC had identified a
+number of options to address the complaints review void left by the Tribunal’s loss of
+power to make determinations. They are:
+• to create a special division of the Federal Court to exercise the SCT’s
+review function;
+• to amend the SRC, SIS and RSA Acts to overcome the current
+jurisdictional and constitutional problems;
+• to dismantle the Tribunal and establish an industry based complaints
+handling scheme; and
+• to amend the SRC Act to enable the tribunal to arbitrate with the consent of
+the parties.
+1 Evidence, p. 3
+
+
+Chapter 2
+2.6 The first three options are identical to those identified in the IFS Fairley
+background paper.
+2.7 The fourth option would require the parties to a dispute entering into
+agreements to be bound by a Tribunal award which would be enforceable under
+contract law and state arbitration laws. Since such a scheme would rely on the
+consent of the parties on a case by case basis, it is not considered a viable long- term
+option but rather, an interim measure to deal with the growing backlog of SCT review
+cases, pending a permanent solution.
+2.8 Mr Larkin indicated that the Government is continuing to work through the
+policy issues associated with each of the options, while remaining ‘fully committed to
+an accessible, low-cost and effective alternative dispute resolution mechanism for
+fund members’.2 He noted, however, that there is no single perfect solution:
+All of the options have certain disadvantages and advantages in terms of
+sustainability against future legal challenge, workability, efficiency,
+flexibility, cost, enforcement, accessibility, coverage and implementation
+time frames. This means the government's eventual decision on this matter
+will inevitably involve some risk management compromises and trade-offs/'
+Superannuation Complaints Tribunal
+2.9 In the wake of the Federal Court decision, the SCT has concentrated on
+investigating the prospects of legislative solutions to the problem, among them the
+possibility of establishing a merits review body. Mr Neil Wilkinson, Chairperson of
+the Tribunal, pointed out the benefits, in terms of its considerable expertise
+accumulated over the past four years, of making the Tribunal the basis for any new
+body. He indicated that, in his view, setting up such a statutory scheme, or an industry-
+body were ‘the two most serious options’ meriting the forum’s attention.
+2.10 However, he noted the difficulty of gaining the degree of coverage and
+compliance necessary for establishing a viable industry-based dispute resolution
+scheme in the extremely diverse superannuation sector. Comparable schemes in
+banking and insurance have a relatively small number of member companies in
+contrast to the many thousands of regulated superannuation funds, RSA deposit takers
+and insurers who would need to be involved in a superannuation industry body.4
+Industry
+2.11 Ms Philippa Smith, Chief Executive Officer, Association of Superannuation
+Funds of Australia Limited (ASFA), briefed the forum on the results of two
+2 Evidence, p. 5
+3 Evidence, p. 4
+Evidence, p. 9
+4
+
+
+workshops her organisation had recently held on the SCT impasse. The workshops,
+which focussed on the structural and operational issues to be considered before
+adopting any solution, were attended by a range of lawyers, representatives from
+industry, corporate and retail superannuation funds, and Government, consumer
+groups and statutory bodies.
+Structural issues
+2.12 The principal structural aspects identified in the ASFA workshop discussions
+were governance (or confidence) and trustee matters. It was seen as vital to public
+confidence in any dispute resolution scheme that legislative changes ensure:
+...coverage of the industry—100 per cent if possible—the ability to enforce
+decisions so that they are determinative, and some relative certainty into the
+future about what is happening.5
+2.13 Ms Smith indicated that workshop participants were concerned that proposed
+attempts to shore up the SCT legislatively could fail to deliver certainty.
+2.14 On trustee matters, the ASFA workshops stressed the need for any
+replacement scheme to balance trustee responsibilities with legitimate consumer
+rights, flagging the duty to give reasons for trustee decisions and the duty to act 'fairly
+and reasonably’ as issues requiring further consideration. Workshop participants
+highlighted the need for special expertise concerning trust responsibilities in any new'
+superannuation disputes body.
+Operational issues
+2.15 ASFA discussions to date have indicated a strong preference for a dispute
+resolution scheme that operates in a ‘non-legalistic, accessible and low-cost’ manner.
+The key to achieving this outcome is flexibility - the ability to draw on a range of
+alternate dispute resolution tools to suit the circumstances of a particular case. This
+could include using single-member panels or adjudicators in cases involving small
+amounts, and panels drawn from consumer and industry groupings where cases
+involve larger amounts or are complex in nature.6
+2.16 Ms Smith also indicated that it was important that any new body be able to
+report to industry regulatory bodies or to the public on systemic problems identified
+by the complaints resolution process.
+2.17 Finally, Ms Smith noted the industry’s strong caveat that, should the preferred
+option be the establishment of an industry scheme, the body should be funded from
+the existing levy on superannuation funds and involve no additional cost to industry.
+5 Evidence, p. 6
+6 Evidence, pp. 7-8
+
+
+
+
+CHAPTER 3
+FORUM PROCESS
+Framework of forum
+3.1 The background paper commissioned by the Committee to provide a
+framework for the forum's deliberations identified three main topics for discussion:
+• essential elements of a superannuation disputes resolution scheme;
+• options for a disputes resolution mechanism; and
+• evaluating suggested options against the criteria.
+3.2 Following the briefings from government and industry representatives, the
+Committee Chairman, Senator John Watson, opened the forum to group discussion of
+the essential elements of a superannuation disputes resolution scheme.
+Essential elements
+3.3 The background paper prepared for the Committee as a framework for the
+forum discussions by IFS Fairley Superannuation Lawyers, proposed a number of
+essential criteria which must be met in a successful superannuation disputes resolution
+mechanism. These are:
+• Accessibility - the scheme should be easily accessible by complainants,
+with minimal bureaucratic or legal requirements;
+• Independence - the scheme must be seen to be independent of the industry
+and of employers, insurers, consumer or other interest groups;
+• Procedural fairness - the scheme must accord procedural fairness to all
+parties;
+• Economy - the scheme should provide informal and cost effective
+procedures for complainants nationwide;
+• Speedy decision making - the scheme should aim for a simple, transparent,
+consistent and flexible decision making process, consistent with the
+principles of procedural fairness;
+• Constitutional validity - the scheme should be able to withstand legal
+challenge, whether to the exercise of its review function or the scope of its
+decision making;
+
+
+Chapter 3
+• Complaint criteria - the scheme should reflect the present limits on
+jurisdiction - to review trustee decisions as they relate to a particular fund
+member, and not those that relate to the management of a fund as a w'hole;
+• Binding decisions - the scheme should have the necessary legislative
+backing to ensure that its determinations are binding on fund trustees;
+• Expertise - the scheme should have specialist and technical expertise in the
+area of superannuation; and
+• Costs - the scheme should be funded either directly or indirectly from the
+superannuation levy currently paid by fund trustees.1
+3.4 Forum participants, in separate correspondence to the Committee, and in the
+course of the morning’s discussion, generally agreed that the above criteria formed a
+good basis on which to evaluate any proposed resolution mechanism. Ms Janet
+Murphy, of the Consumer Affairs Division, Department of Industry, Science and
+Tourism, drew the forum’s attention to a set of benchmarks for industry-based
+customer dispute resolution schemes, drafted by a Working Group including
+representatives of the current major industry schemes, and issued by the former
+Minister for Customs and Consumer Affairs in August 1997.
+3.5 The benchmarks included three additional criteria:
+• accountability;
+• efficiency; and
+• effectiveness.
+3.6 Ms Murphy suggested these additional elements should also apply to any
+superannuation complaints body, a view supported by Mr Michael Lillicrap,
+representing the Industry Funds Forum.2 Ms Murphy noted that public accountability
+was essential to engender confidence in such a body:
+Part of accountability is highlighting any systemic industry problems for the
+relevant body or bodies. This is not just dealing with complaints as
+individual complaints. Where there is a systemic issue with a particular
+company, a particular trustee or across the industry, complaints should be
+brought to the attention of the appropriate bodies.3
+3.7 She noted the need for ensuring efficient operations in dealing with disputes -
+by keeping track of complaints, ensuring the process deals with consumers
+expeditiously, and regularly reviewing the scheme’s performance. The third element
+she proposed, effectiveness:
+1 Background Briefing Paper, p. 4-6.
+2 Evidence, p. 21.
+3 Evidence, p. 11.
+
+
+...wouia email me scnemes naving terms oi reierence mat are cieariy
+understood by all parties, so its jurisdiction and what it can and cannot deal
+with must be clearly spelt out and clearly understood and there should be
+periodic review not only of its terms of reference but of the way it is
+operating.4
+3.8 Several participants nominated effective enforcement of decisions,
+particularly against a recalcitrant party, as a necessary component of any complaints
+handling mechanism. It was also suggested by Mr George Raitt, of Blake Dawson
+Waldron, that the scheme should provide ‘limited avenues for appeal consistent with
+competing objectives of ensuring that justice is done while reducing costs and delay in
+achieving a binding outcome.’5 Both Mr Raitt and Ms Philippa Smith of ASFA put
+forward national coverage of all service providers and persons affected by their
+decisions as desirable features for inclusion.
+3.9 Mr George Williams, Senior Lecturer in Law, Australian National University,
+broached the topic of the relative weighting of the essential elements. He noted that
+the element of constitutional validity or certainty is crucial to whatever form of
+scheme might be established. However, he cautioned against interpreting this as
+meaning that any replacement scheme should be immune from constitutional
+challenge:
+...to my mind that is set far too high as a criterion. I think it is almost
+impossible to ever establish a body like this, given recent High Court
+decisions, that could be described as unassailable.6
+3.10 Mr Williams noted that attempts to maximise certainty, for example by
+establishing a court based scheme, or a national body established under territory law
+to be taken up by complementary state legislation, could significantly impact on other
+desirable criteria such as fairness, economy, informality and speed.
+Options
+3.11 In the background paper distributed prior to the forum, participants were
+asked to consider the merits of three alternatives for consideration by the Government:
+• to establish an industry complaints body (examined in Chapter 5 of this
+report);
+• to reconstitute the SCT as part of the Federal Court (examined in Chapter
+6); and
+4 Evidence, p. 11.
+5 George Raitt, Complaints resolution mechanisms in the superannuation industry and the issue of judicial
+power, a paper prepared for the Law Institute of Victoria Journal, p. 1.
+6 Evidence, p. 15.
+
+
+• to amend the Complaints Act to ensure constitutional validity (examined in
+Chapter 7).
+3.12 During discussions, forum participants identified a number of other options
+for consideration. These were:
+• establish an industry code of practice under the Trade Practices Act
+(examined within Chapter 5);
+• establish a state based body (examined in Chapter 8); and
+• allow the SCT to arbitrate complaints by consent (Chapter 4).
+Industry code of practice
+3.13 Mr Andrew Rogers, QC, of Clayton Utz, suggested setting up an industry
+code of practice under amendments to the Trade Practices Act that could prescribe all
+the desirable elements canvassed by the forum. He envisaged a situation in which it
+would be compulsory for every participant in the superannuation industry to subscribe
+to a scheme of dispute resolution encompassing all those elements.'
+State based body
+3.14 A fifth option, put forward by Mr George Williams, was the establishment of
+a state-based body. He indicated this could best be achieved by having the
+Commonwealth legislate for say, the Australian Capital Territory, to establish a
+complaints body and for that legislation to be extended across the country via
+complementary state legislation. He cited the Corporations and Securities Panel as an
+example of a national body successfully established using this technique.8
+SCT to arbitrate by consent
+3.15 A further option, nominated by Mr John Larkin, of the Insurance and
+Superannuation Commission, would involve amending the Superannuation
+(Resolution of Complaints) Act 1993 to enable the SCT to arbitrate disputes with the
+consent of the parties:
+The parties in dispute would enter into agreements to be bound by a tribunal
+award on a case-by-case basis. The arbitration award would be enforceable
+under contract law and state arbitration laws.9
+3.16 This option is considered to be an interim solution only and the Committee
+discusses it in the following chapter.
+7
+Evidence, p. 17.
+Evidence, p. 15.
+Evidence, p. 5.
+8
+9
+
+
+CHAPTER4
+INTERIM SOLUTION
+Introduction
+4.1 Under the Superannuation (Resolution of Complaints) Act 1993 (the
+Complaints Act) the Superannuation Complaints Tribunal (SCT) was established to
+hear complaints from members concerning decisions made by the trustees of regulated
+superannuation funds. The Complaints Act allows for an inquiry and conciliation
+process. In the event of the conciliation process failing to resolve a dispute, the
+Tribunal makes a formal determination, after reviewing the matter, as to whether a
+decision made by trustees was fair and reasonable.
+4.2 Statistics published by the Tribunal show that around 79 per cent of all
+‘within jurisdiction' complaints have been resolved at the inquiry' and complaint
+stages, with the remaining 21 per cent of complaints proceeding to review.1
+4.3 As outlined in Chapter 1, the Federal Court decision in Wilkinson v CARE
+(Wilkinson), handed down on 12 February 1998, made two key findings:
+• that, as a matter of interpretation of the Complaints Act, the SCT is only-
+entitled to receive complaints concerning discretionary decisions made by
+the trustee as opposed to decisions which are not discretionary; and
+• that any exercise by the Tribunal of its determination-making pow er under
+S37 of the Complaints Act is an invalid exercise of the judicial power of
+the Commonwealth.
+Effect of Federal Court ruling
+4.4 As the Federal Court's ruling removed the SCT's determinations power, there
+have been no SCT review meetings since February and no further determinations have
+been released. As at 31 March 1998, the tribunal had a backlog of 211 matters
+awaiting review, with new complaints continuing to be received at a higher than
+average rate.2
+4.5 In response to the decision, the Government lodged an application to the High
+Court for special leave to appeal the Federal Court decision, which the Court has
+granted. However, as ISC Assistant Commissioner, Mr John Larkin, noted in his
+1 Superannuation Complaints Tribunal Annual Report 1996-97, p. 62.
+2 SCT Statistical Bulletin, Issue No. 11, p. 8-9.
+
+
+Chapter 4
+briefing to the forum, the case is not likely to be heard until the end of this year, and a
+decision could be delayed for a further few months.3
+4.6 While the Government has been examining other options for addressing the
+complaints review gap left by the decision, implementing these options may take
+considerable time.
+4.7 Given the time concerns (and in the case of a High Court appeal, the uncertain
+prospects) associated with implementing the options, and the growing backlog of
+cases awaiting review, forum participants urged a speedy resolution of the impasse.
+Mr John Berrill, representing the Consumers Federation of Australia, spoke of the
+problems facing consumers:
+The uncertainty and delay for those persons with complaints before the SCT
+at the moment are intolerable. Many of those people have had complaints in
+various stages for anything up to one to two years—for claims processing it
+is anything up to two to three years. The delay is unacceptable. The ongoing
+uncertainty of the review mechanism will affect decision making of trustees
+on an ongoing basis if there is no effective review in place. It is also
+certainly undermining consumer confidence in the superannuation industry.4
+4.8 Mr Michael Lillicrap, of the Industry Funds Forum, endorsed these
+comments. Speaking from the trustees’ perspective, he urged the group to consider
+both a long term and an interim solution:
+...we have to find an interim solution that works....
+I would hope that one of the things we can help you and the government to
+do is identify what is a workable interim solution and what sort of longer
+term solution we here—and the people we represent—would favour if it
+turned out that the constitutional problems prevented the SCT being revived
+in any form. 5
+Proposed interim solution
+4.9 Discussion of a possible interim solution focussed on two models:
+• a non-legislative voluntary arrangement using SCT facilities; and
+• amending the SRC Act to enable the SCT to arbitrate with parties' consent.
+3 Evidence, p. 3.
+4 Evidence, p. 12.
+5 Evidence, pp. 21 -22.
+
+
+Non-legislative arrangement
+4.10 Under a ‘non-legislative* model, an industry representative suggested that
+funds could be prepared to enter ‘some voluntary arrangement, using the
+Superannuation Complaints Tribunal... and agree voluntarily to submit to its
+decisions’ to facilitate short-term dispute resolution. 6 This plan envisaged either a
+form of arbitration or alternatively a second round of conciliation under SCT auspices,
+where the original conciliation process had not achieved a satisfactory outcome.
+4.11 The forum discussed whether trustees would have power to enter such an
+arrangement. The legal argument ranged from the prohibition on trustees accepting
+third party direction' to the lack of scope for such activity in trust deeds. The question
+of how other parties to a complaint, eg insurers, could be joined in the process and
+what binding effect any decision would have on all parties was also raised.
+4.12 While there was some opinion supporting the possibility of trustees being able
+to engage in a voluntary scheme under current legislation, it appears that there is no
+power currently available under the Complaints Act for the SCT to assume an
+arbitration role. Mr Larkin told the Committee:
+...our view is that any attempt to build a consent to arbitration function on
+to the Superannuation Complaints Tribunal would require legislative
+amendment.8
+Legislative amendment
+4.13 Another possible option would involve amending the Complaints Act,
+enabling the Tribunal to arbitrate with the consent of the parties to a dispute. The
+parties would enter into agreements to be bound by a tribunal award on a case-by-case
+basis and the award would be enforceable under contract law and state arbitration
+laws.
+4.14 Addressing the question of the trustees' position, especially concerns
+expressed by some forum participants that agreement to such a system could be a
+fundamental breach of their fiduciary duties, Mr Larkin indicated:
+...the Superannuation Industry (Supervision) Act could be amended to
+override any restriction arising from trustees' equitable obligations and any
+restriction on trustees entering into such arbitration agreements on a
+voluntary basis.9
+6 Evidence, Mr Michael Lillicrap, p. 27.
+7 S58, Superannuation Industry (Supervision) Act 1993.
+8 Evidence, p. 30.
+9 Evidence, p. 30.
+
+
+4.15 Mr George Raitt, of Blake Dawson Waldron, drew attention to the power for a
+trustee to compromise disputes contained in many tmst deeds and a similar implied
+power in most state trustee legislation. In his opinion:
+...if those either expressed provisions or implied provisions under state law
+have sufficient coverage of the industry it may not be necessary to amend
+the act or the regulations.10
+4.16 As to whether there were any constitutional implications concerning the
+enforcement of an SCT arbitration ruling, Mr Larkin noted:
+Under this interim measure there would be no compulsion on trustees to do
+anything. Their decision to enter into a contract whereby they would
+voluntarily accept an arbitral ruling of the tribunal is purely voluntary and
+any enforcement of the SCT's ruling would rely on contract law. It therefore
+overcomes any suggestion of judicial power in the enforcement of the
+tribunal ruling because the enforcement is derived from the consent of the
+parties rather than from any other mechanism.11
+Implementation
+4.17 Forum participants were divided on how best to implement a short-term
+solution based on the second option and canvassed a variety of legislative
+amendments. These included:
+• amending the SRC Act (and possibly SIS ) to give the SCT an arbitration role;
+• amending SIS to incorporate changes to fund operating standards;
+• amending the trustee covenants in s 52 of SIS; and
+• amending the restrictions in S58 and 59 of SIS on trustees receiving directions.
+4.18 Because of concerns that the legislative process could extend over several
+months, especially if a Federal election were to intervene, forum participants queried
+Mr Larkin concerning the likelihood of the Government implementing proposed
+legislative changes by speedier means, either by regulation or by use of the ISC
+Commissioner’s modification power. He indicated that these suggestions could be
+further explored.
+4.19 Asked by the Committee whether amendments to facilitate an interim solution
+could be incorporated in a Bill already before the Senate, Mr Larkin agreed that
+‘procedurally that should be possible’. He noted, however, that any such action or
+10 Evidence, p. 35.
+11 Evidence, p. 34.
+
+
+amendments would be subject to the Government’s policy formulation and approval
+processes.12
+Conclusion
+4.20 The forum participants supported the initiative to urgently implement an
+interim solution to the current impasse, pending identification of a longer-term
+solution to the problem. The most feasible interim solution appears to be to introduce
+legislation allowing the SCT to arbitrate disputes by consent.
+Recommendation
+The Committee therefore recommends that the Government, in consultation with
+industry and the Superannuation Complaints Tribunal, investigate the feasibility of
+putting an interim solution in place.
+If it proves feasible to put an interim solution in place, the Committee recommends
+that the Government introduce legislation to provide an interim solution as a matter of
+urgency.
+12 Evidence, p. 30.
+
+
+
+
+CHAPTER 5
+INDUSTRY COMPLAINTS BODY
+Outline of the option
+5.1 The first option considered by the forum was to replace the SCT with an
+industry based complaints handling scheme.
+5.2 Mr John Larkin of the ISC identified the key advantages and disadvantages of
+this approach:
+One advantage of an industry based scheme is the sense of industry
+ownership and accountability that can potentially flow from such
+arrangements and the flexibility of a non-statutory scheme to adapt and
+respond quickly to the changing superannuation environment. A
+disadvantage could be the implementation lead times and the challenge of
+obtaining universal coverage and compliance in the highly diverse
+superannuation sector. 1
+5.3 There are two possible models for establishing such a scheme. These are:
+• a legislatively backed scheme; or
+• a voluntary scheme.
+5.4 A legislatively backed scheme would require providers of superannuation and
+like products to be members of the scheme. Membership of the scheme would require
+the member to be contractually bound to abide by its decisions.
+5.5 A voluntary scheme does not compel providers to join the scheme or abide by
+its decisions. However, industry codes of practice may require providers to join such
+schemes. Voluntary regulatory schemes have operated successfully, particularly in the
+field of insurance, for some years.
+5.6 Mr Larkin cautioned that further examination of legal issues associated with
+coverage and enforcement mechanisms would be required if the Government opts for
+an industry model. However, he indicated that preliminary legal advice provided to
+the Government indicated that 'the option of requiring funds to be a member of an
+industry based scheme appears feasible'.2
+1 Evidence, p. 5.
+2 Evidence, p. 5.
+
+
+Chapter 5
+Existing models
+5.7 There are several existing industry complaints bodies. Three well known
+examples are:
+• the General Insurance Enquiries and Complaints Scheme;
+• the Life Insurance Complaints Service (LICS); and
+• the Telecommunications Industry Ombudsman (TIO).
+5.8 The first two are voluntary schemes established by consenting decision
+makers. The third, the TIO, was initially based on licence conditions for the carriers
+but membership for carriers is now compulsory under Part 10 of the
+Telecommunications Act 1997?
+5.9 The parties are expected to abide by the decisions of the panels or boards of
+those bodies but there is no statutory requirement for either party to comply.
+Compliance relies on a contract between the member and the industry body.
+Forum views
+5.10 Forum discussion of the industry options covered the following major issues:
+• alternative models - which is most appropriate for dealing with
+superannuation complaints?
+• coverage - ensuring that trustees participate in the scheme;
+• enforcement - ensuring that trustees abide by and implement decisions;
+• certainty - is the authority of the body to make decisions legally
+sustainable?; and
+• funding - who pays for the body?
+Alternative models
+5.11 While industry representatives and several other forum participants favoured
+the creation of an industry based alternative dispute resolution (ADR) scheme to
+replace the SCT, they expressed differing views about how it should be established.
+5.12 Some participants advocated self-regulatory models established by industry
+without the need for legislative backing, along the lines of the life and general
+insurance industry schemes. Others supported a statutory co-regulatory structure.
+This would have a governing body consisting of government, consumer and industry
+representatives.
+3
+Telecommunications Industry Ombudsman 1997 Annual Report, p. 3.
+
+
+5.13 Mr Paul Bean of LICS, and Ms Lyn Ralph of the Investment and Financial
+Services Association (IFSA) were amongst those who preferred the self regulatory
+model. They suggested that a new superannuation disputes resolution scheme could be
+developed in conjunction with schemes already available, citing the time and cost
+savings:
+There are actually schemes out there that exist now that with some review
+and alteration and change to terms of reference could make quite a good
+home from the consumer's point of view and be done quite quickly too as
+opposed to starting from scratch yet again another scheme in this sector.4
+5.14 Ms Ralph indicated that IFSA envisaged one scheme to cover a variety of
+financial services and products, believing it a mistake, in a post-Wallis environment,
+'to isolate superannuation from the rest of its financial services that the consumer will
+see more and more as a package’.5
+5.15 The Association of Superannuation Funds of Australia Ltd (ASFA) expressed
+a different view, preferring a legislatively backed co-regulatory scheme. ASFA
+viewed this structure as necessary to maintain public confidence in the superannuation
+industry.6
+5.16 Ms Philippa Smith stressed ASFA’s strong preference for a separate scheme
+for superannuation products, citing the inability of existing self-regulatory schemes to
+cater for what her organisation regards as the special features of superannuation,
+including the role of trustees, compulsory contributions, and preservation.
+I do not think ...that it is a matter that it is as convenient as just slotting it
+into one of the schemes that are currently operating because I do not think
+they meet the standards, or the options, of what we need to get to.7
+5.17 Speaking from the trustee’s point of view, Mr Michael Lillicrap, general
+manager of REST, representing the Industry Funds Forum, also endorsed the need for
+a separate scheme:
+From my point of view, they [trustees] will be looking for a separate body to
+any of those that exist now. 1 think Philippa Smith has talked about the need
+for some sort of legislative compulsion. That in itself would make this a
+different type of arrangement than others and I think the trustee problems
+probably make superannuation a different type of problem; you have to be
+much more careful with the legal structure. So I think both of those argue
+for a separate body.8
+4
+Evidence, p. 44-45.
+5 Evidence, p. 44.
+6 Evidence, p. 6.
+7 Evidence, p. 45-46.
+8 Evidence, p. 49.
+
+
+5.18 Mr John Berrill, representing the Consumers Federation of Australia,
+favoured using an existing body because of likely implementation delays in
+establishing a new industry scheme. He stressed that the key issue for his constituency
+is a speedy resolution of the present impasse and expressed a preference for using
+existing mechanisms such as the SCT or LICS to avoid lengthy delays in resolving the
+issue.9
+Coverage
+5.19 The forum participants acknowledged that the success of an industry disputes
+resolution body depends on maximum participation by superannuation providers in
+the complaints resolution scheme.
+5.20 There are a number of possible methods of ensuring full coverage. In the case
+of voluntary schemes, industry codes of practice require participation. LICS, for
+example, relies on a voluntary code of practice developed by the ISC to achieve
+maximum coverage.10
+5.21 Some forum participants, including ASF A, questioned whether a voluntary
+approach would be sufficient in the case of a scheme dealing with superannuation
+complaints. ASFA argued that the compulsory nature of superannuation made
+continued public confidence and support vital for any complaints mechanism.
+Maximum coverage of the industry, secured through legislation requiring membership
+of an approved scheme, would underpin that confidence.
+5.22 Mr George Raitt acknowledged the limitations associated with voluntary
+codes of practice in a paper prepared for the Law Institute of Victoria. He wrote:
+Voluntary industry schemes such as the insurance enquiries and complaints
+schemes and the banking industry ombudsman rely on comprehensive
+adoption within the industry. In industries with larger numbers of service
+providers, such as the franchising industry, lack of broad acceptance by
+service providers would be likely to cause a voluntary scheme to fail.
+Legislative backing for a scheme is in my view the only way to gain
+comprehensive coverage of the large number of service providers in the
+superannuation industry.11
+5.23 Ms Janet Murphy, of the Department of Industry Science and Tourism’s
+Consumer Affairs Division, endorsed ASFA's approach as being most likely to ensure
+coverage in the superannuation industry.12
+9 Evidence, p. 12
+10 Evidence, Mr Paul Bean, p. 20.
+11 George Raitt, Partner, Blake Dawson Waldron, Complaints resolution mechanisms in the superannuation
+industry and the issue ofjudicial power, p. 7-8.
+12 Correspondence to Committee dated 15 May 1998.
+
+
+5.24 The forum discussed various methods of providing legislative backing to
+ensure coverage in an industry based scheme. These included:
+• Amending the Superannuation Industry (Supervision) Act 1993 (SIS) to
+require funds to be members of an industry scheme;
+• Using the pow er under the Trade Practices Act 1974 (TPA) to prescribe a
+code of practice which would require trustees to belong to an industry
+dispute body; and
+• Using the legislative proposals in the Corporation Law Economic Reform
+Program (CLERP) to make a licence to provide a financial service
+conditional upon the holder being a party to an external complaints scheme
+approved by the relevant regulator.
+Amending the Superannuation Industry (Supervision) Act 1993
+5.25 Ms Philippa Smith of ASFA considered that one method of achieving general
+coverage for a new industry scheme would be through amendments to the SIS Act.
+Such amendments might require providers to participate in a disputes resolution
+scheme. Ms Smith expressed a preference for such an arrangement:
+The way forward, as I see it, is that there is legislative backing through the
+SIS legislation probably requiring membership of an approved scheme
+hopefully just one scheme or a limited number of schemes the contractual
+arrangements then being with the funds and, through the trust deeds, to live
+by the decisions of that approved scheme. I see that providing relative
+certainty as opposed to the other options...13
+5.26 There is a potential conflict between Trust Law, which prohibits trustees from
+accepting directions from third parties, and any general law' requirement compelling
+trustees to participate in a disputes resolution scheme. Mr David Maclean explained
+the law of trusts and how it affects trustee behaviour:
+The actual rule under the law of trusts is that trustees must act independently
+and personally and cannot bind themselves to having their decisions made
+by someone else or accepting decisions made by someone else. So if a
+trustee did enter into an industry scheme and bind himself to doing whatever
+the industry scheme personal body decided, as far as the members are
+concerned that would be a breach of trust which they could just ignore.
+5.27 However, the SIS legislation currently exempts trustees in relation to
+directions given by the SCT.15 Ms Smith suggested that it would be possible to amend
+the relevant sections of SIS, deleting "Superannuation Complaints Tribunal" and
+13 Evidence, p. 45.
+14 Evidence, p. 28.
+15 S58(2) of SIS.
+
+
+substituting "an approved industry based disputes resolution scheme". These
+amendments would then allow trustees to amend their trust deeds, ensuring that the
+governing trust document permitted them to accept such directions.
+5.28 Ms Smith concluded:
+As a consequence of these changes, it is our legal understanding that
+trustees would then be in a position to enter into a contractual agreement
+with the industry based dispute resolution body.16
+Code of practice under the Trade Practices Act
+5.29 The Hon. Andrew Rogers, QC, Clayton Utz, raised the idea of giving an
+industry body legislative backing by using the Trade Practices Act 1974 (TPA) to
+prescribe a code of practice for the superannuation industry.
+5.30 While Mr Rogers raised this possibility in the context of the forum's
+consideration of an industry based complaints body, the use of codes of practice may
+have application under other disputes resolution options.
+5.31 Mr Rogers envisaged that such a code would prescribe all the elements
+regarded as desirable in an industry scheme and would require all industry participants
+to subscribe to an approved dispute resolution mechanism.
+5.32 Raising the issue of constitutional invalidity, Mr David Maclean queried
+whether members of such a scheme would be legally bound to enforce its decisions,
+noting:
+...it looks to me like the Superannuation Complaints Tribunal under another
+name if you have to use a federal statute to compel the members of the fund
+and the trustees to submit to the binding decision of some third party.17
+5.33 Mr Rogers indicated that enforcement of decisions would rely on members
+having an agreement with the scheme that accepted the outcome of the dispute
+resolution process as binding. In his opinion:
+...if you combine contract underpinned by the code of practice, then you
+would be achieving a constitutionally valid scheme which could have all
+these attributes that people desire.18
+5.34 Ms Janet Murphy, of the Department of Industry Science and Tourism,
+advised the forum that from 1 July 1998, the Minister for Customs and Consumer
+Affairs will have power under the TPA to prescribe two types of codes:
+16 Correspondence dated 15 May 1998, p. 9.
+17 Evidence, p. 19.
+18 Evidence, p. 18.
+
+
+• a mandatory code, which will automatically bind all members of an
+industry; or
+• a voluntary code, which will bind only those industry members who
+choose to sign the code.
+5.35 She noted that, in keeping with accepted benchmarks for a good industry
+code:
+...where a code is prescribed under the Trade Practices Act, it would likely
+also provide for dispute resolution mechanisms, and members of the
+industry would - depending on the contractual arrangements in that industry
+- be bound to that dispute resolution mechanism. 19
+5.36 However, Ms Murphy indicated that the option of ‘having a dispute scheme
+hanging off a code’ could pose legal difficulties:
+I have to say that we are in the process of seeking legal advice to see
+whether there would be constitutional problems in requiring members who
+sign up to a code to also be bound by a dispute resolution scheme. I think
+the concept has a lot of attractions, but again I guess we are mindful of
+possible constitutional limitations.20
+5.37 She also indicated that the amendments to the TP A were primarily formulated
+to address systemic problems in the relationship between an industry and its
+consumers, rather than as a tool of prudential management.
+I do not think that we had envisaged that the starting point for prescribing a
+code would be whether an industry based dispute resolution scheme was
+working or not, or whether it had adequate coverage or not.21
+5.38 Mr John Larkin of the ISC supported this approach, noting that although
+codes had been established for the life insurance and general insurance sectors to deal
+primarily with market conduct issues, such as the keeping of adequate records and
+good investment management practices:
+I cannot say that a code of practice for the superannuation industry is high
+on our agenda. We have sought to promote industry best practice through
+other mechanisms for example, the publication of our good practice guide
+for trustees...It is not beyond the realm of possibility that we could
+contemplate it if it was going to facilitate a long-term solution to complaints
+handling.22
+19 Evidence, p. 56-57.
+20 Evidence, p. 19.
+21 Evidence, p. 57.
+22 Evidence, p. 57.
+
+
+5.39 Mr John Edstein expressed strong concern that a compulsory code for the
+superannuation industry would place additional restraints on trustees and compromise
+the flexibility of the present system. He noted that, in framing its superannuation
+legislation in 1993, government had identified trust law as the appropriate framework
+for regulating superannuation funds, in that the provisions of S52 of SIS largely reflect
+the covenants imposed on a trustee by trust law.23
+5.40 Ms Murphy subsequently backed Mr Edstein’s preference for the retention of
+the SIS legislative regime. In a letter to the Committee she noted that, while
+prescription of a code under the TP A was one method of achieving coverage, ‘SIS is
+already in place and could provide the legislative backing necessary to obtain
+coverage for any industry dispute scheme.’
+In addition, the Australian Competition and Consumer Commission
+(ACCC) is responsible for enforcing codes prescribed under the TPA. It
+would appear anomalous to have the ACCC enforcing a code relevant to the
+financial services industry which, under the new regulatory arrangements
+for the financial services sector, will be the responsibility of the proposed
+Australian Securities and Investments Commission.24
+CLERP
+5.41 Mr John Fox, Australian Securities Commission (ASC), raised the possibility
+of using Corporations Law instead of or in addition to the SIS Act to ensure coverage
+of an industry dispute resolution scheme or other scheme25. An advantage of such an
+approach would be that the use of the uniform state legislation underpinning the
+Corporations Law would avoid the issue of Commonwealth constitutional invalidity.
+5.42 Mr Fox advised the forum that the CLERP initiative might provide a method
+of compelling providers of financial services, including superannuation, to participate
+in a complaints resolution scheme:
+...there is a CLERP proposal that will include as a condition for
+participation in the system if you like, a registration condition that the
+financial participant be party to an approved scheme. Having regard to the
+comments being made about the advantages of potentially building the
+substitute for the SCT on state and territory law as a way of side-stepping
+the constitutional issues, I am flagging that as one route that may be able to
+take advantage of it.26
+23 Evidence, p. 58.
+24 Correspondence to the Committee dated 15 May 1998.
+25 Mr Fox's proposal was originally discussed in the context of the State based scheme suggested by Mr
+George Williams.
+26 Evidence, p. 67.
+
+
+5.43 Mr Fox considered that an advantage of this approach is that it builds on an
+existing legislative framework. 'We are really talking about a few lines of text if we
+are talking about a licence condition.'27 However, Mr Fox emphasised that this is an
+untested proposal, and there are a number of issues that the Government would have
+to resolve.
+5.44 One of the issues to which Mr Fox referred is the problem of interposing
+trustees into such an arrangement. (See para 5.26 above, also see following section on
+enforcement)
+5.45 ASFA opposes this proposal. ASF A considers that a licence provision under
+CLERP requiring trustees to participate in a disputes resolution scheme would fail to
+'adequately address the special features of superannuation and the trustees'. Ms Smith
+concluded:
+The CLERP proposal seeks, wherever possible, to harmonise between
+industries, products and services. In the case of superannuation, ASFA does
+not believe that this is appropriate.28
+Enforcement and certainty
+Introduction
+5.46 Coverage and enforcement are separate but closely related issues. As
+discussed in the preceding section, the forum identified a number of possible methods
+of ensuring general coverage by an industry based complaints body. There is,
+however, some doubt as to whether these methods may also be used to enforce
+determinations of the body.
+5.47 The Federal Court decision in Wilkinson V CARE established a link between
+enforcement of SCT decisions and the exercise of judicial power. If federal legislation
+enforces an industry scheme's decisions, the body may face similar legal challenge to
+that which removed the SCT's powers.
+5.48 A possible conflict with trustees' duties may also arise, as Trust law generally
+prevents trustees from accepting directions from third parties (see para 5.26).
+5.49 The following section of this report examines the forum's views on these
+issues.
+27 Evidence, p. 69.
+28 Correspondence dated 15 May 1998. p. 7.
+
+
+Enforcement, judicial power and trustee responsibilities
+5.50 The forum identified enforcement as the major shortcoming of the industry
+body option. Mr David Maclean identified the scope of the judicial power problem as
+it relates to enforcement of decisions by an industry based complaints body:
+Industry bodies generally have a dilemma. If the tmstee is bound as a result
+of a federal statute to comply with the determination of whatever industry
+body it is, then that will open up the judicial power arguments.29
+5.51 Mr Maclean pointed out that even if the judicial power problem is avoided by
+not binding the trustee to decisions, difficulties may arise in respect of trustee's
+obligations:
+If the trustee is not bound, then the trustee cannot act on it because to act on
+it would be a breach of trust.30
+5.52 Effectively, this combination of difficulties poses major enforcement
+problems for an industry body.
+5.53 Mr Andrew Rogers QC described how decisions might be made binding. In
+the arrangement he outlined, the trustees would be required to participate in the
+scheme through legislation and be bound to accept the body's decisions under separate
+contractual arrangements:
+...the obligation to participate is legislated but the obligation to comply with
+the result of the dispute resolution process is contractual."1
+5.54 However, Mr George Williams considered that indirect enforcement of
+decisions using contractual arrangements might still be open to challenge. In his view,
+this rules out any attempt to require compliance through legislation:
+If it simply involves the imposition of a contract or the imposition of some
+other legislative means of ensuring enforcement, the odds are that a court
+would look through that and say that indeed this is exactly what has been
+done previously and found to be invalid via some other attempt, so I think it
+really comes down to the idea that it is not likely to be feasible, under the
+law as it currently stands, to have a legislative based power of enforcement
+for a non-judicial body. I think that is what the law is telling us.32
+5.55 The forum discussions indicate that enforcement is difficult to achieve
+through legislation. However, this does not necessarily mean that industry schemes
+29 Evidence, p. 47.
+30 Evidence, p. 47.
+31 Evidence, p. 46.
+32 Evidence, p. 50
+
+
+can be ruled out, as voluntary schemes, which rely solely on contractual arrangements
+to bind members to the scheme's decisions, apparently function successfully.
+5.56 Mr John Larkin also cautioned against overemphasising the potential
+difficulties associated with enforcement of determinations:
+The fact that you cannot legislate for the enforcement of determinations
+should not be overemphasised as a constraint on the option because with
+sufficient industry ownership, peer pressure and accountability within the
+private sector, those forces can operate to ensure a high level of compliance
+anyway, as they do at present in current industry based schemes.33
+5.57 Mr Neil Wilkinson, however, questioned whether the success of voluntary
+industry schemes could be replicated without legally enforceable determinations in the
+wider field of superannuation.
+I think we slid over the issue of enforcement in relation to industry or
+private bodies on the basis that there is not a problem at the moment with
+those bodies which are dealing with a small group w'hich voluntarily
+becomes part of the scheme. What we are dealing with is a much larger
+group, an enormous, very diverse group, where there is no industry' body.
+ASFA represents certain people, IFSA represents certain people and IFF
+represents certain people. There is overlapping between all of these, and
+there are some that are not attached effectively anywhere. The enforcement
+under either scheme seems to me a risk area, notwithstanding the experience
+that Paul Bean referred to.34
+Funding
+5.58 Funding for private industry based dispute resolutions schemes, such as the
+LICS and the TIO, is the responsibility of their member companies. At the TIO, for
+example, each member meets the direct cost of cases raised against it, together with a
+proportion of the overhead and capital expenses based on its percentage of total
+complaints to the scheme.35
+5.59 The Commonwealth Government funds the existing superannuation disputes
+resolution mechanism, the SCT, from part of the proceeds of an annual supervisory
+lew on superannuation entities. The net cost of SCT operations for the 1996-97
+financial year was $2 284 000.j6
+5.60 At the forum, industry participants stressed from the outset of the discussions
+that their support for an industry based dispute resolution body was conditional on the
+33 Evidence, p. 51.
+34 Evidence, p. 67.
+35 Telecommunications Industry Ombudsman 1997 Annual Report, p. 48.
+36 Superannuation Complaints Tribunal Annual Report 1996-97, p. 103.
+
+
+option being cost neutral to industry. In her briefing on the outcome of earlier
+industry workshops in the wake of the SCT impasse, Ms Philippa Smith of ASFA
+conveyed general industry sentiment that superannuation providers should not face
+additional imposts for the establishment or funding of any proposed alternative
+disputes body.
+There was one caveat ffom the industry perspective, you will notice the big
+'No'. We were saying that this should not be of additional cost to the
+industry. A levy is already raised and, if we do pursue an industry
+alternative option, we say the money already raised by that levy should be
+utilised for both the establishment and ongoing operation of any industry
+alternative. I have to stress that that is a very real caveat from the industry's
+perspective.37
+5.61 Noting the significant cost38 carried by members of other industry dispute
+resolution tribunals, Mr Andrew Fairley sought clarification from government
+representatives as to whether portion of the monies collected through superannuation
+fund levies could be used to fund a private scheme.
+5.62 Mr John Larkin advised the forum that, although talk about funding an
+industry based scheme was premature, various options, including ‘a corresponding
+reduction in the levy for superannuation funds’ could be explored/9
+5.63 Citing existing precedents of governments to private sector bodies, Ms Lynn
+Ralph of IFSA proposed two funding options:
+The first choice is you take the money that is currently being allocated to the
+scheme and the levy that is being raised for it and the government makes a
+contribution to the body.which seems to me to be the easiest way or
+alternatively the SIS levy is reduced accordingly and it is left to the industry
+and all the stakeholders involved to start to argue about who is going to pay
+what...40
+5.64 In discussing the mechanics of various funding methods for a private scheme,
+industry representatives were concerned that all sections of the industry share costs
+equitably. Mr Fairley proposed a ‘user-pays’ scheme whereby all funds would pay a
+reduced levy and then meet the cost of any complaints against that fund.
+5.65 Mr Michael Lillicrap, general manager of REST, acknowledged that large
+funds like REST generally pay more than smaller funds under the present SCT levy
+scheme. However, he cautioned that the high cost likely to be faced by funds with
+37 Evidence, p. 8.
+38 For example, members of LICS paid fees totalling SI 029 000 in the year ended 31/12/97. LICS Annual
+Review 1997, p. 40.
+39 Evidence, p. 43.
+40 Evidence, p. 45.
+
+
+large memberships (and consequently higher complaint rates) under a case-by-case
+‘user-pays' principle could act as a disincentive for effective complaints resolution.
+One of the things I believe should be avoided is a case-by-case, user-pays
+principle because that has the consequence that each time the fund is facing
+a decision about what to do when somebody registers a complaint, if you
+build the hurdle of cost for it high enough, it simply does not bother to take
+any action on large numbers of complaints the same thing that happens in
+the court system now where, if you are facing a very large cost, you simply
+give in, and people use that to their own advantage. 41
+Evaluation
+5.66 The major shortcoming of this option is uncertainty about whether
+determinations can be made binding on the trustee. The use of a combination of
+statutory codes of practice requiring membership of a disputes resolution body and
+contractual arrangements for enforcement purposes appears to offer a reasonable
+solution. However, difficulties associated with resolving superannuation disputes
+through voluntary mechanisms should not be underestimated.
+5.67 While industry strongly supports the overall concept of this option, there is no
+apparent agreement within the industry as to the most appropriate model. This is a
+major obstacle to its implementation.
+5.68 Unless structured with great care, an industry scheme may also carry with it
+the difficulty of a perceived lack of independence - the industry sitting in judgement
+on the behaviour of its own members. Even with this caution, such perceptions can be
+fatal to independence.
+5.69 The question of funding is also critical to the viability of this option. It is clear
+that the industry's support for the option is strictly conditional on there being no extra
+cost to industry.
+Conclusions
+5.70 There is little doubt that an industry based complaints resolution body is a
+potentially viable alternative to the SCT. Sufficient examples of such a body already
+exist in Australia and elsewhere to demonstrate that the concept can work
+successfully.
+5.71 However, the Committee is of the view that the Government should only
+support this option if questions about enforcement can be resolved and the industry
+agrees on an appropriate model.
+41 Evidence, p. 49.
+
+
+
+
+CHAPTER 6
+RECONSTITUTE THE SCT
+AS PART OF THE FEDERAL COURT
+Outline of the option
+6.1 The second method of providing a dispute resolution mechanism considered
+by the forum participants was to reconstitute the tribunal as a division within the
+Federal Court of Australia. Under this proposal, the existing Superannuation
+Complaints Tribunal would be abolished, with the new division of the Federal Court
+established in its place.
+6.2 The background paper prepared by IFS Fairley described how the new
+division might work in practice. The paper envisaged that much of the work of the
+new superannuation complaints division could be undertaken by judicial registrars,
+under powers delegated by the court. Judges of the Court would supervise the
+activities of the registrars. Persons having matters determined by a registrar also retain
+a constitutional right to a fresh hearing of any decision by a judge.
+6.3 The paper also envisaged a monetary limit on cases that the registrars could
+consider, with cases concerning amounts over the limit being transferred to a federal
+court judge for determination.
+Precedent
+6.4 There is a precedent for establishing such a mechanism within the Federal
+Court. Under the Workplace Relations Act, jurisdiction was transferred from the
+Industrial Relations Court to the Federal Court and the Court has established a system
+under which Judicial Registrars conduct hearings.
+6.5 The jurisdiction of Federal Court registrars in respect of the Workplace
+Relations Act includes claims of unlawful termination of employment and money
+claims of up to $10 000. The registrars also have jurisdiction in respect of other
+matters before the Federal Court where the value of the subject matter does not exceed
+$100 000.1
+6.6 A system of judicial registrars also operates under the Family Law Act. The
+validity of the registrar system under the Family Law Act has been challenged in the
+High Court, which confirmed the existence of the power to delegate judicial power to
+the registrars, subject to certain limits.
+1
+Correspondence from Mr M Damien Murphy, Judicial Registrar, Federal Court of Australia and
+Industrial Relations Court of Australia, dated 7 May 1998.
+
+
+Chapter 6
+Forum views
+6.7 In Wilkinson V CARE, the High Court found that the SCT had improperly
+exercised judicial power, in breach of the Constitution. Creation of a division of the
+Federal Court for resolving superannuation complaints, where the power exercised is
+expressly judicial, is therefore a logical method of ensuring that a superannuation
+dispute resolution mechanism is beyond constitutional challenge.
+6.8 However, consumer and industry representatives strongly opposed this option,
+as did a number of other forum participants. The option gained some support from
+others, particularly those from within the legal profession.
+6.9 The major reasons associated with opposition to this option appear to be a
+perception that any option associated with a court would be expensive, slow and
+legalistic.
+Opposing views
+6.10 Representing the Consumers Federation of Australia, Mr John Berrill
+reminded forum participants that a major reason for establishing the SCT was to
+provide an alternative to the traditional court system. He said that the court system,
+particularly in respect of superannuation issues had been '...too expensive, too slow,
+too legalistic and it has certainly not been user friendly.' He also expressed concern
+about the possibility of a fresh hearing before a judge, in the event that one party to a
+complaint is dissatisfied with a registrar's decision:
+The idea of a de novo appeal review before a federal judge, with the cost
+and time implications that will have, appears very unattractive to us.2
+6.11 Mr Steve Gibbs of the Australian Institute of Superannuation Trustees also
+considered the court option undesirable, as he thought that having to take a complaint
+to a court would deter complainants:
+If you have a system where people have to make complaints to the Federal
+Court, no matter what process is then put in place to deal with them, you
+will largely solve the problem of superannuation complaints, because
+no-one will make them. The mere fact of having to make them to a body
+like the Federal Court will militate against people making them....I think the
+Federal Court alternative is the least preferable of the ones that I have
+heard.3
+6.12 Ms Jenny Lawton of the Carlton & Fitzroy Financial Counselling Service
+considered that any consideration of the court option also required consideration of
+how people would get adequate legal advice and representation. She advised that the
+2 Evidence, p. 12.
+3 Evidence, p. 54.
+
+
+general lack of legal aid resources weighed against this option for most fund
+members:
+...it is completely pointless to imagine that that would be a viable dispute
+resolution forum for the majority of working people in superannuation funds
+and their dependants, howsoever styled. It would be completely pointless to
+continue to canvass the Federal Court option without also canvassing how to
+ensure that people get adequate legal advice and representation. As a person
+who advises people on an almost daily basis about their financial problems,
+I can assure you that, with the status of Legal Aid and of other community
+organisations in this country, that is just not possible.4
+6.13 Mr Michael Lillicrap, who represented the Industry Funds Forum, also
+criticised the assumption that placing complaints within the jurisdiction of a court
+would produce a sounder legal outcome. He recounted his experience in courts as
+General Manager of REST, and compared these experiences with his encounters with
+the SCT:
+I have to say - without intending any disrespect for the legal system - that it
+is rare to find anyone in a court case, whether it be the barristers, the
+solicitors or the judge, who understands any of the issues in the courts I
+have been in.5
+... I cannot say I ever walk away from a tribunal decision feeling it was
+irrational and incomprehensible. That is my almost invariable reaction when
+I walk away from a court.6
+6.14 The Hon. Andrew Rogers QC, a former judge, also spoke against the courts
+option:
+It seems to me, if I may say so, that if you can get away from the court
+system and get these complaints into a dispute resolution mechanism which
+has as little involvement with legalism and lawyers as possible, you are
+travelling down the right path. For almost 50 years I have been a lawyer, but
+that has not convinced me that that is really a great way of resolving
+disputes. Sometimes you need them; sometimes you do not.7
+Views in support
+6.15 While many forum participants spoke against the court option, several of the
+representatives of the legal profession who were present defended the role of the
+courts in the dispute resolution process.
+4
+Evidence, p. 55.
+5 Evidence, p. 56.
+6 Evidence, p. 56.
+Evidence, p. 18.
+7
+
+
+6.16 Mr John Morgan, representing the Law Council Superannuation Committee,
+wrote to the Chairman of the Committee prior to the forum, arguing that this
+possibility offered the best method of addressing the judicial decisions problem and
+providing a constitutionally sound method of resolving superannuation disputes. He
+wrote that 'The way to avoid doubt over what is judicial power is to give the function
+to a real court'. He continued:
+Courts also happen to be the best form of dispensing justice that western
+society has been able to devise over the last 400 years, and I do not see why
+superannuation fund members should be given anything less. They should
+be entitled to the independence and quality of adjudication that a real court
+provides.8
+6.17 Mr Morgan acknowledged that costs and time delays had been a problem, but
+that these issues could be addressed in a new structure through the following
+measures:
+• The court's rules could preclude awards of costs;
+• The division (of the court) should specialise in superannuation complaints;
+• The court's procedural rules could be designed to make 80% of the progress in
+20% of the time. For instance, the judge could be given discretions to be
+interrogatory in procedure (rather than strictly adversarial) and, if need be, to
+relax rules of evidence where appropriate;
+• Asa safeguard, parties could be given the right to appeal the facts as well as the
+law - in case these more expedient first instance procedures resulted in defects.
+The right to appeal the facts may have to be only with leave from the appellate
+court, but there should be some assurance that the purity of the adversarial
+system could prevail;
+• A duty solicitor could be appointed to assist parties with their claims; and
+• A mediation function could operate as with most courts already.
+6.18 An important feature of Mr Morgan's proposal is that the provisions of the SIS
+legislation would need to be amended to ensure that trustees, in making decisions,
+exercised their discretionary powers on a "fair and reasonable" basis. Amending SIS
+to impose this standard allows Courts to review the substance of how a trustee
+exercised a discretionary power, and not just the correctness of the process the trustee
+went through to exercise that power.9
+6.19 Mr Morgan reinforced his written comments at the forum. He agreed that
+there wras no need for a full court hearing in minor disputes, which could be resolved
+in a small claims tribunal. However, he reminded the forum that:
+8 Correspondence to Senator Watson, 27 April 1998.
+9 Correspondence to Senator Watson, 27 April 1998, p. 2.
+
+
+I think there axe also very complex disputes. There have been a number of
+comments about lawyers and I cannot resist responding to them; but I must
+admit they sound to me a little bit like saying that, in a disability claim
+involving the assessment of medical matters, you should not actually ask a
+medical man about it. A lot of issues relating to superannuation do involve
+legal issues, and I think that the legal methods and systems and lawyers can
+assist in that process.10
+6.20 Several other representatives of the legal profession present at the forum also
+spoke in favor of the court option. Mr George Raitt of Blake Dawson Waldron
+attacked the view that courts by their nature must be expensive and inaccessible:
+... there is no rule in the constitution that to be a court it must be too slow
+and expensive to be helpful.11
+6.21 Mr Andrew Fairley made a similar point, that the forum participants were
+concentrating on the experience of current Federal Court processes which would not
+necessarily be replicated in the proposed new division of the Court:
+I do not think that would necessarily be the case in circumstances where you
+were able to get the federal court to establish a system of registrars who
+were then able to be accompanied by a set of rules that were actually drafted
+so that they were massively accessible by complainants. So you are really
+looking at quite a different body from the Federal Court processes that you
+might have in your mind today, with the usual discovery and interrogatory
+processes and so on.1"
+Limitations
+6.22 Mr Dennis Rose AM QC, of Blake Dawson Waldron, identified a possible
+limitation of the court option. He said that if the new division were to be established, it
+would be constitutionally limited to making decisions of a judicial nature. If the
+Government's High Court appeal succeeds and the Court finds that the SCT's exercise
+of power was non-judicial, this may create problems for a division of the Federal
+Court intended to hear superannuation complaints.
+6.23 Mr Rose was also of the view that the power of the SCT to make a decision as
+if it were a trustee in substitution for the decision of the original trustee is not a
+judicial function.13 It follows that the division of the Federal Court would have to
+operate on a quite different basis to the current SCT.
+10 Evidence, p. 52.
+11 Evidence, p. 56.
+12 Evidence, p. 56.
+13 Evidence, p. 51.
+
+
+6.24 Mr George Williams, Barrister, Senior Lecturer in Law and Fellow, The
+Australian National University, agreed with Mr Rose's opinion, noting that it would be
+necessary to exercise care in legislative change to ensure that the new body exercised
+judicial power as opposed to non-judicial power. He also suggested that establishing
+the new body might be more complex than expected, requiring 'a greater
+reconstruction than has been suggested in the papers'.14
+Evaluation
+6.25 This option scores well in terms of providing a high level of independence,
+procedural fairness and certainty about the constitutional soundness of decisions.
+However, as noted by Mr Rose and Mr Williams, it would be necessary to exercise
+care to ensure the decisions required and taken are of a judicial nature.
+6.26 However, forum participants disagreed about whether certainty should be an
+over-riding priority. As noted by Mr George Williams (at paragraphs 3.9 and 3.10),
+there is a risk that other criteria might be compromised.
+6.27 There is some doubt as to whether the option satisfies the criteria of economy
+and speed. While Mr John Morgan has proposed a number of methods of streamlining
+court processes, it remains to be seen if these proposals could address potential
+difficulties in this area.
+6.28 Economy may be particularly affected by the right to a de novo (fresh)
+hearing, which creates the potential for a duplication of the complaints hearing
+process with associated costs. The experience in the Federal Court suggests that a
+considerable proportion of complaints will proceed to such a hearing, inevitably
+involving complainants in a full court process. Material supplied to the Committee
+shows that of the 926 cases that judicial registrars finalised in 1996-97, approximately
+25 per cent proceeded to review.15
+6.29 If there is a likelihood that a major proportion of complaints proceed to
+review before a judge, it is difficult to argue that this option can adequately satisfy the
+economy criterion, as presumably such a review would require representation, at
+considerable cost to trustees and complainants.
+Conclusions
+6.30 As noted in Chapter 1 of this report, the predominant view expressed during
+the Committee's first inquiry supported establishing a dispute resolution mechanism
+that 'avoided the courts as far as possible'. In Safeguarding Super, the Committee
+14 Evidence, p. 15.
+15 Correspondence from Mr M. Damien Murphy, Judicial Registrar, Federal Court of Australia, Melbourne,
+dated 7 May 1998.
+
+
+noted that the cost of litigation in the courts was so high that it offered no real rights to
+members16.
+6.31 During and after the forum, the Committee received evidence that the
+perceived shortcomings of resolving superannuation complaints within the Federal
+Court structure can be overcome. Flowever, it was clear during the forum that industry
+and consumer group opposition to the option is deeply entrenched.
+6.32 While reconstituting the SCT as part of the Federal Court may offer greater
+certainty than other options, unless industry and consumer reservations can be
+comprehensively addressed, the option cannot be considered acceptable at this time.
+16 Safeguarding Super - the regulation of Superannuation, First Report of the Select Committee on
+Superannuation, June 1992, p. 136.
+
+
+
+
+CHAPTER 7
+AMEND THE COMPLAINTS ACT
+AND OTHER LEGISLATION
+Outline of the option
+7.1 The third option considered by the forum was to amend the Superannuation
+(Resolution of Complaints) Act 1993 (the Complaints Act), the Superannuation
+Industry (Supervision) Act 1993 (SIS) and the Retirement Savings Accounts Act 1997
+(RSA Act). The objective of these amendments would be to reconstitute the SCT
+under amended legislation designed to avoid the problems identified in the Federal
+Court decision.
+7.2 In its decision, the Court identified two issues that have since prevented the
+SCT from exercising its determination making powers. These were that:
+• the functions conferred on the SCT by the Complaints Act to review
+trustees' and insurers' decisions constitute an invalid conferral of the
+Commonwealth's judicial power under the Constitution; and
+• the legislation does not entitle the SCT to review non-discretionary trustee
+decisions.
+7.3 In order to address the Court's finding, the Government would need to amend
+the legislation to give the Tribunal the power to conduct a full merits based review of
+trustees' decisions without the present threshold test of whether the trustee's decision
+is "fair and reasonable", as currently required under S 14(2) and S37 of the Complaints
+Act.
+7.4 Under a merits based review, the decision of the tribunal would be made
+exactly as if it were a trustee making the decision for the first time. Mr Dennis Rose
+AM QC described how this might work in practice:
+If, of course, it is decided that the actual trustee's decision was
+inappropriate, the tribunal would then make a decision as if it were the
+trustee. The legislation would provide that, for all purposes, the decision of
+the tribunal should be treated as if it were the decision of a trustee.1
+1 Evidence, p. 64.
+
+
+Chapter 7
+7.5 Mr Rose further explained that putting the Tribunal in the same position as the
+trustee would permit the Tribunal to deal with both discretionary and non-
+discretionary decisions.2
+7.6 Mr Rose and Mr George Raitt also outlined further safeguards that may have
+to be included in the amended legislation to ensure that the powers exercised by the
+reconstituted Tribunal could not be held to be judicial in nature. They suggested that
+the amendments would be in terms needed to ensure that each party' has the option of
+having the matter determined by the Superannuation Complaints Tribunal or a court.
+Under this proposal, a complainant would have the option of going either to the
+Tribunal or a court, and the trustee would have a right to have proceedings removed
+from the Tribunal into a court.
+7.7 Mr Rose and Mr Raitt advised that their opinion is strongly supported by a
+High Court decision in Shell Co of Australia Ltd v Federal Commissioner of Taxation
+(1930) 44 CLR 530 at 544-545, concerning the former Taxation Boards of Review/
+7.8 Amendments to SIS and the RSA Act may also be required to address the
+manner in which tribunal determinations may be enforced.
+Forum views
+7.9 Forum discussion on this option focussed principally on whether legislative
+change could achieve a reasonable degree of certainty that the reconstituted tribunal
+would not be subject to further constitutional challenge. Other issues considered by
+the forum included:
+• The "fair and reasonable" test and trustee responsibilities;
+• Enforcement; and
+• Shortcomings of the SCT.
+Certainty
+7.10 Mr John Larkin, Assistant Commissioner, Policy, Insurance and
+Superannuation Commission, advised the forum that an advantage of this option is
+that it preserves the existing tribunal infrastructure with its public profile and familiar
+procedures and enables continuity of the complaints on hand. However, he
+acknowledged that a disadvantage of the option is that there will continue to be some
+risk of further legal challenge to the tribunal, as the option addresses some but not all
+of the cumulative factors that led to the Full Federal Court majority judgment.4
+2 Correspondence, 22 May 1998.
+3 Correspondence, 22 May 1998.
+4 Evidence, p. 4.
+
+
+7.11 Mr Neil Wilkinson, Chairperson of the SCT, advised the forum that the
+Attorney-General's Department had provided advice to the effect that re-establishing
+the SCT as a merits review body 'was probably a viable way to go in a legislative
+cure'.5
+7.12 Representing the Consumers Federation of Australia, Mr John Berrill
+apparently gave greater weight to ensuring a speedy solution rather than guaranteeing
+absolute certainty. He expressed support for using an existing structure, either the SCT
+or the Life Insurance Complaints Service, for dispute resolution purposes:
+It is certainly our preference for a solution that does not involve major
+legislative redrafting. Therefore, we think that the use of existing
+mechanisms and structures such as the Superannuation Complaints Tribunal
+or the Life Insurance Complaints Service are preferable. If you are
+establishing a completely new system with new infrastructure it is going to
+take a lot of time and that is an undesirable result.6
+7.13 Mr George Williams expressed the view that, with modification, this option
+offers the best method of attempting to maintain the system as it existed prior to the
+Federal Court's decision. However, he cautioned that while amendments to the act
+could attempt to insulate the tribunal from challenge in the courts, some uncertainty
+would inevitably remain:
+...in doing that it is important to realise that that is a risk management
+process. I do not think any legal adviser could say that there is a way of
+insulating the body completely from legal challenge without perhaps taking
+away the very power that it needs to operate.7
+7.14 Mr Andrew Fairley and others were of the view that certainty is an issue of
+over-riding importance:
+Of all the essential elements for any alternative superannuation complaints
+process, probably the overriding important one is that it simply be
+unassailable in the courts. I do not believe that the government can afford to
+be going forward with a scheme that simply is unclear and in a year or two
+or three years time, we are back in exactly the same situation as we are in
+today.8
+7.15 Ms Philippa Smith, Chief Executive Officer, Association of Superannuation
+Funds of Australia (ASFA) summed up her organisation's views in respect of
+constitutional certainty:
+5 Evidence, p. 9.
+6 Evidence, p. 12.
+7 Evidence, p. 61.
+8 Evidence, p. 10.
+
+
+On the basis of current constitutional advice, there is sufficient uncertainty
+as to whether the SCT would be properly constitutionally constituted and
+thus able to withstand another legal challenge, even if amended. The only
+way of definitively knowing whether this would be within the powers of the
+constitution would be to wait for the High Court's decision of the appeal
+9
+case.
+7.16 The viability of this option depends ultimately on how much weight the
+Government and other affected parties wish to place on constitutional certainty. In the
+Committee's view, Mr George Williams summed up the situation succinctly:
+One is that we should be dealing with a body that must be unassailable from
+constitutional challenge, and to my mind that is set far too high as a
+criterion. I think it is almost impossible to ever establish a body like this,
+given recent High Court decisions, that could be described as unassailable.
+....I think you also need to see that there is a degree of risk management
+here. You should not set the level of certainty so high that you do away with
+the other criteria, such as establishing a body which is fair, economical,
+informal and quick.10
+The "fair and reasonable" test and trustee responsibilities
+7.17 It is generally acknowledged that if the SCT is to be validly reconstituted
+through amendments to the Complaints Act under this option, it will probably be
+necessary to remove the threshold test as to whether the trustee's decision was "fair
+and reasonable".
+7.18 Ms Philippa Smith advised the forum that the prospective removal of the
+words "fair and reasonable" is of concern to ASFA.11 Ms Smith subsequently wrote to
+the Chairman of the Committee, expressing concern that by moving to a full merits
+review body, the SCT would gradually adopt a legalistic approach, similar to that of
+the Administrative Appeals Tribunal.
+7.19 Ms Smith emphasised that resolution of superannuation complaints requires
+"flexible, informal and accessible" disputes handling procedures. She was of the view
+that moving towards a more legalistic approach "would not adequately meet the needs
+of consumers nor fund participants".12
+7.20 Ms Smith identified an additional risk for trustees if the threshold test of "fair
+and reasonable" is removed:
+9 Correspondence, 15 May 1998.
+10 Evidence, p. 15.
+11 Evidence, p. 8.
+12 Correspondence, 15 May 1998.
+
+
+I see a problem if we are thinking of a merits review body which will stand
+in the shoes of a trustee, without the words ‘fair and reasonable' being there;
+because you are then creating a real risk of double jeopardy from the
+trustee's point of view, which has to be considered.13
+7.21 Mr George Williams also addressed “fair and reasonable” criteria. He said
+that there were two options available. These were to:
+• remove those criteria entirely and replace them with explicitly policy based
+objectives; or
+• retain the fairness and reasonableness criteria but make it clear that those criteria
+were commercial rather than legal criteria.
+7.22 Referring to the latter option, he offered the opinion that while this is a
+'halfway' solution, it goes some way toward avoiding the problems identified by the
+Federal Court.14
+7.23 Questioned about the policy objectives that might be adopted in the absence
+of the "fair and reasonable" criteria, he suggested that these might be determined in
+accordance with what trustees and beneficiaries saw as objectives in resolving
+disputes:
+I would suggest that maybe the industry could determine certain policy
+objectives beyond simplv fair and reasonable objectives which were policy
+rather than legal criteria. 5
+7.24 Some forum participants did not see the removal of the "fair and reasonable"
+criteria as disadvantageous, pointing to a current inconsistency between the duties of
+trustees and the application of these criteria under the Complaints Act. Mr John
+Edstein pointed out that the general law' does not require a trustee to be fair or
+reasonable:
+We have in part come to grief because of that. It is incredibly difficult
+advising a trustee who is trying to behave as a proper fiduciary and then
+have this overlay test of being fair and reasonable as well.16
+7.25 Mr John Morgan continued this theme. He considered that there is a need for
+a greater degree of symmetry between the review method and trustee's duties:
+If we are to change the duties of the trustee, that ought to be done expressly.
+That raises the issue of fairness and reasonableness. We can enter a legal
+debate about the duty of a trustee in making a decision and how that lines up
+13 Evidence, p. 21.
+14 Evidence, p. 61.
+15 Evidence, p. 63.
+16 Evidence, p. 58.
+
+
+with a general administrative law duty of fairness and reasonableness or
+procedural fairness or merit or fairness in its full merit sense but the trustees,
+when they make their decision, must be able to do so confidently, knowing
+what the test is that is going to be applied and that it is the same test which
+they are required to apply. 17
+Enforcement
+7.26 In its decision that any exercise by the SCT of its determination making
+power was an invalid exercise of the judicial power of the Commonwealth, the
+Federal Court majority decision relied, in part, on the view that the Tribunal's
+determinations are enforceable by civil injunctions and criminal penalties.
+7.27 While the SCT had no power to enforce its own decisions, its determinations
+were nonetheless indirectly enforceable using a number of mechanisms. As noted by
+Mr George Williams, the SIS Act provides effective machinery for the enforcement of
+determinations by the Tribunal whereby a decision of the Tribunal can be enforced by
+civil injunction and criminal penalty. It is irrelevant that the SCT Act does not do the
+actual enforcing or that its determination takes effect as a decision of the trustee.18
+7.28 In the background paper prepared for the Committee, Mr Andrew Fairley also
+identified a range of enforcement mechanisms including:
+• it is an operating standard under SIS and its Regulations for trustees to comply
+with determinations of the Tribunal;
+• it is an offence under S34(2) of SIS for the trustees to fail to comply with the
+determination;
+• persons affected by a determination of the Insurance and Superannuation
+Commissioner (ISC) can seek an injunction from the Federal Court to compel
+the carrying-out of a determination (S315 of SIS);
+• S65 of the Complaints Act requires the Tribunal to report to the ISC any non-
+compliance with the determination by a trustee, and the ISC can determine to
+investigate;
+• since a determination takes effect as a new decision of the trustees, the
+determination is enforceable on that basis in the State Supreme Courts; and
+• court action can be commenced under S289(3), S313(1 A) by the ISC, or an
+investigation can be commenced under S263 of SIS.19
+17 Evidence, p.11-12.
+18 George Williams, The end of the roadfor the Superannuation Complaints Tribunal, 1998, p. 7.
+19 Background paper, p. 1.
+
+
+7.29 A consequence of the Federal Court decision therefore is that a reconstituted
+SCT or its replacement must be seen to be incapable of enforcing its decisions, as this
+enforcement may be held by the Courts to be an exercise of judicial powers.
+7.30 The question therefore arises as to how trustees may be obliged to implement
+decisions of a reconstituted tribunal or other body without invoking judicial powers.
+As noted by Mr George Williams:
+It is a fundamental weakness of this option. The Commonwealth can create
+bodies such as the SCT as forums for the resolution of disputes but it cannot
+give such bodies the power to make their decisions binding. The power of
+enforcement lies solely with the Courts.20
+7.31 Mr George Raitt considered that in the situation where a recalcitrant trustee
+decides not to appeal but not to implement the decision of the tribunal, the reasoning
+of Sundberg J in the Federal Court decision suggests that there is still judicial
+discretion as to whether to compel the trustee to carry out the decision. It does not
+follow' that the decision will be enforced automatically. However, Mr Raitt considered
+that it was still possible to compel the trustee to carry out the decision without
+invoking judicial powers:
+It seems to me that that could be provided for by putting a high burden on
+the trustee to demonstrate that, although he has not appealed within the
+statutory' procedure, nevertheless, there is some overriding defect which
+ought to prevent the court awarding enforcement. It seems to me that the
+costs of that action ought to be the costs of the fund because, after all, the
+trustee faced with the decision has not done the proper thing and appealed
+but has refused to carry it out. I would have thought, with those burden of
+proof issues and costs issues, enforcement, strictly in accordance with the
+constitution, ought not be an insurmountable problem.21
+7.32 Mr Raitt further addressed the enforcement issue in a paper submitted to the
+Committee. He advised that he could see no reason why a decision of the SCT on a
+merits review ought not to be binding and take effect as a decision of the trustee under
+the governing rules of the trust, having no higher status in law than an ordinary trustee
+decision. Mr Raitt concluded that in his opinion, the matter could be clarified by
+amending legislation.22
+7.33 Mr Neil Wilkinson distributed a paper on SCT enforcement proceedings to
+the forum participants. The paper notes that the Court, in all cases, is required to turn
+its mind to the question of whether a particular matter should be enforced, indicating
+that decisions of the tribunal are not ‘automatically’ enforceable. He advised the
+20 George Williams, The end of the roadfor the Superannuation Complaints Tribunal, 1998, p. 10.
+21 Evidence, p. 66.
+22 George Raitt, Complaints resolution mechanisms in the superannuation industry and the issue of judicial
+power, a paper prepared for the Law Institute of Victoria Journal, p. 7.
+
+
+forum that, notwithstanding the Federal Court's ruling on the existing enforcement
+scheme, the tribunal believes that enforcement can be dealt with under the proposed
+merits review approach by amendments to various provisions by:
+...strengthening the text of the relevant provisions so as to make it clear that
+the enforcement of SCT decisions is dependent upon the discretion of the
+Court and that the Court is obliged to exercise that discretion in every
+case.23
+Shortcomings of the SCT
+7.34 Ms Lyn Ralph, Executive Director of the Investment and Financial Services
+Association, expressed doubts that a re-vamped SCT would meet consumer or
+industry needs. She was of the view that a public sector complaints resolution body
+like the SCT would not be sufficiently responsive to meet changing circumstances and
+that a superior result would be achieved in the private sector:
+Whether we can fix this scheme or not, I fear that in the longer term the
+inflexible ways that unfortunately the public sector sometimes has to operate
+having been there for a while, I know the difference between the way the
+private sector operates and the way the public sector must operate we are
+not going to get the sort of scheme that is going to be responsive to the
+changing times as superannuation evolves in this country. Philosophically,
+the sooner the scheme comes into the private sector, the better/4
+7.35 In the event the Government decides to proceed with the option of retaining
+the SCT under an amended legislative scheme, several forum participants, called for
+change to its operational methods to render it a more user-friendly mechanism. Mr
+John Berrill, noting the need for improved accessibility to the tribunal, said:
+The whole idea of the Superannuation Complaints Tribunal when it was set
+up was as an alternative to the courts, and accessibility was a key element of
+it. We need a system that is less legalistic and bureaucratic as little as
+possible and, in particular, we think that that requires a system that has a
+secretariat that gives general advice and assistance to complainants, many of
+whom will have no idea about superannuation and very little knowledge
+about how to have their matters determined, how to have their complaints
+dealt with and what their rights are.25
+7.36 Mr Berrill's comments reflect a recommendation made by this Committee in
+its 18th report. In that report, the Committee recommended that the Government
+establish a limited Government funded superannuation advice service within existing
+community legal or credit advice centres. The Government rejected this
+23 Superannuation Complaints Tribunal Executive Summary, The Federal Court and the Superannuation
+Complaints Tribunal: Appeals, Judicial Review, Penalties and Enforcement, 27 April 1998, p. 12.
+24 Evidence, p. 44.
+25 Evidence, p. 13.
+
+
+recommendation, arguing that existing measures were in place to assist members of
+superannuation funds with their complaints, including the obligation on the SCT to
+assist a person in making a complaint. The Government's response also asserted that
+regional offices of the SCT assist people who want to make complaints and that the
+SCT can be relied upon to provide accurate and impartial assistance in resolving
+complaints.26
+7.37 The Committee understands that in reality, the SCT offers a very limited
+advice service to potential complainants and that the limited scope of this service is a
+source of industry dissatisfaction with its performance, as reflected in Mr Berrill's
+comments.
+Evaluation
+7.38 The major advantage of adopting this option is that it would provide a level of
+continuity with current operations of the SCT, particularly with regard to
+establishment procedures and cases already in progress. However, the major
+disadvantage is that it is impossible to guarantee constitutional certainty about
+whether future decisions of the Tribunal will suffer further legal challenge in the
+courts.
+7.39 While legal opinion provided to the Committee indicates a degree of
+confidence that the constitutional challenges posed by the Federal Court decision can
+be overcome, the Committee notes comments made by Mr John Larkin in his
+introduction that the option addresses some but not all of the cumulative factors that
+led to the full Federal Court majority judgment about the unconstitutional nature of
+the Tribunal's powers.
+7.40 The Committee is, however, mindful of comments made by Mr George
+Williams that it may not be desirable to give certainty overall priority' in determining
+whether an option should or should not be adopted. In all the options presented there
+must be a degree of risk management. It is therefore apparent that while uncertainty
+afflicts this option, there can be no absolute certainty in respect of the other options.
+7.41 There is also some doubt about whether a reconstituted SCT's decisions can
+be enforced. The same arguments that exist in respect of the industry scheme option
+also apply to the SCT and might be addressed using similar strategies.
+7.42 The extent to which this option would satisfy the criterion of economy
+depends on whether trustees are willing to abide by its decisions. In the event that a
+trustee does not implement a decision of a tribunal but does not appeal against that
+decision, it would appear that a complainant would have to resort to the courts to gain
+enforcement of decisions against recalcitrant trustees.
+26 Government response to the eighteenth report of the Senate Select Committee on Superannuation.
+
+
+7.43 If the Government elects to implement this option and amends the Complaints
+Act and other legislation in accordance with the strategies discussed in this chapter,
+this may improve trustee's views about the way in which the SCT deals with
+complaints. The Committee notes that there has been some criticism of the SCT's
+current criteria used in dealing with complaints. Several commentators have called for
+closer alignment between the way the SCT conducts reviews and trustees discharge
+their responsibilities.
+Conclusion
+7.44 The Committee considers that reviving the SCT through amendments to the
+Superannuation (Resolution of Complaints) Act 1993 and other legislation offers a
+viable alternative for consideration by the Government, if questions about certainty
+and enforcement can be resolved.
+
+
+CHAPTER 8
+STATE BASED BODY
+The option
+8.1 A further option identified during the Forum is to establish a dispute
+resolution body under State legislation. Mr George Williams proposed this alternative
+as a method of insulating the review body from similar constitutional challenge to that
+encountered by the SCT.
+8.2 Mr Williams contended that a body established under State legislation could
+not be found to exercise judicial power in breach of the Constitution because State
+bodies are not subject to the separation of judicial power.
+8.3 Mr Williams considered that this option is subject to a number of limitations.
+These included a fracturing of the superannuation legislation and problems with
+gaining a unified system. However, he outlined a methodology for establishing such a
+body in a way that would assure a degree of certainty and uniformity.
+8.4 In his proposal, the Commonwealth could legislate for the Australian Capital
+Territory to establish a complaints tribunal. The State Parliaments could then pass
+identical complementary legislation. While established by legislation in each State and
+Territory, only one body would be established with a commonality of membership and
+interest across Australia.
+Precedents
+8.5 The Commonwealth and States have co-operated to establish such a body in
+the past. Mr Williams pointed out that this is how the Corporations Scheme works and
+that is exactly how a body similar to the SCT, the Corporations and Securities Panel,
+was established by the Commonwealth in exercising its powers for the Territory.
+8.6 Mr Williams explained that the Commonwealth had adopted this approach
+because the High Court had held for many years that the Commonwealth's exercise of
+power was not subject to judicial power legislation when it is exercising power for the
+Territories. Assuming established legal precedent applies, the body would not be
+subject to the limitations the Federal Court identified.2
+1 Evidence, p. 15.
+2 Evidence, p. 15.
+
+
+Chapter 8
+Forum views
+8.7 Mr Andrew Rogers QC agreed that Mr Williams' proposal is feasible. He
+advised the Forum that the proposal is technically sound but politically difficult:
+For whatever my personal views were, I would think that legally and
+constitutionally the notion that you should have the exercise of the Territory
+power and then adopt it State-wide would be a sound one. How politically
+feasible it is is almost like trying to predict what the High Court is likely to
+decide in a given case.3
+8.8 Mr Steve Gibbs of the AIST considered that, while Mr Williams' option was
+perhaps least likely to suffer constitutional challenge, it would take the longest
+possible time of all the options considered to implement.4
+8.9 Mr Mark Cerche of the Corporate Superannuation Association considered that
+Mr Williams' suggestion was in fact the only effective method for establishing a
+dispute resolution mechanism along the lines of a tribunal. He advised the Forum that
+his Association is concerned principally with certainty. He told the Forum that the
+current uncertainty associated with trustee's decisions is intolerable:
+We are dealing with the property rights of individuals and it is intolerable
+not to know whether the decisions we take are correct or not and then on
+review whether the decision-maker in view of our decisions has the power
+to do so. It simply causes the system to fall into disrepute. So I believe that
+we should aim for legal certainty as the ultimate goal here. If that means that
+the system is not as cheap and efficient as others would like it to be, that is
+the price we have pay for the certainty that property rights demand.5
+8.10 Mr Williams himself cast doubt on whether the State-based alternative was a
+viable option. He told the Forum that
+... I personally doubt whether it is a viable option at the moment, given time
+and given the political willingness to achieve legislation across all of the
+States and the Northern Territory. It may be that five or 10 years down the
+track this is the solution that is left, but it is hard to see that it is viable as
+things currently stand.6
+8.11 Ms Janet Murphy from the Department of Industry, Science and Tourism and
+Consumer Affairs echoed these views in a letter to the Chairman of the Committee,
+following the forum. While acknowledging the constitutional advantage of having the
+Commonwealth create a tribunal in the ACT and ‘copying’ its legislation to the states,
+she emphasised that the time it would take to achieve uniform legislation and the lack
+3
+4
+Evidence, p. 17.
+Evidence, p. 20.
+Evidence, p. 22.
+Evidence, p. 62.
+5
+6
+
+
+of any guarantee that the legislation would remain uniform throughout the States and
+Territories were major disincentives to adopting this option.
+Evaluation against criteria
+8.12 The main attraction of adopting this option is certainty. It is likely that it
+would be free of the constitutional difficulties in relation to the exercise of judicial
+power that have crippled the SCT.
+8.13 Constitutional lawyers at the forum pointed out that the High Court has
+sanctioned similar legislative arrangements in relation to other tribunals, notably the
+Corporations and Securities Panel.
+8.14 The Committee notes, however, the significant difficulties highlighted in
+forum discussion concerning the political difficulties of negotiating and maintaining a
+unified dispute resolution system in the States and Territories.
+8.15 The probable length of time required to implement such a scheme is also a
+major disadvantage.
+Conclusions
+8.16 The Committee considers that this option is sound and offers a high level of
+certainty. However a number of factors militate against its adoption.
+8.17 Firstly, the evidence suggests that there would be a considerable time delay
+before it could be implemented.
+8.18 Secondly, there may be difficulties associated with passing consistent
+legislation through all the State legislatures. Making any future amendments may also
+be a cumbersome and difficult process, as amending legislation would have to pass
+through the Parliaments of each State and Territory.
+8.19 For these reasons, the Committee does not consider the option is viable at this
+time. However, should difficulties associated with the other options prove
+insurmountable, the option should then be re-assessed.
+7
+Correspondence dated 15 May, 1998.
+
+
+
+
+CHAPTER 9
+STATUS OF MATTERS ALREADY DECIDED BY THE SCT
+Introduction
+9.1 Because the SCT has been found to exercise powers without proper authority,
+it may be held that any past decisions it had made are, in fact, invalid. Mr John Larkin
+of the ISC confirmed this view. He advised the Forum that:
+Our view is that compliance with an invalid SCT determination will not
+provide a defence for a trustee in an action for breach of duty. So in other
+words, if a trustee has otherwise breached their fiduciary duty and
+implemented an SCT determination, the full Federal Court ruling will not
+provide the trustee with a defence.
+9.2 However, Mr Larkin emphasised that whether or not trustees encounter
+difficulties as a result of having implemented invalid SCT determinations ultimately
+depends on how they have exercised their fiduciary duties:
+If they have complied with their governing rules and fully complied with
+their fiduciary obligations they seem to be at a pretty low risk of being
+exposed to legal action, but it depends on a case-by-case basis.1
+9.3 Several Forum participants questioned whether the government had given
+consideration to introducing legislation to validate past decisions of the SCT.
+Mr Dennis Rose AM QC advised the Forum that there were precedents for taking this
+course of action. Mr Larkin advised that, at this stage, the Government had not
+considered legislation to validate past decisions.
+9.4 Forum participants expressed a range of different opinions as to whether this
+matter was of sufficient importance to justify special legislation to validate decisions.
+9.5 Mr Michael Lillicrap of REST was of the view that the cases concerned were
+not of sufficient monetary value to justify the expense of introducing legislation. He
+said that REST had nine of the 50 or 60 cases where the Tribunal had varied the
+decision of the trustee. If REST had to pay out on all the nine cases, the total cost
+would be an additional $49 000. He was of the view that it would be infinitely cheaper
+for funds to pay out twice.2
+9.6 Other forum participants disagreed and suggested that the Government look at
+this issue to see whether it could be rectified by a relatively simple piece of legislation
+1 Evidence, p. 69.
+2 Evidence, p. 70.
+
+
+Chapter 9
+or whether it was a more complex matter. Mr David Maclean illustrated how, if
+legislation wasn't passed to validate past decisions, considerable problems could be
+created for trustees. He explained that if a trustee had a decision overturned by the
+Tribunal and acted upon the Tribunal's invalid determination, the trustee would
+probably be obliged to try to get the money back from the beneficiary of the Tribunal's
+decision upon the basis that money had been paid out by mistake. He concluded,
+'legislation, if it can be done, would be a very good idea'.3
+9.7 Mr John Larkin advised that the possibility of a High Court appeal (leave to
+appeal having subsequently been granted) might well be forestalling litigation in
+respect of past SCT decisions. Mr Andrew Fairley agreed, noting that:
+I think it would be a pretty ambitious litigant that would commence
+proceedings before the High Court came to its determination.4
+Conclusion
+9.8 It was clear during the forum that there is some concern about the possibility
+that persons affected by past decisions of the SCT may seek to re-open these
+decisions. The financial impact on the parties to these decisions is unknown. It is also
+unclear where liability may lie or how invalid awards might be recovered, if at all.
+Recommendation
+The Committee recommends that the Government investigate the feasibility of
+introducing legislation to validate past decisions of the SCT.
+3 Evidence, p. 71.
+4 Evidence, p. 71.
+
+
+CHAPTER 10
+CONCLUSIONS
+10.1 The Committee considers that there is both a need and considerable support
+for an interim solution to the current impasse, pending identification of a longer-term
+solution to the problem. The most feasible interim solution appears to be to introduce
+legislation allowing the SCT to arbitrate disputes by consent.
+10.2 In the longer term, there appears to be two viable options available to the
+Government to put a superannuation complaints resolution body in place. These are:
+• replace the Superannuation Complaints Tribunal with an industry scheme;
+and
+• revive the Superannuation Complaints Tribunal through amendments to the
+Superannuation (Resolution of Complaints) Act 1993 and other legislation.
+10.3 While both of these options are viable, neither is without its own associated
+difficulties. It is a matter for the Government to decide the weight it will allocate to
+the various assessment criteria for each of the two options. As noted during the forum
+by Mr John Larkin of the ISC, the Government's eventual decision will inevitably
+involve some risk management compromises and trade-offs.
+10.4 There is little doubt that the first option, an industry based complaints
+resolution body, is a potentially viable alternative to the SCT. However, the
+Committee is of the view that the Government should only consider this option if
+questions about enforcement can be resolved and the industry agrees on an appropriate
+model. The Committee also notes that the question of funding remains a significant
+issue that must be resolved if the option is to proceed.
+10.5 The second option, reviving the SCT through amendments to the
+Superannuation (Resolution of Complaints) Act 1993 and other legislation also offers
+a viable alternative for consideration by the Government. While questions about
+certainty and enforcement remain to be resolved, legal opinion provided to the
+Committee after the forum suggests that these obstacles can be overcome.
+10.6 The Committee considers that this option has a number of advantages over
+abolishing the SCT and establishing a new body. In the Committee's view, it should
+be possible to make the required amendments to the Complaints Act and other
+legislation and restore a complaints resolution process more quickly than would the
+case if the Government were to introduce legislation for a new industry based body.
+Further, the option largely preserves existing complaints resolution structures and
+permits continuity of current cases. Finally, fund members will be more likely to be
+perceive the SCT as independent of the industry.
+
+
+Chapter 10
+10.7 If the Government decides to implement this option, it is clear that there will
+have to be significant changes to the SCT's complaints resolution procedures. There is
+a level of dissatisfaction with how the SCT has operated in the past.
+10.8 The Committee considers that one method of addressing industry, trustee and
+consumer concerns about the SCT might be to establish a governing board for the
+SCT comprising representatives of these groups as well as legal and government
+representatives.
+10.9 The other two options considered by the forum were:
+• reconstitute the SCT as part of the Federal Court; and
+• establish a state based body.
+10.10 The Federal Court option may offer greater judical certainty than other
+options. However, it was clear during the forum that industry and consumer group
+opposition to the option is deeply entrenched.
+10.11 Establishing a state based body is also a sound alternative, offering a high
+level of certainty. However, probable time delays before such a body could be
+established and uncertainties associated with passing consistent legislation through all
+the State legislatures militate against the option. However, should difficulties
+associated with the other options prove insurmountable, the option should be re-
+assessed.
+10.12 The final matter considered by the forum was the status of matters already
+decided by the SCT. While there were divergent views, some Forum participants
+expressed concern about the possible consequences of re-opening matters already
+decided. The Committee considers that the Government should investigate the
+feasibility of introducing legislation to validate past decisions of the SCT and makes a
+recommendation to this effect in Chapter 9.
+Senator John Watson
+Chairman
+
+
+APPENDIX A
+LIST OF PARTICIPANTS AT PUBLIC FORUM
+Sydney, 28 April 1998
+Mr Paul Bean, Life Insurance Complaints Service
+Mr John Berrill, Consumers Federation of Australia
+Mr Mark Cerche, Corporate Superannuation Association
+Mr John Edstein, Editorial Board, Superannuation Bulletin
+Mr Andrew Fairley, IFS Fairley
+Mr John Fox, Australian Securities Commission
+Mr Steve Gibbs, Australian Institute of Superannuation Trustees
+Mr John Larkin, Insurance and Superannuation Commission
+Ms Jenny Lawton, General Insurance Enquiries and Complaints Scheme
+Mr Michael Lillicrap, Industry Funds Forum
+Mr David Maclean, Barrister
+Mr Christian Mikula, Australian Consumers Association
+Mr John Morgan, Law Council Superannuation Committee
+Ms Janet Murphy, Consumer Affairs Division, Department of Industry, Science and
+Tourism
+Mr George Raitt, Blake Dawson Waldron
+Ms Lynn Ralph, Investment and Financial Services Association
+Hon Andrew Rogers QC, Clayton Utz
+Mr Dennis Rose QC, Blake Dawson Waldron
+Ms Philippa Smith, Association of Superannuation Funds of Australia Ltd
+Mr Neil Wilkinson, Superannuation Complaints Tribunal
+Mr George Williams, Law Program, Research School of Social Sciences, Australian
+National University
+
+
+
+
+APPENDIX B
+SUPERANNUATION COMPLAINTS TRIBUNAL
+ROUND TABLE DISCUSSION WITH SENATE SELECT COMMITTEE ON
+SUPERANNUATION
+SYDNEY, TUESDAY, 28 APRIL, 1998
+Background Briefing Paper Prepared for the Committee
+by Andrew Fairley of IFS Fairley
+A. INTRODUCTION
+A round table discussion has been convened by the Senate Select Committee on
+Superannuation to canvass all the options currently available to the Government and the
+superannuation industry to provide a dispute resolution mechanism to deal with
+superannuation complaints by members. The forum follows the decision of the Full Federal
+Court in Wilkinson v CARE (Wilkinson), handed down in February, 1998.
+Participants at the round table discussion comprise a broad representation of industry-
+stakeholders.
+Where this paper refers to "trustees", it incorporates a reference to trustees, RSA providers,
+superannuation providers and other decision makers.
+B. BACKGROUND TO ISSUE - DECISION OF FULL FEDERAL COURT
+1. Under the Superannuation (Resolution of Complaints) Act 1993 ("Complaints Act")
+the Superannuation Complaints Tribunal was created to hear complaints from
+members concerning decisions made by the trustees of regulated superannuation
+funds. The Complaints Act allowed for a conciliation process. In the event of the
+conciliation process failing to resolve the dispute, the Tribunal made a formal
+determination after assessing whether decisions made by trustees were fair and
+reasonable. (In some circumstances complaints could be made about the decisions
+of the fund insurer).
+2. Under the Complaints Act the Tribunal could affirm or vary or set aside the decision
+of the trustees. Any new determination took effect as a new decision of the trustees.
+The Tribunal had no power to enforce its own decisions but the determination was in
+fact enforceable in a number of ways. First, it was an operating standard under the
+Superannuation Industry (Supervision) Act 1993 (SIS) and Regulations for trustees
+to comply with determinations of the Tribunal. Second, it was an offence under
+s.34(2) of SIS for the trustees to fail to comply with the determination. Third,
+persons affected by a determination of the Insurance and Superannuation
+Commissioner (ISC) could seek an injunction from the Federal Court to compel the
+carrying-out of a determination (s.315 of SIS). Fourth, s.65 of the Complaints Act
+required the Tribunal to report to the ISC any non-compliance with the
+determination by a trustee, and the ISC could determine to investigate. Fifth, since
+the determination took effect as a new decision of the trustees, the determination was
+enforceable on that basis in the State Supreme Courts. Sixth, court action could be
+commenced under S289(3), S.313(1 A) by the ISC, or an investigation could be
+commenced under S263 of SIS.
+
+
+3. In Wilkinson, the Full Federal Court (Lockhart, Heerey and Sundberg JJ) made the
+following key findings:
+(a) It was found that as a matter of interpretation of the Complaints Act, the
+Tribunal was only entitled to receive complaints concerning discretionary
+decisions made by trustees as opposed to decisions which were not
+discretionary. A discretionary decision is one where the trustee is lawfully
+entitled to choose between different results (for example, the allocation of a
+death benefit among one or more deserving dependants of a deceased
+member of a fund). A non-discretionary decision is one where the law
+allows there to be only one correct decision (for example, whether or not the
+death of a member of a fund gave rise to a death benefit or not).
+(b) The finding that the Tribunal was only entitled to receive complaints
+concerning discretionary decisions was a unanimous finding of the Court.
+(c) It was found (by majority; Sundberg J dissenting) that any exercise by the
+Tribunal of its determination-making power under s.37 of the Complaints Act
+was an invalid exercise of the judicial power of the Commonwealth. The
+majority judgements relied upon the following factors:
+(i) First, that disputes between trustees and members have the character
+of private disputes between citizens in relation to property. Disputes
+of that kind belong in the courts and have always been dealt with in
+the courts and are quite unlike the disputes that are dealt with by the
+Commonwealth Administrative Appeals Tribunal or tribunals such as
+the Social Security Appeals Tribunal. Trustees of uperannuation
+funds don't make administrative decisions of any governmental kind.
+(ii) The jurisdiction of the Tribunal is activated by a complaint by a
+member. Accordingly to Heerey J, only a government body can bring
+such a complaint, thus the procedure in the Tribunal resembles that
+of a plaintiff bringing a proceeding in a court.
+(iii) The Tribunal makes binding adjudications upon rights and obligations
+of members and trustees arising from past events by applying the
+Complaints Act and the general law.
+(iv) The Tribunal's determinations don't involve the application of policy
+considerations.
+(v) The Tribunal's determinations are enforceable by civil injunctions and
+criminal penalties.
+4. The effect of the decision of the Federal Court is as follows:
+(a) the Tribunal has no power to make any determinations whatsoever;
+
+
+(b) the Tribunal may only have power to deal with complaints concerning
+discretionary decisions made by trustees (or insurers);
+(c) if conciliation by the Tribunal does not resolve a dispute, then the members
+and the trustees can only resolve their disputes by agreement or by bringing
+proceedings in the courts;
+(d) every determination made in the past by the Tribunal was made invalidly and
+should not have been acted upon by trustees of funds. Members who have
+been disadvantaged by determinations of the Tribunal may be able to sue the
+trustees;
+(e) members who have benefited from determination of the Tribunal may be
+required to hand the benefit they received back to the trustees.
+C. OUTCOMES SOUGHT
+In bringing together key stakeholders in the industry to discuss the alternative courses of
+action that are available to Government, before the High Court Appeal is heard in
+Wilkinson, the Senate Committee is recognising the need for a pro active approach to
+dealing with the problem. It could be a period of up to 18 months before any finality is
+reached by the High Court, and during that time, no effective dispute resolution mechanism
+is available to members of superannuation funds outside the court system.
+The Senate Committee believes that by bringing parties together to talk through the issues, it
+can make recommendations to Government on a new approach.
+The outcomes sought by the Senate Select Committee from the round table discussion are as
+follows:-
+1. to obtain a complete understanding of the options that Government has available to it
+to provide a complaints resolution mechanism for superannuation fund members;
+2. to seek to achieve a consensus view amongst the industry on the most appropriate
+option for the Government to proceed with;
+3. to ensure that the preferred system to be pursued by Government for the
+implementation of a superannuation complaints scheme for members is acceptable
+under the Constitution;
+4. to establish an implementation process for the preferred system.
+
+
+D.
+ESSENTIAL ELEMENTS OF SUPERANNUATION COMPLAINTS HANDLING
+SCHEME
+The Committee believes that there are a number of essential elements which must be met in
+a successful alternative superannuation complaints scheme. It is proposed to set out brief
+details of each of those elements, and to then reference any options back to the achievement
+of those criteria.
+The essential elements are as follows
+1. Accessibility
+The complaints scheme must be easily accessible by complainants with minimal
+bureaucratic or legal requirements. It should not be necessary for a complainant to
+require legal advice or representation.
+Forms and procedures should be designed to be user friendly, with a transparent
+process.
+2. Independence
+Any scheme must be seen to be independent of the industry or any sectional group.
+The existing Tribunal includes members who were stakeholders in the industry,
+including lawyers and trustees. These people were not perceived to lack any
+independence, and were in fact selected for their experience and skill in the industry.
+The selection was made by the Governor in Council pursuant to the Complaints Act,
+and there is thus a public perception of independence.
+For any scheme to retain credibility, this perceived independence from employers,
+insurers, consumer groups and other interest groups must be maintained at all costs.
+3. Procedural Fairness
+It is essential that the principles of procedural fairness be accorded to all parties. A
+government body is under a duty to accord procedural fairness and a private body is
+not.
+Fundamentally, procedural fairness requires that the Review Panel Members are, and
+are perceived to be, free from bias. Also, a fair hearing requires that each party
+knows what is put by another party and is given adequate opportunity to reply.
+What the duty to act fairly requires must be determined in the circumstances of a
+particular case. Whilst it is acknowledged that most of the issues arising from
+complaints can be dealt with by written submissions, there may be a need,from time
+to time, for appearance e.g. where there is a conflict of evidence, where credibility’ or
+personal characteristics are at issue, where allegations are grave, or where parties
+
+
+cannot express themselves effectively in writing. Where requested by a party and the
+circumstances of a case warrant it, scope must be provided to allow this to happen, in
+a cost-effective way. Scope must also be available for representation if the
+circumstances warrant it.
+4. Economical Forum
+Section 11 of the Complaints Act requires the Tribunal to pursue the objective of
+economy. Any system considered should continue to strive for that objective. This
+can be achieved through
+(a) rules and process which do not require a complainant to necessarily engage
+legal assistance;
+(b) use of video conferencing facilities for hearings around Australia where
+hearings are required;
+(c) maintenance of existing criteria as to the issues a member can bring before
+the body as a complaint rather than expanding jurisdiction to include "fund as
+a whole" issues.
+5. Quick Decision Making
+Section 11 of the Complaints Act also sets the objective of speed or quickness in
+both conciliation and review. This requires process which is uncomplicated,
+transparent, consistent and flexible.
+With increased hearings, it may be necessary' for members of the Tribunal to conduct
+review meetings in places other than Melbourne more frequently, or use video
+conferencing as a method of providing accessibility. The provisions of
+Superannuation Legislation Amendment Bill 1997 presently before the Senate
+provide for a proposed change for section 9 of the Complaints Act, to allow the
+Tribunal to be constituted by one, two or three members as selected by the
+Chairperson. This will assist in quick decision making.
+The requirement for quick decision making may also lead to a review to some of the
+time limits which are presently in place under the Complaints Act, to shorten them,
+where consistent with principles of procedural fairness.
+6. Constitutional Validity
+Following the decision in Wilkinson, and the fact that the issues in that
+decision are to be considered by the High Court, it is essential that any
+system adopted outside the courts is unlikely to be successfully challenged in the
+courts.
+Accordingly, the system must try to ensure that there is no exercise of
+judicial power, and that the breadth of decision making for the body
+encompasses both discretionary' and non discretionary trustee decisions.
+
+
+7. Limits on Jurisdiction - Reflect Existing Complaint Criteria
+Members and persons affected by a decision should be able to continue to
+complain in relation to the decisions of trustees as it relates to that member.
+The complaints process ought not to extend to trustee decisions outside
+section 14(6) of the Complaints Act, that relate to the management of a fund as a
+whole.
+One method of ensuring the retention of this limit is to include in any
+legislation a list of those trustee decisions which are reviewable, and those
+which are not reviewable, plus defined standing provisions.
+8. Decision Binding on Trustee
+Under the general law of trusts, if a decision made by a third party (such as the
+Tribunal) is not binding on the trustee, then the trustee is not obliged to carry it out.
+Trustees would in fact act in breach of trust if they acted in accordance with a non-
+binding decision of a Tribunal or other body.
+Under the Complaints Act, section 41(3) has the effect that the determination of the
+Tribunal stands as a decision of the trustees, and the Full Court has decided that
+section 41(3) means a determination is binding on the trustee.
+9. Specialist Expertise
+It is essential that appointees to any body possess appropriate and necessary
+expertise. There is a specialist and technical area of law and practice that applies to
+trustees of superannuation funds.
+10. Costs to be Met by Fund Levy
+At present the costs of funding the Tribunal fall on the ISC, which costs are in turn
+met directly or indirectly by the levy exacted from superannuation funds annually.
+Any new system should continue to rely on funding, directly or indirectly, from the
+superannuation levy paid by fund trustees. There should not be an imposition of a
+specific charge on a per complaint basis on the trustee of a fund in respect of which a
+complaint is made.
+
+
+E.
+ALTERNATIVES TO BE CONSIDERED
+The three alternatives which are the only serious options for consideration by Government,
+and which should form the basis of discussion appear to be as follows
+1. Industry Complaints Body
+(a) Existing Precedents
+There are already in operation in Australia a number of industry complaints
+bodies, including the General Insurance Enquiries and Complaints Scheme,
+the Life Insurance Complaints Service, and the Australian Banking Industry
+Ombudsman.
+These bodies are all voluntary private industry bodies established by
+consenting decision makers.
+They contain conciliation procedures and arbitration procedures, and the
+parties are expected to abide by the decisions of the panels or boards that
+make the decision. However, there is no legal requirement for either party to
+comply.
+A voluntary industry scheme is not considered to be a viable option, in that
+the trustees of 4,500 superannuation funds cannot be expected to all agree
+voluntarily to sign up with an industry complaints body, and agree to be
+bound by their decisions. Accordingly, the only type of industry body that
+should be considered is one which is supported by legislation, to require,
+either directly or indirectly, participants to be bound by decisions of that
+body.
+(b) Structure of Body
+None of the bodies currently in existence are appropriate precedents for an
+industry complaints body for the reasons set out above. To establish a
+complaints body, there would need to be a peak industry body established,
+which was governed by representatives from various areas of the
+superannuation industry, to be represented on a board of directors. This
+board of directors may establish an independent council who would have
+responsibility for the operations of any such industry complaints body. The
+council would determine such matters as
+(i) the structure of the complaints process;
+(ii) the types of complaints heard;
+(iii)
+enforcement arrangements;
+
+
+(iv) powers of the body;
+(v) rules and evidence and method of operation;
+(vi) membership of the decision making body;
+vii) disciplinary powers for non-compliance.
+(c) Binding Determinations
+In order for such a body be effective, there would need to be an element of
+compulsion for trustees of non-excluded superannuation funds joining up.
+This could be done in a number of ways including:-
+(i) providing a legislative sanction for failure to agree to be bound by
+decisions of the body - either directly in SIS or indirectly through, for
+example, the Superannuation Guarantee (Administration) Act 1992;
+(ii) to require that every fund trust deed include a requirement that the
+trustee would be bound by the decision of any such industry scheme.
+(d) Measure Against Essential Elements
+In measuring the industry option against the essential elements of a
+superannuation complaints handling scheme, the following difficulties arise:-
+(i) Independence
+An industry scheme carries with it the difficulty of a perceived lack of
+independence - the industry sitting in judgement on the behaviour of
+its own members. There would need to be a very careful selection of
+members of any such body, and of any independent council
+controlling the body, to ensure that any perceptions of lack of
+independence at a decision making level were diminished. Even with
+this caution, such perceptions can be fatal to independence.
+(ii) Procedural Fairness
+Any such industry body will establish its own processes, which may
+exclude rights to hearings, representation etc. These will all be
+included in terms of reference of any such body established. There
+will thus be no guarantee of procedural fairness, under the
+Administrative Decision (Judicial Review) Act or S 39 of the
+Judiciary Act.
+(iii) Economical Forum
+Existing industry complaint bodies impose a cost on the company
+being complained against. If this model of payment was replicated,
+
+
+the funding cost could impose very significant and unacceptable costs
+on trustees, particularly where frequent complaints were made, some
+of which were vexatious or of little moment. Whilst it may be
+economical for members, it would not be economical for the industry,
+if trustees had to pay for the complaint handling mechanism, and
+legal advice as well.
+(iv) Constitutional Validity
+In the event that legislation is enacted by the Federal Government
+which either directly or indirectly seeks to impose a requirement on
+superannuation fund trustees that they will be bound by and required
+to enforce any decisions of such an industry tribunal, the same
+difficulties apply as were considered in Wilkinson.
+Whether the compulsion to comply is direct, as with the current
+provisions of the Complaints Act, or indirect, such as using the
+Superannuation Guarantee Legislation, on the current view of the Full
+Federal Court, there is a grave danger that it would fail to be
+Constitutionally valid, on the basis that it would be a divestment of
+judicial power.
+In the event that trustees were required to include in their trust deed a
+provision which obliged them to be bound by and to implement any
+decision of such a body, there is a difficulty that any such provision
+could be considered by the courts to be void as ousting the jurisdiction
+of the court. There is a line of authority which is that it is repugnant
+to a trust deed and contrary to public policy to grant legal rights to a
+member of the trust and then include a provision in the trust deed that
+seeks to deny the member access to the courts by providing that the
+decision of some person or body is binding in the event of a dispute
+between members and trustees: Re Raven (1915) 1 Ch 673; Mends v
+Stackhouse (1948) 77 CLR 232.
+(v) Decision Binding on Trustee
+Existing industry models are not able to make any decisions binding
+on the parties, except by gentleman's agreement. If any system is
+introduced which will bind the trustee, then the issue of the exercise of
+a judicial power arises, but in this instance, it could be considered to
+be judicial power delegated to a non-government body rather than to a
+Commonwealth Government Tribunal.
+(vi) Cost
+Any such scheme would probably be unlikely to be funded by
+Government but rather it would be expected to be funded by industry.
+This will have significant cost implications for trustees, and will not
+
+
+meet the requirement of being funded by the annual levy on
+superannuation funds.
+2. Reconstitute the Tribunal as Part of the Federal Court
+(a) Precedents for Approach
+This solution would see the abolition of the Tribunal, and effectively the
+creation of a division within the Federal Court dealing with superannuation.
+This course has been implemented under the Workplace Relations Act, which
+has transferred jurisdiction to the Federal Court from the Industrial Relations
+Court and set up a system of Judicial Registrars who conduct hearings in the
+same way as judges.
+The system would constitute the Federal Court as the body which would hear
+complaints from members. The Federal Court would be required to make
+rules which would delegate certain judicial powers of the Judges of the
+Federal Court to Judicial Registrars, who would hear the superannuation
+complaints. As with the Workplace Relations arrangements, the Judicial
+Registrars would have a limit, in dollar terms, for claims which they could
+hear, and amounts over those limits would be heard by a Judge of the Federal
+Court.
+Judges would maintain a supervisory role over the activities and decisions of
+the Judicial Registrars, with an automatic right of review existing for parties
+in the Federal Court, on a de novo basis. This would involve a review of both
+facts and law.
+A system of Registrars has also been in operation under the provisions of the
+Family Law Act for many years, and has worked successfully. The decision
+of the High Court in Harris v Caladine (1991) 172 CLR 84 concerned the
+validity of Registrars in the Family Court. In that case the High Court
+confirmed that power exists for Federal Court rules to be made to delegate
+judicial power to registrars subject to certain limits
+(i) Mason CJ and Deane J said that so long as two conditions are
+observed, the delegation of some part of the jurisdiction, powers and
+functions of a Federal Court to its officers is permissible and
+consistent with the control and supervision of the court's jurisdiction
+by its judges:
+• the first condition is that the delegation must not be to an extent
+"where it can no longer properly be said that, as a practical as well
+as a theoretical matter, the judges constitute the court. The judges
+must continue to bear the major responsibility for the exercise of
+judicial powers at least in relation to the more important aspects of
+contested matters"
+
+
+• the second condition is that the delegation must not be inconsistent
+with the obligation of a court to act judicially and that the
+decisions of the officers of the court in the exercise of their
+delegated jurisdiction, powers and functions be subject to review
+or appeal by a judge or judges. If the exercise of delegated
+jurisdictions, powers and functions by a court officer is subject to
+review or appeal on questions of both fact and law, the delegation
+will be valid. If the review is by way of hearing de novo, the
+delegation will certainly be valid.
+(ii) Dawson J said that a Federal Court could, subject to any restrictions
+imposed by Parliament, delegate to suitable officers such of its
+functions as it thinks fit, but Parliament can't compel the court to
+exercise any of its judicial functions through such an officer.
+(iii) Gaudron J said that a Federal Court may only delegate its powers on
+terms designed to ensure that the judicial process will be observed.
+Appropriate procedures must exist for supervision by the Court, both
+as to the observance of the limits attached to the delegation and to the
+exercise of those powers.
+(b) Measure Against Essential Elements
+In measuring the reconstituted Tribunal as a division of the Federal Court
+against the essential elements of a superannuation complaints handling
+scheme, the following difficulties arise
+(i) Economical Forum
+Special rules would need to be enacted by the Federal Court for
+Judicial Registrars to hear cases. These rules would need to reflect the
+Federal Court procedures, fees, and administrative process, unless
+other specific arrangements could be negotiated to the contrary.
+This would necessarily involve greater cost for a complainant, and
+difficulty for a complainant not able to engage legal assistance.
+The difficulty of economy maybe able to be overcome by special
+funding from Australian Securities and Investment Commission
+(ASIC) to offset the costs which would otherwise be required, such
+costs being a transfer of the costs of operating the Tribunal to
+subsidising the superannuation division of the Federal Court.
+(ii) Quick Decision Making
+The rules for the superannuation division of the Federal Court would
+need to be changed significantly from the normal Federal Court rules,
+in order to ensure speed of complaint hearing.
+
+
+(c) Costs
+Arrangements would need to be put in place to ensure that monies collected
+by the ISC, and subsequently ASIC would be available to operate this Federal
+Court option.
+3. Amendment of Complaints Act Still Ensuring Constitutional Validity
+(a) Speculative Discussion
+Any discussion on this option must be seen as speculative, until such time as
+the High Court has determined its position, from the appeal in Wilkinson.
+What is clear is that the Government cannot afford to proceed with a different
+option from the Tribunal, only to find that 3 years on, the process is
+challenged again, and is again found wanting Constitutionally.
+(b) New Provisions
+Any amended Complaints Act must include the following
+(i) The ability for the Tribunal to make decisions in relation to
+non-discretionary trustee decisions, as well as discretionary decisions.
+This was clearly the intention of Parliament, and can be
+accommodated by amending the Act so that there is a full merits
+review of the decision.
+(ii) The decision must be binding on the trustee as now; otherwise the
+trustee cannot act on it.
+(iii) It must remove the enforceability of the decision through SIS to avoid
+at least part of the problem adverted to by the Full Court in Wilkinson.
+(c) Enforceability Options
+Where a decision of the Tribunal is binding on a trustee, but the decision is
+not enforceable under SIS, then for the trustee not to act upon it is a breach of
+trust. Rights are created in the person in who's favour the Tribunal has made
+a determination. However, if the trustee does not act upon it, what remedies
+are available ?
+One option is to leave the beneficiary with the option of pursuing a trustee
+who will not comply with a determination of the Tribunal through the State
+Supreme Courts. This is costly, and involves significant delays in achieving
+justice.
+A second alternative in circumstances where a trustee does not comply with a
+binding Tribunal determination is for ASIC to utilise monies that it has
+accumulated from the annual superannuation levy to commence proceedings
+
+
+13
+in the Federal Court on behalf of the member in whose favour the Tribunal
+has made a determination, funded by ASIC. The action would be a hearing
+de novo in respect of the dispute which had been considered by the Tribunal.
+It would not be an action seeking to enforce the decision of the Tribunal per
+se.
+(d) Measure Against Essential Elements
+In measuring the amendment of the Complaints Act option against the
+essential elements of a superannuation complaints handling scheme, the
+following difficulties arise
+(i) Economical Forum
+The process of having the matter heard before the Tribunal would be
+economical. However, if a trustee did not comply with the orders of
+the Tribunal, unless ASIC were prepared to fund the action of the
+member before the Federal Court, to have the matter heard on a de
+novo basis, considerable court costs would need to incurred by a
+member, and there would be significant delays through the State
+Courts.
+(ii) Constitutional Validity
+The constitutional validity of this alternative is uncertain. Although
+there is a clear separation between the determination of the Tribunal,
+and the enforcement of that determination, there is nevertheless a link.
+There is also the concern that the enforcement of the decision of the
+Tribunal is but one indicia of the exercise of judicial power, and it
+may well be that judicial power has been exercised in the actual
+determination by the Tribunal, without the need for enforcement.
+Until the High Court has spoken, no firm conclusion seems likely.
+The High Court might agree with the majority, or it might agree with
+Sundberg J or it might decide the matter on a significantly different
+basis.
+In the case that has just been decided, the High Court split 3-3 in an
+appeal from the Full Court of the Federal Court on a question of
+judicial power under the rules of the Federal Court: Gould v Brown
+(1998) 72 LJR375.
+(iii) Costs
+A decision will clearly need to be made in principle, in relation to this
+alternative, as to whether ASIC would be prepared to stand behind
+
+
+members who needed to enforce decisions of a Tribunal, where the
+trustee refused to implement same.
+CONCLUSION
+If the Commonwealth wishes to bypass the courts, there is no easy route to solving the
+difficulties exposed by Wilkinson for the Complaints Act. Whilst it is highly desirable to be
+pursuing the creation of a system which replicates that of the Tribunal, it may be that the
+nature of Australia's Constitutional arrangements is such that some elements of the
+Tribunal's objectives (fair, just, economical, informal and quick) will need to be sacrificed at
+the altar of practical expedience in the light of difficult Constitutional issues.
+
+
+APPENDIX C
+LIST OF COMMITTEE REPORTS
+Super System Survey - A Background Paper on Retirement Income Arrangements in
+Twenty-one Countries (December 1991)
+Papers relating to the Bymwood Ltd, WA Superannuation Scheme (March 1992)
+Interim Report on Fees, Charges and Commissions in the Life Insurance Industry
+(June 1992)
+First Report of the Senate Select Committee on Superannuation - Safeguarding Super -
+the Regulation of Superannuation (June 1992)
+Second Report of the Senate Select Committee on Superannuation - Super Guarantee
+Bills (June 1992)
+Super Charges - An Issues Paper on Fees, Commissions, Charges and Disclosure in the
+Superannuation Industry (August 1992)
+Third Report of the Senate Select Committee on Superannuation - Super and the
+Financial System (October 1992)
+Proceedings of the Super Consumer Seminar, 4 November 1992 (4 November 1992)
+Fourth Report of the Senate Select Committee on Superannuation - Super - Fiscal and
+Social Links (December 1992)
+Fifth Report of the Senate Select Committee on Superannuation - Super Supervisory
+Levy (May 1993)
+Sixth Report of the Senate Select Committee on Superannuation - Super - Fees,
+Charges and Commissions (June 1993)
+Seventh Report of the Senate Select Committee on Superannuation - Super Inquiry
+Overview (June 1993)
+Eighth Report of the Senate Select Committee on Superannuation - Inquiry into the
+Queensland Professional Officers Association Superannuation Fund (August 1993)
+Ninth Report of the Senate Select Committee on Superannuation - Super Supervision
+Bills (October 1993)
+Tenth Report of the Senate Select Committee on Superannuation - Super Complaints
+Tribunal (December 1993)
+Eleventh Report of the Senate Select Committee on Superannuation - Privilege Matter
+Involving Mr Kevin Lindeberg and Mr Des O'Neill (December 1993)
+
+
+Appendix C
+A Preliminary Paper Prepared by the Senate Select Committee on Superannuation for
+the Minister for Social Security, Options for Allocated Pensions Within the Retirement
+Incomes System (March 1994)
+Twelfth Report of the Senate Select Committee on Superannuation - Super for Housing
+(May 1994)
+Thirteenth Report of the Senate Select Committee on Superannuation - Super Regs I
+(August 1994)
+Fourteenth Report of the Senate Select Committee on Superannuation - Super Regs II
+(November 1994)
+Fifteenth Report of the Senate Select Committee on Superannuation - Super Guarantee
+- Its Track Record (February 1995)
+Sixteenth Report of the Senate Select Committee on Superannuation - Allocated
+Pensions (June 1995)
+Seventeenth Report of the Senate Select Committee on Superannuation - Super and
+Broken Work Patterns (November 1995)
+Eighteenth Report of the Senate Select Committee on Superannuation - Review of the
+Superannuation Complaints Tribunal (April 1996)
+Nineteenth Report of the Senate Select Committee on Superannuation - Reserve Bank
+Officers ’ Super Fund (June 1996)
+Twentieth Report of the Senate Select Committee on Superannuation - Provisions of
+the Social Security Legislation Amendment (Further Budget and Other Measures) Bill
+1996 - Schedule 1 (November 1996)
+Twenty-first Report of the Senate Select Committee on Superannuation - Investment of
+Australia's Superannuation Savings (December 1996)
+Twenty-second Report of the Senate Select Committee on Superannuation - Retirement
+Savings Accounts Legislation (March 1997)
+Twenty-third Report of the Senate Select Committee on Superannuation -
+Superannuation Surcharge Legislation (March 1997)
+Twenty-fourth Report of the Senate Select Committee on Superannuation - Schedules
+1, 9 & 10 of Taxation Laws Amendment Bill (No. 3) 1997 (June 1997)
+Twenty-fifth Report of the Senate Select Committee on Superannuation - The
+Parliamentary Contributory Superannuation Scheme & the Judges' Pension Scheme
+(September 1997)
+Twenty-sixth Report of the Senate Select Committee on Superannuation - Super -
+Restrictions on Early Access: Small Superannuation Accounts Amendment Bill 1997
+and related terms of reference. (September 1997)
+
+
+List of Committee Reports
+Twenty-seventh Report of the Senate Select Committee on Superannuation -
+Superannuation Contributions Tax Amendment Bills. (November 1997)
+Super Taxing - An information paper on the Taxation of Superannuation and related
+matters. (February 1998)
+Twenty-eighth Report of the Senate Select Committee on Superannuation - Choice of
+Fund. (March 1998)
+Twenty-ninth Report of the Senate Select Committee on Superannuation -
+Superannuation Legislation (Commonwealth Employment) Repeal and Amendment Bill
+1997, Commonwealth Superannuation Board Bill 1997, Superannuation Legislation
+(Commonwealth Employment - Saving and Transitional Provisions) Bill 1997. (April
+1998)
+Thirtieth Report of the Senate Select Committee on Superannuation - Workplace
+Relations Amendment (Superannuation) Bill 1997. (May 1998)
+Thirty-first Report of the Senate Select Committee on Superannuation - Resolving
+Superannuation Complaints - options for dispute resolution following the Federal Court
+decision in Wilkinson v CARE. (July 1998)
+
+
+THE PARLIAMENT OF THE
+COMMONWEALTH OF AUSTRALIA
+PARLIAMENTARY
+PAPER
+No. 143 of 1998
+ORDERED TO BE PRINTED
+ISSN 0727-4181

@@ -1,0 +1,300 @@
+
+
+Solid Earth Geophysics
+Newsletter issue 28 June 2002
+New Geophysical Fluid Dynamics
+Laboratory at the ANU
+Dr Ross Kerr and Prof, Ross Griffiths
+Research School of Earth Sciences, The Australian National University
+ross.kerr@anu.edu.au ross.griffiths@anu.edu.au
+(or see: http://rses.anu.edu.au/gfd/)
+In March last year, the Federal Minister for the Environment Senator Robert Hill officially opened
+a new geophysical fluid dynamics laboratory at the Australian National University. The purpose-
+built premises includes a 300 m 2 main laboratory (Fig. 1), a 30 m 2 temperature-controlled
+laboratory whose temperature can be maintained in the range 2-30 C, a darkroom, and a support
+area for the construction of equipment. The laboratory brings together staff with fluid dynamical
+expertise in the modelling of a range of ocean circulation processes and geological flows. This
+breadth reflects the wide-ranging importance of fluid dynamics (through the transport of heat,
+mass and momentum) in geological, geophysical, oceanographic and environmental phenomena.
+Recent fluid dynamics research in the new lab and of interest to the Solid Earth Geophysics
+community includes an investigation of the dynamics of the growth of lava domes, by PhD student
+David Osmond and Prof, Ross Griffiths. They have investigated the shape of very slowly growing
+lava domes extruded onto slopes when the highly silicic lava has a yield strength. Laboratory
+experiments were performed using slurries made from a mixture of polyethylene glycol (PEG)
+wax and kaolin clay extruded on to a sloping plane (Fig, 2), and the results compared with their
+Fig. 1: One of 9 bays
+in the main
+geophysical fluid
+dynamics laboratory.
+SGSEG NEWSLETTER 28 June 2002
+
+
+analytical and numerical solutions. By using the ratio of the cross-slope width to the down-slope
+length of the flow, they have found a means of estimating the yield strength of highly silicic lava
+flows on simple slopes.
+Another study, by Dr Ross Kerr, addressed a recent geological controversy over whether laminar
+lava flows are able to thermally erode the ground over which they flow. To answer this question,
+experiments were performed in which hot PEG wax flowed down a sloping channel over a layer of
+cold solidified PEG wax. The experiments demonstrated the growth and meltback of an initial
+chill layer (Fig. 3), at rates in good agreement with theoretical predictions based on forced
+convective heat transfer during laminar channel flow at large Peclet numbers. The results have
+already been used to explain field observations of thermal erosion by basaltic lava flows at Hawaii,
+Mt. St. Helens and the East Pacific Rise, and by natrocarbonatite lava flows at Oldoinyo Lengai in
+Tanzania.
+Prof. Ross Griffiths, Dr Ross Kerr and Prof. Katherine Cashman (University of Oregon, USA)
+recently began an investigation of solidification on the surface of long channelised lava flows. In
+their experiments, PEG wax flows down an inclined, open rectangular channel immersed in cold
+water. They have found two regimes, depending on the flow velocity and on the temperatures of
+the wax and water relative to the freezing temperature of the wax (Fig. 4). For sufficiently high
+flow speeds and temperatures, a solid surface crust develops in the centre of the channel some
+distance from the source. The crust remains separated from the walls by crust-free shear regions as
+it is carried down the channel. Under these conditions solidification also occurs very close to the
+source within the sidewall boundary layers, where the solid phase is continually sheared and
+broken into small pieces. At lower flow speeds and temperatures the solid creates a stationary roof
+and flow continues through an insulated channel beneath. It is already clear that a detailed
+understanding of these processes will be crucial for the modelling of lava flows that resurface
+much of the Earth’s crust.
+Fig. 2: Overhead photoglyphs of slurry domes flowing down a slope (towards the bottom of the
+page). The white circles indicate the source locations.
+2
+SGSEG NEWSLETTER 28 June 2002
+
+
+■M**- RH I [
+Fig. 3: Views up the channel towards the source, showing the formation and meltback of a chill
+layer in a thermal erosion experiment. The first photograph (left) was taken after 2 minutes, and
+shows the white chill layer that has formed on top of the original cold ground (dyed blue). The
+second photograph (right) was taken after 36 minutes, and shows that the chill layer has been
+completely eroded along the centre of the channel but still remains along its sides.
+Fig. 4: Overhead photographs of the two regimes of flow with surface solidification along a 44
+mm wide channel. The flow is down slope from left to right. The upper photograph shows the
+formation of a mobile central crust with sidewall shear layers. The lower photograph shows
+complete surface solidification leading to a stationaiy roof with underlying flow. The photographs
+show distances from the source of 0.5 mto 1.1 m and 0.2 m to 0.8 m, respectively.
+Next year, the temperature-controlled laboratory will be used by Prof. Christopher Kincaid
+(University of Rhode Island, USA) and Prof. Ross Griffiths, in a project aimed at understanding
+the three-dimensional dynamics and thermal evolution of the plate and the mantle wedge at
+subduction zones. They will carry out experiments that will explore different subduction modes
+(both longitudinal and rollback subduction) as well as the relative motion of the back arc plate.
+3
+SGSEG NE WSLETTER 28 June 2002
+
+
+Particle-in-cell finite elements and
+geodynamic modeling
+Dr, Rich Albert
+Division of Geology and Geophysics, University of Sydney
+albert r#es.usvd.edu.au
+Just about all geodynamicists and geophysicists have heard of Finite Element Analysis (FEA), and the
+benefits that we’ve gained by its use are staggering. Originally developed for use in the aerospace
+industry in the 19605, this method has become one of the powerhouse techniques to explore the
+mechanics of solids and fluids in numerous applications. It is a pleasure to note that geoscientists have
+applied it creatively and successfully to situations that are outside of the realm of the most common
+engineering applications. But in spite of its successes, there are still limitations to the standard finite
+element technique that have necessitated the development of other approaches to problems in
+mechanics. These limitations often apply to geodynamic problems, so by attempting to tackle the
+complexities of geologic systems, we need to advance the “cutting edge”, and take advantage of the
+latest developments in numerical analysis.
+In a nutshell, the standard FE technique of discretization or ‘meshing’ to solve a solid mechanics
+problem (such as a bending oceanic lithosphere) suffers from a limitation on the allowable distortion of
+the mesh. In this Lagrangian formulation of mechanics, the mesh deforms with the body as it is loaded,
+and at some point the calculations will get less and less accurate if the elements’ aspect ratios and/or
+internal angles are altered toward troublesome values, until a point is reached where continuation is
+impossible. In contrast, the Eulerian formulation of the continuum is often used for the mechanics of
+fluids (such as convection in planetary mantles or atmospheric motions), where the mesh is fixed and the
+fluid flows through it, and information about the flow is calculated at the fixed nodal points of the mesh.
+The focal point in this formulation shifts from following individual parcels of fluid (as per the
+Lagrangian approach) to ascertaining the properties (velocity, pressure, etc.) of the fluid at specific
+locations. This approach removes the problem of mesh distortion and allows analysis of extremely large
+deformation at the expense of some computational complexity, but by using it we sacrifice the ability to
+track individual portions of fluid as they advect, and similarly there is no capacity to track the
+deformation of interfaces within the body of interest without significant modifications to the method.
+The limitations mentioned above have been addressed in various ways, such as allowing some distortion
+of the mesh, but not completely following it (Arbitrary Lagrangian-Eulerian methods - ALE), and
+remeshing the body as it deforms (the Dynamic Lagrangian Remeshing- DLR). Another avenue is to
+not mesh the body at all, but simply model it via a collection of separate points, instead of “point-
+connected” elements (Smooth Particle Hydrodynamics - SPH, Reproducing Kernel Particle Methods -
+RKPM). Geoscientists (Braun, Beaumont, Fullsack, etc.) have successfully utilized some of these
+alternate methods in recent years.
+Another method is the Particle-in-cell method (PIC), which takes the strength of the Eulerian technique
+(allowing large deformation of the body without having the mesh deform - i.e., keeping it fixed), and the
+Lagrangian formulation (tracking the paths and deformation history of individual parcels of the
+material). From this description, one can visualize the PIC method as a collection of particles that
+constitute the body, flowing through the elements of the mesh that are fixed in space (Figure 1). The
+4
+SGSEG NEWSLETTER 28 June 2002
+
+
+V 4
+U ± U 3
+** 'm ►-
+• * I • u -
+» •• - *
+• • • m • •
+•%•••• ••
+» » • • • ♦
+• %•••••
+•.* I.* ♦!•••
+information (such as the nodal velocities) that is solved on the fixed mesh is mapped to the particles to
+ascertain their (and the body’s) response, such as calculating the strain and/or its rate (depending on the
+rheological model(s) involved) and hence the stress for each particle, although the details are not within
+the scope of the present article, as one might expect. By using the mesh’s cells purely as a computational
+convenience, and modeling the stress and deformation of the body via the particles, the body can now
+undergo extensive deformation and yet the individual particles, material types, interfaces, etc., can be
+easily tracked. This is the beauty and the strength of the method. It is also clear why this method is so
+well-suited for problems in geodynamics, because often the geological system of interest involves
+tremendous deformation yet there is the necessity of tracking what happened to individual materials.
+Examples include the convection of Earth’s mantle over billions of years (where did that subducting slab
+go, anyway?), or the compression and buckling of a stratified rock mass (what happened to that
+quartizite layer? How has it deformed relative to the layers that were above and below it?).
+A well-established Particle-in-cell Finite Element code, “Ellipsis”, written by Louis Moresi of
+CSIRO (and now Monash University’s School of Mathematical Sciences), has been used
+extensively by researchers at CSIRO (Miihlhaus, Dufour, Wijns), and currently handles 2D
+viscoelastic/brittle rheologies. As part of a nationwide effort, our work at the University of Sydney
+has involved extending the code from 2D to 3D and we are continuing with various alterations and
+benchmarking. One of our 3D models involves the extension of an upper crust/lower crust/upper
+mantle system, to inspect the stresses and deformation that develop under several phases of
+multidirectional loading. A sample plot of plastic strains from a two-layer simulation is shown in
+Figure 2. Although the application of the 3D code is still in it early stages, there is much promise
+in its potential for unraveling a bit more of the complexity that characterizes geodynamic
+problems. We have also incorporated the code in a “Modeling Earth Processes” class at the
+University of Sydney, where thirty students will apply the code to supplement lectures and see the
+beauty of geophysics at work. Attendees at last year’s Chapman Conference in Exploration
+Geodynamics in Western Australia, saw numerous applications of Ellipsis to problems on multiple
+length and time scales (see Report below) and animations of PIC simulations ca be found at:
+http://www.es.usyd.edu.au/Geophysics/Marine_geophysics/Resprojects/index.html
+Fig. 1. A schematic representation of PIC
+methodology with 9 elements and 2 different
+materials (particles of different colors). Shown are
+sample local nodal velocities for one of the
+elements (from the Eulerian part of the
+calculations), which are to be interpolated to the
+particles within that element. This is just one of
+many steps in the solution procedure for PIC
+FEA.
+5
+SGSEG NE WSLETTER 28 June 2002
+
+
+FURTHER READING
+Less-technical: L. Moresi, M. Gumis, and S. J. Zhong. Plate tectonics and convection in the earth’s mantle: toward
+a numerical simulation. Comput ScL Eng., 2:22-33,2000
+Technical: L. Moresi, F. Dufour, and H.-B. Miihlhaus. Mantle convection models with viscoelastic/brittle
+lithosphere: Numerical methodology and plate tectonic modeling. Pure AppL Geophysics, In Press, 2002
+Report
+Chapman Conference-Exploration
+Geodynamics
+The SGSEG was an important sponsor of the AGU
+Chapman Conference on Exploration Geodynamics
+which was held in Dunsborough, WA during
+August 2001. The meeting brought together
+Australian scientists from Universities, CSIRO and
+Industry with their counterparts from overseas. The
+main theme of the conference was the way in which
+quantitative numerical modeling in geodynamics can contribute to the fundamental understanding
+of geology and, in particular, drive the next generation of exploration geoscience.
+An important step along the way to that goal is the development of a broad understanding within
+the geological community of the capabilities of quantitative modeling and the limitations. Equally
+important is the need to develop a wide understanding within the modeling community of the
+needs of geologists and the important problems which could be addressed by modeling.
+Over 5 days the participants focused on a range of topics from the global scale, through the basin
+scale, to the deposit scale, and, in the process, explored the state of the art in geological
+simulation. During a day-long field trip, modellers unaccustomed to any physical activity more
+demanding than reaching for a cup of coffee were taken around the granites of the Leeuwin
+Complex. The final sessions of the meeting were wide ranging discussions designed to bring
+together different groups of people to begin new collaborations.
+The abstracts from the meeting, and many of the presentations are currently archived on the web at
+http://www.es.usvd.edu.au/Geophvsics/geophvsics.html/
+Fig. 2. Two plots of particles and their inelastic strains for one of the 3D simulations with
+multidirectional extension. Only the top layer (which had upper crustal properties) is shown, at the
+initial (left) and final (right) times, and the plasticity was localized at the start by creating two weak
+zones that were slightly offset. The locations of the weak zones are seen in the plot on the left, but in
+order to make these zones more easily observed, the material occupying them has been removed.
+6
+SGSEG NEWSLETTER 28 June 2002
+
+
+Conference Announcements
+ASEG2OO3 Conference, Feb. 2003 Adelaide
+Session "From Solid Earth Geophysics to Exploration" Conveners: Louis
+Moresi and Dietmar Mueller
+Contact: www.aseg.org.au/conference/Adelaide
+ASEG 16th Geophysical Conference and Exhibition
+Growth Through Innovation
+16-19 February 2003
+Adelaide Convention Centre
+Abstracts (no more than 300 words) are due by June 30,2002.
+This session provides an opportunity for Solid Earth Geophysicists and Geodynamicists to
+present what they see as exploration implications of their work to industry. We would like to
+bring together experts in crustal and mantle seismology, potential fields, and geological and
+geodynamic modeling to assess where the blue sky research of today might lead to
+applications tomorrow. Two of the most important issues we have to face is (1) the
+development of a common understanding of the capabilities of modeling among data-oriented
+geophysicists and geologists and (2) the development of a common understanding of what
+types of data and data analysis methods are available that can feed back into modeling.
+Topics of interest for this session may include:
+> New methods for joint analysis of active source seismic reflection and refraction data:
+how a better understanding of crustal structure can aid exploration
+> New approaches in the analysis of magnetotelluric data and how they may be applied to
+shallow/sub-salt exploration problems
+> Textural analysis and artificial intelligence applications for image analysis (potential
+fields, downhole images such as FMS)
+> What has the mantle been doing to the crust: Implications of seismic tomography and
+geodynamic modeling for exploration
+> Tectonic reactivation through time: New methods for integrating large-scale geodynamic
+modeling, basin modeling, structural data analysis/inversion, and well-seismic data integration
+> Advances in simulation of geological processes on the computer. How do we model fluid
+dynamics and solid mechanics jointly, with the complexity of pervasive reactive fluid flow in
+the crust which dissolves, precipitates and alters the rocks as they deform?
+The 10 th International Symposium on deep seismic
+profiling of the continents and their margins
+January 6-10, 2003, Taupo, New Zealand
+First Circular is out
+E-mail: seismix2oo3(a),GNS. CRI.NZ
+Web page: www.gns.cri.nz/news/conferences
+7
+SGSEG NE WSLETTER 28 June 2002
+
+
+■
+I i ’ ~■
+W ■Jj'JCT -«-“ v..„ u t, ;■ I
+a wi i
+'M*' 1
+rir I
+From the Treasurer
+SGSEG financial balance in June 2002 is $16539.42. ($12822.31 in a 6-month term deposit
+account, and $3717.11 in a cheque account). In the past year we had an income of $1546.15 from
+outstanding capitation and reimbursement from GSA and $461.74 interest from the term deposit.
+In the past financial year we have sponsored three conferences: the Chapman Conference
+(September 2001, Perth) with $3300, the 10 th International Simposium on Deep Seismic profile (to
+be held next year in New Zealand ($2500), and Victorian Universities Earth Science Conference
+(VUESC) to be held in September in Melbourne ($300). These sponsorships are used as student
+travel grants or prizes.
+The SGSEG last year’s contribution of $3OO to the 15th Victorian Universities Earth Sciences
+Conference (VUESC- La Probe) was divided into two $l5O cash prizes and awarded to the Best
+Oral Presentation and Best Poster Presentation in the category of “Geophysical and Analytical
+Methods”. The Best Oral Presentation was awarded to Hashim Carey, and the Best Poster
+Presentation was awarded to Brian Barrett, both Honours students from the University of
+Adelaide.
+From the Editor
+The Newsletter will be sent yearly, with the next edition to be released in June 2003. If you would
+like us to include a feature article, an announcement of general scientific interest, or a question to
+the SGSEG community don’t wait. By sending your material now, it will be uploaded to our
+website straight away. Act now!
+Contact Roberto Weinberg frweinber@geol.uwa.edu.au).
+Chair: Dietmar Muller, The University of Sydney
+Co-Chair: Louis Moresi, Monash University
+Hon. Treasurer: Carmen Gaina, The University of Sydney
+Hon. Secretary: Richard Albert, The University of Sydney
+Newsletter editor: Roberto Weinberg, University of Western
+Australia
+Winners of the Best Oral Presentation
+and Best Poster Presentation at 15 th
+VUESC: Hashim Carey on the right
+and Brian Barrett on the left. In the
+middle is Michael Wall, another
+student from the University ofAdelaide
+won the Best Overall Poster prize.
+8
+SGSEG NEWSLETTER 28 June 2002

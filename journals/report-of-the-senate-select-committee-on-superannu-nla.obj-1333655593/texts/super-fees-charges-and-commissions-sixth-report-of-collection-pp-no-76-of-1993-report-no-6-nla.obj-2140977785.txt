@@ -1,0 +1,3008 @@
+
+
+Sixth Report of the
+Senate Select Committee on Superannuation
+Super -Fees, Charges
+and Commissions
+June 1993
+Parliament of the Commonwealth of Australia
+
+
+
+
+Sixth Report of the
+Senate Select Committee on Superannuation
+Super — Fees, Charges
+and Commissions
+Parliament of the Commonwealth of Australia
+Canberra
+June 1993
+
+
+© Commonwealth of Australia 1993
+ISBN 0 642 19278 2
+This document was produced from camera-ready copy prepared by the
+Senate Select Committee on Superannuation Secretariat, and printed by the
+Senate Printing Unit, Parliament House, Canberra.
+
+
+MEMBERS OF THE COMMITTEE:
+Members
+Address:
+Telephone:
+The Senate
+Parliament House
+CANBERRA ACT
+(06) 277 3439
+(06) 277 5719
+Facsimile:
+
+
+
+
+CONTENTS
+Contents
+Page iii
+Members of the Committee. i
+Contents. iii
+List of Recommendations.v
+Chapter 1 Introduction. 1
+Chapter 2 Consumer Case Studies. 7
+Chapter 3 A Case for Disclosure. 19
+Minority Report Senator Cheryl Kernot . 55
+Appendices
+A. Terms of Reference . .. 57
+B. Table of Complaints. 59
+C. List of Submissions re On-going Inquiry
+- in Numerical Order. 67
+D. List of Submissions re On-going Inquiry
+— in Alphabetical Order . 75
+E. List of Witnesses re On-going Inquiry.83
+F. LIFA Statement on Reforms. 89
+G. Glossary. 99
+
+
+
+
+LIST OF RECOMMENDATIONS:
+List of Recommendations
+Page v
+(Chapters 1 and 2 do not contain any recommendations)
+Recommendation 3.1:
+The Committee recommends that information provided to potential policy
+holders be presented in a brief and standardised format which will allow
+consumers to compare different products. (This information would be in
+addition to the more detailed contractual information.)
+The Committee further recommends that the brief and standardised
+information include:
+• a written description of each investment option facing the consumer
+and an outline of the general policy and strategy of the fund;
+• a written description of all fees and charges, (including any initial,
+ongoing and/or termination fees/charges) and, where these are
+variable, the minimum and maximum charges;
+• details of any penalties which may be imposed on early termination
+of the policy and the method of calculating these charges; and
+• details of the dispute resolution process which can be accessed if the
+consumer believes the advice or information provided may be
+inaccurate.
+Recommendation 3.2:
+The Committee recommends that, in conjunction with investment
+information, a 'needs analysis' based on the consumer’s individual
+circumstances and preferences should be carried out and retained by both
+the life office and the consumer as verification of advice to the consumer.
+
+
+Recommendation 3.3:
+The Committee recommends that the ISC encourage the adoption by the
+industry of standard clauses within promotional material and contract
+documentation and the adoption of plain English documentation.
+In implementing this policy, appropriate material for consumers from a
+non-English speaking background should also be developed.
+Recommendation 3.4:
+The Committee recommends that life insurance agents disclose both
+orally and in writing the amounts of commission, as well as other benefits
+that accrue to them, as a consequence of the sale of personal and group
+superannuation products.
+Recommendation 3.5:
+The Committee recommends that any new commission disclosure scheme
+applying to life insurance agents be reviewed by an appropriate Senate
+Committee within three years.
+Recommendation 3.6:
+The Committee recommends that, to distinguish the role of the different
+types of agents and life brokers, agents should be required to disclose:
+• the organisations with which the agent holds agency agreements;
+• whether the agent is acting for the life office(s) with which the agent
+holds agency agreements and the nature of the fiduciary relationship
+with the life office;
+• whether the agent is remunerated in whole or in part by commission
+on behalf of the life offices for selling the companies' life products;
+• whether the commission will be paid from charges imposed by the
+policy; and
+• the manner in which early surrender charges will be calculated.
+
+
+Recommendation 3.7:
+The Committee recommends that the Prices Surveillance Authority
+closely monitor the level of fees, charges and commissions applying to
+superannuation products and report on its activities in this area in its
+Annual Report to Parliament.
+Recommendation 3.8:
+The Committee recommends that the Insurance Contracts Act be
+amended such that the term 'free look period' is replaced by 'cooling off
+period1 and made to apply to all personal superannuation plans.
+Recommendation 3.9:
+The Committee reiterates its recommendation in Safeguarding Super that
+an external review body be established to adjudicate on superannuation
+disputes.
+The Committee further recommends that Governments proposed dispute
+resolution tribunal adjudicate on consumer complaints arising out of
+personal superannuation contracts entered into after 1 July 1992 where
+these have not been satisfactorily resolved at the company or industry
+level.
+Recommendation 3.10:
+The Committee recommends that the ISC and key superannuation
+industry groups representing the interests of consumers and providers,
+combine to develop and implement a five year superannuation consumer
+education strategy for implementation in early 1994.
+Recommendation 3.11:
+The Committee recommends that consumer counselling services be
+provided by the ISC in each of the capital cities and major regional
+centres.
+
+
+Recommendation 3.12:
+The Committee recommends that the industry establish and maintain an
+agent registration system, together with a code of conduct to be approved
+by the ISC.
+Recommendation 3.13:
+The Committee recommends that the ISC report annually on
+developments in the area of agent registration and that in three years an
+appropriate Senate committee inquire into and report on this matter.
+
+
+CHAPTER 1 : INTRODUCTION
+Introduction
+All the major players, including the agents, life offices, the
+Government and the consumers have committed themselves
+to reform- Each shareholder must be prepared to be flexible
+about the detail of change and its implementation.1
+1.1 This report completes the Committee's deliberations on the original 17
+terms of reference embodied in the resolution of the Senate on 5 June
+19912 which established the Committee (see Appendix A). It deals
+principally with Term of Reference (g):
+the level and structure of fees and commissions charged in relation to
+superannuation fund membership and asset management.
+1.2 It also covers some matters under Term of Reference (h): 'the
+information available to members of superannuation funds', other aspects of
+which were dealt with in the Committee's first report, Safeguarding Super.
+1.3 Since its appointment, the Committee has reported on its 17 terms of
+reference according to five themes:
+• the regulation of superannuation, which was addressed in the
+Committee's first report, Safeguarding Super;
+• the depth and breadth of superannuation coverage, which was covered
+in the second report, Super Guarantee Bills, and a background paper
+entitled Super System Survey;
+Justice Paul Stein, Chair National Consumer Affairs Advisory Council.
+SSCS Proceedings of the Super Consumer Seminar, 4 November 1992,
+pl43.
+In reappointing the Committee on 13 May 1993 the Senate resolved that
+the Committee should complete this term of reference.
+
+
+• the impact of superannuation on the financial sector, which was
+covered in the Committee's third report, Super and the Financial
+System, which also addressed the problem of unfunded liabilities in
+public sector superannuation;
+• the inter-relationship between superannuation and the fiscal and social
+security systems, which was covered in the fourth report, Super —
+Fiscal and Social Links-, and
+• fees, charges and commissions relating to the provision of
+superannuation. This matter has been addressed in a number of
+reports and issues papers.
+1.4 Table 1.1 lists the Committee's reports and papers against the relevant
+terms of reference.
+Table 1.1 List of Committee Reports and Papers presented to the Senate
+
+
+Conduct of the Inquiry
+1.5 The inquiry into fees, charges and commissions has been a protracted
+process which began in March 1992 when the Committee first took oral
+evidence from representatives of the life insurance industry in Melbourne.
+The evidence which followed reflected that there is a high degree of polarity
+amongst the various interest groups regarding the solutions which could be
+implemented to bring about more competitive and thereby more efficient
+structures of fees and charges in the sale of personal superannuation
+products. The material which the Committee gathered and presented in its
+interim report to the Senate on 3 June 1992 indicated that the level of initial
+commissions on many products appeared to be excessive with average initial
+commissions on some products as high as 60 per cent. Subsequent evidence
+showing high cancellation rates and low surrender values as a consequence
+of these seemingly high initial commissions focussed the Committee on
+developing solutions to make personal superannuation more equitable and
+portable. In Chapter 3 of this report these solutions are examined in detail
+and recommendations for reform have been formulated.
+1.6 The Committee was greatly assisted by the work of the Trade Practices
+Commission in conducting research and preparing a report on the sale of
+personal superannuation products. This report, and the seminar which the
+Committee convened in conjunction with the National Consumer Affairs
+Advisory Council and the Trade Practices Commission which was attended
+by more than 100 participants from industry, consumer and government
+agencies, also assisted in focussing the Committee on key issues and
+desirable outcomes in this critical aspect of superannuation.
+1.7 The Committee generally welcomes the response of the industry to the
+recommendations proposed by the Trade Practices Commission and the nine
+options which the Committee proposed in its Super Charges issues paper.
+It would appear that the drawn out process, in which a high level of
+
+
+community debate has occurred, has resulted in the formulation of policy
+which will assist in the achievement of sound long term retirement incomes
+goals.
+The Place of Personal Superannuation in Retirement Incomes Policy
+Changes in Policy
+1.8 Traditionally, retirement incomes policy in Australia has had two
+components: the provision by government of an age pension funded from
+consolidated revenue and private superannuation plans supported by tax
+concessions. However, for most of the period since 1908 the emphasis has
+been on the age pension.
+1.9 On several occasions unsuccessful attempts have been made to replace
+the non-contributory pension with a national superannuation scheme funded
+by earnings-based contributions from all employees. The first of these
+initiatives occurred in the 1930-39 period and was embraced by both Labor
+and non-Labor governments. The second, which was introduced in 1945, was
+funded by an additional personal income tax by employees and a payroll tax
+paid by employers which were credited to the National Welfare Fund and
+called a 'social services contribution'. In 1950 this contribution was merged
+with the income tax system and from 1952 payments from the National
+Welfare Fund were financed by appropriations from consolidated revenue.
+Thereafter, the fund was merely an accounting device until its abolition in
+1985.
+1.10 Historically, private pensions have largely been the preserve of
+members of the white collar and the professional workforce. Broadly-based
+occupational superannuation did not achieve any real prominence until 1986
+when the Conciliation and Arbitration Commission, at the request of the
+Government and the trade unions, decided that it would formally approve
+agreements between employees and employers relating to contributions to
+approved superannuation funds in lieu of wage increases, up to a maximum
+of three per cent. The next major development in the extension of
+occupational superannuation occurred when the Parliament passed the
+Superannuation Guarantee legislation which provided that all employees
+receive a minimum coverage of nine per cent contributions by 2002. A large
+proportion of the moneys arising from award and SGC superannuation has
+been deposited in the rapidly expanding industry funds. Notwithstanding the
+
+
+thrust towards universal work-based superannuation coverage, many
+members of the workforce still need to make their own superannuation
+provisions.
+1.11 The self-employed and those employees who wish to 'top up' SGC or
+award superannuation, continue to purchase personal superannuation plans,
+although a small percentage contribute additional funds to an industry
+scheme.
+Personal Superannuation Plans
+1.12 Personal superannuation plans, which are sold by life offices and other
+financial intermediaries such as banks, have grown out of traditional life
+insurance products. These products constitute about 12.5% of funds held by
+financial intermediaries and premium income from them in 1991-92 was
+reported as being $14 bn. According to the 1991-92 ISC Annual Report, at
+the end of 1991 there were 2.87 million superannuation policies in force with
+an asset backing of $66 billion.
+1.13 Life insurance offices have also played a key role in providing
+administration, funds management advisory services, and death and disability
+cover to the emerging industry superannuation schemes.
+1.14 The Trade Practices Commission (TPC) in its report on Life Insurance
+and Superannuation identified the following categories of individual life
+office products which are sold by approximately 50 life insurance companies
+registered under the provisions of the Life Insurance Act 1945:
+• risk products,
+• savings products,
+• conventional products,
+• single premium products, and
+• annuities.3
+1.15 It is the savings product that has been the focus of consumer
+complaints to the Committee. Under this product arrangement consumers
+contribute for an extended period, usually between ten to 35 years. Early
+3
+Trade Practices Commission, Life Insurance and Superannuation 1992, p 92.
+
+
+surrender or cancellation of the product often attracts a penalty charge and,
+as a consequence, the value of the payout is lower than accumulated
+premiums and interest. In defending this outcome, life offices claim that the
+lower than expected amount reflects the fact that it is in the early years of
+a policy's life when agents are remunerated. Selling these products through
+an agency system on a commission basis is a longstanding arrangement in
+the life insurance industry.
+1.16 Consumer groups have questioned whether, in the context of large
+scale compulsory superannuation, these methods of remuneration and
+product design are appropriate to the needs of those who purchase
+superannuation plans. This report examines the place of personal
+superannuation in current retirement incomes policy and recommends
+changes to increase the quality and quantity of information available to
+consumers with the objectives of promoting greater industry efficiency and
+increased consumer equity.
+
+
+CHAPTER 2
+CONSUMER CASE STUDIES
+Consumer Case Studies
+In practice, unrestrained competition will not always produce the best
+possible economic and social outcomes. Some markets have impediments
+which tend to distance the competitive process and these investment,
+consumption and production choices. In those cases, market failure is said
+to occur.4
+2.1 The following material was received as evidence by the Committee
+from consumers who had experienced difficulties in transacting business with
+providers of superannuation plans. The case studies are a representative
+cross-section of a large number of consumer complaints received by the
+Committee which were a high proportion of total submissions (see
+Appendix B).
+2.2 These case studies illustrate the unequal bargaining power which exists
+between consumers and providers in the personal superannuation industry
+and demonstrate that reliable and accurate information on all material
+aspects of each product has often been sadly lacking. These are themes
+which frequently arise in this report and underpin a number of the
+recommendations of the Committee.
+Mr N Renton and Westpac
+Submission No 8
+2.3 Mr Renton claimed that Westpac breached a contract by imposing a
+new fee midstream during a policy, despite promoting the fund on the basis
+that members would not be subject to charges bar the ones stated in its
+prospectus. While conceding that the money involved was 'minuscule', Mr
+Renton took umbrage at the principle involved in so far as this unilateral
+4
+Op cit, Trade Practices Commission, p 77.
+
+
+action could open the way for Westpac to impose any level of new fee at
+whim: 'Why stop at $10 per half-year? What is to stop the Bank of its own
+volition charging $100 or $1 000'. Mr Renton believed that the Bank's failure
+to consult policy holders prior to the charge and its about face on the
+prospectus statement, were both illegal acts.
+2.4 Furthermore, Mr Renton's protest was met with a response from the
+bank that dissatisfied customers could take their business elsewhere. Mr
+Renton asserted that this left him short-changed because of the impact of
+the new fee on his contributions.
+2.5 Westpac responded in the following way:
+Following a further review of your file, we have re-instated your benefit to
+96.461 units. Future management fees of $10.00 per half year will also be
+waived.
+We have reached this decision because of the unique nature of the timing,
+and your method of entry, into this Fund via Employees Provident Fund.
+Would you please acknowledge your satisfaction with this arrangement, on
+the duplicate of this letter.5
+Mr D Schwarz and Capita/MLC
+Submission No 17
+2.6 Mr Schwarz claimed that Capita (which was subsequently taken over
+by MLC) provided misleading information with respect to the surrender
+value of his policy. On taking out the policy, Mr Schwarz submitted he was
+advised that when members elect to leave a fund you [members] may have
+91 per cent of the value of the funds held immediately, or you may have 100
+per cent of your funds paid back over two years in monthly instalments —
+during this two year period, you receive a fund earning rate three per cent
+less than [what] continuing members receive'. This discounted rate of return
+is in addition to normal fees and expenses deducted from members' funds
+over the two year period.
+5 Letter to Mr Renton of 22 July 1992
+
+
+2.7 Mr Schwarz's specific complaint was not so much over the penalty
+surrender rate for early withdrawal, but relate to the advice he received
+from MLC when joining the fund. He claimed to have been advised that
+only in exceptional circumstances is the penalty surrender rate imposed.
+However, Mr Schwarz was subject to this penalty surrender rate when he
+withdrew his investment. He claimed also to have met a *bureaucratic brick
+wall' when he attempted to obtain an explanation from MLC as to the
+circumstances resulting in the penalty rate.
+2.8 It should be noted that the Capita/MLC promotional information
+submitted by Mr Schwarz was explicit regarding early surrender values but
+was vague regarding the 'exceptional circumstances' mitigating the surrender
+rate. Capita/MLC stated that surrender values 'may be less than the total of
+premiums paid'. It also stated that 'Capita would only implement these
+conditions [that is, the penalty surrender rate] when it considers such action
+necessary or desirable in respect to the interests of all policy holders in
+No. 1 Fund generally'. Under ISC Circulars 276 and 290 [clause 4.2(d)], it
+is necessary for the circumstances giving rise to the imposition of the
+surrender rate to be spelt out with clarity.
+2.9 MLC's reply stated that the marketing material said nothing about
+'exceptional circumstances' and that 'Capita would only implement these
+conditions when it considers such action necessary or desirable in respect to
+the interests of all policy holders in the No. 1 Fund generally.'
+2.10 MLC further stated that the settlement conditions referred to by Mr
+Schwarz had nothing to do with agent commission and were closely designed
+'to reflect the underlying assets during the period of the investment.*6
+Mr G Hearn and MLC life
+Submission No 24
+2.11 Mr Hearn was forced into early retirement due to invalidity. Since he
+was ineligible at his age for the retirement pension, he and his wife were
+dependent on the returns of his superannuation investments and his wife's
+income. Mr Hearn's early retirement meant he had to transfer his
+6
+MLC letter to the Committee dated 22 July 1992.
+
+
+superannuation policy into a rollover fund. In addition to taxes, Mr Hearn
+incurred a five per cent commission charge of $10 000. As he will be obliged
+to transfer this superannuation investment at age 65, he feared he will be
+faced with similar charges again.
+2.12 Because Mr Hearn's invalidity required his wife to nurse him, Mrs
+Hearn has been forced to work only part-time. This has resulted in her
+inability to pay the premium on her own personal superannuation policy.
+The arrears on her premium payments have incurred 14 per cent penalty
+charges, the cumulative effect of which will whittle away all her contributions
+within ten years. While the Hearns conceded Mrs Hearn's policy statement
+made reference to this penalty charge, they have expressed grievance with
+the agent who sold the policy for not alerting them to it. Compounding the
+Hearns' grievance was the life insurance company's response to their
+inquiries being relayed via the agent who sold the policy, despite the agent's
+conduct being a subject of their complaint.
+2.13 Mr Hearn also alleged that one of his sons was sold a life insurance
+policy by an agent on the basis of misleading information. The sales agent
+was said to have exaggerated the benefits generated by the policy by
+extrapolating the fund's gross annual performance rate over the policy
+lifespan without taking account of charges, tax and likely inflation. Coupled
+with this 'sales hype' was the obscure and complex language and jargon used
+by the agent and the company's promotional material.
+2.14 Subsequent to the Committee secretariat conveying Mr Hearn's
+allegations to the company now administering the above mentioned policies,
+the Committee was advised that:
+... the policy of Mr Hearn's wife has now been 'paid-up'. No further
+premiums are required. Arrears of premiums and interest have been
+written off ... The policy on the life of Mr Hearn's son is not a
+superannuation policy. It has recently been surrendered and paid out.
+2.15 The company concerned also noted that it both publishes investment
+returns net of tax and charges, and endorses the disclosure requirements
+contained in ISC Circulars 290 and 291.
+2.16 Notwithstanding the apparently satisfactory outcome in the case of
+Mrs Hearn's superannuation policy, the Committee notes that the company's
+response failed to account for both the agent’s conduct and the companys
+
+
+continued reliance — until the Committee's intervention — on the agent as
+its medium for addressing the Hearn's complaints. This study underscores
+the importance of the general requirements in ISC Circular 276 and 290
+[clause 4.2(d)] that life companies and sales agents disclose explicitly all
+charges in general and penalty fees in particular.
+Mr Foley and National Mutual
+Submission No 99(a)
+2.17 As in the case of Mr Renton, Mr Foley claimed that National Mutual
+(NML) imposed unilaterally a charge on withdrawals, despite promoting its
+Superguard Plus vehicle as having no entry or exit fee provisions. Unlike the
+Renton case however, National Mutual's contract stated that the company
+reserved the right to impose this sort of additional charge (which it called
+a buy-sell ratio'). Against this point, Mr Foley claimed that the information
+provided in promotional brochures was too difficult for the 'average client'
+to understand, thus nullifying the benefit to the consumer of the 14 day free
+look period. Mr Foley also noted that in response to client protest over the
+buy/sell ratio, NML withdrew the fee.
+2.18 National Mutual's response to these claims stated that since the
+buy/sell ratio is a term of the policy, 'clients have a 14 day free-look period
+[which] means that they have an opportunity, even after purchasing the
+policy, to fully digest its terms, including those terms which allow National
+Mutual to impose certain conditions at a later date'; ipso facto, 'the 14 day
+free-look period ... enable[s] the client to rescind the contract'.
+2.19 National Mutual also stated that the wording of its policies is neither
+misleading nor unnecessarily complicated. The Committee observes,
+however, that a number of case studies magnify the importance of both up-
+front disclosure of the possible likelihood of new charges being imposed
+during the life of a policy, and the need for this eventuality and the likely
+circumstances leading to it to be expressed clearly, and referred directly to
+the consumer.
+
+
+Mr Foley and National Mutual
+Submission No 99(b)
+2.20 Mr Foley claimed that a major cause of dissatisfaction with certain
+superannuation plans is the failure to communicate, on an on-going basis,
+the various fees and charges. He submitted that in some employer sponsored
+superannuation schemes, which are promoted by life offices, employers and
+employee members understand clearly the amount contributed to the plan
+each month. However, many perhaps most members are unaware, if ever
+told, of the details of fees and charges for administration, insurance, life and
+disability cover, contributions tax, statements, cheques drawn, transfer to
+another fund and transfer of portfolio, within the fund. He further claimed
+that the conditions relating to the transfer of funds from National Mutual
+Tailored Super to another life office or other approved provider were
+expressed in such a way that their real impact was not appreciated. It was
+submitted that members in this plan were required to pay 2.5 per cent of
+their accrued benefit to transfer from managed funds to capital guaranteed
+portfolios and that apparently they had not been informed of this prior to
+making an election on joining the fund.
+2.21 National Mutual contested these claims by stating that their technical
+documents and annexures which were provided in contractual
+documentation, and annexures to members applications, did itemise the
+charges associated with a transfer of funds. National Mutual further
+submitted that Mr Foley had raised issues covered in the trust deed and that
+the setting of certain charges was the responsibility of the trustees, not
+National Mutual.
+2.22 This case highlighted the need for a clearer delineation of powers and
+duties between the promoter/life office, the employer/client and the
+employee as regards the setting of fees and charges. It was yet another
+instance of the need to give careful consideration to the idea of having all
+fees and charges relevant to membership of a superannuation plan itemised
+in a simply expressed one page schedule at the front of any proposal or
+contractual documentation.
+
+
+Mr Toohey and the AMP
+Submission No 220
+2.23 Mr Toohey, on retiring at 55 years of age in 1989, transferred his
+superannuation investment into a rollover fund. He was advised by the
+superannuation and financial adviser, who was also an agent for the
+company, that the following charges would apply to the rollover fund:
+2.24 On this basis, Mr Toohey invested $340 000, the entry fee on which
+amounted to just over $10 000 or approximately three per cent of the
+investment.
+2.25 As Mr Toohey proposed to use this fund as the source of his yearly
+livelihood, he withdrew $27 000 in January 1991 and $30 000 in November
+1991, the latter sum being intended to cover his living expenses for 1992.
+Following the latter withdrawal, Mr Toohey received an account statement
+from his company setting out the charges related to his two withdrawals.
+Included in the charges was a hitherto unmentioned charge called an 'Effect
+of Adjustment Index on Debit Transaction' fee of $3 027.88. Mr Toohey
+claims that, when combined with the stated withdrawal fee, this adjustment
+fee in effect obliterates the interest-bearing return of his investment and will
+force him to draw down on his capital more quickly than he had allowed for.
+2.26 Reinforcing Mr Toohey's claim that neither the company's promotional
+material nor the agent had referred to this 'midstream' fee prior to the sale,
+Mr Toohey's inquiries with the adviser who had sold him the policy about
+the adjustment index fee were in vain — the adviser stated he was unaware
+of this charge.7
+2.27 AMP submitted that Mr Toohey had incorrectly ascribed the word
+'fee' to the Adjustment Factor Index and submitted that the index had been
+explained in the original sales brochure as a mechanism to reflect changing
+unrealised asset values.
+7 Mr G. Condon, Sub No 270.
+
+
+Retired Police Association — NSW (RPA) and AMP8
+2.28 The RPA claimed that the rollover fund to which its members belong,
+AMP Capital Secure Deferred Annuity, had imposed a new fee on
+withdrawals from this fund. Calling the fee an 'adjustment factor', it applies
+retrospectively to members who joined the fund after March 1990.
+Withdrawals from the fund will be subject to both withdrawal fees and the
+adjustment factor fee (as well as tax).
+2.29 In response to complaints from members, AMP agreed to waive the
+new charge if no withdrawals were made before members reach age 65
+years. However, as the RPA argues, this concession is meaningless for those
+who had based their retirement income streams on regular withdrawals from
+this fund.
+Mr L Sadowsky and National Mutual
+Submission No 238
+2.30 Mr Sadowsky purchased a long term personal superannuation plan
+from National Mutual. He deposited a small single premium into the plan
+and undertook to pay $130 per month thereafter. After three years
+contributions he decided to transfer his accumulated benefit to an employer
+sponsored fund.
+2.31 Mr Sadowsky informed the Committee that an administrative charge
+of approximately 23% might be made if the funds were transferred.
+2.32 He claimed that when he purchased the policy at no time was it
+emphasised that, after the qualifying period (said to be two years), would he
+receive less than the full amount of contributions should he roll the money
+into another fund.
+2.33 National Mutual responded that the administration charge was based
+on terms and conditions in the original policy document, but conceded that
+it would appear that the termination charges may not have been clearly
+8 RPA Newsletter, June 1992, p 1.
+
+
+explained to Mr Sadowsky at the point of sale. National Mutual undertook
+to arrange an interview with Mr Sadowsky to ascertain what charges were
+explained to them when he purchased the policy as well as other
+information pertinent to the complaint.
+2.34 This case highlighted the need for an optimal flow of quality
+information between the agent and the consumer when private
+superannuation plans are purchased. It also demonstrates the need for
+simply presented and standardised information itemising all fees and charges.
+Mrs K Trotter on behalf of the Gap P & C Association
+Submission No 269
+2.35 Mrs Trotter informed the Committee that her school employed a
+tuckshop convenor two days a week for approximately 39 weeks each year.
+She estimated that there would be six months when the tuckshop convenor
+would earn more than $450 per month and therefore be entitled to SGC
+superannuation coverage.
+2.36 She contended that the shop would be obliged to put $91 into a
+superannuation fund which over the full year would charge $69 (or
+approximately 75% of charges) in insurance and administration fees.
+2.37 This case, and a number of others considered by the Committee,
+highlights the need for a low cost mechanism to cover employees who
+experience discontinuous workforce participation. In its first report,
+Safeguarding Super, the Committee recommended that a central fund for
+lost members be established and that persons in irregular or changing
+employment have the option of rolling over contributions to this low cost
+fund.
+2.38 In its response of 17 December 1992, the Government acknowledged
+the need to maximise the prospects of these employees receiving their
+entitlements and, subsequently in their package of prudential control bills,
+proposed to establish a register of 'lost members' to address this problem.
+The May 1993 package of Superannuation Industry Supervision Bills further
+proposes that tax file numbers be used to allow unclaimed benefits to be
+paid. As well, the legislation provides for the establishment of 'eligible
+rollover funds' into which unclaimed benefits or lost member funds can be
+
+
+deposited. The Committee believes that administration charges still have the
+potential to eat away superannuation benefits for those in irregular
+employment and/or with more than one employer. Accordingly, the
+Committee anticipates further reviewing this problem.
+Ms H New and Scottish Australia
+Submission No 274
+2.39 On entering employment in the clerical industry Ms New was advised
+that her three per cent SGC contributions would be handled through an
+insurance policy negotiated with Scottish Australia. Evidently the employer
+did not wish to contribute to an industry scheme. Having been informed that
+the company would not receive less than $100 in premium, Ms New agreed
+to 'top up' the policy by making a personal contribution of $70 per month.
+2.40 After 12 months contributions Ms New joined the Tasmanian Public
+Service and believed that she could roll over her full contributions to that
+employer's fund. Scottish Australia informed her that she was entitled to
+only five per cent of her contributions and advised that she maintain her
+policy, contribute $1200 per year and pay $36 per year administration
+charges.
+2.41 Following the receipt of a letter advising them of adverse evidence,
+Scottish Australia investigated Ms New's complaint and advised that it
+acknowledged that the policy had not been to Ms New's advantage and that
+it had agreed to cancel it from inception. The company further advised that
+it had not hidden any fees or charges from Ms New who, it claimed, also
+had a responsibility to read the written material provided.
+2.42 This case demonstrated that those in an employment situation where
+there exists no award provision for SGC contributions to be deposited in a
+low cost employer-sponsored or industry fund, there is a strong likelihood
+that the Governments retirement incomes objective of self provision will be
+frustrated. The possible disharmony between SGC and award arrangements
+is a matter which the Committee could examine at some future juncture.
+
+
+Mr M Collins and Mercantile Mutual life
+Submission No 275
+2.43 Mr Collins informed the Committee that when he redeemed his
+insurance bonds he specifically asked the companies concerned not to notify
+the selling agents of his decision. On being subsequently contacted by an
+agent representing Mercantile Mutual, Mr Collins wrote to that company
+and LIFA registering his complaint.
+2.44 Mercantile Mutual responded apologising for any inconvenience
+caused by the error. It submitted that copies of termination certificates
+prepared for clients are automatically generated and sent to their agents. In
+their haste to finalise the redemption, Mercantile Mutual had omitted to
+suspend the automatically generated letter.
+Ms R Clarke and Mr R Webb and Friends Provident
+Submission No 293
+2.45 Ms Webb and Mr Clarke purchased personal superannuation policies
+from Friends Provident Assurance Company Limited. They contributed to
+the policies for a period of four years. In February 1992, they inquired about
+rolling over the policies to another financial institution. Having been
+informed that the surrender values of the policies would be substantially less
+than total contributions and interest they claimed that they were not advised
+of on-going or early termination charges at point of sale.
+2.46 Friends Provident contended that the agent had given an illustration
+showing the effect of costs and charges on the values of the policy and that
+the LIFA Complaints Review Committee could not decide in the favour of
+Ms Webb and Mr Clarke.
+Conclusion
+2.47 These case studies, whilst being only a small fraction of total consumer
+complaints and disputes which arose during the inquiry, demonstrate the
+breadth and depth of consumer problems in the personal superannuation
+area. Recent ISC annual reports to the Parliament also manifested these
+
+
+problems. For example, in its 1988-89 report, the ISC reported that it had
+received 232 written and 680 telephone complaints and enquiries, adding
+that a large proportion concerned individual superannuation plans. The
+report also noted that low surrender values in the early years were mainly
+due to the initial marketing expenses, that is, agent commission.
+2.48 The 1989-90 report showed a deepening problem with 300 written
+complaints and enquiries and 800 by telephone. The ISC again reported low
+surrender values combined to make up a large proportion of complaints.
+The ISC noted that unless a breach of its Act had occurred, little could be
+done to assist complainants, however, the report went on to outline progress
+in the development of a three-tiered dispute resolution mechanism which
+would be run by the industry.
+2.49 The 1991-92 report, whilst not identifying actual numbers of consumer
+complaints, further describes the industry complaints review mechanism and
+developments within the TPC and the industry to improve the quality of
+advice given by life agents.
+2.50 The Committee notes with interest that the ISC took a 'symptomatic'
+as opposed to a 'causal' approach to consumer problems, preferring to
+rectify problems when they occurred as opposed to implementing forward-
+thinking structural reform. To this end, in the next chapter the Committee
+expounds on its view that the way to solve these consumer problems is to
+attack the cause of the problem not merely treat the symptoms.
+
+
+CHAPTER 3
+A CASE FOR DISCLOSURE
+A Case for Disclosure
+The 1990s, I think, will have to involve restructuring from
+the demand side. In fact we can say that one of the effects
+of deregulation and restructuring the supply side is to
+provide more choice. But, if consumers are not in a position
+to have sufficient information to exercise that choice, then
+9
+clearly efficiency in the workplace is not going to occur.
+The Issues
+Superannuation Policy
+3.1 If superannuation is to play its full part in the provision of retirement
+income, it is essential that contributions, premiums and fund earnings be
+conserved to the greatest practicable extent. Any avoidable outgoings place
+a brake on the accumulation of benefits. For this reason alone, the level of
+fees, charges and commissions paid by funds and/or contributors needs to
+be monitored to ensure that benefits are optimised.
+3.2 Moreover, from the large number of complaints received by the
+Committee10, both directly and through consumer bodies, as well as press
+reports and anecdotal evidence, it is clear that there is a public perception
+that fees and, in particular, commissions, are excessive and hidden in many
+cases. Whether this perception is justified or not is open to argument, but
+its existence is not. The Committee believes that excessive fees and
+commissions were the norm in some sections of the industry and although
+the problem still exists, in recent times competitive pressures have reduced
+these charges significantly.
+9 Professor Bill Melody, op cit, Proceedings: Super Consumer Seminar, pllO.
+10 Appendix 1 contains a table which summarises the nature of each consumer
+complaint received by the Committee.
+
+
+3.3 Now that superannuation is virtually compulsory, the integrity of its
+providers is clearly a matter of public concern, as are any adverse
+perceptions which have the capacity to undermine that integrity.
+3.4 As would be expected, the complaints covered a wide range of
+problems, but one theme predominated - the high level of up-front
+commissions paid on regular premium savings or superannuation products
+sold by life companies and the consequent high cancellation, exit or transfer
+fees. Other aspects of essentially the same problem were the failure at the
+time of purchase to disclose, or explain adequately, the impact of the
+commissions and fees, difficulties in understanding the 'fine print' in policy
+documents and the inadequacy, or sometimes complete absence, of
+responses to complaints and requests for explanations on termination.
+Consumer Complaints
+3.5 The ISC, the industry's regulator, does not have a specific brief to
+investigate and resolve individual consumer disputes. Moreover, the sudden
+growth brought about by the introduction of award superannuation and the
+complexities brought about by frequent changes in taxation and other
+operating requirements so stretched the Commission's limited resources that
+effective action in this area was out of the question. Now that the ISC has
+the resources and the Government proposes to legislate for a statutory
+review/dispute resolution mechanism, consumers of superannuation will be
+in an enhanced position.
+3.6 The general area of consumer complaints was a difficult one for the
+Committee. Although its terms of reference were broad enough to permit
+it to examine individual complaints and make recommendations as to the
+general rules that should operate, it did not have the time, the resources, the
+expertise or the authority to undertake the quasi-judicial role expected of
+it by many of the complainants.
+3.7 It did, however, develop a routine which enabled it to gain an
+appreciation of the issues involved. Submissions which reflected adversely on
+individuals or organisations were withheld from publication, and forwarded
+to those named for comment. Some were later published but many were
+dealt with in camera. In a few cases, the Committee's inquiries led to a
+satisfactory resolution of the complaints. Overall, the procedure has enabled
+the Committee to come to an understanding of both sides of the problems -
+
+
+and to make recommendations which should both minimise their occurrence
+in the future and facilitate the resolution of those that do occur.
+Fees, Charges and Commissions
+3.8 In the specific area of fees, charges and commissions, the industry
+exhibited some reluctance to provide the required information and it was
+only after a strongly worded rebuke in the Senate that the required
+information was forthcoming11. On 22 July 1992, following the receipt of
+this information, the Committee convened a private hearing to discuss
+further the life office view regarding the disclosure of fees, charges and
+commissions. To assist the Committee's understanding of the issue, LIFA
+arranged a simulation of the sale of a typical personal superannuation plan
+which included a client needs analysis and discussion leading to the entering
+into a contract to purchase. The Committee found this hearing to be most
+informative and of considerable assistance in preparing this report.
+3.9 In August 1992, the Committee published Super Charges - An Issues
+Paper on Fees, Commissions and Charges in the Superannuation Industry
+(the Issues Paper), which outlined some of the problems raised in a number
+of case studies, gave examples of a wide spectrum of commissions and other
+charges and identified the main issues for decision. The Committee used as
+its point of reference the standard competitive model, which assumes perfect
+information in a competitive market, and concluded that product knowledge
+is the key to the effectiveness of competition. The extent of disclosure of
+information is therefore a key element in market efficiency.
+3.10 In March 1992, the Minister of Justice and Consumer Affairs referred
+the general subject of the role life insurance agents, including consumer
+complaints, problems of disclosure of information and the early termination
+of agreements, to the Trace Practices Commission (TPC) and directed it to
+consult with this Committee and other bodies carrying out relevant
+investigations. On 4 November 1992, the Committee joined with the TPC
+and the National Consumer Affairs Advisory Council in sponsoring a one-
+day seminar on consumer issues affecting the insurance and superannuation
+industries. This seminar, which was attended by more than 100 participants
+from a wide cross-section of the industry, was a most useful exercise in
+11 Senate Hansard, 3 June 1992, p 3351, Interim Report on Fees, Charges and
+Commissions, June 1992,
+
+
+information sharing and analysis. The Committee, in reporting to the Senate
+on 12 November 1992,12 tabled the proceedings of the Seminar.13
+3.11 The TPC published its report Superannuation and Life Insurance in
+December 1992. The Committee believes that the TPC report provides an
+excellent survey of the issues and endorses the general thrust of its
+recommendations.
+3.12 The Committee has had the benefit of all of these studies and
+activities as well as a most useful set of commentaries from the major
+providers and consumer bodies.
+3.13 There is general agreement among consumer groups, life office agents
+and the personal superannuation industry that super products should
+become 'more competitive', that is, that more diversified products should be
+offered to meet individual circumstances and also that the costs and other
+relevant features of these products should be disclosed to allow a greater
+and more flexible consumer choice. It is also generally acknowledged that
+the provision of more information will lead to increased competition and
+industry efficiency.
+Life Insurance Industry
+3.14 The period under review has not been an easy one for the life
+insurance industry. The industry, along with other financial intermediaries,
+has encountered considerable difficulties generating high rates of return on
+investments, especially those with a high property weighting. A number of
+witnesses expressed their concerns on this matter and informed the
+Committee of their decision to cancel policies and receive a lower than
+expected benefit. Compounding this problem, and also causing an outflow
+of funds from life offices, were the financial difficulties being experienced
+by a large number of policy holders which had resulted in the cancellation
+of many regular premium superannuation plans. The problem of policy
+discontinuance has been compounded by the removal of certain tax
+concessions from employee SGC 'top up' superannuation. Table 3.1, which
+shows data on policy discontinuance rates in personal superannuation
+12 Super Consumer Seminar, Senate Hansard, 12 November 1992, p 2927.
+Proceedings of the Super Consumer Seminar, November 1992.
+13
+
+
+collected in 1992 by the TPC, illustrates the extent of policy surrenders. For
+example, if the data is representative of the industry as a whole, after four
+years 21 per cent of policies would have been discontinued.14 Table 3.2
+shows the overall impact of these discontinuances in dollar terms.15 Table
+3.3 shows the long term trends in policy discontinuances for the period
+1982-91.
+14 Op cit, Trade Practices Commission, p 72.
+15 Insurance and Superannuation Commission, Annual Report, 1991-92, AGPS,
+Canberra, p 16.
+
+
+Table 3.1
+Cumulative Policy Discontinuance Rates
+Table 3.2
+Superannuation Business - Annual Premiums
+
+
+Table 3.3
+Discontinuances - Forfeiture and Surrender Rates
+Source: Insurance & Superannuation Commission Annual Reports
+Notes
+Forfeiture rates (ordinary & superannuation) are defined as the annual premiums forfeited in a year expressed as a percentage of the
+mean of new annual premiums written over a two year period ending six months earlier.
+Surrender rates (ordinary) are calculated as the ratio of the total annual premiums discontinued by surrender in the year shown to the
+mean of the annual premiums in force at the beginning of the two previous years.
+Surrender rates (superannuation) are calculated as the ratio of total annual premiums discontinued by surrender in the year shown to
+the total premiums in force at the beginning of the year.
+
+
+3.15 The life insurance industry has undergone considerable staff and
+organisational restructure. During the inquiry a number of offices
+announced plans to rationalise staff and make substantial changes in market
+strategy. The industry, in keeping with trends in the other financial
+institutions, manufacturing and service industries has experienced its own
+brand of microeconomic reform.
+3.16 Whilst it could be said that much of the restructuring has occurred in
+the context of a general economy-wide trend, the need for the restructuring
+is also a consequence of poor strategic planning and ineffective management
+by the industry. In respect of the latter point the Committee records its
+concern that some sections of the life insurance industry adopted investment
+practices contrary to sound diversification. In the strategic planning domain,
+attempts by some offices to engage in overly-aggressive marketing practices
+whereby some consumers were sold products which neither suited their
+needs nor matched their premium paying capacity, have also contributed to
+current problems. Under these conditions it was inevitable that, as soon as
+low returns or financial hardship prevailed, significant rates of policy
+surrenders would be experienced.
+3.17 The industry watchdog, the ISC, reported to the Parliament on the
+trends in policy cancellation. However, whilst no doubt it was aware of the
+seriousness of some of the marketing practices (and the consequent results
+by way of policy discontinuance), nowhere in its annual reports to the
+Parliament is this concern expressly mentioned. The Committee believes it
+is necessary that the ISC under its strengthened and enhanced charter adopt
+a more critical, independent and forward-looking position in overseeing the
+life insurance industry, advising both Government and the Parliament of any
+undesirable trends or practices and recommending legislative intervention
+should this be required.
+3.18 The advent of compulsory superannuation has resulted in a lower
+demand for the traditional personal superannuation products. The removal
+of some tax concessions, which greatly assisted the sale of life products, has
+placed further pressure on life offices.
+3.19 In the interests of stability, it is of critical importance that the industry
+and the Government agree on a package of reforms which will both restore
+consumer confidence and engender greater efficiency. If this reform is not
+achieved it is likely that the Government's overall retirement income policy
+objectives will be thwarted.
+
+
+3.20 The Committee is pleased that the industry has acknowledged that
+reform is both necessary and desirable and it commends LIFA on its May
+1993 package of reforms (see Appendix F) which should result in more
+efficient market practices and enhanced returns for superannuation savers.
+However, the matter of disclosure of agent commission has not as yet been
+resolved and the Committee believes that the Government should implement
+change in accordance with Recommendation 3.4 of this report.
+Current Disclosure Practice
+3.21 Disclosure of information is currently provided for under regulation
+and in ISC guidelines.16 Under the new disclosure guidelines which have
+applied since 1 July 1992, a fund must provide its members with information
+concerning:
+• its investment strategy and earnings;
+• details of any investments which account for more than 5 per cent of
+its assets;
+• the names of trustees, investment managers or other financial advisers
+or consultants;
+• the fund's crediting rate and reserving policy; and
+• fees, charges and other expenses.
+3.22 In his October 1992 statement on prudential supervision of the
+superannuation industry, the Treasurer indicated that disclosure guidelines
+will be further examined in the context of the review of three current
+inquiries:
+Through these measures, members will be better informed about the
+operation of their fund and will be able to evaluate its performance.
+Currently there are inquiries being conducted by the Trade Practices
+Commission and the Senate Select Committee, which are examining issues
+related to the marketing of life insurance and superannuation products. In
+addition, the ISC is reviewing the Life Insurance Act. The appropriateness
+16 OSS Reg 17 and ISC Circulars 276, 290, 291.
+
+
+of the disclosure regime at the point of sale will be reconsidered by the
+Government upon the completion of these inquiries'.17
+3.23 While the information required to be disclosed to consumers has
+increased, concerns remain about the timing of product information, the
+clarification of industry terminology and the disclosure of fees and
+commissions. In the Committee's view these are areas for enhanced
+requirements for the disclosure of information, which will result in increased
+competition and greater consumer protection.
+3.24 According to the Roy Morgan Research Centre (RMRC) survey
+commissioned by the TPC, the most important source of information and
+advice for consumers is oral advice and information from life agents and
+intermediaries. Of the 517 recent purchasers of life insurance and
+superannuation products who were surveyed, two thirds (68 per cent) used
+this source and almost half (42 per cent) considered this as the most useful
+source.18
+3.25 The research also found that consumers were inadequately informed
+about most of the seventeen categories of relevant information. The survey
+asked respondents what issues they discussed with the agent or adviser,
+which issues they would discuss today, whether the agent had told them
+about the issue and whether the issue had either not been mentioned or
+they could not recall. The results, which were classified by five possible
+responses from consumers, are shown in Table 3.4.
+3.26 Consumers indicated on average they had asked about two of the 17
+relevant categories of information as listed in Table 3.4, while nine had been
+told to them by the agent and five were not discussed. For example, the
+least mentioned information included commission arrangements between
+agent and the company (65 per cent did not mention), who they should
+complain to about problems with the policy (53 per cent), product
+performance comparisons between funds (41 per cent) and exit fees
+(36 per cent).
+3.27 The survey conducted by Consensus Research for LIFA sheds further
+light on the key role that agents play in advising in the sale of
+17
+18
+John Dawkins, Strengthening Super Security, AGPS, Canberra, p 13.
+RMRC, Report for the TPC on Consumers' Experience with Life Insurance
+Offices, November 1992, p 3.
+
+
+superannuation plans. In that survey of over 2000 consumers: 92 per cent of
+respondents said that their agent was honest, four per cent disagreed; 85 per
+cent expressed satisfaction with the advice, nine per cent expressed
+dissatisfaction; and 80 per cent said that appropriate policies had been
+marketed, 14 per cent disagreed.19 In this context, it is worth noting that
+in the U.K. one of the 'observable trends' in the life insurance market is that
+'reputation' is a key determinant of consumer choice of agent and product
+provider.20
+19 Op cit, Proceedings of Super Consumer Seminar, p 37.
+20 London Economics, Independent Financial Advisors and the Impact of
+Commission Disclosure, October 1992, p 5.
+
+
+Source: Roy Morgan Research Centre (RMRC), Unpublished material prepared for the TPC.21
+21 Roy Morgan Research Centre (RMRC), Unpublished material prepared for the
+TPC.
+
+
+3.28 In light of these findings and recommendations made to it, the
+Committee believes that additional information should be given at the point
+of sale.
+Recommendation 3.1;
+The Committee recommends that information provided to potential policy
+holders be presented in a brief and standardised format which will allow
+consumers to compare different products. (This information would be in
+addition to the more detailed contractual information.)
+The Committee further recommends that the brief and standardised
+information include:
+• a written description of each investment option facing the consumer
+and an outline of the general policy and strategy of the fund;
+• a written description of all fees and charges* (including any initial, on-
+going and/or termination fees/charges) and, where these are variable,
+the minimum and maximum charges;
+• details of any penalties which may be imposed on early termination
+of the policy and the method of calculating these charges; and
+• details of the dispute resolution process which can be accessed if the
+consumer believes the advice or information provided may be
+inaccurate.
+3.29 The ACA believes that any adviser should be required to keep a
+written record of the consumer's financial situation and needs (as required
+in the UK).22 This requirement would not involve the creation of a large
+bureaucratic support network, but firms selling superannuation products
+would need to maintain a file of such advice according to a standard format
+as prescribed by the ISC. According to the RMRC survey, in 18 per cent of
+recent life office purchases the quality of the investment decision was found
+to be poor and this was associated with the source of information and
+22 Sub no 227, para 7.8.
+
+
+advice.23 Such a 'needs analysis' would indicate the appropriateness or
+otherwise of the superannuation product sold to the consumer.
+Recommendation 3.2: ' ;
+The Committee recommends that, in conjunction with investment
+information, a 'needs analysis' based on the consumer's individual
+circumstances and preferences should be carried out and retained by both
+the life office and the consumer as verification of advice to the consumer.!
+Clarification of Industry Terminology
+3.30 The Committee's Issues Paper suggested that the introduction of
+standard terminology would assist consumers in making meaningful product
+comparisons as well as their understanding of the market. In the United
+Kingdom, the Securities Industries Board requires that certain standardised
+phrases be used in promotional documents. A similar approach to common
+terms used in the industry would benefit consumers.
+3.31 Commenting on the standardisation of terminology, the ISC stated
+that it:
+... acknowledges that while standardised nomenclature would be useful, it
+may be difficult to enforce on a legislative basis. In most areas of
+commerce the legislative requirements or titles are not often used by
+industry participants in their dealings with the public. Any introduction of
+standardised terminology might well lead to standardisation in
+communication between certain parties but not in the final interface
+between the company/intermediary and the consumer.24
+3.32 The Committee notes that LIFA is currently developing proposals to
+simplify policy documentation and related material. These proposals should
+be evaluated by the ISC with a view to their introduction, where
+appropriate, throughout the industry.
+RMRC, op cit, p 4.
+ISC, Response to the Issues Paper; p 13.
+24
+
+
+Recommendation 3.3: ..
+The Committee recommends that the ISC encourage the adoption by the
+industry of standard clauses within promotional material and contract
+documentation and the adoption of plain English documentation.
+In implementing this policy, appropriate material for consumers from a
+non-English speaking background should also be developed,_
+Disclosure of Fees and Commissions
+3.33 The range of fees payable by members of occupational and industry
+superannuation funds depends on the extent to which services such as
+record keeping and administration, investment management and custodial
+services are contracted out or performed in-house. The market is highly
+competitive for the provision of these services and costs are thereby kept to
+a minimum. In addition disclosure of such fees is mandatory.
+3.34 With regard to personal superannuation, that is contracts between
+individuals and providers (usually life insurance offices), a range of fees is
+imposed to recoup the commissions paid to agents and costs to the life
+office. These may take the form of establishment fees, annual fees, exit fees
+or a combination of these.
+3.35 The question as to whether agents should disclose to potential
+customers the amounts and bases of commissions they receive has aroused
+sharp differences of opinion. The general rationale for disclosure is that it
+is necessary in order to ensure that the market is fully informed, a
+prerequisite for being fully competitive. There are, however, a number of
+more specific reasons for disclosure.
+3.36 The traditional life insurance industry was dependent on a marketing
+system based on commission payments to agents, or 'consultants', who
+operated as independent businesses, some tied to one company, others
+independent. While there is only limited objective evidence available, the
+system lent itself to inefficiencies in establishment and operating costs. The
+most telling evidence is that which points to high rates of policy surrenders
+and low policy surrender values indicating substantial leakages from the
+
+
+retirement income flow. Certainly, the time spent on unsuccessful one-to-one
+canvassing had to be paid for out of commissions on successful sales. As
+companies tried to build market share, they tended to increase benefits to
+agents, either through higher commissions or through other devices such as
+very low interest loans. One submitter informed the Committee that, in
+addition to renewal and asset based commissions, some agents received
+'overwrite' commissions based on aggregate production which can be as high
+as 70% of the initial commission.
+3.37 The question the Committee asks is, where there is a standardised
+product type, why, in the context of a compulsory superannuation
+environment, which may be extended at some future juncture to include the
+entire workforce, including the self-employed, is it necessary for anyone to
+pay hundreds or even thousands of dollars for the privilege of taking out a
+superannuation policy? However, the Committee affirms that, consistent
+with any award or employment contracts, those members of the workforce
+who wish to purchase superannuation plans should still be free to choose a
+product of their choice, regardless of its front end commissions or other
+charges.
+3.38 Commissions on regular premium superannuation products are
+sufficiently large as to be the dominant factor in the setting of exit fees or
+surrender values on discontinued contracts, particularly in the early years.
+As noted previously, this was the principal area of complaints to the
+Committee and, in some cases, over 90 per cent of the first two years'
+premiums were absorbed in this way. As more than half of all super policies
+are discontinued within six years, the scope for misunderstanding at best and
+deception at worst, is obvious. Increased levels of disclosure at the outset
+would, by allowing for comparison of advisory service costs, assist in
+minimising these problems.
+3.39 Information presented to the TPC shows that more than two-thirds of
+purchases of superannuation products relied on oral information presented
+by the agents and about the same proportion knew the agents prior to the
+commencement of the discussions.26 It is quite apparent, therefore, that
+personal factors, such as trust, friendship, integrity and the like, play a major
+25
+The joint submission of 5 March 1993 from the Australian Society of CPAs and
+the Institute of Chartered Accountants (Joint CPA submission), p 5.
+RMRC, op cit. pp 3-5.
+26
+
+
+part in clients' attitudes to agents. This being so, a reminder that the agent
+is the representative of, and is legally accountable to, the company rather
+than the client would be appropriate. Recommendation 3.6 addresses this
+matter.
+3.40 Both the companies and the agents have supported the existing system
+on the grounds that the agent performs a valuable task in the provision of
+financial advice, geared to long-term planning. It was submitted that this is
+a highly skilled function and one worthy of adequate reward.27 If this is the
+case, then the adviser has a duty to inform the client of the 'fee' payable for
+the advice, just as the client has a right to know the charges. The client
+would then be in a position to compare the advice, and its cost, with that
+available from professional investment advisers operating on a fee-for-
+service, rather than a commission, basis. In any event, the argument falls
+down completely since the commission is paid on the sale value, rather than
+the time spent.
+3.41 Finally, full disclosure of commissions would inhibit, if not completely
+eliminate, the practice of 'twisting', that is advising the client to surrender a
+policy in order to take up a new one, thereby earning the agent a new
+commission. It would also assist customers to make a rational choice when
+a number of different products are offered by the same company. At
+present, there is a strong temptation for agents to promote those products
+which earn the largest commissions. This practice is referred to in industry
+jargon as 'commission bias'.
+The TPC Inquiry
+3.42 The TPC inquiry recommended that all insurance intermediaries
+should be required to disclose the amounts of commission and other benefits
+payable by the supplier as a result of the sale of superannuation products.
+In arguing this case the TPC also pointed to 'commission bias', whereby the
+level of commission influences the type of product recommended by the
+agent. The Committee agrees that the level of commission has the potential
+to influence the marketing strategy employed by some agents and that a
+greater openness by agents, and an expectation on the part of consumers to
+be made aware of all relevant costs associated with the sale of
+superannuation plans, would virtually eliminate this bias.
+27
+LIFA, sub no 114, p 27; Australian Lifewriters Association, sub no 49, p 2 and
+submission to TPC, pp 3-4.
+
+
+3.43 In conducting its inquiry, the TPC commissioned a number of
+consumer surveys and a series of analytical studies, one of which was
+conducted by the investment adviser, Mr Daryl Dixon. Mr Dixon's research
+made conclusions about the quality of decisions for a sample of recent
+purchasers. He found that on a five point ranking scale ranging from
+'excellent' to 'very poor' that 81 per cent of recent purchasers made average
+or better decisions while 18 per cent made poor or very poor decisions.
+3.44 The TPC compared Mr Dixon's ratings with the information provided
+to customer data (see table 3.4) and concluded that:
+there appeared to be a strong relationship between the quality of the
+purchase decision and being 'told' about commission arrangements. Those
+who were told about commission arrangements made an 'excellent' decision
+three times more often than those who recorded 'didn't mention'28
+Australian Law Reform Commission Report No 59
+3.45 The Australian Law Reform Commission (ALRC) report No. 59 on
+Collective Investments: Superannuation concluded that disclosure of
+commissions 'will assist people to be aware when buying a policy of any sort,
+what the benefit is to the seller'. The ALRC therefore recommended that
+life agents selling superannuation should be subject to the same disclosure
+requirements as the Corporations Law which provides for disclosure to the
+client by the adviser of any interest which may be capable of influencing a
+recommendation, and of any benefit which may flow to the adviser from the
+recommendation.29
+Definitions of ’Commission' and 'Disclosure'
+3.46 The view that commissions should be disclosed was generally
+supported by consumer groups. It was suggested that the disclosure of
+commissions would help consumers make rational and informed choices as
+to the appropriate product for their individual circumstances. For example,
+the ACA recommended disclosure of commissions at both pre-contractual
+28 Op cit, Trade Practices Commission, p 98.
+ALRC, Collective Investments: Superannuation, 1992, p 8.
+29
+
+
+and contractual stages.30 It was also suggested that disclosure would allow
+comparisons between different products and with other products of a similar
+type.
+3.47 LIFA stated that greater disclosure of fees and charges 'would assist
+potential superannuation fund members make as informed decision as
+possible'.31 During the inquiry LIFA further contended that it:
+does not believe that a potential policy holder or superannuation fund
+member needs to know what the agent or sales person receives by way of
+remuneration in order to make an informed decision.32
+3.48 A difficulty with commission disclosure is in its definition as
+commissions paid to agents can take many forms. For example, LIFA stated:
+does it [commission disclosure], for instance, include non-cash
+remuneration, which is not uncommon in many industries including the life
+insurance industry. If, for disclosure purposes, commission was defined in
+purely cash terms, the potential for avoiding disclosure by remunerating
+agents with non-cash benefits is patently obvious. Even where an agent's
+remuneration is in cash, this often takes many different forms such as
+retainer plus commission, office allowance etc.'33
+A further difficulty is the complexity in calculating commissions for products
+other than single premium policies.
+3.49 These problems can be directly addressed by the inclusion in
+legislation of a definition of 'commission' sufficiently broad so as to
+encompass these variations and establish the relationship between companies
+and agents. For this initiative to be successful, it is essential that the ISC and
+the industry liaise and strike an appropriate outcome.
+3.50 The Issues Paper noted that current guidelines require disclosure of
+fees and charges for some life products. The requirements provide that
+regular premium products must state the effect of all charges, including
+30 ACA, sub no 227, para 4.1.
+31 Sub no 114, p 31.
+32 ibid, p 32.
+ibid
+33
+
+
+commissions, on policy benefits34. However the ISC guidelines do not
+require commissions to be identified separately.35 In responding to the
+Issues Paper, the ISC reaffirmed its policy that regular premium products
+must state the effect of all charges including commission. The ISC further
+submitted that it was examining the issue of commission disclosure and that
+it was participating in the TPC inquiry.36
+3.51 The position of LIFA, whilst it is under review, is that 'all fees and
+charges will be disclosed, as well as the effect thereof on benefits'.37The
+Committee believes that, whilst this regime is a sound one in respect of
+giving consumers information about the products being sold, it falls short of
+allowing them to make independent and informed judgements about the
+motives of the agent selling the product and the cost of the financial advice
+prior to sale. The latter point is one which the Office of Fair Trading (UK)
+also holds. It believes that commission disclosure, or 'price transparency', will
+enhance competition on price and quality amongst financial advisers.38
+3.52 In view of the unequal bargaining regime between life offices and
+consumers as illustrated in the case studies in Chapter 2 and analysed in
+paragraphs 3.33 to 3.51 the Committee believes that additional disclosure is
+necessary.
+Recommendation 3.4:
+The Committee recommends that life insurance agents disclose both orally
+and in writing the amounts of commission, as well as other benefits that
+accrue to them, as a consequence of the sale of personal and group
+superannuation products.
+34
+ISC Circular 276
+35 Sub no 151, p 35.
+36 Submission No 151, Additional material of 17 November 1992, p 17.
+37 See Appendix F, p 84.
+38 Op cit, London Economics, p 1.
+
+
+3.53 But any moves towards increased disclosure should only be made after
+appropriate consultation between the industry and the regulator, the ISC.
+The regime which is promulgated should not place insurance agents in a
+position whereby they are the only party in the superannuation industry with
+a duty to disclose the cost of their services. In this regard all providers of
+superannuation products will also need to disclose costs which materially
+affect the price and returns of the product and/or the way in which it is
+marketed.
+3.54 The Committee believes that the fluidity of the superannuation
+industry is such that new product types will be developed with a view to
+avoiding this new commission disclosure regime. The role of the industry
+watchdog, the ISC, will be critical in ensuring that new growth products
+reflect both the spirit and the letter of the new requirements thereby
+ensuring that high standards of consumer welfare are upheld.
+3.55 Any new and more detailed disclosure regime should be regularly
+reviewed by the ISC and reported to the Parliament for examination by an
+appropriate parliamentary committee.
+Recommendation 3.5;
+The Committee recommends that any new commission disclosure scheme
+applying to life insurance agents be reviewed by an appropriate Senate
+Committee within three years.
+3.56 The Committee stresses that, whilst, commission disclosure by agents
+and other parties is an important issue, it is not the only issue and it has at
+times distracted attention from more fundamental considerations of critical
+long term importance.
+Disclosure Standards Consistent With Agency Relationship
+and Statement of Relationship
+3.57 In its submission to the Committee, the Attorney General's
+Department stated that:
+
+
+Consumers often complain that subsequently they discover that they have
+been sold products which are inappropriate to their circumstances because
+the sales person was either swayed by influences such as commissions
+rather than their needs or lacked the professional skills to provide
+adequate advice'.39
+3.58 Similarly the ACA stated that it was very hard for consumers to assess
+the independence and appropriateness of the 'advice' they receive which
+meant that they 'are very susceptible to exploitation and that the role of the
+intermediary is critical'.40 Because existing guidelines do not require
+disclosure of the nature of the agency relationship, consumers can be
+confused as to the status of agents when they are described as 'independent'
+advisers.
+3.59 In the Australian market place, there are four types of agency
+relationships: sole agent, first option, multi-agent and life broker. It should
+be noted that current guidelines do not require the agent to provide
+information regarding the type of agency relationship he or she has with the
+life office. However, as was pointed out by the Attorney General's
+Department41 and Mr Michael Fetch42 the non disclosure of a
+commission by an agent selling superannuation products to a principal
+(client) would be an offence under the secrets commission provisions of the
+criminal codes in the States and Territories.
+3.60 The Attorney General's Department submission took care to point out
+that these provisions do not apply to situations where the person receiving
+a commission is the agent only of the provider of the superannuation
+package. These provisions do not, therefore, comprehensively cover the
+disclosure of fees, charges and commissions, as the greater majority of
+personal superannuation sales involve agents who have life office
+principals.43
+39
+Sub no 107, p 32.
+40 Sub no 227, Attachment, p 5.
+41 Submission no 107, Supplementary material of 19 August 1992.
+42 Submission no 228.
+43 Op cit, Attorney General's submission, p2.
+
+
+Sole Agents
+3.61 Typically a sole agent represents only one life office. Although the sole
+agency agreement requires the agent not to hold an agency with any other
+life office, the agent may offer products sourced from the parent company
+or its subsidiaries or other approved companies. The Trade Practices
+Commission estimates that 50% to 60% of regular premium insurance is
+distributed through the agency system.
+First Option Agents
+3.62 First option agencies allow the agent to offer products from other
+companies at the agent's discretion but there is usually a requirement that
+they not offer other products which compete with those of their principal
+life office.
+Multi-Agents
+3.63 Multi-agents have agency agreements with several life offices. The
+advantage of the multi-agent arrangement for the agent is that it allows the
+agent to select from products offered by a wider range of companies. The
+number of multi-agents grew rapidly in the 1980's mainly as a result of
+decisions of some of the smaller life offices to move away from the sole
+agency approach to marketing.
+Life Brokers
+3.64 The majority of life brokers operate in the corporate market where
+they arrange group life and managed funds for corporate superannuation
+schemes. They play only a small role in the regular premium superannuation
+market. Life brokers charge a fee for advice provided.
+Towards Increased Disclosure of Agent-Principal Relationships
+3.65 The Committee agrees with the ACA that agents should disclose their
+agency relationship at the outset 'as either a sales representative or an
+independent adviser and which company [or companies] they represent as
+required in the UK.'44
+44
+Sub no 227, para 7.7.
+
+
+3.66 These disclosure requirements will ensure that consumers are aware
+of the agents' status and relationship with life offices. The statement of
+agency relationship should be included at the beginning of the 'needs
+analysis' to verify that the consumer was informed as to the particular
+agency arrangement.
+3.67 This approach flows from the concept of 'polarisation' of the type of
+agent providing the advice. The Issues Paper suggested that to ensure that
+agents or advisers provide impartial, objective financial advice it would be
+necessary for agents to identify clearly whether they are 'tied' to a life
+insurance company/office or are independent agents. The concept of the
+polarisation of agents already operates in the United Kingdom.45
+Recommendation 3.6:
+The Committee recommends that, to distinguish the role of the different
+types of agents and life brokers, agents should be required to disclose:
+• the organisations with which the agent holds agency agreements;
+• whether the agent is acting for the life office(s) with which the agent
+holds agency agreements and the nature of the fiduciary relationship
+with the life office;
+• whether the agent is remunerated in whole or in part by commission
+on behalf of the life offices for selling the companies' life products;
+• whether the commission will be paid from charges imposed by the
+policy; and
+• the manner in which early surrender charges will be calculated.
+45
+G. Moon, sub no 123, p 21.
+
+
+Amortising Commissions
+3.68 In the Issues Paper, the Committee stated that:
+To overcome the problem of high up-front commissions dissolving
+contributions in instances of early termination, and to ensure that agents
+provide on-going service to clients, it could be prescribed that commissions
+should be amortised or spread across the life of products, or a set period,
+say, ten years.46
+Indirectly, the proposal would also mean that life companies would take
+greater responsibility for the activities of their agents.
+3.69 While this proposal would be effective in restricting the expense
+'penalties' a life office can charge on early termination, these charges or
+expenses would fall unevenly as between discontinuing and continuing
+policyholders. As the ISC stated:
+... there would be a fundamental trade off in amortising commissions in
+that continuing policyholders would pay for terminating policyholders. This
+is particularly relevant in mutual insurance companies (which dominate the
+industry) where any cost imposed on the company falls on the
+policyholders. It may be seen as unfair to consumers to impose on long-
+term policyholders costs which have arisen from the decision of other
+policyholders to terminate a contract early.47
+3.70 The ISC also indicated that there is a trend to flatter commission
+payments as life offices reduce the emphasis on initial commissions as a form
+of agent remuneration.48 The Committee notes that the ISC opposed
+compulsory changes to the pattern and timing of commission payments. The
+Committee believes that greater disclosure, including level of commissions
+and the nature of the agency relationship, will be the key determinant in
+driving a competitive trend towards the spreading of commissions.
+46 pp 63-64. The joint submission of 5 March 1993 from the Australian Society of
+CPAs and the Institute of Chartered Accountants, whilst not arguing for
+prescription, also supported this objective.
+47 Sub no 151, Supplementary material, p 17.
+ibid, p 18.
+48
+
+
+Capping Fee Levels
+3.71 In response to the evidence of alleged excesses in fee levels, the Issues
+Paper discussed whether it would be appropriate to impose a ceiling on the
+fees and charges set by life companies. The paper concluded that this and
+other proposals to restrict the level of fees:
+were not supported by any detailed analysis of how restricted fee levels
+would be determined, who would determine them, how they would
+monitored ... and, more importantly, how this sort of direct regulation
+would impact on the industry'.49
+3.72 Addressing the specific proposal to set fee levels, the ISC highlighted
+its potential to distort market forces and reduce competition:
+There are a number of problems with attempting to impose a cap on fee
+levels in industries as diverse and competitive as the life insurance and
+superannuation industries. A major problem with capping fee levels, as
+with most forms of artificial price fixing, is that it will reduce competition
+and distort market forces. In the long run, this is likely to lead to higher
+charges as companies will tend to charge the fee scale approved by the
+Government. In capping fee levels, the Government will be relying on
+signals from companies, who will pressure the Government to increase fee
+levels in times of rising costs but not to decrease in times of decreasing
+costs. Another problem with capping fees is that consumers will not be
+able to use the price of a product when attempting to make a judgment on
+its value relative to other comparable products.50
+3.73 In a competitive market such fees and charges - the costs of managing
+an investment — reflect the type, quality and extent of the services provided.
+While placing a ceiling on fees would have the initial effect of stimulating
+demand for life products if fees were set at an artificially low level, restricted
+fee levels may lead to cross-subsidisation between product types and
+consumers which would, in the longer term, outweigh any of the immediate
+benefits.
+3.74 The Committee accepts that life offices and superannuation funds
+should be free to set appropriate fees and charges but that such fees need
+49 Issues Paper, op cit, p 61.
+Sub no 151 (Supp), p 11.
+50
+
+
+to be monitored independently to ensure that the fees and associated
+charges are in relation to the services provided to consumers.
+Recommendation 3.7:
+The Committee recommends that the Prices Surveillance Authority closely
+monitor the level of fees, charges and commissions applying to
+superannuation products and report on its activities in this area in its
+Annual Report to Parliament_'_, _
+14-Day Cooling-Off Period
+3.75 Current ISC guidelines provide for a minimum 14-day cooling-off
+period51. This is designed to allow consumers the opportunity to cancel a
+new policy within the 14-day period without any financial penalty. In its
+supplementary submission the ISC commented that:
+The introduction of the 14-day 'free look' period into the Insurance
+Contracts Act arose out of a key recommendation in the Law Reform
+Commission report (No.20) on Insurance Contracts' and that it is intended
+to strike a balance in meeting the interests of insurers in that they need to
+finalise their administrative arrangements quickly, and the interests of
+policyholders in that they have 14 days in which to consider the policy.52
+3.76 While the Issues Paper highlighted the high rate of discontinuance
+[30 per cent according to the Rice-Kachor Research, Investment Account
+Analysis] and early terminations, the industry did not believe that a higher
+proportion of consumers would rescind a contract if the 14-day period were
+extended to 28 days. LIFA noted that:
+at least one life office offers a 21 day free-look period and there is no
+evidence to suggest that a vastly greater number of consumers take
+advantage of the extended 'cooling off period.53
+51
+ISC Circular 276 para 4.5 (a)
+52 Sub no 151 (Supp), p 14.
+LIFA, Comments on Issues Paper, p 7.
+53
+
+
+3.77 In practice, the 14-day cooling-off period commences once the
+consumer receives the policy document and, in most cases, he or she will
+have had time to consider whether or not to proceed with the policy before
+receipt of the contract. As the ISC stated, 'this amounts to more than 14
+days after a decision to purchase a contract at which time the policy holder
+receives a disclosure statement'.54
+3.78 The Committee believes that the placement of the 14-day cooling off
+notice should take prominence on the disclosure document and be clearly
+and simply expressed. In addition, in the interest of having greater
+standardisation of consumer terminology the term 'free-look' period which
+is found in the Insurance Contracts Act should be termed more
+appropriately the 'cooling-off period.
+Recommendation 3.8:
+The Committee recommends that the Insurance Contracts Actbe amended
+such that the term Tree look period' is replaced by 'cooling off period' and
+made to apply to all personal superannuation products. _
+Dispute Resolution
+3.79 In its first report Safeguarding Super: The Regulation of
+Superannuation, the Committee recommended the development and
+publication of internal dispute resolution procedures and the establishment
+of an external review body comprising an authority chaired by an
+ombudsman to examine disputes where these could not be resolved
+satisfactorily through internal mechanisms.55 The rationale for an external
+disputes body to examine consumer complaints was to ensure transparency
+and independence in the handling of complaints. A further advantage of an
+independent body was that it would provide strong consumer involvement
+in the management of the dispute process.
+54 Sub no 151 (Supp), p 14.
+Supplementary Submission, op cit, p 143.
+55
+
+
+3.80 New dispute resolution arrangements were announced by the
+Treasurer in October 1992. These arrangements will apply to occupational
+and personal superannuation products as follows:
+75. Each fund will, as a condition of compliance, develop appropriate
+internal arrangements for the handling and consideration of queries and
+complaints in a timely manner (that is, within 90 days). The fund will also
+be required to notify these procedures to members on entry and annually.
+76. It will also be a condition of compliance that a fund be a party to
+the external dispute resolution arrangements. Under these arrangements,
+decisions will be made by a Tribunal chaired by a statutory office holder.
+In addition to the statutory office holder, the Tribunal will comprise two
+other persons, drawn by the Chair from a panel of fund trustees, consumer
+representatives and other people with appropriate experience. These
+arrangements will apply to all types of superannuation products, including
+those offered by life offices.56
+3.81 The need for government intervention in the dispute resolution
+process is even more important now that superannuation is compulsory in
+the workplace. It follows, therefore, that the proposed dispute resolution
+tribunal should be given the responsibility of adjudicating on disputes arising
+out of contracts entered into after 1 July 1992, the date of commencement
+of the superannuation guarantee legislation.
+3.82 The majority of complaints will still be resolved through internal
+dispute resolution arrangements. In this regard, LIFA has instituted a
+centralised, three-tiered complaints system. The procedure involves
+policyholders taking their complaints initially to the company's complaints
+officer. If a satisfactory outcome cannot be achieved the complaint is then
+considered at a more senior level within the company. Finally, the complaint
+can be referred to LIFA's Complaints Review Committee. The Review
+Committee's decision is binding on the company but not on the policyholder.
+3.83 According to LIFA the most common complaints relate to alleged
+misrepresentation by agents followed by alleged administrative errors. These
+two categories account for around 83 per cent of all complaints. This would
+56
+John Dawkins, op cit, p 51. Legislation giving effect to these proposals was
+introduced into Parliament in December 1992 and withdrawn but was
+reintroduced on 27 May 1993 in the form of the Superannuation (Resolution of
+Complaints) Bill 1993.
+
+
+confirm that a major difficulty in resolving complaints is verifying the
+information and advice given by agents, especially if the agent gave advice
+which was contrary to any promotional and written material provided by the
+company. The potential for confusion by consumers about policy information
+was raised by the ACA when it submitted that:
+when a consumer is approached by an insurance intermediary it will often
+be the first contact he or she has ever had with investment products, life
+insurance or superannuation'.57
+3.84 While the enhanced disclosure of information will reduce the reliance
+on oral advice in the selling process, agents should also promote consumer
+awareness of dispute resolution procedures (see recommendation 3.1).
+3.85 The Committee considers a small minority of consumer complaints are
+so serious that they constitute serious and wilful malpractice on the part of
+a very small number of participants in the industry. Accordingly, in dealing
+with disputes retrospective legislation is justified.
+Recommendation 3 S:
+The Committee reiterates its recommendation in Safeguarding Super that
+an external review body be established to adjudicate on superannuation
+disputes.
+The Committee further recommends that Government's proposed dispute
+resolution tribunal adjudicate on consumer complaints arising out . of
+personal superannuation contracts entered into after 1 July 1992 where
+these have not been satisfactorily resolved at the company or industry level.
+Consumer Protection Initiatives
+3.86 Product knowledge and competition among life offices and funds is
+the most effective way of ensuring that fees and charges are not excessive.
+57
+Sub no 227, Attachment, p 5.
+
+
+The disclosure of fees, charges and commissions and other relevant product
+features will ensure that consumers are fully aware of these in making
+comparisons between different products offered by life offices. Working in
+tandem with this initiative there needs to be an ongoing campaign by key
+participants in the superannuation industry to ensure that consumers know
+the basics' of retirement incomes arrangements. This campaign (as one
+submitter correctly points out) should be the responsibility of both the
+government and the private sector and, ultimately, has the potential to
+achieve more desirable outcomes than legislation alone.58
+3.87 The Committee notes that under its previous charter the ISC was
+'industry-oriented' and did not discharge any substantial consumer
+responsibilities. Under its enhanced budget and statutory responsibilities in
+the superannuation education area, the ISC will be in a position to make
+considerable advances to benefit consumers.
+Recommendation 310:
+The Committee recommends that the ISC and key superannuation industry
+groups representing the interests of consumers and providers, combine to
+develop and implement a five year superannuation consumer education
+strategy for implementation in early 1994._________
+3.88 The provision of consumer counselling services for personal
+superannuation products would further ensure that consumers purchasing
+superannuation products will have added protection against the information
+provided verbally during the selling process.
+Recommendation 3.11;
+The Committee recommends that consumer counselling services be
+provided by the ISC in each of the capital cities and major regional centres.
+58 Joint CPAs submission, op cit, p 15.
+
+
+Licensing of Agents
+3.89 The Committee received a range of views concerning the licensing of
+agents. For example, the ACA wanted all life insurance agents to be
+registered with the ISC, but it did not support licensing on the grounds that
+this would give life agents a status which they do not deserve, and would
+thereby entrench consumers' problems'. However ACA supported the need
+for agents and advisers to be adequately trained.59 On the other hand,
+LIFA favoured a system of agent identification and registration and greater
+regulatory powers for the ISC, although the costs and benefits of such
+regulation would need to be carefully evaluated. LIFA stated that it is:
+anxious to minimise unscrupulous selling practices by agents as much as
+possible. Accordingly, the industry has announced the development of a
+self-regulatory mechanism for life office agents which will involve the
+establishment of an agent registration system. This will comprise an agent
+register, a code of practice for agents and the establishment of minimum
+training and education standards for agents. Improvements will also be
+made to agent recruiting and supervisory practices. These measures are
+aimed at maintaining adequate supervision of agents by life offices as well
+as appropriate levels of competence and professionalism on the part of
+intermediaries'.60
+3.90 The development of these proposals was outlined by Mr I Chalmers
+of the Australian Lifewriters Association (ALA) during the Super Consumer
+Seminar:
+Since May 1992, LIFA has joined ALA in working towards an effective co-
+regulatory scheme ... This co-regulatory scheme is intended to apply to all
+intermediaries, not just life insurance agents, who are involved in the sale
+and servicing of life insurance products. The proposed licensing scheme is
+expected to be based on the achievement of a mandatory minimum
+training qualification, annual professional development requirements and
+adherence to a prescriptive code of conduct... It is anticipated that there
+will be an independent board comprising representatives of insurers,
+intermediaries, government and consumers. The scheme is intended to be
+self-funded.61
+59 Submission No 227, Additional Material, (Recommendation 7.3).
+60 Comments on the Issues Paper, p 10.
+61 Proceedings of the Super Consumer Seminar, 4 November 1992, pp 95-6.
+
+
+3.91 In reaching a conclusion about the need for agent licensing the
+Committee has had to consider a number of finely balanced arguments. On
+the one hand the Committee believes that, under a compulsory
+superannuation regime, governments have a responsibility to ensure that
+those selling superannuation products should be 'fit and proper' persons
+demonstrating the highest ethical standards. On the other hand, a licensing
+system controlled by government has the potential to create a barrier to
+entry for new agents which could result in excessive fees and charges and
+entail the creation of another small, yet costly, bureaucracy.
+3.92 The Committee believes that the appropriate balance could be struck
+using a mix of ISC supervision and industry self regulation and registration
+whereby the industry, in close consultation with the ISC, could set minimum
+education and qualification standards, establish an agent code of practice
+and maintain a register of agents.
+Recommendation 3.12:
+The Committee recommends that the industry establish and maintain an
+agent registration system, together with a code of conduct to be approved
+byiillillllBM
+3.93 The matter of agent registration is of central importance to improving
+the quality of advice given to consumers. Accordingly, the Parliament should
+maintain a close interest in developments in this area.
+Recommendation 3.13:
+The Committee recommends that the ISC report annually on developments
+in the area of agent registration and that in three years an appropriate
+Senate committee inquire into and report on this niauer.
+
+
+Towards a Balance in Decision-Making — Will Disclosure
+Improve the Quality of Consumers’ Decisions?
+3.94 The question that has been raised repeatedly in this report is what
+impact will disclosure have on the nature of the investment decisions, that
+is, how important is disclosure to the quality of consumers' decisions. The
+research commissioned by the TPC found that a high proportion of
+consumers who had recently purchased a life product — 18 per cent
+according to the Roy Morgan Research Centre survey — had made poor
+decisions. Further, the survey found that 37 per cent of respondents who
+had discontinued their policies had made a loss on their investment as a
+result of early termination. Professor Fels, Chairman of the TPC, referred
+to this problem in his pre-conference address to the Super Consumer
+Seminar opining:
+I believe as a result of our research on the written documentation provided
+to consumers that inadequate written disclosure is one part of the cause for
+these poor decisions. I am pleased to note that the industry also accepts
+this view ... and has made a number of constructive proposals to address
+it.62
+3.95 The Committee believes that enhanced disclosure standards will
+directly address these problems at the stage before an investment decision
+is made. It is critical to recognise the need for an appropriate balance in
+decision-making, that is, the balancing of risks between the risk the
+consumer wishes to bear, as his or her personal circumstances change over
+time, and the risks inherent in portfolio investment. From a consumer's
+perspective the risks he or she is assuming are not the same as those of an
+investment portfolio. The purchase of a superannuation product is not a
+one-off decision but is a dynamic and ongoing occurrence and in most cases
+consumers are not told of the risks they are assuming when they make the
+investment. Informed choices by consumers will redress this imbalance.
+62
+ibid, p xix.
+
+
+Conclusion — Disclosure As A Means of Promoting
+Competition
+3.96 During the period of the inquiry the Committee has observed
+considerable overall progress towards making personal superannuation more
+competitive and open. However, whilst in some areas there has been
+substantial improvement, other areas still require fundamental reform. If this
+reform does not occur, it is likely that consumers will continue to have
+unequal bargaining power.
+3.97 The Committee believes that the consumers of personal
+superannuation products must be empowered through knowledge. That
+knowledge should include comprehensive information about the costs of
+both advisory services and superannuation products per se, as well as
+knowledge about the precise contractual obligations that the agent has in
+relation to the life office promoting each product.
+3.98 The Committee has constructed a detailed and integrated package of
+empowerment for the consumer which will go a long way towards redressing
+the gross imbalances which currently exist in the personal superannuation
+industry.
+3.99 This report recommends that consumers be provided with simply-
+worded policy literature which will allow product-by-product comparison. It
+supports the conclusions of the TPC and ALRC reports which call for
+disclosure of agent commissions and relationships. It agrees with the
+Government's decision to set up an external low cost dispute resolution
+mechanism to hear consumer complaints, and it makes a number of other
+recommendations which strengthen and enhance the package of reforms.
+3.100 When fully implemented these reforms will promote greater
+competition and efficiency and will ensure that all members of the workforce
+will be able to participate effectively in the new superannuation
+arrangements in Australia which aim to increase significantly the level of self
+provision for retirement.63
+63 TPC, Life Insurance and Superannuation 1992, TPC, p 92.
+
+
+
+
+MINORITY REPORT - Senator Cheryl Kemot
+Minority Report - Senator Cheryl Kernot
+In my view there is one area of the report which needs further expansion.
+This is the section concerning Capping Fee Levels (paras 3.71 - 3.74).
+I do not dissent with recommendation 3.7, although this is, of itself, not an
+adequate response to the problem of customers being subject to large and
+unreasonable charges under whatever guise.
+I accept that many of the excesses of the past have been discontinued, and
+that the industry is adopting fairer practices. However, this encouraging
+trend does not remove the need for a 'safety net'.
+My aim in calling for limitations on fees, charges and commissions is simply
+to ensure that ordinary people are not 'ripped off. The promotion of
+competition is supported and the enhancement of the competition by
+adequate disclosure is strongly supported - but we must also ensure that
+unreasonable charges are illegal.
+There are three areas which need to be separately regulated - the fees and
+commissions charged by agents, the on-going administrative charges of the
+funds themselves and the fees levied by investment managers. Merely forcing
+the disclosure of these imposts will not guarantee that consumers are
+adequately protected.
+The monitoring of the Prices Surveillance Authority (PSA) will assist
+competition. I am of the view that this body will be most likely to uncover
+unfair and/or excessive fees. Consequently, the PSA should also be given a
+power to recommend to the Treasurer that a particular fee cap be imposed
+on any of the three areas mentioned above.
+I do not propose this additional recommendation in order to attack the
+industry. I am concerned that consumers are not disadvantaged by an
+unscrupulous minority. This is particularly the case where contracts contain
+provisions allowing fees or charges to be introduced without notice during
+the term of the contract.
+
+
+In addition to the case studies detailed in Chapter 2 of the report, the
+Committee has received much evidence from casual and itinerant workers
+that, in some cases, the total amount of superannuation in a fund is being
+absorbed by administration charges. This inequity has a big effect on the
+opinions of the affected people as to whether superannuation is worthwhile.
+Consequently, it can be argued that allowing 'ripoffs', even if they only occur
+in a minority of cases, undermines the Government's push to increase
+national superannuation savings.
+
+
+APPENDIX A: TERMS OF REFERENCE
+Appendix A — Terms of Reference
+On 5 June 1991 the Senate established a Select Committee on
+Superannuation to inquire into, and report on, the following matters:
+(a) the constitutional arrangements governing superannuation;
+(b) the taxation arrangements which apply to superannuation;
+(c) the adequacy of prudential control arrangements applying to
+superannuation funds;
+(d) the implications for the financial system of the expected growth
+in superannuation fund assets;
+(e) the investment of moneys by superannuation funds;
+(f) the ownership of surpluses in defined benefit superannuation
+funds;
+(g) the level and structure of fees and commissions charged in
+relation to superannuation fund membership and asset
+management;
+(h) the information available to members of superannuation funds;
+(i) the representation of fund members in trustee structures of
+superannuation funds;
+(j) the dispute resolution mechanisms available to members of
+superannuation funds;
+(k) the rules applying to contributions and the vesting and
+preservation of benefits;
+(l) the appropriate means of providing adequate superannuation
+for part time and casual employees and the feasibility of
+providing superannuation for people outside the workforce;
+
+
+(m) the rate of employer non-compliance with superannuation
+awards;
+(n) the possibilities for simplifying superannuation;
+(o) the feasibility of providing improved benefits to superannuation
+arrangements in lieu of increased contributions under
+superannuation awards in appropriate circumstances;
+(p) the need for an appropriate target and timetable for the
+achievement of adequate levels of superannuation; and
+(q) any other relevant matters, including superannuation
+arrangements existing in other countries.
+
+
+APPENDIX B
+TABLE OF COMPLAINTS
+NUMBER
+NAME
+PROVIDER
+8
+_9
+13
+15
+17
+22
+N E Renton
+Kingsley Siebel
+David McJannet
+Phillip R Garrett
+David Schwarz
+COMPLAINT ALLEGES
+Westpac
+Not Given
+National Mutual
+Guardian Royal Exchange
+Insurance
+MLC
+Fee increased arbitrarily - no mention in contract (in
+evidence, not submission).
+$3 000 exit fee on premiums of $19 000 over 8 years
+High management charge,
+4% penalty on switch.
+Excessive fees in early years.
+Exit fees.
+Obscure language.
+Fees excessive.
+Julian Lucas
+General Comment
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+APPENDIX C : LIST OF SUBMISSIONS RE ON-GOING
+INQUIRY
+Appendix C: List of Submissions re On-going Inquiry (Numerical)
+- IN NUMERICAL ORDER
+Sub
+No Name
+No 1 Gynn, W J
+No 2 Fisher F
+No 3 Newman, C A
+No 4 Liquor Trades Union, The
+No 5 Perry, K F
+No 6 Walsh, A
+No 7 Buildings Union Superannuation
+No 8 N E Renton & Associates
+No 9 Serendip Publications
+No 10 InterData Pty Ltd
+No 11 Correspondence only
+No 12 Trau, Dr J
+No 13 McJannet, D
+No 14 Davies, D
+No 15 Garrett, P R
+No 16 Samson, S W
+No 17 Schwarz, D
+No 18 Restuccia, V
+No 19 Downs, B
+No 20 Clayton Utz
+No 21 Adams, G
+No 22 Lucas, J M
+No 23 Cartledge, O
+No 24 Hearn, G
+No 25 Foley, E
+No 26 Civil Service Association of WA
+No 27 Owens, E S & Co
+No 28 Independent Schools Superannuation Trust
+No 29 Burns, W G
+No 30 In camera
+
+
+No 31 ACT Council of Social Service Inc
+No 32 Hughes, D
+No 33 Shell Superannuation Rights Committee
+No 34 Australian Salaried Medical Officer Association
+No 35 Australian Council of Social Service
+No 36 Belshaw, W J
+No 37 Smith, B
+No 38 Boffa, G
+No 39 Arthur Andersen & Co
+No 40 Williams, T
+No 41 Prudential Life Underwriters Association (NSW)
+No 42 Nipper, M R G and Weeks, P L
+No 43 Prudential Assurance Company Ltd
+No 44 Retired Associate Members' Branch Public Service Association of
+NSW
+No 45 Myuna Pty Ltd
+No 46 du Cros, N
+No 47 Fisk, B
+No 48 Trustee Companies Association
+No 49 Australian Lifewriters Association
+No 50 Australian Small Business Association
+No 51 Long, P D
+No 52 Knox, Professor D
+No 53 Tribunal on Homosexuals and Discrimination
+No 54 Chamen, P
+No 55 Metal Trades Industry Association of Australia
+No 56 National Association of Nursing Homes & Private Hospitals Inc
+No 57 Duesburys
+No 58 Morgan Stockbroking Ltd
+No 59 IOOF Australia
+No 60 Non-Government Schools Superannuation Fund
+No 61 Alexander Consulting Group, The
+No 62 Metal Manufacturers Limited
+No 63 National Australia Bank
+No 64 Women's Action Alliance (Australia)
+No 65 Chamber of Commerce & Industry of WA
+No 66 Melbourne Metropolitan Board of Works (MMBW) Employees'
+Superannuation Fund
+No 67 Yann, R N
+No 68 Secondary Colleges Staff Association
+No 69 Ulverstone Chamber of Commerce
+
+
+No 70 Belshaw, M
+No 71 Wilson, The Hon Ian, MP
+No 72 Crouch, W G
+No 73 ANZ Bank
+No 74 Independent Insurance & Superannuation Agencies
+No 75 Cooley, L M
+No 76 Australian Finance Conference
+No 77 Northern Territory Superannuation Office
+No 78 Lee, W A
+No 79 Mercer Campbell Cook & Knight Inc
+No 80 Noble Lowndes
+No 81 Commonwealth Department of Industrial Relations
+No 82 Klumpes, Dr P J M
+No 83 National Farmers Federation
+No 84 WA Government Employees Superannuation Board
+No 85 Australian Government Employees Superannuation Trust
+No 86 Smith, A W J
+No 87 Turner, M
+No 88 White, B
+No 89 Association of Superannuation Funds of Australia Ltd, The
+No 90 Jacques Martin
+No 91 CSA Consulting Group
+No 92 Mansfield, G
+No 93 Civic Securities Pty Ltd
+No 94 Australian Retirement Fund
+No 95 Australian Chamber of Manufactures
+No 96 AM Corporation Ltd
+No 97 Taxpayers' Association of Tasmania, The
+No 98 County NatWest
+No 99 In camera
+No 100 National Mutual
+No 101 Chifley Superannuation Services
+No 102 Commonwealth Funds Management Ltd
+No 103 Coles Myer Ltd
+No 104 National Association of Personnel Consultants Ltd
+No 105 Bankers Trust Australia Limited
+No 106 Australian Council of Trade Unions
+No 107 Commonwealth Attorney-General's Department
+No 108 Institute of Actuaries of Australia, The
+No 109 Retirement Benefits Office
+No 110 Motor Inn & Motel Association of Australia, The
+
+
+No 111
+No 112
+No 113
+No 114
+No 115
+No 117
+No 118
+No 119
+No 120
+No 121
+No 122
+No 123
+No 124
+No 125
+No 126
+No 127
+No 128
+No 129
+No 130
+No 131
+No 132
+No 133
+No 134
+No 135
+No 136
+No 137
+No 138
+No 139
+No 140
+No 141
+No 142
+No 143
+No 144
+No 145
+No 146
+No 147
+No 148
+No 149
+No 150
+Langley-Bates, D
+NSW Farmers' Association
+Motor Trades Association of Australia (MTAA) Superannuation Fund
+Life Insurance Federation of Australia Inc
+WA Minister for Productivity and Labour Relations
+Metway Corporation
+NSW Minister for Industrial Relations
+Australian Society of Certified Practicing Accountants and
+The Institute of Chartered Accountants in Australia (joint submission)
+AMP
+Hanson, Mr J H
+SA Minister of Finance
+Moon, G
+Taxation Institute of Australia, The
+Australian Pensioners & Superannuants Federation and Combined
+Pensioners & Superannuants Association of NSW
+Women's Economic Think Tank
+Commonwealth Department of Social Security
+Qld Director-General, Office of the Cabinet
+Davey & Associates
+Women's Electoral Lobby Australia Inc
+de Visser, L
+Westpac Banking Corporation
+Griffin, P
+Australian International Pilots Association
+State Insurance Office of Victoria (SIO) Consumer Appeals Centre
+Australian Friendly Societies Association
+Whittimore-Hull, J
+Trades and Labor Council of Western Australia
+Australian Federation of Consumer Organisations
+Victorian Automobile Chamber of Commerce
+Rothschild Australia Asset Management Limited
+Federated Ironworkers' Association of Australia
+Jacques Martin - Reply to Tasmanian Taxpayers
+National Association of Nursing Homes & Private Hospitals Inc
+Trade Practices Commission
+Shell Australia Contributory Pension Fund
+Smith, Dr G F
+Australian Association of Permanent Building Societies
+Docker, A R
+University of NSW Superannuation Economics Research Group
+
+
+No 151
+No 152
+No 153
+No 154
+No 155
+No 156
+No 157
+No 158
+No 159
+No 160
+No 161
+No 162
+No 163
+No 164
+No 165
+No 166
+No 167
+No 168
+No 169
+No 170
+No 171
+No 172
+No 173
+No 174
+No 175
+No 176
+No 177
+No 178
+No 179
+No 180
+No 181
+No 182
+No 183
+No 184
+No 185
+No 186
+No 187
+No 188
+No 189
+No 190
+No 191
+Insurance and Superannuation Commission
+Commonwealth Department of Community Services & Health
+Crawford, G J
+Investment Funds Association of Australia Limited
+Australian Taxation Office, Commissioner of Taxation
+Langfield-Smith, I
+Health Employees Superannuation Trust Australia
+National Mutual - Nexis Proprietary Limited
+Weijers, A J
+Foster, W
+Gierczycki, L M
+Ramakrishnan, H
+Permanent Trustee Company Limited
+Industry Research and Development Board
+Health Employees Superannuation Trust Australia Ltd (HESTA)
+Shell Superannuation Rights Committee
+Shell Australia Contributory Pension Fund
+Unity Action Group for Retired Persons
+Crome, I
+Campbell, B G
+Knight, Dr J
+Australian Council on Smoking and Health
+Commonwealth Bank of Australia
+Clothier, D P
+Australian Government Employees Superannuation Trust
+In camera
+Selstay Pty Ltd
+Mulhallen, J G & Sons (Vic) Pty Ltd
+Armstrong, W J
+Rutter, A
+Australian Workers' Union
+Sly and Weigall
+In camera
+Taylor, M
+SA Employers' Federation
+Australian Securities Commission
+Grey, P
+Pacific Industrial Investments
+CIG Employees' Superannuation Fund
+Reserve Bank of Australia
+Aitkin, J
+
+
+No 192 Harrower E
+No 193 Grace E
+No 194 University of Melbourne, Dr Graham Smith
+No 195 Commonwealth Treasury
+No 196 SBC Dominguez Barry Ltd
+No 197 Financial Planning Association of Australia
+No 198 Commercial and International Finance Consultants Pty Ltd
+No 199 Australian Eagle Superannuation
+No 200 Ellis, M
+No 201 Moore, E J
+No 202 Morley, B
+No 203 Tindal, B
+No 204 Shell Australia Limited
+No 205 Tasmania Treasury
+No 206 Mathews, S R
+No 207 Humann, D
+No 208 Human Rights and Equal Opportunity Commission
+No 209 In camera
+No 210 Colonial Mutual Investment Management
+No 211 Pollard, D
+No 212 Advance Bank
+No 213 Blanchard, W
+No 214 Moore, A
+No 215 Wilson, R
+No 216 Banner, C
+No 217 Cogger, R
+No 218 Poole, R
+No 219 Kelberg, J
+No 220 Toohey, J P
+No 221 Tickner, B C
+No 222 Ushay, F
+No 223 C S Superannuation Pty Ltd
+No 224 Craig, W
+No 225 Voeth, K
+No 226 Kenos, Dr
+No 227 Australian Consumers Association
+No 228 Petch, M
+No 229 Norrish, Rex M & Associates
+No 230 Kain, M
+No 231 Richardson, G D & H D
+No 232 Browne, T J
+
+
+No 233 Australia Post Superannuation Scheme
+No 234 Sayers, K
+No 235 CBA Financial Services
+No 236 Shilton, N
+No 237 Gorringe, K
+No 238 Sadowsky, L
+No 239 Peppin Financial Centre
+No 240 Skinner, A
+No 241 Vere, P
+No 242 ABCI
+No 243 Abrahams, B
+No 244 Intech Management Pty Limited, Mr Schaffer
+No 245 Correspondence only
+No 246 Mediterranean Shipping Company
+No 247 Bailey, R
+No 248 Dewar, L
+No 249 Greco, L
+No 250 Mulray, K
+No 251 Stevens, H
+No 252 Negus, K
+No 253 Brown, I
+No 254 Ashfield, R
+No 255 Greco, A
+No 256 Allcock, L
+No 257 Dukas, E
+No 258 Jones, G
+No 259 Emmenick, C
+No 260 Friar, A
+No 261 Pittaway, M
+No 262 Housing Industry Association Limited
+No 263 Allen Consulting Group
+No 264 Cartledge, D
+No 265 Davidson, N M
+No 266 Nolan, S
+No 267 Matusek, P
+No 268 Morris, J
+No 269 Trotter, Mrs K; The Gap P&C Association
+No 270 Condon's Business Centre
+No 271 Financial Counselling Services (QLD) Inc
+No 272 Kaye, Captain C
+No 273 Woodley, G L & G L
+
+
+No 274 New, H A
+No 275 In camera
+No 276 Equity Life Limited
+No 277 AM Corporation Ltd
+No 278 Queensland Arts Council
+No 279 In camera
+No 280 Department of Social Security
+No 281 Wilson, B
+No 282 Jasprizza & Co, E A
+No 283 Williams, V D (not available)
+No 284 Watterson, D K and B I
+No 285 Tones, D
+No 286 Richards, H.J.
+No 287 Moss, G.L. (The Enterprise Council Inc.)
+No 288 Dixon, Mr Daryl
+No 289 Dearson, Mr C J T
+No 290 Hanson, Mr Chris
+No 291 In camera
+No 292 Nicol & Nicol
+No 293 In camera
+No 294 Institute of Chartered Accountants
+No 295 McGuire, Ms Beverly
+No 296 Simsoms, Mr Gundars
+No 297 Hollowell, Mr M K
+No 298 In camera
+No 299 In camera
+No 300 Bennett, Mr Ron
+No 301 Barton, Mr I W
+No 302 Jarvis, Ms Dorothy
+
+
+APPENDIX D : LIST OF SUBMISSIONS RE ON-GOING
+INQUIRY
+Appendix D: List of Submissions re On-going Inquiry (Alphabetical)
+IN ALPHABETICAL ORDER
+Sub
+No
+No 242
+No 243
+No 31
+No 21
+No 212
+No 191
+No 61
+No 256
+No 263
+No 96
+No 277
+No 120
+No 73
+No 179
+No 39
+No 254
+No 89
+No 233
+No 148
+No 95
+No 227
+No 172
+No 35
+No 106
+No 199
+No 139
+No 76
+No 136
+No 85
+No 175
+Name
+ABCI
+Abrahams, B
+ACT Council of Social Service Inc
+Adams, G
+Advance Bank
+Aitkin, J
+Alexander Consulting Group, The
+Allcock, L
+Allen Consulting Group
+AM Corporation Ltd
+AM Corporation Ltd
+AMP
+ANZ Bank
+Armstrong, W J
+Arthur Andersen & Co
+Ashfield, R
+Association of Superannuation Funds of Australia Ltd, The
+Australia Post Superannuation Scheme
+Australian Association of Permanent Building Societies
+Australian Chamber of Manufactures
+Australian Consumers Association
+Australian Council on Smoking and Health
+Australian Council of Social Service
+Australian Council of Trade Unions
+Australian Eagle Superannuation
+Australian Federation of Consumer Organisations
+Australian Finance Conference
+Australian Friendly Societies Association
+Australian Government Employees Superannuation Trust
+Australian Government Employees Superannuation Trust
+
+
+No 134 Australian International Pilots Association
+No 49 Australian Lifewriters Association
+No 125 Australian Pensioners & Superannuants Federation and Combined
+Pensioners & Superannuants Association of NSW
+No 94 Australian Retirement Fund
+No 34 Australian Salaried Medical Officer Association
+No 186 Australian Securities Commission
+No 50 Australian Small Business Association
+No 119 Australian Society of Certified Practicing Accountants and
+No 155 Australian Taxation Office, Commissioner of Taxation
+No 181 Australian Workers' Union
+No 247 Bailey, R
+No 105 Bankers Trust Australia Limited
+No 216 Banner, C
+No 301 Barton, Mr I W
+No 70 Belshaw, M
+No 36 Belshaw, W J
+No 300 Bennett, Mr Ron
+No 213 Blanchard, W
+No 38 Boffa, G
+No 253 Brown, I
+No 232 Browne, T J
+No 7 Buildings Union Superannuation
+No 29 Burns, W G
+No 223 C S Superannuation Pty Ltd
+No 170 Campbell, B G
+No 264 Cartledge, D
+No 23 Cartledge, O
+No 235 CBA Financial Services
+No 65 Chamber of Commerce & Industry of WA
+No 54 Chamen, P
+No 101 Chifley Superannuation Services
+No 189 CIG Employees' Superannuation Fund
+No 93 Civic Securities Pty Ltd
+No 26 Civil Service Association of WA
+No 20 Clayton Utz
+No 174 Clothier, D P
+No 217 Cogger, R
+No 103 Coles Myer Ltd
+No 210 Colonial Mutual Investment Management
+No 198 Commercial and International Finance Consultants Pty Ltd
+
+
+No 107 Commonwealth Attorney-General's Department
+No 173 Commonwealth Bank of Australia
+No 152 Commonwealth Department of Community Services & Health
+No 81 Commonwealth Department of Industrial Relations
+No 127 Commonwealth Department of Social Security
+No 102 Commonwealth Funds Management Ltd
+No 195 Commonwealth Treasury
+No 75 Cooley, L M
+No 245 Correspondence only
+No 11 Correspondence only
+No 98 County NatWest
+No 224 Craig, W
+No 153 Crawford, G J
+No 169 Crome, I
+No 72 Crouch, W G
+No 91 CSA Consulting Group
+No 129 Davey & Associates
+No 14 Davies, D
+No 131 de Visser, L
+No 289 Dearson, Mr C J T
+No 280 Department of Social Security
+No 248 Dewar, L
+No 288 Dixon, Mr Daryl
+No 149 Docker, A R
+No 19 Downs, B
+No 46 du Cros, N
+No 57 Duesburys
+No 257 Dukas, E
+No 200 Ellis, M
+No 259 Emmenick, C
+No 276 Equity Life Limited
+No 142 Federated Ironworkers' Association of Australia
+No 271 Financial Counselling Services (QLD) Inc
+No 197 Financial Planning Association of Australia
+No 2 Fisher F
+No 47 Fisk, B
+No 25 Foley, E
+No 160 Foster, W
+No 260 Friar, A
+No 15 Garrett, P R
+No 161 Gierczycki, L M
+
+
+No 237 Gorringe, K
+No 193 Grace E
+No 255 Greco, A
+No 249 Greco, L
+No 187 Grey, P
+No 133 Griffin, P
+No 1 Gynn, W J
+No 290 Hanson, Mr Chris
+No 121 Hanson, Mr J H
+No 192 Harrower E
+No 157 Health Employees Superannuation Trust Australia
+No 165 Health Employees Superannuation Trust Australia Ltd (HESTA)
+No 24 Hearn, G
+No 297 Hollowell, Mr M K
+No 262 Housing Industry Association Limited
+No 32 Hughes, D
+No 208 Human Rights and Equal Opportunity Commission
+No 207 Humann, D
+No 273 Woodley, G L & G L
+No 275 In camera
+No 274 New, H A
+No 184 Taylor, M
+No 238 Sadowsky, L
+No 279 In camera
+No 246 Mediterranean Shipping Company
+No 209 In camera
+No 183 In camera
+No 99 In camera
+No 30 In camera
+No 268 Morris, J
+No 270 Condon's Business Centre
+No 266 Nolan, S
+No 265 Davidson, N M
+No 228 Petch, M
+No 176 In camera
+No 230 Kain, R
+No 291 In camera
+No 292 Nicol & Nicol
+No 298 In camera
+No 293 In camera
+No 299 In camera
+
+
+No 74 Independent Insurance & Superannuation Agencies
+No 28 Independent Schools Superannuation Trust
+No 164 Industry Research and Development Board
+No 108 Institute of Actuaries of Australia, The
+No 294 Institute of Chartered Accountants
+No 151 Insurance and Superannuation Commission
+No 244 Intech Management Pty Limited, Mr Schaffer
+No 10 InterData Pty Ltd
+No 154 Investment Funds Association of Australia Limited
+No 59 IOOF Australia
+No 90 Jacques Martin
+No 143 Jacques Martin - Reply to Tasmanian Taxpayers
+No 302 Jarvis, Ms Dorothy
+No 282 Jasprizza & Co, E A
+No 258 Jones, G
+No 272 Kaye, Captain C
+No 219 Kelberg, J
+No 82 Klumpes, Dr P J M
+No 171 Knight, Dr J
+No 52 Knox, Professor D
+No 226 Kenos, Dr
+No 156 Langfield-Smith, I
+No 111 Langley-Bates, D
+No 78 Lee, W A
+No 114 Life Insurance Federation of Australia Inc
+No 4 Liquor Trades Union, The
+No 51 Long, P D
+No 22 Lucas, J M
+No 92 Mansfield, G
+No 206 Mathews, S R
+No 267 Matusek, P
+No 295 McGuire, Ms Beverly
+No 13 McJannet, D
+No 66 Melbourne Metropolitan Board of Works (MMBW) Employees'
+Superannuation Fund
+No 79 Mercer Campbell Cook & Knight Inc
+No 62 Metal Manufacturers Limited
+No 55 Metal Trades Industry Association of Australia
+No 117 Metway Corporation
+No 123 Moon, G
+No 214 Moore, A
+
+
+No 201
+No 58
+No 202
+No 287
+No 110
+No 113
+No 178
+No 250
+No 45
+No 8
+No 56
+No 144
+No 104
+No 63
+No 83
+No 100
+No 158
+No 252
+No 3
+No 42
+No 80
+No 60
+No 229
+No 77
+No 112
+No 118
+No 27
+No 188
+No 239
+No 163
+No 5
+No 261
+No 211
+No 218
+No 43
+No 41
+No 128
+No 278
+No 162
+No 190
+Moore, E J
+Morgan Stockbroking Ltd
+Morley, B
+Moss, G.L. (The Enterprise Council Inc.)
+Motor Inn & Motel Association of Australia, The
+Motor Trades Association of Australia (MTAA) Superannuation
+Fund
+Mulhallen, J G & Sons (Vic) Pty Ltd
+Mulray, K
+Myuna Pty Ltd
+N E Renton & Associates
+National Association of Nursing Homes & Private Hospitals Inc
+National Association of Nursing Homes & Private Hospitals Inc
+National Association of Personnel Consultants Ltd
+National Australia Bank
+National Farmers Federation
+National Mutual
+National Mutual - Nexis Proprietary Limited
+Negus, K
+Newman, C A
+Nipper, M R G and Weeks, P L
+Noble Lowndes
+Non-Government Schools Superannuation Fund
+Norrish, Rex M & Associates
+Northern Territory Superannuation Office
+NSW Farmers' Association
+NSW Minister for Industrial Relations
+Owens, E S & Co
+Pacific Industrial Investments
+Peppin Financial Centre
+Permanent Trustee Company Limited
+Perry, K F
+Pittaway, M
+Pollard, D
+Poole, R
+Prudential Assurance Company Ltd
+Prudential Life Underwriters Association (NSW)
+Qld Director-General, Office of the Cabinet
+Queensland Arts Council
+Ramakrishnan, H
+Reserve Bank of Australia
+
+
+No 18 Restuccia, V
+No 44 Retired Associate Members' Branch Public Service Association of
+NSW
+No 109 Retirement Benefits Office
+No 286 Richards, H.J.
+No 231 Richardson, G D & H D
+No 141 Rothschild Australia Asset Management Limited
+No 180 Rutter, A
+No 185 SA Employers' Federation
+No 122 SA Minister of Finance
+No 16 Samson, S W
+No 234 Sayers, K
+No 196 SBC Dominguez Barry Ltd
+No 17 Schwarz, D
+No 68 Secondary Colleges Staff Association
+No 177 Selstay Pty Ltd
+No 9 Serendip Publications
+No 167 Shell Australia Contributory Pension Fund
+No 146 Shell Australia Contributory Pension Fund
+No 204 Shell Australia Limited
+No 33 Shell Superannuation Rights Committee
+No 166 Shell Superannuation Rights Committee
+No 236 Shilton, N
+No 296 Simsoms, Mr Gundars
+No 240 Skinner, A
+No 182 Sly and Weigall
+No 86 Smith, A W J
+No 37 Smith, B
+No 147 Smith, Dr G F
+No 135 State Insurance Office of Victoria (SIO) Consumer Appeals Centre
+No 251 Stevens, H
+No 205 Tasmania Treasury
+No 124 Taxation Institute of Australia, The
+No 97 Taxpayers' Association of Tasmania, The
+The Institute of Chartered Accountants in Australia (joint
+submission)
+No 221 Tickner, B C
+No 203 Tindal, B
+No 285 Tones, D
+No 220 Toohey, J P
+No 145 Trade Practices Commission
+
+
+No 138 Trades and Labor Council of Western Australia
+No 12 Trau, Dr J
+No 53 Tribunal on Homosexuals and Discrimination
+No 269 Trotter, Mrs K; The Gap P&C Association
+No 48 Trustee Companies Association
+No 87 Turner, M
+No 69 Ulverstone Chamber of Commerce
+No 168 Unity Action Group for Retired Persons
+No 194 University of Melbourne, Dr Graham Smith
+No 150 University of NSW Superannuation Economics Research Group
+No 222 Ushay, F
+No 241 Vere, P
+No 140 Victorian Automobile Chamber of Commerce
+No 225 Voeth, K
+No 84 WA Government Employees Superannuation Board
+No 115 WA Minister for Productivity and Labour Relations
+No 6 Walsh, A
+No 284 Watterson, D K and B I
+No 159 Weijers, A J
+No 132 Westpac Banking Corporation
+No 88 White, B
+No 137 Whittimore-Hull, J
+No 40 Williams, T
+No 283 Williams, V D (not available)
+No 281 Wilson, B
+No 215 Wilson, R
+No 71 Wilson, The Hon Ian, MP
+No 64 Women's Action Alliance (Australia)
+No 126 Women's Economic Think Tank
+No 130 Women's Electoral Lobby Australia Inc
+No 67 Yann, R N
+
+
+APPENDIX E: LIST OF WITNESSES RE ON-GOING
+INQUIRY
+Appendix E : List of Witnesses re On-going Inquiry
+
+
+
+
+
+
+
+
+
+
+
+
+APPENDIX F: UFA STATEMENT ON REFORMS
+ADDRESS BY THE UFA CHAIRMAN
+TO THE UFA ANNUAL DINNER
+THURSDAY, 13 MAY 1993
+HYATT HOTEL CANBERRA
+Appendix F: LIFA Statement on Reforms
+Introduction
+Ladies and gentlemen.
+The life insurance industry has long formed part of the financial fabric of
+this country. Providing both insurance cover and investment opportunities
+for millions of Australians.
+During this time, the industry has adjusted to a great variety of social,
+political and economic change.
+The industry is very competitive and prides itself on its responsiveness to the
+market in general and to its consumers in particular.
+It was in the interests of these consumers and to be responsive to their
+changing needs and expectations that, twelve months ago at our last annual
+dinner, we announced our "Position Statement on Consumer Issues".
+This policy statement represented a genuine attempt by the industry to
+address the major criticisms and concerns being expressed by government,
+the ISC and consumers.
+I want to emphasise that the LIFA position statement was not a "knee jerk
+reaction to the demands of the consumer lobby groups and it substantially
+predated the reports of the Trade Practices Commission. The report was the
+outcome of our own detailed investigations.
+The statement committed the industry to initiate a number of reforms:
+
+
+• a greater level of disclosure,
+• development of a licensing system for agents,
+• simplification of life office documentation, and
+• greater independence and more resources for the industry's inquiries
+and complaints system.
+It gives me pleasure this evening, to report that considerable progress has
+been made in developing these important initiatives.
+It seemed fitting that I should report progress to you at this annual dinner.
+In developing our proposals, we have kept in mind the various consumer
+observations and, more recently, the recommendations of the TPC report,
+many of which have been adopted. We have also had on-going discussions
+with the Insurance and Superannuation Commission, the Australian
+Lifewriters Association, consumers and other interested groups.
+But, essentially, what I will outline this evening represents what the industry
+considers appropriate to ensure consumers are provided with sufficient
+information to make informed choices and to ensure their interests are
+properly protected.
+Initially, we believed that our proposals should be implemented in a self-
+regulatory way. However, we have come to recognise that this may not be
+possible given the nature of the reforms and the desirability of having them
+apply across the board. Accordingly we were pleased when the ISC indicated
+that it would deal with some of the issues through regulation.
+With those introductory remarks, let me now report progress.
+Disclosure
+First, disclosure.
+Consumers are already provided with an explanatory document at point of
+sale, a policy information statement at point of policy issue and an annual
+statement.
+
+
+We have consolidated and enhanced these and have added many of the
+TPC'S recommendations on disclosure and more of our own disclosure
+initiatives.
+The result is as follows:
+• The reworked existing disclosure requirements will make it easier for
+consumers to compare products.
+• All fees and charges will be disclosed, as well as the effect thereof on
+benefits. This will be done in a generalised way at point of sale and in
+a contract specific way at point of policy issue.
+We have not changed our views about the usefulness to the consumer
+of commission disclosure for its own sake. However, in recent
+discussions, representatives of the consumers and the TPC expressed
+the view that disclosure was primarily needed to expose any bias in
+advice provided. Concern about commission quantum has largely been
+addressed by our willingness to fully disclose all fees and charges. In
+the light of this, and in the spirit of resolving the issue, we are actively
+seeking to find a satisfactory approach and have arranged to have
+discussions with the ISC about this matter shortly.
+• A "client needs analysis" will be undertaken by agents and written
+recommendations will have to be made and filed with the application
+for insurance for future reference. The agents written recommendation
+will be set down in a document to be known as a "Fact Finder".
+In this way, a paper trail will be created, which will be of assistance in
+resolving consumer complaint which may arise subsequently.
+Not only will the agents recommendations have to be disclosed in
+writing, but they will have to be conveyed to the consumer verbally as
+well.
+Life offices will be required to randomly monitor compliance and an
+agent found lacking in this regard, will have all his recommendations
+for the past twelve months audited.
+• All agents will be required to identify the capacity in which they are
+acting. Steps will be taken to prevent agents claiming to be providers
+of independent advice where this does not apply.
+
+
+While agents cannot, strictly speaking, provide independent advice,
+because they act for the life office they represent they must and do
+provide quality advice. Our reforms are designed to facilitate the
+provision of such quality advice.
+• Standard "health warnings" will be included in life office disclosure
+documents, such as alerting consumers to the disadvantages of
+surrendering their policies early and entering into long-term contracts
+if they have short-term needs or horizons.
+Agent Regulation
+The second area of major reform is in the area of agent regulation.
+The need for life offices to assume greater responsibility for the regulation
+of their agents is clearly the rationale behind the LIFA proposal for an
+agent licensing system.
+We initially considered the possibility of having agents individually licensed
+by a separately constituted agent licensing board.
+However, the model that has since proven more acceptable and which has
+now been endorsed by LIFA is what might term a "proper authority" system.
+This "proper authority" system, under which life offices will formally
+authorise agents to sell particular products, certainly places more
+responsibility for agent regulation at the door of the life office.
+While the Agents and Brokers' Act already does much of this, our proposal
+introduces more stringent requirements:
+• For instance, our "proper authority" proposal will be underpinned by
+a comprehensive code of conduct requiring agents to act responsibly
+and ethically.
+• Minimum competency standards on an industry wide basis, will also be
+prescribed for agents.
+• We believe a register of agents should be established and maintained
+by the ISC, which life offices would have to consult prior to engaging
+an agent who had previously worked in the industry.
+
+
+Essentially, the proposals we have developed will result in agents being
+better trained and equipped to sell life insurance and superannuation and
+better regulated by life offices.
+For their part, life offices will become even more accountable and
+responsible for the actions of their agents.
+Greater professionalism and transparency, all round will be the result.
+Documentation
+The third area of reform is in the area of documentation.
+I would have to say that life insurance documents are often complex and
+sometimes difficult to understand. It is incumbent on the industry to address
+this issue and to present information to consumers in a form they can more
+readily understand.
+While some life offices have already taken steps to simplify their
+documentation, LIFA believes that the issue should also be tackled on an
+industry-wide basis.
+To assist us in this area, we have established a special documentation task
+force and retained the services of an "expert" on plain English, Professor
+David Kelly, a former Chairman of the Victorian Law Reform Commission.
+Professor Kelly has already provided LIFA with one report, which is a
+general examination of the need for the industry to simplify substantially its
+documents.
+At its April meeting, the LIFA Board approved significant funding for
+Professor Kelly to prepare a second report, in which he will examine four
+products, namely:
+• regular premium superannuation,
+• insurance bonds,
+• disability incomes, and
+• allocated pensions.
+
+
+Plain English model documents will be produced, the intention being that
+these will be put forward as guides or models for the industry to follow.
+While clearer and better information is required, it must be information
+which is:
+• meaningful to the average person;
+• focussed on salient features;
+• fair, that is, capable of assisting comparisons with competing products
+without distortion; and
+• economic, in meeting consumer needs at reasonable cost.
+It is also very important, to balance the needs of the consumer for
+information against the costs and benefits of its provision.
+This is a complex issue and it will take some time to effect widespread
+change but a good start has been made.
+Inquiries and Complaints System
+While the industry's policyholder complaints resolution system does not
+enjoy the full support of some consumer groups, I believe I can say quite
+legitimately that it is functioning effectively.
+That is not to say change or refinement is unnecessary and an early
+response is to promote the system more widely so that it is as accessible to
+policyholders as it should be.
+The response time in resolving policyholders complaints are not satisfactory
+and consumers probably need more assistance in formulating and pursuing
+their complaints.
+Last year, we appointed an independent executive officer for the system and
+that appointment has enabled us to provide a better service.
+More resources and further refinements are required. However, we have
+been awaiting the outcome of a major review of our system before
+committing additional resources and making further changes to our system.
+
+
+That review, undertaken by an independent consultant, Issues Australia, has
+now been completed and many recommendations for change have been put
+forward.
+LIFA is presently working through these recommendations and those which
+will make our complaints resolution system better will be adopted.
+We will be having discussions with the Insurance Industry Complaints
+Council, which is responsible for overseeing our system, and with the ISC in
+the next few weeks.
+I am sure the outcome will be that the industry will:
+• promote the service more widely,
+• commit more resources to the system,
+• provide greater assistance to complainants to pursue their complaint,
+• work strenuously to reduce the time taken to deal with complaints, and
+• make the system more transparent by making more information
+available to interested groups.
+The industry wants and needs a credible complaint resolution system, but
+one which involves both conciliation and, if that fails, arbitration.
+I am confident we will achieve this objective by the end of the year,
+following implementation of many of the recommendations contained in
+Issues Australia's report.
+Conclusion
+Ladies and gentlemen, these are major reforms on which we have been
+working for twelve months.
+In developing them we consulted widely and, I believe they will be generally
+acceptable.
+As I said earlier, they represent what the industry considers appropriate to
+ensure consumers are provided with adequate information and to ensure
+their interests are properly protected.
+
+
+We now have a consultative document which we can formally discuss with
+our regulator, the ISC.
+And, further consultation with other interested groups will be undertaken
+as soon as possible.
+It would be remiss of me if I did not take this opportunity to thank the
+Australian Lifewriters Association for its support and assistance.
+LIFA and the ALA are increasingly working together and co-operating for
+the good of the whole industry and there is every reason to be confident
+that this partnership will continue.
+It is now imperative, for the changes to be implemented as quickly as
+possible. There is a great deal of uncertainty in the market place, which will
+only be dispelled when the change and reforms are put into place and
+people know exactly what the rules are and where they stand.
+It remains to be seen whether our proposals are accepted by the ISC and
+the extent to which they will be implemented in a regulatory or self-
+regulatory way is not clear at this stage.
+What is clear, however, ladies and gentlemen, is that the reforms we have
+crafted to meet the needs and expectations of consumers will undoubtedly
+provide them with a greater degree of protection and assistance than has
+hitherto been the case.
+Much is made today of the need to avoid discriminatory practices and to
+achieve level playing fields.
+While the spotlight has, of late, been on the life insurance industry, it should
+not remain there. It needs also to be directed to other sectors of the
+financial industry, otherwise there will be an unlevel playing field.
+I said at the Annual General Meeting this afternoon, the Chinese curse,
+"may you live in interesting times", is our lot today.
+Ours is a dynamic industry and over the last few years, the life insurance
+industry has been subjected to continuous change.
+
+
+The ability to adapt, change and to meet the ever-changing needs and
+expectations of consumers have been traditional hallmarks of the life
+insurance industry.
+We believe we have met, or gone a very long way to meeting, the consumer
+challenge and we now look forward over the next few months to working
+with the ISC and others to implement the reforms I have outlined this
+evening.
+Thank you.
+
+
+
+
+APPENDIX G: GLOSSARY
+Appendix G: Glossary
+
+
+
+
+
+
+THE PARLIAMENT OF THE
+COMMONWEALTH OF AUSTRALIA
+PARLIAMENTARY
+PAPER
+No. 76 of 1993
+ORDERED TO BE PRINTED
+_ISSN 0727-118 _

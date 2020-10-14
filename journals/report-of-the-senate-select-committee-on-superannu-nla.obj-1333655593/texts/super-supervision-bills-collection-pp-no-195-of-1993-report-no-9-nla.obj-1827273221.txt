@@ -1,0 +1,3922 @@
+
+
+Super
+Supervision Bills
+Ninth Report of the
+Senate Select Committee on Superannuation
+Parliament of the Commonwealth of Australia
+Occupational Superannuation Standards Amendment Bill 1993
+Superannuation (Financial Assistance Funding) Levy Bill 1993
+Superannuation Industry (Supervision) Bill 1993
+Superannuation Industry (Supervision) Consequential Amendments Bill 1993
+Superannuation (Resolution of Complaints) Bill 1993
+Superannuation (Rolled-Over Benefits) Levy Bill 1993
+Superannuation Supervisory Levy Amendment Bill 1993
+October 1993
+
+
+
+
+Super
+Supervision Bills
+Ninth Report of the
+Senate Select Committee on Superannuation
+Parliament of the Commonwealth of Australia
+Occupational Superannuation Standards Amendment Bill 1993
+Superannuation (Financial Assistance Funding) Levy Bill 1993
+Superannuation Industry (Supervision) Bill 1993
+Superannuation Industry (Supervision) Consequential Amendment Bills 1993
+Superannuation (Resolution of Complaints) Bill 1993
+Superannuation (Rolled-Over Benefits) Levy Bill 1993
+Superannuation Supervisory Levy Amendment Bill 1993
+Canberra
+October 1993
+
+
+© Commonwealth of Australia 1993
+ISBN 0 642 19778 4
+This document was produced from camera-ready copy prepared by the
+Senate Select Committee on Superannuation Secretariat, and printed by the
+Senate Printing Unit, Parliament House, Canberra.
+
+
+SENATE SELECT COMMITTEE ON SUPERANNUATION
+NINTH REPORT
+SUPER SUPERVISION BILLS
+CORRIGENDUM
+ecommendation 12.2 of the Senate Select Committee's Ninth Report, entitled Super
+upervision Bills, is incorrect.
+>n page xi, Recommendation 12.2 last line, delete '1995' and insert '1994'.
+>n page 65, Recommendation 12.2 last line, delete '1995' and insert '1994'.
+28 October 1993
+
+
+
+
+MEMBERS OF THE COMMITTEE:
+Members
+Senator John Watson Chair
+Senator Sue West Deputy Chair
+Senator Bruce Childs
+Senator Chris Evans
+Senator Alan Ferguson
+Senator Cheryl Kernot
+Tasmania
+New South Wales
+New South Wales
+Western Australia
+South Australia
+Queensland
+Secretariat Staff:
+Secretary:
+Principal Research Officer:
+Senior Research Officer:
+Executive Assistant:
+Mr Richard Gilbert
+Ms Krista Gerrard
+Mr Glenn Hunter
+Ms Cath Drinkwater
+Address: The Senate
+Parliament House
+CANBERRA ACT
+Telephone: (06) 277 3439
+(06) 277 5719
+Facsimile:
+
+
+
+
+CONTENTS
+Contents
+Page iii
+Page
+Members of the Committee. i
+Contents. iii
+Chapters:
+1. Introduction . 1
+2. The SIS Bills: An Overview. 5
+3. Superannuation Industry (Supervision) Bill 1993 . 9
+4. Clause 64 - Prohibition on Superannuation Funds
+Acquiring Assets from Members or Relatives. 17
+5. Public Offer Funds - Clause 18 . 25
+6. Fund Managers and Custodians. 33
+7. Auditors and Actuaries . 41
+8. Regulated Superannuation Funds. 47
+9. Tax File Numbers . 51
+10. State Superannuation Schemes. 55
+11. ISC Powers and Co-ordination of Commonwealth Powers 59
+12. Technical Matters . 63
+13. The Superannuation Industry (Supervision) Consequential
+Amendments Bills 1993 . 67
+14. Introduction to Consumer Matters. 71
+15. The Superannuation Complaints Tribunal. 73
+
+
+Super Supervision Bills
+CONTENTS
+Page
+Chapters:
+16. Issues: The Complaint. 79
+17. Issues: Legal Representation and Consumer Assistance 89
+18. Other Consumer Issues . 95
+Minority Report by Government Members
+- Senators Qiilds, Evans and West - on Clause 64
+Prohibition on Superannuation Funds Acquiring Assets
+from Members or Relatives . 101
+Appendices:
+A. List of Committee Reports. 103
+B. List of Written Submissions. 105
+C. List of Witnesses at Public Hearings. Ill
+D. Draft Amendment to Clause 64 Prepared for Senator
+Watson. 117
+E. Freehill's Advice on Public Offer Funds Transitional
+Provisions. 119
+F- Attorney General’s Department Opinion on Public Offer
+Funds Transitional Provisions. 121
+AIMG Draft Practice Note on Soft Dollar Dealings . . 123
+H. Attorney General's Department Advice on Application
+of Corporations Powers. 125
+I* Prime Minister’s Letter to State Premiers. 127
+J- Glossary of Terms. 129
+
+
+LIST OF RECOMMENDATIONS
+The Recommendations in this report are either recommendations for
+amendments to the Bills or recommendations for future government
+consideration. Accordingly, these have been preceded by either
+'Amendment to XXX Bill' or 'For Government Consideration'.
+Chapters 1, 2 and 3 do not contain any recommendations.
+The Committee recommends that the Bills be agreed to subject to the
+following amendments:
+Recommendation 4.1: Amendment to the Superannuation Industry
+(Supervision) Bill 1993
+Clause 64 - Acquisition of Assets by Funds from Members or Relatives
+The Committee recommends that clause 64 be amended to allow certain
+types of assets to be acquired by a superannuation fund from a member
+or relative of the member at an arms length price.
+These assets are to include only freehold or leasehold property, which
+reflects true market value, that is used wholly or exclusively in the
+business of the member or member's relative, plus certain strictly defined
+marketable securities.
+The Committee further recommends that the sole purpose test be
+strengthened to ensure that any asset or assets included in the exemption
+provided under clause 64 acquired by the superannuation fund from a
+member or member's relative does not contravene the sole purpose test.
+The Government Members of the Committee - Senators Childs, Evans
+and West have recommended in a minority report that this amendment
+not be agreed to.
+
+
+Recommendation 4.2: Amendment to the Superannuation Industry
+(Supervision) Bill 1993
+Penalty for Breach of Clause 64
+The Committee recommends that the penalty for breach of clause 64 be
+amended to provide a maximum penalty of 200 penalty points (one
+penalty point equals $100) and/or one years imprisonment.
+Recommendation 5.1: For Government Consideration
+Public Offer Funds - Transitional Arrangements
+The Committee recommends that the Government consider amending the
+Corporations Law to provide public offer superannuation fund managers
+with the right to request that the trustee retire on the grounds that it is in
+the best interests of unit holders.
+Recommendation 6.1: Amendment to the Superannuation Industry
+(Supervision) Bill 1993
+Clause 65 Superannuation Fund Borrowings
+The Committee recommends that short term borrowing be allowed where
+it was 'not intended' that the borrowing would be needed, rather than if
+the need for the borrowing 'was not reasonably foreseeable'. Accordingly,
+clause 65 should be amended to substitute the words 'not intended' for
+'not reasonably foreseeable'.
+Recommendation 6.2: For Government Consideration
+Duties of Custodian
+The Committee recommends that, following the implementation of the
+SIS legislation, consideration be given to spelling out in regulations the
+duties of custodians.
+
+
+Recommendation 6.3: For Government Consideration
+Capital Adequacy for Custodians and Fund Managers
+The Committee recognises the need for a capital adequacy requirement
+to establish the substance of custodians and, to a lesser extent, provide a
+financial buffer in the case of insolvency. The Committee recommends
+that in drafting regulations the ISC continue to consider a more
+comprehensive and flexible approach to the capital adequacy
+requirements for fund managers and custodians.
+Recommendation 6.4: Amendment to the Superannuation Industry
+(Supervision) Bill 1993
+Removal of Investment Manager
+The Committee recommends that provisions relating to the removal of
+fund managers consequent to a responsible officer becoming a
+disqualified person be amended to ensure that there is not an automatic
+termination of the manager.
+The Committee further recommends that in these cases it is the duty of
+the fund manager to remove the disqualified person from any financial
+dealings with the fund.
+Recommendation 6.5: Amendment to the Superannuation Industry
+(Supervision) Bill 1993
+ISC Discretion regarding Custodians
+The Committee recommends that the Government monitor the operation
+of SIS legislation to ensure that it does not result in any harsh or
+unintended consequences for custodians who temporarily fail to satisfy
+eligibility requirements.
+
+
+Recommendation 6.6: Recommendations for JCCS
+’Soft Dollar Commission'
+The Committee recommends that the Joint Committee on Corporations
+and Securities investigate 'soft commissions' as part of its inquiry into
+institutional investment.
+Recommendation 7.1: For Government Consideration
+Appointment of Auditors
+The Committee recommends that the ISC monitor closely the
+appointment and termination of auditors in the superannuation industry
+and, if necessary, advise the Government that legislation be introduced to
+protect auditors from unjust or unreasonable termination.
+Recommendation 7.2: For Government Consideration
+Removal of Auditors
+The Committee recommends that the ISC continue the practice of
+notifying the professional accounting bodies where it has cause to believe
+that an auditor should be removed.
+Recommendation 7.3: For Government Consideration
+Registration of Auditors
+The Committee further recommends that, in accordance with the
+Committee's first report Safeguarding Super (Recommendation 4.11), the
+Government, in consultation with the professional accounting bodies,
+again consider establishing a register of superannuation auditors and that
+the register consist of persons who have completed the training
+prescribed by the accounting professions.
+
+
+Recommendation 8.1: For Government Consideration
+Referral of Superannuation Powers
+The Committee reiterates the recommendation of its first report that the
+Government explore the possibility of obtaining a referral by the states,
+either formal or de facto, of their power over superannuation.
+Recommendation 8.2: For Government Consideration
+Corporate Trustees ISC/ASC Returns
+The Committee further recommends that the ISC and ASC implement a
+system of registration and filing where only a single return is required by
+corporate trustees of superannuation funds.
+Recommendation 9.1: Amendment to the Superannuation Industry
+(Supervision) Bill 1993
+Collection and Use of Tax File Numbers (TFNs)
+The Committee recommends that the SIS legislation be amended to allow
+superannuation funds to collect member TFNs, subject to member
+consent, from the date the Bill receives Royal Assent. In addition, the
+Committee recommends that the SIS legislation be amended to allow
+superannuation funds, to use TFNs for taxation and transfer of benefits
+purposes.
+Recommendation 10.1: Amendment to the Superannuation Industry
+(Supervision) Bill 1993
+Exemption of States from SIS Provisions
+The Committee recommends that the Bill be amended to exempt the
+States and the Northern Territory. It is further recommended that, if
+required, the ITAA and the Superannuation Guarantee Charge
+(Administration) Act be amended to ensure that existing
+treatment/coverage for certain state superannuation schemes under those
+Acts is maintained.
+
+
+Recommendation 11.1: Amendment to the Superannuation Industry
+(Supervision) Bill 1993
+ISC Discretions and Reporting to Parliament
+The Committee recommends that having regard to the impact of the SIS
+legislation on the superannuation industry, the Government amends the
+SIS legislation to have the temporary powers of modification and
+exemption for the ISC continued until 1 July 1996. The Committee
+recommends that during this period the ISC develop definitive guidelines
+on discretions to replace the existing broad powers.
+The Committee further recommends that the ISC report annually to
+Parliament on the frequency, incidence and nature of the exercise of its
+discretions.
+Recommendation 11.2: For Government Consideration
+Unclaimed Money - State and Commonwealth Legislation
+The Committee recommends that the Government negotiate with the
+States and the Northern Territory with a view to agreeing to amendments
+to the SIS and relevant state legislation to enable Commonwealth
+legislation on unclaimed superannuation moneys to operate to the
+exclusion of state law.
+Recommendation 11.3: For Government Consideration
+Exclusion of Board Members of Trustee Companies
+The Committee recommends that the ISC liaise with the ASC with a view
+to overcoming the exclusion of board members of trustee companies from
+participating in the company's conduct as trustee of a superannuation
+fund by the operation of section 232A of the Corporations Law.
+
+
+Recommendation 12.1: Amendment to the Superannuation Industry
+(Supervision) Bill 1993
+Definition of Market Value
+The Committee recommends that the Government amend the SIS
+legislation to insert the following definition of 'market value':
+Market Value is the estimated amount for which an asset should
+exchange on the date of valuation between a willing buyer and a willing
+seller in an arm's length transaction after proper marketing wherein the
+parties had each acted knowledgeably, prudentially and without
+compulsion.
+Recommendation 12.2 Amendment to the Superannuation Industry
+(Supervision) Bill 1993
+Dates of Election for Regulated Funds
+The Committee recommends that the Senate agree to a Government
+amendment extending the dates of elections for superannuation funds to
+become regulated funds under SIS according to the following schedule:
+Type of fund Last Date of Election
+Governed by statute 30 June 1995
+Less than five members 31 December 1994,
+or on the last day of its 1994/95 year
+of income, whichever comes first
+More than five members
+28 July 1995
+
+
+Recommendation 13.1: Superannuation Industry (Supervision)
+Consequential Amendments Bill 1993
+Definition of Value of Property in Bankruptcy
+The Committee recommends that the Consequential Amendments Bill be
+amended to include a definition of 'the value of the property1, which
+outlines a method of valuation and specifies a point in time at which the
+valuation is to occur.
+Recommendation 16.1: Superannuation (Resolution of Complaints) Bill
+1993
+Jurisdiction of Tribunal to Review Prior Decisions of Trustees
+The Committee recommends that the Government regulate to exclude
+from the Complaints Tribunal those matters involving trustee decisions,
+made prior to the commencement of the Superannuation (Resolution of
+Complaints) Act, as to who is entitled to a benefit which has already been
+paid.
+Recommendation 16.2: For Government Consideration
+Exclusion of Certain Matters by Regulation
+The Committee recommends that the Government not exclude from the
+Tribunal's jurisdiction, the parts of a complaint involving issues of
+procedural fairness and the legal interpretation of the terms 'disability1 in
+a deed.
+Recommendation 17.1: For Government Consideration
+Establishment of Independent Superannuation Consumer Advisory
+Service
+The Committee recommends that the Government consider supporting
+the establishment of an independent superannuation consumer advisory
+service by way of grants from Consolidated Revenue over three years.
+The Committee further recommends that the Government review the
+funding arrangement with a view to industry assisted funding after the
+expiry of the three year period.
+
+
+Recommendation 18.1: Recommendation for Amendment to the
+Superannuation (Resolution of Complaints) Bill 1993
+Standard of Proof for Tribunal Decision
+The Committee recommends the Bill be amended to specify that the
+degree of satisfaction required for the Tribunal to affirm a decision
+pursuant to clause 37(2) of the Bill is that of reasonable satisfaction, that
+is, satisfaction on the balance of probabilities.
+Recommendation 18.2: For Government Consideration
+Notifying Members of Rights of Review of Trustees Decisions
+The Committee recommends that the ISC address the issue of notifying
+members of their right to have an adverse decision of a trustee reviewed
+by the Superannuation Consumer Complaints Tribunal.
+
+
+
+
+CHAPTER 1 : INTRODUCTION
+Introduction
+Reappointment of the Committee
+1.1 On 13 May 1993 the Senate resolved that the Senate Select
+Committee on Superannuation be reappointed to allow it to complete three
+matters which had not been finalised when the 1993 federal election was
+called.1 Subsequently, on 19 May 1993, four additional matters were
+referred to the Committee, namely:
+• legislation to implement the recommendation in the Committee's
+first report, Safeguarding Super,
+• increasing superannuation contribution from nine to 12 per
+cent;
+• the interaction between allocated pensions and the social
+security system; and
+• the use of superannuation funds to finance the purchase of
+housing by fund members.
+1.2 In referring these new terms of reference the Senate resolved that
+the Committee report on or before the last sitting day of each of the budget
+and autumn sittings until the end of the Parliament or until the Committee
+presents its final report, whichever first occurs.
+1.3 The Committee commenced its inquiry into these four matters by
+placing advertisements in a number of key newspapers and journals inviting
+written submissions. In addition, it contacted more than 500
+persons/organisations who had expressed an interest in being on the
+Committee's mailing list which was compiled during the inquiry on its
+original terms of reference.
+1
+Appendix A is a list of the Committee's reports since its establishment in June
+1991.
+
+
+Referral of the Bills
+1.4 Following the introduction of the Superannuation Industry
+Supervision Bills (SIS Bills) into the House of Representatives on 27 May
+1993, the Committee agreed that at the earliest opportunity it should
+convene a series of public hearings. The SIS Bills package comprises:
+1.5 In essence, the SIS Bills represent the Government's response to the
+recommendation of the Committee's first report, Safeguarding Super. On
+5 October 1993, following the introduction of two of the Bills into the
+Senate, the Senate resolved that the Committee present its report on or
+before the last sitting day in October 1993.
+
+
+Conduct of the Inquiry
+1.6 Having taken evidence on the need to increase the prudential control
+and supervision of superannuation funds during its initial period of
+appointment, the Committee was well placed to comment on the provisions
+of the Bills. In order to gain a better understanding of the more complex
+and possibly controversial aspects of the Bills, the Committee convened
+public hearings in Melbourne (22 September), Sydney (23 September) and
+Canberra (24 September). During these hearings 214 pages of oral evidence
+was taken from persons/organisations who had made a written submission
+(see Appendix B). Appendix C includes a list of witnesses who appeared at
+the public hearings.
+1.7 In order to facilitate wider discussion of the Bills, the Committee
+agreed that unless otherwise ordered, written submissions would be
+published on receipt. Likewise, the Committee circulated uncorrected
+Hansard transcripts as they became available. References to oral testimony
+are to page numbers in these Hansard proofs. These appear in footnotes as
+'Evidence p xx'. Written submissions to the inquiry appear as 'SIS Sub
+No xx'.
+Appreciation
+1.8 The Committee records its appreciation of the written submissions
+and oral evidence to this inquiry. The Committee also acknowledges the
+cooperation of the Parliamentary Secretary, Senator the Hon Nick Sherry,
+and officers of the Insurance and Superannuation Commission who attended
+the public hearings. Further, the Committee acknowledges the cooperation
+of the Parliamentary Secretary responsible for the ISC, the Hon Gary Johns
+MP, for providing the Committee with further informal briefings by ISC
+officers, and for publishing Government amendments to the Bills prior to
+their introduction in the House of Representatives and before the
+Committee's public hearings on the Bills. This greatly assisted the
+Committee's examination of a number of matters germane to the inquiry.
+The Committee appreciates the technical research support provided by the
+Parliamentary Research Service.
+
+
+Structure of the Report
+1.9 Chapter 2 of the report gives an overview of the package of Bills
+(hereafter referred to as the SIS Bills). Chapters 3 to 12 have been devoted
+to the principal bill, the Superannuation Industry (Supervision) Bill 1993.
+The Superannuation Industry (Supervision) Consequential Amendments Bill
+1993, which inter alia will protect superannuation interests in cases of
+bankruptcy, is examined in Chapter 13. Chapters 14 to 18 address the
+Superannuation (Resolution of Complaints) Bill 1993. In Chapters 4 to 18
+there are both recommendations for amendments to the Bills and
+recommendations for Government consideration and response. The
+Committee recommends that the package of Bills be agreed subject to these
+recommendations for amendment.
+1.10 Following Chapter 18 there is a minority report on clause 64 of the
+Superannuation Industry (Supervision) Bill 1993 which has been prepared
+by the Government Members of the Committee, Senators Childs, Evans and
+West. This report recommends that recommendation 4.1 not be agreed to.
+
+
+CHAPTER 2:
+THE SIS BILLS: AN OVERVIEW
+The SIS Bills: An Overview
+2.1 The package of SIS Bills is designed to increase significantly the
+prudential control and protection of the superannuation industry and
+substantially strengthen the security of superannuation savings. The Bills
+provide for a number of significant changes which will affect the consumers
+of superannuation products and services. Under the SIS legislation
+consumers will have access to a low cost dispute resolution mechanism and
+have benefits automatically rolled-over when they transfer or leave
+employment.
+2.2 The Bills represent the culmination of an intensive and prolonged
+examination of the regulation of superannuation by a number of government
+agencies, the Australian Law Reform Commission and the Senate Select
+Committee on Superannuation during the past two years. To a large extent
+the changes proposed in the Bills are the result of Government initiatives
+to implement compulsory superannuation coverage and an increasing
+recognition within the community that superannuation savings should be
+subjected to tighter prudential and supervisory controls.
+2.3 In its first report, Safeguarding Super, the Committee recommended
+far reaching change in the superannuation industry designed to safeguard
+retirement income savings. Whilst the Committee acknowledged there had
+only been a small number of fund failures, it stated that it was conscious
+that increases in superannuation savings will inevitably attract operators who
+will seek to use superannuation moneys for their own use. Accordingly, the
+Committee called on the Government to implement measures to minimise
+the risk of fraud, misappropriation and bad management practices.
+2.4 In a number of its reports the Senate Select Committee on
+Superannuation has affirmed its belief that the Insurance and
+Superannuation Commission (ISC) should be given increased regulatory
+powers and assume the status of prime regulator of all
+superannuation-related personal and collective investments. The Bills
+provide for the ISC to have this enhanced regulatory power over the
+$169 billion national stock of superannuation assets.
+
+
+Superannuation Industry (Supervision) Bill 1993
+2.5 This Bill is the most important of these seven SIS Bills and is
+designed to:
+• increase the level of prudential protection provided to the
+superannuation industry;
+• increase the security of superannuation savings; and
+• increase the protection and rights of superannuation fund
+members.
+2.6 This Bill was the subject of the overwhelming majority of the 95
+written submissions received by the Committee. In Chapters 4 to 12 the
+Committee examines in detail the key issues which arose during the inquiry
+in connection with the Bill.
+2.7 The Committee recommends that this Bill be passed subject to the
+amendments in Chapters 4 to 12.
+Superannuation Industry (Resolution of Complaints) Bill 1993
+2.8 This Bill will establish arrangements for the resolution of complaints
+made by members and beneficiaries of superannuation and approved deposit
+funds regarding the decisions of trustees. It provides for a low-cost dispute
+resolution mechanism for the superannuation industry.
+2.9 The Committee received evidence on this Bill from industry,
+consumer and government sources and has made recommendations and
+observations which appear in Chapters 14 to 18.
+2.10 The Committee recommends that the Bill be passed subject to the
+amendment in Chapter 18.
+
+
+Superannuation Industry (Supervision) Consequential Amendments Bill 1993
+2.11 This Bill makes amendments to the Income Tax Assessment Act 1936
+and other Acts arising from the repeal of OSSA. Another feature of this Bill
+is that it amends the Bankruptcy Act 1966 to specify the extent to which
+superannuation and life insurance moneys are protected in the event of
+bankruptcy. Chapter 13 examines the submissions on this proposal.
+2.12 The Committee recommends that this Bill be passed subject to the
+amendment in Chapter 13.
+Occupational Superannuation Standards Amendment Bill 1993
+2.13 This Bill repeals the provisions of the Occupational Superannuation
+Standards Act 1987 (OSSA) which have been replaced by the prudential
+compliance standards of the Superannuation Industry (Supervision) Bill
+1993. Also, it provides for new arrangements to collect levies to operate the
+scheme to protect funds affected by fraud and to administer the rolled-over
+benefits funds. Further, the Bill changes the title of OSSA to the
+Superannuation Entities (Taxation) Act 1993.
+2.14 The Committee recommends that this Bill be passed without
+amendment.
+Superannuation (Financial Assistance Funding) Levy Bill 1993
+2.15 This Bill provides for a levy on superannuation funds and approved
+deposit funds to provide financial assistance to any funds that suffer loss as
+a result of fraud or theft.
+2.16 The Committee recommends that this Bill be passed without
+amendment.
+Superannuation Supervisory Levy Amendment Bill 1993
+2.17 This Bill amends the Superannuation Supervisory Levy Act 1991 as
+a result of amendments to certain sections of OSSA.
+
+
+2.18 The Committee recommends that this Bill be passed without
+amendment
+Superannuation (Rolled-Over Benefits) Levy Bill 1993
+2.19 This Bill provides for the imposition of levies on certain
+superannuation funds for the purposes of recouping the cost of maintenance
+by the ISC of a register of certain rolled-over benefits.
+2.20 The Committee recommends that this Bill be passed without
+amendment.
+
+
+CHAPTER 3:
+SUPERANNUATION INDUSTRY
+(SUPERVISION) BILL 1993
+Superannuation Industry (Supervision) Bill 1993
+3.1
+This is the principal Bill in the SIS Bills package and is designed to:
+• increase the level of prudential protection provided to the
+superannuation industry;
+• increase the security of superannuation savings; and
+• increase the protection and rights of superannuation fund
+members.
+3.2 To establish a comprehensive framework of prudential supervision
+the Bill encompasses a broad range of matters including:
+• constitutional powers and types of superannuation funds;
+• trustees, members, employers, investments and reserves of
+superannuation funds;
+• fund administration, return of surplus and unclaimed benefits;
+• obligations of auditors and actuaries;
+• losses from fraud or theft, penalties and removal of
+superannuation tax concessions; and
+• public sector superannuation schemes, the role of the ISC and
+transitional provisions.
+
+
+Responsibility
+3.3 The ISC will have the responsibility of implementing the provisions
+of the Bill and will play the major role in the prudential supervision of
+superannuation funds. It will have the power to audit and investigate funds
+and it will be an offence to deliberately mislead or deceive the ISC.
+Constitutional requirements
+3.4 To be eligible for concessional tax treatment under the SIS Bill,
+superannuation funds will need to be legislated pursuant to either the
+pensions or the corporations powers of the Constitution.
+3.5 The pensions power requires that the fund has the sole or dominant
+purpose of providing old age pensions, whilst the corporations power
+requires that the trustee is a trading or financial corporation. Where either
+of these are met the fund must make an irrevocable election to the
+Commissioner of the ISC to have the provisions of the SIS Bill apply to the
+fund. This will enable superannuation funds to be regulated by
+Commonwealth legislation.
+Trustees - appointment, duties, powers and protection
+3.6 Only suitable persons shall be allowed to be appointed as trustees.
+Under the Bill bankrupts or persons with a conviction of an offence
+involving dishonest conduct will not be permitted to be appointed as a
+trustee. Funds will need to provide and publish to members procedures for
+the appointment and removal of trustees.
+3.7 The Bill seeks to codify the duties of trustees so that they cannot be
+avoided or modified. These duties require trustees to act honestly, exercise
+diligence and care, formulate and implement investment strategies, keep
+trust accounts separate, exercise prudential management over any trust
+reserves and allow a beneficiary access to any prescribed information or
+documents.
+3.8 The SIS Bill also sets out the powers that trustees can exercise in
+order to carry out their duties. Under the SIS provisions, the trust deed
+must not permit the trustee to be subject to direction by any other person,
+
+
+permit a discretion to be exercised in relation to the fund without the
+consent of the trustee or permit the governing rules of the trust to be
+amended without the consent of the trustee.
+3.9 In addition, the Bill outlines protection that is available for trustees
+in carrying out their duties which includes indemnity from fund assets for
+any liabilities incurred as a trustee. This indemnity does not extend to
+dishonesty, wilful or reckless negligence, or a criminal or civil penalty
+imposed for a breach of the legislation.
+3.10 Trustees will also have the right to seek professional advice, the cost
+of which can be paid out of the fund. Trustees will be protected against
+victimisation to ensure that they are not pressured or coerced into doing
+things against the best interests of beneficiaries.
+Members of superannuation funds - representation
+3.11 The Bill provides a choice for member representation on the trustee
+board of employer sponsored funds. The choice is either equal
+employer/employee representation on the board of trustees or a professional
+trustee. The equal representation requirements do not apply to funds with
+fewer than five members.
+3.12 Professional trustees must be licensed with the ISC and be companies
+that have at least a certain prescribed level of net tangible assets. The
+Government has foreshadowed that, initially, it will regulate to set the
+minimum level at $5 million.
+3.13 Where a member has an inquiry or complaint the trustee must
+establish a procedure to ensure that the complaints or inquiries are dealt
+with within 90 days. Where a member is still dissatisfied they can complain
+to the Superannuation Complaints Tribunal to be established under the SIS
+legislation.
+Employers
+3.14 The Bill provides that where an employer is unhappy with the way
+the fund is being managed, and believes that it will no longer be a suitable
+fund for the employees, the employer can cease contributions without this
+constituting possible victimisation of the trustee.
+
+
+3.15 Where an employer deducts superannuation contributions from an
+employee's salary, the contributions must be remitted to the fund within 28
+days following the month in which the deduction was made.
+Superannuation funds - investments and managers
+3.16 To ensure that superannuation funds are properly invested and
+managed, trustees must appoint investment managers. Restrictions will be
+placed on who can be appointed as an investment manager. Companies
+cannot be appointed as investment managers where a director or executive
+has been involved in an offence involving dishonesty, or if they are in
+receivership. Where an investment manager takes custody of assets they
+must be companies of substance, with at least $5 million in net tangible
+assets2.
+3.17 Trustees must formulate investment strategies for their funds which
+must be communicated to members. All investments must be made at arms
+length to ensure that they are genuine investments, whilst in-house assets are
+to be restricted to no more than five per cent of the market value of the
+fund. In-house assets are investments in an employer sponsor or associate.
+Prohibition on certain superannuation fund investments
+3.18 Superannuation funds will be prohibited from providing loans to
+members or relatives or from acquiring assets from members or relatives. In
+addition, funds shall not be allowed to borrow money. An exemption from
+this prohibition will be allowable where the fund borrows to make a
+payment to a beneficiary which it is required to make under law, but only
+where the borrowing term does not exceed 90 days and the amount
+borrowed does not exceed ten per cent of the value of the fund. No
+exemption will apply where the fund is an Approved Deposit Fund (ADF).
+3.19 A further exemption to this prohibition on borrowing will apply
+where temporary borrowings are required to cover the settlement of
+securities transactions.
+3.20 Where a trustee maintains reserves, an investment strategy for their
+prudential management must be formulated.
+2
+See para 3.12.
+
+
+Fund administration
+3.21 To ensure efficient fund administration occurs, the SIS Bill places
+certain legislative requirements upon the business management of the fund.
+These requirements include the keeping of minutes and records of all
+trustee meetings for at least ten years, records of changes in trustees and
+account keeping and production of annual reports. Trustees will be required
+to file annual returns with the ISC within a prescribed period.
+Obligations of auditors and actuaries
+3.22 The Bill imposes certain disclosure obligations upon auditors and
+actuaries. Where an auditor or actuary discovers a breach of the law or is
+concerned that a breach may occur, they are required to inform the trustee
+and request appropriate action be taken. Where no action is taken the
+auditor or actuary must inform the ISC.
+Losses from fraud or theft
+3.23 The Bill provides that where a fund is facing difficulty in paying
+benefits as a result of fraud or theft, it may apply to the Treasurer for a
+grant of financial assistance. The grant would be funded by means of a levy
+on the superannuation industry.
+Public sector schemes
+3.24 The provisions of the Bill are intended to apply equally to both
+public and private sector schemes.
+Unclaimed benefits
+3.25 Unclaimed benefits will arise where:
+• the beneficiary has reached the eligibility age for a
+pension;
+• the trustee determines that a benefit is immediately payable in
+respect of the beneficiary;
+• the beneficiary has not applied to have the amount of benefits
+in the fund paid to him or her; and
+
+
+• the trustee, after making reasonable efforts to find the
+beneficiary, is unable to pay the benefit.
+3.26 Trustees are required to pay unclaimed money to the ISC
+Commissioner and provide the Commissioner with a statement of unclaimed
+monies together with the tax file numbers of those to whom the unclaimed
+benefits have been credited.
+Eligible rollover funds
+3.27 The Bill provides for the automatic rollover of certain benefits
+between funds for members who cannot be located or have left a fund.
+3.28 For an amount to be eligible for rollover, the trustee must have
+determined that under the governing rules of the fund the benefit is
+immediately payable in respect of a member, that 90 days have elapsed since
+the benefit became payable and that at least two consecutive prescribed
+reports to members of the fund have not been received by the member.
+3.29 Eligible rollover funds (ERFs) will be required to notify the ISC of
+all members on whose behalf they hold funds. The ISC will keep a central
+register of these benefits.
+Penalties under the Bill
+3.30 The Bill introduces a regime of penalties against trustees who do not
+act in accordance with its provisions. In the event that a trustee contravenes
+a provision, for example insider trading, a particular penalty will apply. Four
+categories of penalties for contraventions exist, namely:
+• civil penalty;
+• strict liability;
+• fault liability; and
+• civil liability.
+These penalties can only be imposed by a court of law.
+3.31 Contravention of a civil penalty requires the standard of proof in civil
+cases, that is, proof on the balance of probabilities. The monetary fine does
+not exceed $200 000. Where trustees contravene a civil penalty knowingly,
+
+
+intentionally or recklessly they may be exposed to criminal prosecution and
+be liable for up to five years imprisonment.
+3.32 Contravention of a strict liability provision involves proof beyond
+reasonable doubt, however the trustee has the defence of reasonable excuse,
+that is, the trustee has taken all reasonable steps to prevent the
+contravention occurring.
+3.33 Contravention of a fault liability provision requires proof beyond
+reasonable doubt that the trustees contravention was intentional or reckless.
+3.34 Civil liability provisions are designed to allow beneficiaries to sue a
+trustee for any loss they may have suffered by the trustee's contravention of
+the provisions of the Bill.
+Reversal of onus of proof
+3.35 Generally in criminal prosecutions, the onus is on the prosecution to
+prove all of the elements of an offence. In relation to the contravention of
+some of the provisions of the SIS Bill, for example the insider trading
+provisions, the Bill provides for a reversal of the usual onus of proof. This
+means that, where a breach has occurred and a defence may be available to
+the defendant, the onus lies on the defendant to establish that the defence
+is available to the defendant.
+Transitional arrangements
+3.36 The SIS legislation will commence at the beginning of the 1994/95
+year of income which for the majority of funds is 1 July 1994. The earliest
+start date for any fund is the 1 December 1993.
+3.37 Superannuation funds that were supervised by both the ASC and the
+ISC before the SIS legislation will only be supervised by the ISC from 1 July
+1994.
+
+
+
+
+CHAPTER 4:
+CLAUSE 643 -
+PROHIBITION ON
+SUPERANNUATION FUNDS
+ACQUIRING ASSETS FROM
+MEMBERS OR RELATIVES
+Clause 62 - Prohibition on Superannuation Funds
+Acquiring Assets from Members or Relatives
+Clause 64 has arisen from the questionable practices of a
+small section of the superannuation profession, who are more
+concerned with the 'gimmicks1 of superannuation, rather than
+the long term true benefits that superannuation provides.4
+Introduction
+4.1 This chapter examines one of the most controversial aspects of the
+Superannuation Industry (Supervision) Bill 1993, clause 64. The chapter
+outlines the policy underlying clause 64, the submissions received on the
+issue and evidence provided at the public hearings plus a recommendation
+for an amendment to the Bill.
+4.2 Of the total submissions received by the Committee on the SIS
+legislation approximately one half were concerned with the impact of clause
+64 which prohibits regulated superannuation funds from acquiring assets
+from fund members or their relatives. Clause 64 is designed to take effect
+from 27 May 1993 as an anti-avoidance measure to prevent superannuation
+fund members selling assets to their superannuation fund in order to obtain
+cash benefits. Such transactions, according to a number of witnesses, have
+the potential to abuse the concessional tax treatment afforded to
+^ Clause 64 was Clause 62 when the Bill was introduced in the House of
+Representatives
+John Fraser, SIS Sub No 40
+4
+
+
+superannuation funds.5 Further examples of the current abuse involve
+members selling private assets to their fund, such as houses and boats in
+order to obtain cash benefits. The ISC Commissioner, Mr George Pooley,
+advised the Committee that there are a number of schemes in existence that
+are designed to manipulate assets in this way.6
+4.3 The early date of effect was achieved by way of amendment to OSS
+Regulations. The Regulations and Ordinances Committee has given notice
+that it will move a motion of disallowance of this regulation.
+Issues raised
+4.4 The majority of written submissions received focused on the following
+areas of concern with clause 64, namely:
+• its complete prohibition is too harsh as it discriminates against
+legitimate business transactions and small business activities;
+• it prevents people from funding their own superannuation funds
+and in particular discriminates against the self employed;
+• it fails to take into account the same types of investments held
+in different names;
+• it appears easy to avoid simply by interposing another entity
+between the superannuation fund and the member; and
+• its imposition of a jail sentence for breaches is too severe.
+4.5 The Committee heard further evidence in relation to the impact of
+clause 64 at the public hearings. The evidence provided reinforced the
+impression that many in the superannuation industry view clause 64 as a
+draconian measure that is designed to 'crack a nut with a sledgehammer'.
+4.6 Two witnesses, John Fraser and Tony Kincaid indicated that a
+degree of confusion and 'woolly thinking' surrounded the development of
+5
+Tony Kincaid, John Fraser, evidence p 87
+^ Evidence p 182
+
+
+clause 64.7 Mr Fraser provided an example of the types of abuse that clause
+64 is designed to prevent, such as the selling of assets to a superannuation
+fund to overcome cash flow problems. He also gave some examples of how
+clause 64, in its present form, can be rendered inoperative.
+4.7 It was suggested by Mr Kincaid that one way in which clause 64
+could be avoided would be to transfer assets of the same value into another
+person's superannuation fund and have them transfer assets into your
+superannuation fund. Written submissions also described in detail how
+clause 64 could be avoided by similar means or by interposing a third party
+between the member and superannuation fund, so that the asset is sold to
+the third party and then on-sold to the superannuation fund. Once again,
+although higher transaction costs are incurred, clause 64 could be easily
+avoided.
+4.8 The Committee also noted that there is an absence of empirical
+evidence supporting the need for clause 64. This point was highlighted in
+evidence provided to the Committee by the ISC who advised that their
+position was based on information that a number of organisations were
+providing advice on how to manipulate assets in a way that clause 64 is
+designed to prevent.8
+4.9 The Committee believes that to a large extent the problems which
+have given rise to measures to prohibit funds acquiring assets from members
+or relatives (clause 64) are the result of promoters who offer superannuation
+arrangements which are at odds with the rationale of concessional tax
+treatment afforded to superannuation. The Committee is of a view that the
+Government should monitor closely the activities of these promoters with a
+view to making their activities subject to the requirements and penalties of
+clause 64 and other relevant provisions of the SIS legislation.
+Alternatives to clause 64
+4.10 A common feature of both the written submissions and the evidence
+provided at the public hearings concerned suggested ways in which clause
+7 Evidence p 89
+** Evidence p 182
+
+
+64 could be amended to enable it to provide an effective anti-avoidance
+mechanism whilst enabling certain transactions between a members and their
+superannuation funds to take place.
+4.11 Alternatives to clause 64 focused upon the need of the ISC to
+analyse the type of transaction rather than its source. Accordingly,
+exemptions to clause 64 were suggested as a means of enabling the type of
+transaction to be scrutinised to ensure that dubious transactions such as the
+selling of paintings or holiday homes to the superannuation fund are
+prohibited. Precedent for this treatment of these transactions, it was
+suggested, could be found in Capital Gains Tax provisions of the Income
+Tax Assessment Act 1936 (ITAA)9.
+4.12 The Committee noted that a major advantage associated with
+differing between types of assets is that, prima facie, it would allow a
+distinction between different types of transactions to occur. That is, the sale
+of legitimate assets on a commercial basis to a superannuation fund would
+be permissible, whilst the sale of assets that clause 64 is designed to prevent
+would still be disallowed.
+4.13 A major question that arose in connection with the exclusion of
+certain types of assets is whether it would be preferable to specify what
+transactions should be entered into or what transactions should not be
+entered into. Evidence provided by John Fraser suggested that it would be
+more appropriate to describe the types of investments that are acceptable
+to a superannuation fund and specify that these transactions be carried out
+on an arms length basis.10 In addition, a report could be attached to each
+ISC return detailing where a member-orientated transaction was involved.
+4.14 Another approach to changing clause 64 was suggested by Jim
+Richardson, who recommended that the legislation specify what types of
+assets cannot be acquired by a superannuation fund from a member or
+relative of a member, for example such assets would include:
+• jewellery;
+• motor vehicles;
+a
+Greenwood Challoner, SIS Sub No 42
+10 Evidence p 89
+
+
+• boats; and
+• a print, etching, drawing, painting, sculpture or similar work of
+11
+art.
+4.15 In outlining these exemptions Mr Richardson drew attention to the
+current definition of personal use assets, in section 160B of the ITAA 1936,
+as a precedent for such exclusion.12
+4.16 Strengthening of the sole purpose provisions of the Bill rather than
+employing a blanket prohibition under clause 64 was yet another approach
+which the Committee considered. The sole purpose provisions, as contained
+in clause 60 of the SIS legislation, require the trustee of the fund to
+maintain the fund solely for certain purposes. These purposes are divided
+into core and ancillary purposes. Core purposes are those for which the
+fund must be maintained, for example, the provisions of benefits to each
+member of the fund upon reaching a prescribed age, although the member
+has not retired.
+4.17 Ancillary purposes are those for which the fund may be maintained,
+in addition to the core purposes, for example, the payment of death benefits
+wholly or partly to a member's estate.
+4.18 As it is apparent that the SIS legislation is framed to allow clause 64
+to complement the operation of the sole purpose test, it would appear from
+a number of submissions that a more appropriate alternative would be to
+provide certain exemptions from clause 64, whilst increasing the powers of
+the ISC under the sole purpose test.
+4.19 When providing exemptions from the operation of clause 64, regard
+must be given to achieving a balance between its original objective and a
+more equitable approach as outlined in the various submissions. Therefore,
+it was argued, exemptions from clause 64 should only relate to the
+acquisition of freehold or leasehold property which reflects true market
+value, that is used wholly or exclusively in the business of the member, and
+11
+ibid
+SIS Sub No 42
+12
+
+
+certain strictly defined marketable securities.13 In this regard the ISC
+prepared a draft amendment which defines marketable securities. This
+appears in Appendix D and includes a share; or unit; or bond or debenture;
+or a right on option; or any other security; listed for quotation in the official
+list of a stock exchange in Australia.
+4.20 It could be argued that this would provide a seemingly more
+equitable alternative which would allow superannuation funds to acquire
+certain assets from members, whilst at the same time providing the
+Government with certain checks and balances to ensure that the
+concessional tax treatment afforded to superannuation funds is not abused.
+The Committee acknowledges that strengthening the sole purpose test is a
+move away from its traditional use. However, given the nature and impact
+of clause 64, the Committee considers that some change is needed to
+balance the competing interests which became evident during the inquiry.
+Recommendation 4.11
+The ( '■ MiimiUee recommend* that clause 61 be amended to ajk
+typr* n isveis to be acq tilled by a sup&iimiitftiori fund from a n
+relative el the member M nr ns length price.
+These assets are Jo include only freehold or leasehold J^opei
+reflects tide market value, that is*used wholly or exclusively m \ h
+of the member t>r member's relative, phut certain Strictly defined n:
+arj|ef£tble
+The Committee^ |
+strengthened t&.tn
+provided undet cl
+member otimeinbe
+Wtfpm INH
+| assets included in the-exempt ion
+the superannuation fund Irotn a
+Penalty for breach of clause 64
+4.21 Another major issue surrounding clause 64 concerns the penalty for
+a breach of the provision which can be up to two years imprisonment. A
+13
+COS BOA, SIS Sub No 49 provided the Committee with guidance on what type
+of marketable securities could be included within the amendments.
+
+
+common feature of most submissions on the matter concerned the
+abhorrence at such a penalty, some describing it as totally inappropriate for
+the offence involved. 4
+4.22 When designing penalties for the breach of certain provisions, regard
+must be given to the severity and nature of the mischief that the provision
+is designed to prevent. The Committee noted that the imposition of a jail
+sentence for a breach of clause 64 would appear to be excessive given its
+intention.
+Reco
+4 be
+amended to provide a maximum penalty of 200 penalty points (one penalty
+point equals $100) and/or one years imprisonment
+14
+Greenwood Challoner, SIS Sub No 42
+
+
+
+
+CHAPTER 5:
+PUBLIC OFFER FUNDS -
+CLAUSE 18
+Public Offer Funds - Clause 18
+'As Hope J. A in Parkes Management Ltd v Perpetual Trustee Co
+Ltd (1977) ACLC 40-354 observed, the Manager's position in the
+whole scheme is central to its existence and its removal in a very real
+sense changes in an important way the character of the scheme'15
+*We note that there are many management companies which are ill
+equipped or unable to perform trustee functions or meet the capital
+adequacy or net tangible assets tests proposal'16
+Introduction
+5.1 This chapter outlines the issues faced by public offer funds as a result
+of the SIS legislation provisions for transitional arrangements and elections.
+It describes the operation of a public offer fund and the reasons underlying
+the single entity concept. There follows an analysis of the difficulties facing
+public offer funds as to whether the trustee or manager should be appointed
+as the single responsible entity (i.e. a corporate trustee) and the issue of the
+irrevocable election to become a public offer fund.
+5.2 Under the SIS legislation public offer funds (i.e. funds offering
+superannuation products to individual members of the public) will come
+under the prudential control of the ISC. Previously they were regulated by
+the Australian Securities Commission (ASC). It is envisaged that these
+15 Bankers Trust, SIS Sub No 36, p 4
+Trustees Companies Association of Australia, SIS Sub No 33, p 2
+16
+
+
+public offer funds will be operated by a single entity being the corporate
+trustee who may be either the fund manager or the trustee company. Under
+Corporations Law these funds are operated under the joint control and
+management of a trustee and a fund manager.
+Public Offer Funds
+5.3 A public offer fund is essentially any fund which is not a standard
+employer sponsored fund unless a declaration has been made by the ISC
+Commissioner to the contrary under clause 18(6). These funds are,
+therefore, superannuation schemes offered to the public through a
+registered prospectus. An indication of the money invested in public offer
+funds and Approved Deposit Funds was provided by Mr Peter Hutley, who
+advised that members of the Investment Funds Association (IFA), currently
+manage $14 billion in these types of funds.17
+Single entity concept
+5.4 Currently public offer superannuation funds operate on a dual entity
+basis comprising the trustee and the fund manager. A major objective of the
+SIS legislation is to ensure there is a move away from the dual entity
+structure to a single responsible entity, that is, either the trustee or the fund
+manager should operate the fund.
+SIS legislation
+5.5 The SIS legislation is silent on the issue of whether, in the transition
+from the present arrangements, the trustee or manager should become the
+responsible entity. Instead it sets out the procedures for achieving single
+entity status. These include, for example, how the trustee or fund manager
+should give notice of retirement. The legislation does not provide for the
+circumstances under which either the trustee or fund manager should retire.
+17 Evidence p 127
+
+
+Who should be the responsible entity?
+5.6 The Committee has received a number of submissions on which party
+should become the responsible entity for the superannuation fund under the
+SIS legislation, most of which support the appointment of the manager as
+the responsible entity. The reasons include:
+• the manger will have committed substantial amounts of capital
+and resources to the establishment and operation of the fund;
+• the manager will have put its reputation at stake in relation to
+the management of the superannuation fund; and
+• the manager will have adopted specific strategies and
+investments techniques for managing the fund.18
+Collective Investments: Other Peoples Money19
+5.7 The Committee has noted the recommendations made in the
+Australian Law Reform Commission (ALRC) Report No 6520 concerning
+the management of collective investments which stated:
+The split responsibility presently prescribed by the law should cease.
+The scheme operator should have a clear set of obligations, prescribed
+by law, that it owes to the investors in the scheme. These would include
+the obligation to act honestly in all matters concerning the scheme and
+to prefer the interests of the investors to its own interests in all matters
+concerning the scheme.21
+5.8 The ALRC concluded that where agreement cannot be reached on
+which party (the trustee or fund manager) should become the single entity,
+ultimately the fund manager should assume that status.
+18
+Bankers Trust, SIS Sub No 36
+19 The Australian Law Reform Commission (ALRC) - Report No 65 Collective
+Investments: Other People's Money, AGPS, Sydney, 1993
+20 ibid
+21 The Law Reform Commission Report No 65 Collective Investments: Other
+People's Money, 1993, Summary p 5
+
+
+5.9 In contrast, the submission by the Trustees Companies Association
+of Australia (TCA) argued against any unfair or arbitrary removal of
+trustees22. TCA submitted that any removal of trustees would effectively
+eliminate a layer of prudential control for the superannuation fund.
+5.10 The Committee was advised that in many cases the promoter or
+investors may wish to retain the existing independent trustee and that
+existing funds management companies may be unable to meet the
+requirements placed upon them by the SIS legislation, such as the proposed
+$5 million capital adequacy requirement.23
+5.11 The impression gained by the Committee through both written
+submissions and oral evidence is that there is a need for a definite
+appointment of either the trustee or manager as the responsible entity for
+the superannuation fund, which should take place as soon as practicable
+after the commencement of the SIS legislation.24 However, constitutional
+and administrative considerations make the achievement of this objective
+extremely difficult.
+Constitutional issues
+5.12 For example, the automatic appointment of a manager as the single
+responsible entity raises certain constitutional issues about which the
+Committee has received varying opinions. One view is that section 51(xx) of
+the Constitution, the corporations power, does not permit the
+Commonwealth to legislate for one of the competing parties to be approved
+as the single entity.
+5.13 Another view, which was contested, was that the automatic
+appointment of a fund manager may constitute an acquisition of property
+(that is, for example, the denial of a trustee's commission) by the
+Commonwealth of a kind which requires just terms' within the meaning of
+section Sl(xxxi).25 26
+22
+SIS Sub No 33
+ibid
+23
+24 MLC Investments, SIS Sub No 86, also advised the Committee of the need to
+have a streamlined solution to the transitional issue from dual to single entity,
+as did Potter Warburg Asset Management, SIS Sub No 89, and Sly & Weigall
+SIS Sub No 79.
+IFA, SIS Sub No 37 (Freehill's opinion) - See Appendix E
+25
+
+
+5.14 The Committee believes that the lack of legal certainty in this area
+is sufficient to warrant caution. To act decisively in favour of either the fund
+managers or the trustee companies may subject the Commonwealth to a
+legal challenge involving substantial claims for compensation. Accordingly,
+the Committee does not recommend the automatic appointment of either
+the trustee or manager as the single responsible entity for the fund.
+Alternatives to automatic appointment
+5.15 The Committee considered the option of providing grandfathering
+provisions to enable the trustee and fund manager to continue their current
+dual entity arrangement until one party becomes the single entity at a
+predetermined date in the future. This would involve the existing scheme
+not accepting any new members and a new scheme being created into which
+members of the existing scheme could transfer. However, given the need for
+stability and certainty within the superannuation industry this option is
+unnecessarily complex and time consuming and therefore has limited merit
+only.
+5.16 Another approach would be to convene a meeting of members of the
+fund to determine their choice of who should be the single entity.27 The
+Corporations Law currently provides for the removal of the trustee or fund
+manager by a resolution of 50 per cent or more of the value of units in the
+trust. However, many trust deeds have separate removal provisions which
+may favour trustees.
+5.17 In some funds the removal of the fund manager may only require an
+ordinary resolution, being 50 per cent of a certain unitholders votes. Whilst
+the trustee removal may require a special resolution, being 75 per cent of
+a certain percentage of unitholder votes.29 The removal of a fund manager
+under these circumstances would appear to be inequitable. The Committee
+noted the Law Reform Commission Report No 65,30 which provided for
+the appointment of either the trustee or fund manager under the transitional
+26 Attorney General's Department, Chief General Counsel's opinion of 21 October
+1993 - Appendix F
+27 Bankers Trust, op cit
+28 ibid, p 4
+ibid
+ALRC, op cit
+30
+
+
+arrangements for collective investments. The Report recommended that
+within 18 months application of one party to remove the other party can be
+made to the ASC, provided the other party agrees. If this does not occur
+within 18 months the Report recommended that the manager be
+automatically appointed.
+5.18 Whilst this solution might appear to provide certainty it is predicated
+on the possible removal of one of the competing parties, a course of action
+already described as having potentially adverse outcomes for the
+Commonwealth (see para 5.13).
+5.19 The Committee was advised of another solution in an additional
+submission made by the Investment Funds Association which recommended:
+that additional covenants be inserted in the Corporations Law which
+place the manager on even footing with trustee by allowing it to request
+the trustee to retire if the manager believes that it is in the best
+interests of unitholders that further interests in the scheme are able to
+be issued after 1 July 1994. Freehill's advice supports this action.31
+5.20 The Chief General Counsel's opinion is that this advice does not
+offer a solution in that it omits to expressly provide that the assets vest in
+the management company and that if an express provision were made it
+could be 'characterised' as a law with respect to the 'acquisition of
+property'.32
+5.21 Notwithstanding this, if a dispute arises between the trustee and the
+fund manager it is of critical importance that neither party be or be seen to
+be placed at an unfair advantage. For example, if a ballot is required to
+determine single entity status, the right of one party to request that the
+other stand down could give it an unfair electoral advantage. It is possible
+that the party with the right under Corporations Law to request that the
+other stand down may use this power to add moral and legal force in any
+campaign to become the sole entity. The Committee believes that this is an
+unsatisfactory arrangement.
+31 IFA Additional material of 21 October 1993 to Sub No 37
+32 See Appendix F
+
+
+• §
+t3iB::.G0ver'iimcrkt,-cS3fisideF ::am6ndmg: t he
+ie public offer supef^nnyai;on tuna managers
+it the trustee retire on the ^rotinds that |t is in
+<ferv : l
+Election to become a Public Offer Fund is irrevocable (Clause 18)
+5.22 Under the SIS legislation, where a fund chooses to become a public
+offer fund it must make an irrevocable election to do so. The Committee has
+received a number of submissions stating that the necessity for the election
+to be irrevocable is unnecessarily restrictive.33
+5.23 It was submitted that circumstances may change and at a later date
+the fund may wish to revert to an equal representation arrangement, for
+example, as a means of avoiding the potentially higher operating costs
+associated with public offer funds.34 In these cases it is the Committee's
+understanding that the election may be revoked following a declaration by
+the Commissioner that the fund is not a public offer fund under clause
+18(6). This can only occur where the Commissioner is satisfied that the
+internal corporate trustee will provide for equal employee/employer
+representation.
+5.24 Mercers submission proposed that this should be clarified in the
+legislation.35 The Committee was unable to form the opinion that this is
+necessary for the reason that clause 18(6) provides adequate scope for the
+revocation of the election.
+33
+34
+William M Mercer, SIS Sub No 72
+ibid
+ibid
+35
+
+
+
+
+CHAPTER 6:
+FUND MANAGERS AND
+CUSTODIANS
+Fund Managers and Custodians
+Introduction
+6.1 This chapter addresses the impact of the SIS legislation on both fund
+managers and custodians, and makes observations and recommendations on
+the following issues:
+• borrowing;
+• definition of custodian and investment manager;
+• capital adequacy requirements;
+• removal of investment manager;
+• dismissal of custodians for breach of eligibility requirements; and
+• 'soft dollar' or undisclosed commissions in funds management.
+Borrowing - clause 65
+6.2 Prior to amendments introduced into the House of Representatives
+on 27 September 1993, the SIS legislation allowed superannuation funds to
+borrow in exceptionally limited circumstances only. More specifically the
+clause allowed superannuation funds to borrow up to ten percent of fund
+assets for up to 90 days for the purposes of paying a benefit where there
+was a cash flow problem. However, the amendments now allow
+superannuation funds to borrow on a temporary basis to cover the
+settlement of securities transactions and provide that borrowing can take
+place where it does not exceed seven days and the amount borrowed does
+
+
+not exceed ten per cent of the value of the assets of the fund. The
+borrowing is further limited to circumstances where the need Svas not
+reasonably foreseeable'.
+6.3 The Law Council of Australia submitted that, due to the mechanics
+of international financing systems, in many cases it was likely that short term
+financing to settle transactions would be necessary.36 This view was also
+expressed by witnesses from the National Australia Bank, who submitted
+that, due to the nature of international trading activities, it is highly probable
+that a funding mismatch could occur.37
+6.4 Accordingly, the Committee believes that the words 'not intended'
+should replace 'not reasonably foreseeable'. This would clarify the intent of
+the legislation and take into account the realities of international financing.
+Recommendati
+The Committee recommends thai
+it wa;> Viol intended' that thfc&m
+clause 65 should be amended to substitute the words not intended' for 'not
+reasonably foreseeable'. .
+Definition of custodians and investment managers
+6.5 The custodian's role is to hold the legal title of the assets whilst the
+investment managers invest the assets of the fund to obtain the maximum
+benefit for the fund members. Several submissions to the Committee raised
+the concern that the definition afforded to both a custodian and an
+investment manager were not clear and in practice could lead to a conflict
+of duties.38 39
+36
+Evidence p 153
+37 National Australia Bank, SIS Sub No 26
+ibid
+Bankers Trust SIS Sub No 28
+39
+
+
+6.6 The Government addressed this matter by introducing an amendment
+in the House of Representatives defining a custodian as 'a person
+performing custodial duties in relation to the assets of the entity, and is
+designed to have the normally accepted meaning as given within the
+superannuation industry’.40
+6.7 The Committee believes that, whilst this change is in the right
+direction, it still leaves in doubt the respective roles of fund managers and
+custodians. For example, the current definition afforded to an investment
+manager under clause 10 allows for no discretion to be made by the
+investment manager between different investments. Therefore, this definition
+may also cover some of the functions that are performed by custodians.41
+6.8 Given the key roles that both investment managers and custodians
+play in the superannuation industry, investing and holding assets for
+superannuation fund members, it is vital that their roles be clearly
+defined.42
+Capital adequacy requirements - clause 120
+6.9 Clause 120 provides that custodians must have a prescribed value of
+net tangible assets, otherwise known as a capital adequacy requirement. The
+Treasurer's press release of 27 May 1993, indicated that $5 million would be
+the minimum prescribed value.
+40 Superannuation Industry (Supervision) Bill 1993, Clause 10
+41 National Australia Bank, SIS Sub No 26
+42 K Richards, SIS Sub No 52, alerted the Committee to the need under SIS for
+the trustee of a small employer sponsored fund to obtain a dealer's licence when
+dealing in securities, further advising that the ASC requirements made this
+difficult.
+
+
+6.10 It was submitted that, whilst being a means of ensuring that a
+custodian is an organisation of substance, a blanket capital adequacy
+requirement of $5 million dollars provides little assistance to fund members
+should the custodian become insolvent, and is an altogether inadequate form
+of prudential supervision as compared to other capital requirements such as
+the risk weighting of assets43. Unfortunately, time limitations prevented the
+Committee from exploring a viable system of asset risk weighting. This, along
+with the option of having a simple scale of net tangible assets relative to
+funds managed, could be considered by the Government when it is
+preparing regulations to the implement capital adequacy requirements.44
+6.11 The Committee noted that small funds, in cases where an investment
+manager wishes also to act as a custodian, should they be unable to meet
+the $5 million capital adequacy requirement, they can appoint an outside
+entity to act as custodian provided that entity satisfies the capital adequacy
+requirement.
+-, | | jL* (
+The Committee recognises tftfc hedtfTbf% capital adequacy requirement to
+establish the substance of custodians and, to a lesser extent, provide a
+financial buffer in the case of insolvency. The Commit tee recommends that
+in drafting regulations the ISC continue to consider a more comprehensive
+and flexible approach to the capital adequacy requirements for fund
+managers and custodians.
+Removal of investment manager - clause 118
+6.12 Subclauses (1) and (2) of clause 118 set out when a person and an
+individual or a body corporate becomes a disqualified person. A 'disqualified
+person' is prohibited from being a fund manager or custodian. County
+NatWest submitted that under clause 118, a body corporate is a 'disqualified
+person' if any 'responsible officer', that is a director, secretary or executive
+43
+County Nat West SIS Sub No 65
+44 AAPBS, SIS Sub No 76, submitted that the definition of an approved guarantee
+be broadened to include an approved building society.
+
+
+officer, has been convicted of an offence involving dishonesty or has been
+the subject of a civil penalty under the SIS provisions. County Natwest
+further advised that this 'strict liability' provision does not allow any
+flexibility to take account of particular circumstances to allow the manager
+to remedy the situation.45
+6.13 This provision, therefore, has the potential to result in an investment
+manager losing its entire superannuation funds as a result of a single breach
+by an individual employee. The Committee believes that this consequence
+appears to be unduly harsh. However, it is not unreasonable to expect that
+any responsible officer who commits an act of dishonesty should not be in
+a position of authority and that the ISC and the fund should be in a position
+to remove such persons.
+Reccmsmendation 6.4;
+und
+managers consequent to a responsible officer becoming a disqualified
+m of
+the
+fund manager to remove the disqualified person from any financial dealings
+Dismissal of custodians for breach of eligibility requirements - clause 120
+6.14 The Committee also received submissions claiming that the provisions
+involving the dismissal of custodians under clause 120 are too harsh.46 For
+example, National Australia Bank submitted that where the custodian ceases
+to comply with the eligibility requirements under clause 120, the trustee must
+automatically dismiss the custodian.
+45
+ibid, p 20
+National Australia Bank, SIS Sub No 26
+46
+
+
+6.15 In addition, clause 120 allows no time for the custodian to endeavour
+to correct its position. This could result in harsh and unintended
+consequences if the custodian only breaches the eligibility requirements
+temporarily.
+Recommendation ^ ^
+Ibe Committee recommends that the Government monitor the operation
+of SIS legislation io ensure that it does not result in any harsh or
+unintended consequences for custodians who temporarily fail to satisfy
+eligibility requirements.
+II jjjj I v;
+. ' .
+*Soft commissions'
+6.16 The term 'soft commission' refers to undisclosed commissions,
+reimbursement for expenses incurred or non-monetary forms of payment.
+The Investment Funds Association advised the Committee that, for example,
+under this method of remuneration a funds manager may enter into an
+arrangement with a stockbroker to provide a certain amount of business to
+the stockbroker and that the funds manager may provide services in lieu of
+the normal stockbroking fee.47 Such practices may also provide scope for
+tax minimisation, as undisclosed commissions may not be included in the
+broker's taxable income. Bankers Trust also advised the Committee on soft
+commissions and following their appearance provided a copy of the AIMG
+draft Practice Note of 23 September (see Appendix G).
+6.17 On a number of occasions during its two year inquiry into
+superannuation the Committee has stated that there should be openness and
+transparency in the setting of fees, charges and commissions throughout the
+superannuation industry in order that consumers of services are able to
+compare relative prices and services. Unless sound reasons can be posited
+in favour of the practice of charging soft commissions, the Committee is of
+the view that the industry work on a 'commission only' basis. Failing this, the
+Commonwealth, through its corporations powers, should legislate against
+soft commissions.
+47 Evidence p 133
+
+
+
+
+
+
+CHAPTER 7:
+AUDITORS AND ACTUARIES
+Auditors and Actuaries
+The efficacy of the SIS legislation realty stands on auditors being
+independent and doing the right thing because after all members of
+superannuation funds only have an independent auditor to have an
+independent view - so that, what is said is being done, is being done
+Introduction
+7.1 This chapter addresses concerns raised by auditors about their role
+under the SIS legislation. The Committee has reiterated its views on the
+need to establish a register of superannuation auditors and a
+recommendation is made on the appointment and termination of auditors.
+7.2 The Committee did not receive any submissions from the actuarial
+profession per se, or other interested parties, on the role of actuaries under
+SIS. The Committee understands that auditors will rely upon actuaries to
+issue certificates that the fund is fully funded. Under the Superannuation
+Guarantee legislation actuaries are required to provide superannuation
+funds with actuarial certificates under Part IX of the ITAA.
+Auditors and Actuaries - Part 16
+7.3 The Committee received a number of submissions on the role of
+auditors under the SIS legislation, namely:
+• the responsibilities being placed upon auditors under SIS are
+too onerous;
+48
+Andrew Skinner, evidence p 139
+
+
+• auditors need some form of protection from trustees who may
+seek to influence their work;
+• consideration should be given to appointing auditors for a set
+term; and
+• consideration should be given to implementing a system of
+registration for superannuation auditors, although such auditors
+would not need to be registered company auditors but, as a
+minimum, show proficiency in superannuation.49
+Auditor's responsibilities
+7.4 A number of submissions suggested that under SIS auditors would
+be placed in an invidious and overly-onerous position in that they would be
+expected to discharge responsibilities beyond reasonable professional
+expectations.50 The Committee noted these sentiments but concluded that
+auditors will play a vital and critical role in maintaining the high standards
+of ethical and prudent conduct in the superannuation industry and that the
+SIS legislation should focus on this imperative. Amongst other things, this
+is predicated on the need for the auditor to have an ongoing interest in the
+conduct of the fund throughout the year and not be a 'mere visitor' after
+balance date.
+7.5 The Committee stresses that superannuation audits should be
+conducted in accordance with the Australian Auditing Standards.
+7.6 Under clause 126 of the SIS Bill, auditors are required to inform the
+trustee when they form the opinion that it is 'likely' that a contravention of
+the SIS Act or regulations 'may have occurred', 'may be occurring or may
+occur'. This requirement is the result of an amendment introduced into the
+House of Representatives on 27 September 1993, which amended the
+original requirement in the SIS legislation that auditors must notify the
+trustee if they form the opinion that a contravention 'may occur'.
+7.7 The Committee believes that the amendment to ensure that the
+auditor forms the opinion that it is 'likely' a contravention 'may occur' will
+49 Andrew Skinner, SIS Sub No 27
+ICAA/CPA's
+50
+
+
+assist in alerting auditors to make findings about undesirable investments
+and accounting practices. In addition, it will provide a special focus for
+auditors to judge whether a superannuation fund is operating according to
+SIS standards.
+Recommendation 7.1;
+The Committee recommends that the ISC monitor closely the appointment
+and termination of auditors in the superannuation industry and, if
+necessary, advise the Government that legislation be introduced to protect
+auditors from unjust or unreasonable termination,
+Auditor protection
+7.8 It was submitted that, given the 'expanded1 and 'proactive' role of
+auditors as proposed in clauses 125-128 and the increased responsibility that
+these provisions entail, auditors should be afforded greater protection under
+SIS.52 Concern was expressed that the legislation did not protect auditors
+from the 'whim of trustee’ change and that auditors who did not perform
+'low cost' audits would have their services terminated. It was suggested that
+the integrity and independence of auditors could be strengthened by
+appointing them for 12 months or even longer periods.53
+7.9 The ISC informed the Committee that it would 'look again at the
+issue' but indicated that it had some 'practical difficulty' which centred on
+the nature of the auditor's task which could involve one or two audits, ^a
+single visit or on-going involvement in monitoring a superannuation fund.
+51
+Ms N Gallery, SIS Sub No 31, provided some interesting and noteworthy
+comments on the information that members need and the role that auditors
+should play in monitoring the quality thereof which the ISC could consider in
+developing regulations and guidelines.
+52 Andrew Skinner, Evidence p 111
+Robert Brown and John Gorsh, p 143
+53 ibid
+Evidence p 194
+54
+
+
+Register of auditors and auditor removal
+7.10 Further to recommendation 4.11 in its first report, Safeguarding
+Super; the Committee again considered the proposal to establish a register
+of superannuation auditors. Although the Committee agrees with this
+proposal in principle it is concerned that, at this stage, given the large
+number of superannuation funds and the differing levels of skills required
+to audit the range of superannuation funds, a register of auditors would be
+difficult to establish and administer.
+7.11 However, the Committee notes the call by the ASCPA/ICAA Joint
+Superannuation Committee to have the professional bodies manage their
+own internal affairs in relation to the removal of auditors and the proviso
+that the ISC Commissioner, if dissatisfied, can take appropriate action under
+the SIS legislation.55 The Committee respects the rights and wishes of the
+professional bodies to be able to manage their own internal affairs but
+reiterates its position that it is in the public interest that superannuation
+auditors be disqualified should they be in breach of fundamental duties. The
+Committee believes that effective and on-going consultation between the
+ISC and the professional accounting bodies is of critical importance to the
+maintenance of high standards of superannuation audits.
+. . 4IJ!
+The Committee recommends that the ISC continue the pract
+the professional accounting bodies where it has cause to t
+auditor should be removed.* A. * *
+7.12 The Committee noted the desire of the professional accounting
+bodies to have the SIS legislation address the duties of auditors and
+actuaries separately56, however, this evidence did not establish conclusively
+any tangible benefits that would arise from such a distinction.
+55 Evidence p 143
+Joint ASCPA/ICAA submission
+56
+
+
+Recommendation 73:
+The Committee further recommends that,' in accordance with the
+Committee's first report Sa feguarding Super (Recommendation 4.11), the
+-gain
+the
+register consist of persons who have completed the training prescribed by
+the accounting professions.
+
+
+
+
+CHAPTER 8
+REGULATED SUPERANNUATION
+FUNDS
+Regulated Superannuation Funds
+8.1 This chapter outlines the difficulties and consequences of provisions
+in the SIS legislation for superannuation funds to become regulated
+superannuation funds. A regulated fund is a fund which elects to become
+subject to the provisions of the SIS legislation. Having become a regulated
+fund, the fund is thereby entitled to concessional tax treatment.
+Regulated superannuation funds - clause 19
+8.2 Clause 19 of the Bill states the requirements for a fund to become
+a regulated superannuation fund. Should these requirements not be met the
+fund will not be a complying superannuation fund and will, therefore, not
+be eligible for concessional tax treatment. The Bill sets out two alternative
+tests for a fund to become a regulated superannuation fund. The trustee of
+the fund must be a 'constitutional corporation' or a fund must be a 'pension
+fund'.57
+8.3 A constitutional corporation is either a trading or financial
+corporation. The legislation assumes that a body corporate which acts as the
+trustee of a superannuation fund is a trading or financial corporation by
+virtue of that fact. The Treasurer's press release of 27 May 1993 stated that
+'if the trustee is a body corporate then it is a financial corporation by virtue
+of its activity as trustee of a superannuation fund, and so the fund falls
+under the corporations power'.
+57
+Sly & Weigall, SIS Sub No 79.
+A number of submissions commented adversely on their perception of the need
+to incorporate under SIS.
+Compass Financial Services, SIS Sub No 47
+Allanfield Financial Services, SIS Sub No 74
+The Committee noted that there is an alternative to incorporation, which
+involves satisfying the pensions test.
+
+
+8.4 It was submitted that judicial interpretation suggests that a body
+corporate would not automatically be construed as a trading or financial
+corporation.58 Ms L Slater drew the Committee's attention to the case of
+the State Superannuation Board v Trade Practices Commission (1982) ISO
+CLR 282 in which the test of whether a trustee constituted a financial
+corporation was said to be based on the number, frequency and complexity
+of the transactions undertaken by the trustee.59 Ms Slater indicated that
+that some small superannuation funds operating under the corporate trustee
+provision may have difficulty in achieving the standing of a trading or
+financial corporation.60 At the request of the Committee the ISC provided
+a copy of the advice on this matter prepared by the Chief General Counsel.
+This appears in Appendix H.
+8.5 Whether a fund could satisfy the old age pension test if all funds
+were commuted and none taken as an old age pension was another
+constitutional issue raised by the Law Council. The Treasurer's press release
+which accompanied the introduction of the Bills in the Parliament states that
+'such a fund is covered by the pensions power even if the effect of the
+commutation option has been that in fact the fund has always paid out the
+benefits as lump sum commutations'.
+8.6 In its first report the Committee considered a number of longer term
+measures needed to strengthen the constitutional base of any enhanced
+prudential controls. Whilst acknowledging that there would be substantial
+political difficulties, it was agreed that the most simple and direct regulatory
+framework would be achieved by the referral by all states to the
+Commonwealth, as provided by s51 (xxxvii) of the Constitution, of their
+powers over superannuation. The Committee is still of this opinion.
+Ilie Committee reiterates the recommendation of its first report that thl
+Government explore the possibility of obtaining a referral by the states
+either formal or de facto, of their power over superannuation.
+58 Australian Law Council, SIS Sub No 28
+59 SIS Sub No 28
+Evidence p 149
+60
+
+
+Trustee registration requirements
+8.7 The Committee also noted that the registration requirements placed
+on trustee companies by the ISC and ASC may be excessive and that
+consideration should be given to implementing a more efficient form of
+registration to reduce compliance costs and unnecessary duplication of
+administration. Having trustee companies prepare one single return which
+is then used jointly by the ISC and ASC would promote efficiency. Under
+this arrangement the ISC could remit any moneys owing to the ASC on a
+regular basis.
+Recommendation 8.2:
+The Committee further recommends that the ISC and ASC implement a
+system of registration and filing where only a single return is required by
+corporate trustees of superannuation funds.
+
+
+
+
+CHAPTER 9:
+TAX FILE NUMBERS
+Tax File Numbers
+9.1 This chapter outlines the issues surrounding the access to and use of
+Tax File Numbers (TFNs) under the SIS legislation. It concludes with
+recommendations on the expanded use of TFNs in tracking superannuation
+funds. The Government proposes allowing superannuation funds to obtain
+and hold a member's TFN for the purpose of transferring it to an eligible
+rollover fund (ERF). Under SIS legislation, provision has been made for the
+automatic rollover of certain benefits between funds for members who have
+left the fund or cannot be located. In addition, the ISC will maintain a
+register of superannuation fund members whose benefits have been
+deposited in an ERF.
+9.2 The submissions received by the Committee focused on two major
+issues involving TFNs, namely:
+• the date at which superannuation funds can begin to collect
+TFNs; and
+• the purposes for which superannuation funds can use TFNs.61
+TFNs - date of collection
+9.3 Under the SIS legislation superannuation funds will not be able to
+collect TFNs from members until the SIS legislation commences on 1 July
+1994. The submission by Noble Lowndes proposed that superannuation
+funds be able to collect TFNs from superannuation fund members prior to
+1 July 1994 to enable the updating of relevant material and the collection
+of TFNs prior to the commencement of the lost member provisions of the
+SIS legislation.62 The Committee believes that there is merit in this proposal.
+61
+Noble Lowndes SIS Sub No 25
+ASFA SIS Sub No 68
+Noble Lowndes, op cit
+62
+
+
+Use of TFNs
+9.4 The second major issue raised in connection with TFNs involved
+their use by superannuation funds. Under SIS, TFNs can only be used in
+very limited circumstances, for example transferring a benefit to an Eligible
+Rollover Fund. However, where the fund is paying a benefit to a member,
+it will still have to ask the member for the TFN, even though the fund
+already has it.63 64
+9.5 The submission received from the Association of Superannuation
+Funds of Australia (ASFA) proposed that superannuation funds should be
+able to use TFNs for any purpose directly related to the conduct of the
+fund.65 The submission by Noble Lowndes proposed that employees who
+disclose their TFNs for employment purposes should also be deemed to
+have disclosed them for superannuation purposes.
+9.6 The Committee acknowledges that these proposals would streamline
+the administration of superannuation. It is further acknowledged that the
+lost member problem, which involves tracking small amounts of
+superannuation for hundreds of thousands of employees (some of whom
+may have as many as four superannuation accounts), needs to be addressed
+in an effective and efficient way. However, the expanded use of TFNs gives
+rise to a number of privacy considerations.
+Tax File Numbers
+9.7 The Privacy Commissioner has inter alia advised the Committee on
+the collection and use of TFNs for superannuation purposes. The
+Commissioner has expressed concerns about any extension of the use of
+TFNs beyond the original policy intent of the TFN legislation, which
+involved the ISC's access to TFNs based on the administration of the
+'reasonable benefits limits'. The Commissioner believes the options of earlier
+access to, and increased use of, TFNs by superannuation funds and the ISC
+as being outside this original policy intent. Notwithstanding this, the
+Commissioner gave qualified support for earlier access to and increased use
+of TFNs. The qualifications include:
+63
+64
+ibid
+SIS Sub No 25
+SIS Sub No 68
+65
+
+
+• that individual members are given notice of the practice at point
+of first collection of the TFN;
+• that individual members are notified of the purpose of collection
+and any subsequent proposed uses;
+• that individual members are informed that giving a TFN is
+voluntary for the purposes of identifying members, who may
+later need to claim benefits from an eligible rollover fund or the
+ISC; and
+• that individual members are given the opportunity to opt for a
+specific collection for each authorised person.66
+9.8 The Committee acknowledges these concerns and recommends that
+they be taken into account in amending and implementing the legislation.
+9.9 Of paramount importance in the expanded use of TFNs in
+superannuation funds is the need for members to give express consent to the
+purposes for which they are being collected.
+Recommendation 9*1:
+The Committee recommends that the SIS legislation be amended to allow
+superannuation tods to collect member TFNs> subject to member consent,
+from the date the Rill receives Royal Assent, In addition* the Committee
+recommends that the SIS legislation be amended to allow superannuation
+funds, to use TFNs for taxation and transfer of benefits purposes.
+66
+SIS Sub No 94
+
+
+
+
+CHAPTER 10:
+STATE SUPERANNUATION
+SCHEMES
+Tax File Numbers
+'Because of the construction of the Commonwealth
+Constitution, there are inherent difficulties in applying some
+of the ISCs proposed powers to statutory schemes'.6
+10.1 This chapter analyses the difficulties experienced in applying the SIS
+legislation to state public sector superannuation schemes and concludes with
+a recommendation for an amendment.
+10.2 The Committee has received submissions from the Cabinet Office of
+both Queensland and NSW, claiming that the SIS legislation contains a
+number of provisions which undermine the power of the States to legislate
+and make policy in regard to their public sector superannuation schemes.68
+10.3 The focus of the submissions is the seemingly inordinate amount of
+power that the SIS legislation provides the ISC to regulate state public
+sector superannuation schemes. The Queensland Government submission,
+for example, challenged the appropriateness of the ISC (a Commonwealth
+agency) having the power to suspend or remove a trustee body (appointed
+under a state law) and appointing a temporary trustee.69
+10.4 The States submitted that as they already have a high level
+prudential control and supervision under their own statutes, SIS provided
+an unnecessaiy additional layer of regulation.70 In this regard the NSW
+Government Superannuation Office provided information (see Figure 10.1)
+on the prudential controls applicable to NSW public sector superannuation
+schemes.
+10.5 It was on the above grounds the States submitted that they be
+exempted from the SIS provisions.
+67
+The Cabinet Office, NSW SIS Sub No 69
+ibid
+The Cabinet Office, Queensland, SIS Sub No 66
+69 SIS Sub No 66, p 4
+SIS Sub No 69
+70
+
+
+Source:
+Paper presented by the NSW Superannuation Office on
+23 September 1993.
+
+
+Exclusion of public sector schemes
+10.6 The Committee was further advised that should the states be granted
+exemption from the SIS provisions, there would be two unintended
+consequences:
+Firstly, concessional taxation treatment would cease for fund earnings
+and benefit payments from an exempted, and thus non-complying,
+superannuation scheme. Secondly, this non-compliant status would
+mean that employer contributions to exempted superannuation schemes
+would not be recognised for the purposes of the Superannuation
+Guarantee Charge (SGC) legislation.71
+10.7 The joint submission recommended that either an amendment to the
+ITAA (S267) and the SIS Bill (Clause 45) would be needed to ensure the
+maintenance of concessional taxation treatment of public sector schemes and
+the deeming of contributions made by employers to these schemes as
+satisfying the Superannuation Guarantee (Administration) Act 1992
+requirements.72
+10.8 The Committee is in receipt of a letter from the Prime Minister to
+State Premiers which proposes that compliance with SIS be automatically
+required unless an exemption has been granted. Subject to certain
+conditions the Prime Minister has stated that exemptions would be available.
+These conditions include undertakings by relevant StateATerritory
+governments:
+• to guarantee the liabilities of the scheme by ranking the accrued liabilities
+of the scheme equally with State/Territory bonds; and
+* to ensure compliance with the main operative provisions of the SIS
+legislation (vesting, preservation, disclosure and, where applicable, prudent
+investment).73
+10.9 The Committee acknowledges the difficulties that the States have
+with the SIS legislation and agrees that amendments should be made to
+71
+72
+Joint submission from NSW, Qld, WA, Tas and NT, Submission No 90.
+ibid
+See Appendix I
+73
+
+
+accommodate the right of state parliaments to legislate in the area of state
+public sector employee superannuation. The Committee understands that
+the states are prepared to adopt parallel prudential controls and supervision
+which are consistent with the SIS standards.
+Recommendation 10,1:
+The Committee recommends that the Bill be amended to exempt the States
+and the Northern Territory. It is further recommended that, if required, the
+ITAA and the Superannuation Guarantee Change (Administration) Act be
+amended to ensure that existing treatment/coverage for certain state
+superannuation schemes under those Aets is maintained.
+
+
+CHAPTER 11:
+ISC POWERS AND CO-ORDINATION
+OF COMMONWEALTH POWERS
+ISC Powers and Co-ordination of Commonwealth Powers
+Introduction
+11.1 This chapter examines the following issues with respect to the SIS
+legislation:
+• ISC discretions and exemptions;
+• unclaimed money provisions;
+• the interaction between the Corporations Law and the SIS
+legislation.
+ISC exemptions and modification - Part 29
+11.2 Under part 29 of the SIS legislation the ISC has the power to modify
+or exempt the application of the provisions of the Bill, and the regulations,
+once it has received Royal Assent. However, certain powers provided for
+under Part 29 are of a temporary nature only and will expire on 30 June
+1994.
+11.3 The Committee was advised by ASFA that these powers be
+continued at least in the formative years or until narrower criteria are
+formulated.
+11.4 A longer term view of the Commissioner's discretionary power was
+posited by the Law Council of Australia. It advised that after 1 July 1994,
+the anticipated date of commencement for SIS, trustees may erroneously
+and unintentionally make decisions based on the standards of OSSA. With
+this in mind Council argued that the Commissioner should have an indefinite
+discretion where there is an unintentional breach of the new SIS standard.
+
+
+11.5 The Committee acknowledges the Senate Scrutiny of Bills Committee
+Report No 3 of 1993 (18 August 1993) in which concern was expressed
+about the ISC Commissioner's power to exempt and modify the application
+of the law without any set criteria or Parliamentary supervision.
+11.6 The Committee is of the view that the legislation is complex, far
+reaching and is being superimposed on a diverse and evolving industry. In
+this environment it is reasonable to expect that the prime regulator, the ISC,
+should have some discretion to ensure that the legislation is administered
+both flexibly and equitably. However, it is of critical importance that the ISC
+not assume the powers of the Parliament in legislating superannuation
+policy. To ensure that this does not occur a system of reporting and
+accountability needs to be instituted. Accordingly, consistent with the report
+of the Scrutiny of Bills Committee, the Committee believes that the current
+provision of the Bill be agreed to with an amendment that the ISC report
+annually on the frequency, incidence and nature of the exercise of its
+discretions.
+Recommendation
+.
+discretions to
+Unclaimed money provisions - Part 22
+11.7 Under clause 219 a benefit will become unclaimed money if it is
+immediately payable in respect of a person who has reached the eligibility
+age for an aged pension and the trustee is unable to locate the beneficiary
+after making reasonable efforts to do so. The Law Council raised the issue
+
+
+of whether or not the unclaimed money provisions under the SIS legislation
+would override the unclaimed money legislation of the States or
+Territories.74
+11.8 It was argued that should no provision be inserted, the unclaimed
+money may have to be paid to the States and Territories. (That is, the
+unclaimed moneys in superannuation funds would be subject to state
+unclaimed money legislation before a member reaches pensionable age).
+Recommendation 11,2:
+The Committee recommends that the Government negotiate with the States
+and the Northern Territory with a view to agreeing to amendments to the
+SIS and relevant state legislation to enable Commonwealth legislation on
+unclaimed superannuation moneys to operate to the exclusion of state law.
+Interaction of SIS legislation with Corporations Law
+11.9 Several submissions raised a concern that under current Corporations
+Law a trustee company that is limited by Guarantee will have difficulties in
+fulfilling its obligations to fund members due to restrictions placed upon
+directors under section 232A.75 Section 232A operates to exclude a
+director, who is a fund member in a company limited by guarantee, from
+participating in Board decisions which relate to the company's conduct as
+trustee of the superannuation fund. This also ^oses a problem for
+representative trusteeship under the SIS legislation. 6
+11.10 Where the directors of a company, who are not also fund members,
+cannot form a quorum, a general meeting of the company will need to be
+called to deal with these matters 77 The Committee acknowledges that the
+current operation of section 232A of the Corporation Law may cause certain
+74
+SIS Sub No 28, p 13
+75 Mallesons Stephen Jaques SIS Sub No 80, p 7
+Sly and Weigall, SIS Sub No 79
+76 Sly and Weigall, SIS Sub No 79, p 4
+77 Malleson Stephen Jaques, SIS Sub No 80, p 7
+
+
+problems for companies limited by guarantee who act solely as trustee of a
+superannuation fund.
+Rccnmm£iit&&£ian 11*3;
+rl ; 1
+I Kc i ’nimutcc (the: ISC iki
+Ih $ i'ym.
+..iiiominf
+ptinic:ipatmji in the company* cundna a; trustee uj a *upenmmuUun diJ
+the ppemiton i:4 >rmorj 232A xrf the C^rpflratfam Law ■
+
+
+CHAPTER 12:
+TECHNICAL MATTERS
+Technical Matters
+12.1 This chapter analyses a number of technical matters which the
+Committee believes should be addressed, namely:
+• lack of a definition for market value; and
+• equal representation requirements for non-associated employers.
+Market value definition
+12.2 The Committee considered a submission from the Australian Institute
+of Valuers and Land Economists (AIVLE) which proposed that a definition
+of market value be inserted in the SIS legislation.78
+12.3 The submission indicated that the definition of 'value' under clause
+10 of the SIS legislation means 'market value' and includes 'amount'.79 The
+SIS legislation, however, contains no definition of market value. The term
+market value is used in other parts of the legislation, for example, in the in-
+house asset provisions. The Committee has used the AIVLE definition of
+'market value' in formulating recommendation 12.1.
+The Committee recommends that the Government amend the SIS
+legislation to insert the following definition of 'market value':
+Market Value is the estimated amount for which an asset should exchange
+on die date of valuation between a willing buyer and a willing seller in an
+arm’s length transaction after proper marketing wherein the parties had
+each acted knowledgeably, prudentiaOy and without compulsion.
+78 SIS Sub No 82
+SIS Sub No 82, p 1
+79
+
+
+fiqual representation requirements for non-assodated employers - clause 90
+12.4 The Committee considered a proposal that under clause 90,
+superannuation funds that have Statutory Accounting Periods (SAPs), which
+balance prior to 30 December 1993, may have difficulties in meeting the
+equal representation requirements in non-associated employer-sponsored
+superannuation funds. The Committee was advised that the funds
+affected are those which have more than one employer sponsor, and have
+at least one employer sponsor who is not associated with any of the other
+employer sponsors.
+12.5 The Committee acknowledges that funds in this position will be
+placed at a disadvantage as they will have to comply with the equal
+representation rules from as early as 1 January 1994, whereas other funds
+will have until 1 July 1995 to adopt the equal representation provisions. The
+Committee understands that the ISC will use its powers to exempt or modify
+the legislation in respect of these funds. As it could be construed that such
+a discretion exceeds the bounds of delegated legislative power, the
+Committee believes that the ISC should report to the Parliament annually
+on the nature and frequency of such exemptions or modifications. (Refer to
+Recommendation 11.1)
+Key Dates of Commencement
+12.6 The SIS legislation provides that a superannuation fund must make
+an irrevocable election, pursuant to caluse 19, to become a regulated
+superannuation fund subject to the SIS provisions. Andrew Fairley advised
+the Committee that practitioners and regulators would have difficulty in
+meeting the demands of the 1 July 1994 date of election. He proposed that
+the burden could be eased by having a later date of election for the
+'excluded funds' (funds with less than five months).81
+12.7 The ISC has advised that the Government has addressed these
+concerns by extending the dates by which superannuation funds must elect
+to become regulated superannuation funds. Funds whose governing rules are
+in statute, will have until 30 June 1995 to make an election in accordance
+80 William M Mercer, SIS Sub No 72
+81 SIS Sub No 91, pp 1-2
+
+
+with clause 19. Funds with less than five members will have until 31
+December 1994 to make an election, whilst funds with more than five
+members will have until 28 July 1994 to make the election.
+Recommendation 12.2
+The Committee recommends that the Senate agree to a Government
+amendment extending the dates of elections for superannuation funds
+to become regulated funds under SIS according ..to the following
+schedule:
+Type of fund Last Date of Election
+Governed by statute 30 June 19 95
+Less than five members 31 December 1994,
+or on the last day of its
+1994/95 year of income,
+whichever comes first
+More than five members 28 July 1995
+
+
+
+
+CHAPTER 13:
+THE SUPERANNUATION INDUSTRY
+(SUPERVISION) CONSEQUENTIAL
+AMENDMENTS BILL 1993
+The Superannuation Industry (Supervision)
+Consequential Amendments Bill 1993
+AMENDMENT OF THE BANKRUPTCY ACT 1966
+Introduction
+13.1 This Amendments Bill affects the property that is available to
+creditors and that which is protected in bankruptcy; includes pensions as
+defined in the SIS Bill as 'income' for the purposes Part VI of the
+Bankruptcy Act 1966, and makes certain provisions in governing rules of
+superannuation funds and approved deposit funds void.
+Property available to creditors and property that is protected
+13.2 Section 116(1) of the Bankruptcy Act 1966(the Act) provides for the
+property of a bankrupt that is available for division among the bankrupt's
+creditors. Section 116(2) of the Act lists property of a bankrupt that is not
+available for division among a bankrupt's creditors.
+13.3 Section 116(2) is amended by the Superannuation Industry
+(Supervision) Consequential Amendments Bill 1993. These amendments
+have two major effects. First, the requirement that policies of life assurance
+or endowment assurance that are protected by section 116(2) must have
+been in force for two years before the commencement of bankruptcy; and
+the requirement that similarly protected policies for annuities must have
+been in force for at least five years before the date of bankruptcy are
+
+
+removed. Second, the new paragraph (2)(d) broadens the property that is
+not available for division among a bankrupt's creditors to include
+superannuation policies, the interest of the bankrupt in, or payment from,
+a regulated superannuation fund or approved deposit fund. However, there
+is a limit on the amount that can be protected by the new section 116(2)(d).
+The proposed section 116(5) limits the amount protected by section
+I16(2)(d) to the pension Reasonable Benefit Limit (RBL). The pension
+RBL is determined in accordance with section 140ZD of the Income Tax
+Assessment Act 1936. The RBL for the 1994-95 year of income is $800 000
+and is indexed for each subsequent year.
+13.4 The Committee is concerned that the removal of the time limits may
+provide a means by which bankrupts can avoid creditors.
+Part IV of the Bankruptcy Act 1966
+13.5 Division 4B of this Part requires a bankrupt who derives income
+during the bankruptcy to pay contributions towards the bankrupt's estate
+and enables the recovery of certain money and property for the benefit of
+the bankrupt's estate. This Amendments Bill adds to the definition of
+’income' pensions within the meaning of the SIS Bill.
+13.6 This Part of the Act allows a trustee in bankruptcy to assess a
+threshold amount as necessary income for the bankrupt and the amount
+received in excess of that figure divided by two must be paid to the trustee
+for creditors. When taken in totality the proposed changes restrict a
+bankrupt from taking advantage of the generous provisions relating to the
+period before bankruptcy.
+Certain governing rules to be void
+13.7 The Bill proposes that a new section be inserted into the Act to void
+any provisions in the governing rules of a superannuation fund of an ADF
+which have the effect of cancelling, forfeiting, reducing or qualifying a
+beneficial interest of a member who becomes a bankrupt, who commits an
+act of bankruptcy or who executes a deed of assignment or arrangement.
+The Committee notes that in Re Bond; Ex parte Ramsay (Hill J, Federal
+Court of Australia, 30 November 1992) a forfeiture clause which purported
+to defeat benefits to which a member had become absolutely entitled was
+
+
+held to be void. The Committee also notes that this decision has been
+appealed and a decision has been reserved by the Full Federal Court. The
+Committee supports the amendment.
+Submissions
+13.8 The Committee received one submission concerning the provisions
+dealing with bankruptcy in the Superannuation Industry (Supervision)
+Consequential Amendments Bill 1993.82
+Breach of the sole purpose test
+13.9 Mr Tony Marks of Macquarie Investment Management Limited
+raised the issue of whether or not a trustee would be in breach of the sole
+purpose test if the trustee made a payment of a benefit to someone other
+than a member of a dependant83. The Committee notes that the
+legislation does not deal with this matter explicitly. Clause 58(l)(b)(v) of
+the SIS Bill however provides that an 'ancillary purpose' includes ’the
+provision of such other benefits as the Commissioner approves in writing.'
+It is anticipated that the Commissioner would use this discretion in
+circumstances where a creditor sought to have access to that part of a
+bankrupt's superannuation above the RBL. Alternatively, the trustee could
+pay the bankrupt member their entitlement and the trustee in bankruptcy
+could subsequently access the amount through the usual means.
+'the value of the property
+13.10 Mr Marks also raised the issue of the definition of the term 'the
+value of the property'. He submitted that it is of particular importance for
+there to be some certainty concerning the method of evaluation that is to
+be used and the point in time at which the evaluation is to occur. He
+submitted that the date that an individual is declared bankrupt would
+provide certainty as well as avoiding complex and disputable calculations.
+82
+SIS Sub No 85
+ibid
+83
+
+
+13.11 Mr Marks raised a number of other points relating to taxation
+matters. Although these issues will need to be addressed, they fall beyond
+the scope of the Committee's current terms of reference.
+
+
+CHAPTER 14:
+INTRODUCTION TO CONSUMER
+MATTERS
+Introduction to Consumer Matters
+14.1 In the course of its inquiry into superannuation, the Committee has
+identified a number of issues of particular interest to consumers where
+reform is required. These issues will also be of relevance to providers of
+superannuation who seek to provide a high standard of service to their
+clients. Of paramount importance is the establishment and effective
+operation of the proposed Superannuation Complaints Tribunal pursuant to
+the Superannuation (Resolution of Complaints) Bill 1993.
+14.2 Chapter 15 examines the structure of the disputes resolution
+mechanism that will be established by the Superannuation (Resolution of
+Complaints) legislation. Chapter 16 examines the type of complaints that the
+Tribunal will have the jurisdiction to review. Chapters 17 and 18 examine
+the predominant issues that have been raised in the course of the
+Committee's inquiry.
+14.3 In its first report, the Committee identified matters which may not
+readily be understood and therefore might become the subject of a dispute
+between a member of a superannuation fund and the fund. Some of these
+matters relate to the entitlements of individual members. Other matters that
+might be subject to dispute are of a more general character such as the
+election of trustees, investment policies, the alteration of trust deeds and the
+degree of employer influence over trustees.84
+14.4 The Committee noted in its first report that the predominant view
+was that there was a need for the establishment of an independent dispute
+resolution mechanism that provided an alternative to the court system.
+84 Safeguarding Super, June 1992, p 135
+ibid, p 136
+85
+
+
+14.5 The Committee examined possible models for such an alternative
+dispute resolution mechanism and recommended that it be mandatory for
+all trustees to establish an internal dispute resolution mechanism. In respect
+to the external review of trustees' decisions, the Committee concluded that
+the decisions of trustees should be externally reviewable.
+14.6 It was considered that a quasi-judicial statutory body could be
+established to review trustees' decisions where the internal dispute resolution
+mechanism had not resolved the complaint. Alternatively, it was considered
+that an industry authority could be established. The Committee preferred
+the latter and recommended that an industry review authority be established
+with the power to ensure that trustees' powers had been properly exercised
+and that all relevant evidence had been considered.
+14.7 Notwithstanding the Committee's recommendation, the Government
+has decided to establish a quasi-judicial statutory review body. This is, of
+course, the proposed Superannuation Complaints Tribunal.
+14.8 In August 1992, the Committee issued an Issues Paper entitled Super
+Charges. In that Paper, the Committee again identified the need to examine
+the establishment of a low-cost, external dispute resolution mechanism.86
+14.9 In its sixth and seventh reports, Super-Fees, Charges and
+Commissions and Super Inquiry Overview, respectively, the Committee
+reiterated its earlier recommendation that a low cost and accessible external
+review body should be established.87 88
+14.10 The Committee's belief that a formal disputes resolution mechanism
+in the superannuation arena is necessary was confirmed in its inquiry into
+the Queensland Professional Officers Association Superannuation Fund. The
+findings of the Committee are set out in its eighth report entitled Inquiry
+into the Queensland Professional Officers Association Superannuation Fund.
+14.11 The Committee received a significant number of written submissions
+in relation to 'consumer issues' within its terms of reference. The Committee
+heard evidence on these and other 'consumer issues' during the hearings on
+these Bills.
+Super Charges, August 1992, p 63
+Super - Fees, Charges and Commissions, June 1993, p 48
+Super Inquiry Overview; June 1993, p 37
+s*>
+87
+88
+
+
+CHAPTER 15:
+THE SUPERANNUATION
+COMPLAINTS TRIBUNAL
+The Superannuation Complaints Tribunal
+The Complaints Mechanism
+15.1 The Superannuation (Resolution of Complaints) Bill (hereafter 'the
+Bill') establishes a Tribunal, which is to be known as the Superannuation
+Complaints Tribunal (hereafter 'the Tribunal'). The objective of this Tribunal
+is to provide mechanisms for the conciliation of complaints between trustees
+and members of superannuation funds and, where conciliation is
+unsuccessful, for the review of decisions of the trustees to which the
+complaints relate. The review mechanism is to be fair, economical, informal
+and quick.89 Figure 15.1 shows the proposed mechanism.
+The Complaint
+15,2 The Tribunal cannot deal with a complaint unless the complainant
+has attempted to have the dispute settled by way of the trustee's internal
+dispute resolution mechanism established in compliance with clause 96 of
+the Superannuation Industry (Supervision) legislation. A trustee is required
+by that clause to establish arrangements for dealing with complaints and
+inquiries within 90 days.
+89
+Superannuation (Resolution Of Complaints) Bill 1993, clause 11
+
+
+Beneficiary/member makes
+inquiry into or complains
+about a decision of the trustee
+in relation to the
+beneficiary/member
+Trustee to deal with the
+inquiry or complaint within 90
+days [clause 96 SIS]
+Complainant [clause 15 S(RC)]
+lodges complaint [clause 14
+S(R Q]
+in writing with Tribunal [clause
+17 S(RQ1
+Tribunal to attempt to resolve
+complaint by conciliation
+[clause 11 S(RC)] and parties
+are generally required to act on
+their own behalf
+[clause 23 S(RC)j
+Successful conciliation:
+Written terms of agreement
+lodged with Tribunal and
+complaint treated as withdrawn
+clause 31 S(RC)] _
+Unsuccessful conciliation:
+Review meeting of Tribunal.
+Written submissions permitted;
+no oral submissions as of right
+[Part 6 S(RC)]
+Determination that may affirm,
+remit, vary or set aside and
+substitute trustee's decision
+[clause 37 S(RC)]_
+Appeal to Federal Court on
+questions of law [clause 46
+S(RC)] _
+
+
+15.3 Where the trustee's internal dispute resolution mechanism is
+unsuccessful a complainant may lodge a complaint with the Tribunal. Clause
+16 of the Bill provides that the Tribunal must help a complainant where they
+need help in making their complaint.
+Reviewable Decisions
+15.4 Clause 14(1) of the Bill provides that a decision of a trustee of a
+fund, made either before or after the commencement of the Superannuation
+(Resolution of Complaints) Act, in relation to a particular member or
+former member of a regulated superannuation fund or a particular
+beneficiary or former beneficiary of an approved deposit fund, is a decision
+that the Tribunal has the jurisdiction to review. A decision of a trustee is
+defined in clause 4 of the Bill as the making or failure to make a decision
+by a trustee or by a person acting for a trustee.
+Non-reviewable decisions
+15.5 Clauses 14(2) and 14(5) provide that certain complaints are outside
+the jurisdiction of the Tribunal. Certain funds will be excluded from the
+jurisdiction of the Tribunal and decisions of trustees of those funds will not
+be reviewable by the Tribunal. Complaints relating to certain matters will
+also be excluded. These excluded funds and excluded matters will be
+prescribed by regulation.
+The Grounds
+15.6 Clause 14 provides that a complaint may be made about a trustee's
+decision on three grounds. The grounds of review are that the decision was
+in excess of the powers of the trustee, that the decision was an improper
+exercise of the powers of the trustee or that the decision is unfair or
+unreasonable.
+The Complainant
+15.7 Clause 15 is exhaustive in answering the question of 'who may make
+a complaint?'.
+
+
+15.8 In relation to a trustee's decision regarding the payment of a benefit,
+clause 15(l)(a) provides that a person who has an interest in the benefit, or
+a person who claims to be entitled to benefits through such a person, or
+such persons' agents may make a complaint. Clause 15(2) sets out the
+circumstances when a person does not have an interest in a benefit for the
+purposes of clause 15(l)(a). Essentially, where a person who satisfies the
+criteria of clause 15(l)(a) has been notified by the trustee of the proposal
+to pay a benefit, and of the correct prescribed period of time in which to
+object, and that person has not objected, that person does not have an
+interest and therefore is not able to make a complaint.
+15.9 In relation to a decision of a trustee that does not concern the
+payment of a benefit, clause 15(l)(b) provides that a member or former
+member of a regulated superannuation fund or a beneficiary or former
+beneficiary of an approved deposit fund or such persons' agents or personal
+legal representatives may make a complaint.
+The Conciliation Process90
+15.10 In the first instance, the Tribunal is required to attempt to settle a
+dispute by way of conciliation. The Tribunal may arrange conciliation
+conferences if it thinks it is desirable. These conferences may be conducted
+by telephone or by other means of communication and statements at
+conferences are privileged. Where a conciliation is successful and terms of
+agreement are put in writing and lodged with the Tribunal, the complaint is
+treated as withdrawn.
+The Review Process91
+15.11 Where a dispute is not resolved by way of conciliation, the Tribunal
+is to convene a review meeting. Parties to the dispute may make written
+submissions but may not make oral submissions unless the Tribunal so
+orders. The Tribunal may inform itself of any matter relevant to the review
+of a decision in any way it thinks appropriate. In its review of decisions, the
+Tribunal has all the powers, obligations and discretions of the trustee.
+90
+Part 5 of the Bill
+Part 6 of the Bill
+91
+
+
+The Determination92
+15.12 The Tribunal is to make a determination in writing that affirms,
+remits, varies, or sets aside and substitutes the trustee's decision. The
+Tribunal must affirm the trustee's decision if it is satisfied that the decision
+was fair and reasonable in all the circumstances.
+Appeals93
+15.13 A determination of the Tribunal is appealable to the Federal Court
+on a question of law. Where a complainant does not defend an appeal
+instituted by another party, the Federal Court may not order costs against
+the complainant.
+92
+Clause 37
+Clause 46
+93
+
+
+
+
+CHAPTER 16:
+ISSUES: THE COMPLAINT
+Issues: The Complaint
+Reviewable Decisions
+16.1 In its sixth report the Committee noted that a small minority of
+consumer complaints were so serious that they constitute serious and wilful
+malpractice on the part of a very small number of participants in the
+industry. Accordingly, the Committee recommended that the proposed
+Tribunal adjudicate on consumer complaints arising out of personal
+superannuation contracts entered into after 1 July 1992, the date of
+commencement of the compulsory superannuation arrangements, where
+these have not been resolved at the company or industry level94.
+'Retrospectivity
+16.2 It was noted in paragraph 15.4 above that decisions of trustees made
+either before or after the commencement of the Superannuation (Resolution
+of Complaints) Act will be reviewable, unless otherwise excluded. This
+provision was one of a number of amendments to the SIS Bill successfully
+moved by the Government in the House of Representatives. The amended
+provision reads:
+"Complaints
+14(1) This section applies if the trustee of a fund has made a
+decision (whether before or after the commencement of this Act) in relation
+to:
+(a) a particular member....
+(b) a particular beneficiary...."
+(The amendment is shown in bold type.)
+94
+Super - Fees, Charges and Commissions, June 1993, paragraphs 3.85 and 3.9
+
+
+16.3 Concerns have been raised by industry organisations that this
+provision could create a double liability for trustees who have made and
+acted upon decisions in relation to the payment of some benefits. For
+example, in the case of a death benefit where a number of parties are
+claiming to be entitled to the benefit, and the trustee has made a decision
+as to who is entitled to the benefit, and has made the payment
+accordingly.95 If the Tribunal determined that a different person was the
+beneficiary, the trustee would be required to make a payment to that person
+and then attempt to recover the money it initially paid out.
+16.4 It was also submitted that 'trustees have historically been advised not
+to enter reasons for their decision making processes, or the documents upon
+which they have relied, into their minutes'.96 Trustees therefore may be
+required to enter into the dispute resolution process with no record of why
+the decision was so made and having forgotten the reasons that the
+decisions were taken. Although this may be so in some practices, the
+Committee accepts the submission of Mr Noel Davis that the common law
+requires principles of natural justice to be applied by trustees when they
+make decisions97, for example, in respect to disability claims. In support of
+his submission, Mr Davis cited a decision of the New South Wales Supreme
+Court, Chammas v Harwood Nominees Pty LtcPs. The Committee does not
+accept that past poor practices by trustees are sufficient reason to deny a
+complainant access to the Tribunal.
+16.5 However, in some circumstances, it may be that where a decision has
+been made by a trustee, prior to the commencement of the Superannuation
+(Resolution of Complaints) Act, in respect to the issue of who is entitled to
+the payment of a benefit, that the Tribunal should not have the jurisdiction
+to review that decision. This would arise only in circumstances where more
+than one party is claiming the benefit and where the benefit has been paid
+by the trustee. The Tribunal would retain the jurisdiction to review decisions
+in respect of complaints made by the person who has been determined by
+the trustee to be the beneficiary. The Tribunal would retain the power to
+review decisions of trustees where a benefit has not been paid or where only
+95
+William M Mercer Pty Ltd, SIS Sub No 72
+Andrew Fairley & Associates, SIS Sub No 91
+96 Andrew Fairley & Associates, op cit, covering letter, p 2.
+97 Evidence p 104, 106
+(1993) 7 ANZ Insurance Cases 61-175.
+98
+
+
+one party is claiming to be the beneficiary, that is, where there is no risk of
+a trustee being liable to pay out a benefit twice.
+Recommendation 16.1
+The Committee recommends that the Government regulate to exclude from
+the Complaints Tribunal those matters involving trustee decisions, made
+prior to the commencement of the Superannuation (Resolution of
+Complaints) Act, as to who is entitled to a benefit which has already been
+paid.
+16.6 The legislation does not allow decisions of trustees going back for
+many years to be heard by the Tribunal. The Bill provides a discretion for
+the Tribunal to consider complaints relating to decisions of trustees made
+more than 12 months prior to the complaint, but generally there is a 12
+month cut-off." The Committee supports this component of the Bill.
+Non Reviewable Decisions: Excluded Complaints
+Introduction
+16.7 It was noted above in paragraph 15.5 that complaints relating to
+certain funds and matters will be excluded from the Tribunal’s jurisdiction.
+The Government has stated that complaints relating to questions of
+disability will be prescribed by regulation to be excluded from the Tribunal's
+jurisdiction.100 There was some concern that complaints relating to life
+office personal superannuation disputes may also be excluded however, the
+ISC stated that '[t]he Government has said that the Tribunal is going to hear
+those sorts of complaints'.101
+99
+ISC, evidence p 190
+100 Attachment to Treasurer's press release of 27 May 1993, section 8, p 10
+101 Evidence p 187
+
+
+The debate surrounding the 'medical cases'
+16.8 The Committee has received many submissions that express concern
+about the proposed exclusion of complaints involving medical issues. The
+consumers' concern is that if these type of complaints are excluded, the
+complainants, in reality, will have no forum in which to have their complaint
+heard. The Committee has also received submissions concerned that
+disability claims would 'potentially overwhelm the Tribunal' so that 'the
+Tribunal's time ... would be taken up in dealing with those matters rather
+than the other sorts of matters which are envisaged to come before the
+Tribunal’102.
+Complaints involving medical issues - what are they about?
+16.9 The types of complaints that are relevant to this debate are disability
+claims.103 Within this genre of complaint three issues are normally
+disputed or potentially open to dispute, namely:
+• whether the trustees have followed the correct procedures in
+reaching a decision, rather than, for example, having their
+decision dictated by the insurer;
+• the definition of 'disability' in the trust deed; and
+• the medical evidence.104
+16.10 The Committee did not receive any statistical evidence in relation to
+the proportion of disputes in each category. However, Mr Davis advised that
+'the majority of the disputes are over procedures and whether principles of
+natural justice and so on are applied'. He further stated that disputes over
+medical evidence form the minority of disputes.105
+10~ Mr Lockery, ASF A, evidence p 89
+103 ASF A, evidence pp 89-90
+Mr Davis, evidence p 103ff
+104 ibid
+105 Davis, op cit, p 109
+
+
+Correct Procedures
+16.11 In discussing ’correct procedures', the Committee is referring to the
+principles of procedural fairness which, as it was noted earlier, trustees are
+required to observe. As noted above, the majority of disputes relate to
+procedural fairness in trustee decision making.
+16.12 In a submission from Ms Sonia Nolan, who has been involved in a
+disablement dispute with a trustee, a number of the matters that can become
+the subject of a such a dispute were identified. These included allegations
+relating to procedural fairness, namely, the lack of consideration given by a
+trustee to a member's treating doctors' reports and the disproportionate
+reliance given to a trustee's doctors' reports; as well as inconsistencies in the
+definitions of total and permanent disability in the trust deeds and the
+'group life policy'; and the prohibitive expense involved with taking action
+in a court.
+16.13 In responding to the Committee’s inquiry as to the types of
+procedures that might not be correctly followed, Mr Davis stated that
+members could be denied the opportunity to respond to an adverse medical
+report that trustees have obtained and based their decision upon. Evidence
+was also received that it is not uncommon for trustees to rely upon the
+decision of the insurer rather than making an independent decision. It was
+brought to the Committee's attention that there is expert evidence to this
+effect in a case that came before the New South Wales Industrial Court last
+year, Femance v Wreckaii101.
+16.14 It is the trustee who is required to make the decision as to whether
+or not a member is disabled under the trust deed. To rely on the decision
+of the insurer, the trustee as the decision-maker is allowing itself to be
+dictated to, which in administrative law is a ground for review. It was
+submitted that 'the Complaints Tribunal can have an important role to play
+in ensuring that the trustees have followed the correct procedures and done
+all that they should have done in deciding whether a member is permanently
+and totally disabled'.108
+106 SIS Sub No 13
+107 Unreported, Industrial Court (NSW), 21 September 1992. Davis, evidence, p 104
+ibid, Davis, p 105
+108
+
+
+Definition of 'disability' in the trust deed
+16.15 The relevance of the meaning of the term 'disability' in the trust deed
+is something that is rarely considered by a consumer until a claim is made.
+It appears that the term is not used consistently in the industry, rather the
+deed defines its meaning. Consequently, disputes as to the meaning assigned
+to the term in any particular deed are a common form of dispute between
+trustees and consumers. These disputes do not involve the issue of whether
+a person is disabled, or to what degree they are disabled, but rather involve
+the interpretation of the term used in the deed. This issue does not involve
+medical evidence. The ISC believes that this problem is something that will
+diminish significantly over time.109
+16.16 Notwithstanding the ISC's hope that this problem will diminish over
+time, the Committee has given consideration to whether this is the type of
+matter that should come before the Tribunal. The arguments that have been
+raised for the exclusion of certain matters from the Tribunal's jurisdiction do
+not seem to apply to this category of complaint.
+16.17 The ISC is also aware of the problem where the trust deed has one
+definition of disability but the insurance contract has a different one. Mr
+Duval, the Australian Government Actuary, stated that this is a 'process'
+problem. He also stated that it is quite dangerous for the fund and that it
+is an issue that the ISC is aware of in conducting audits.110
+Medical Evidence
+16.18 As noted above, no statistical data was provided to the Committee,
+however, Mr Davis stated that disputes over medical evidence comprise a
+minority of disputes.111
+16.19 It is this category of 'medical dispute' that has attracted allegations
+of potentially swamping and overworking the fledgling complaints resolution
+system. In disputes of this nature each party would come armed with its
+medical expert(s) who would give evidence in support of that party's case.
+109
+110
+Evidence p 188
+ibid
+1 Evidence p 109
+li
+
+
+That evidence would then be able to be tested by questions from the
+opposing party and from the Tribunal.
+Options
+Tribunal to examine procedural matters in medically related complaints
+16.20 The Committee notes that the regulations may exclude all of a
+complaint or only certain parts of a complaint involving 'excluded matters'.
+In this way, the Tribunal could hear the part of a complaint relating to the
+procedure of the decision (or the interpretation of ’disability,) but be
+excluded from determining issues involving medical evidence. Therefore one
+option is to permit the Tribunal to accept complaints involving medical
+issues for the purpose of ensuring that the decision had been made in
+accordance with the principles of procedural fairness. Where the Tribunal
+finds that the principles of procedural fairness have not been applied, the
+Tribunal could use its power pursuant to section 37 of the Superannuation
+(Resolution of Complaints) Act to remit the matter to the trustee for
+reconsideration in accordance with the Tribunal's directions.
+16.21 It was acknowledged by the ISC that it could examine the possibility
+of whether the Tribunal could deal with those sorts of cases where the
+mechanism has gone wrong, for example if the trustees had not actually
+considered the case, where they had just taken out disability insurance,
+passed the case on to the insurance company that rejected it, and not
+looked at the case itself. The Committee endorses the Commission's
+agreement to examine this possibility.
+16.22 Mr Duval submitted to the Committee that due process issues should
+be filtered out in the conciliation stage.112 This appears to the Committee
+to be an excellent reason to allow complaints involving medical issues to
+come within the jurisdiction of the Tribunal, at least to the stage of
+determining whether or not natural justice has been observed, with the
+power to remit the matter to the trustee with directions.
+112 Evidence p 186
+
+
+16.23 The power to remit matters to the trustees with directions exists
+under clause 37(l)(b) of the Bill. Mr Duval stated, 'that power is there for
+due process issues, where the trustees have decided that something is
+irrelevant which the Tribunal feels is very strongly relevant'113. It appears
+to the Committee that in matters where procedure is being examined, it is
+irrelevant as to whether the substantive nature of the claim is a 'medical
+issue’ or otherwise.
+Tribunal to examine all complaints involving medical issues
+16.24 Where the Tribunal is satisfied that a decision has been made by a
+trustee in accordance with the rules of natural justice, the issue arises as to
+whether the Tribunal should review the substantive issues, that is, the
+medical evidence.
+16.25 It was submitted to the Committee that the Tribunal is an equally
+good position as a court to be able to decide this sort of issue. It was further
+submitted that the Tribunal would be in a particularly good position to
+conciliate and decide these matters if the Tribunal was constituted to include
+a member with medical training.114
+16.26 It was submitted to the Committee that:
+it is incongruous that a low cost tribunal that is being established to resolve disputes
+should not be available to resolve disputes where a member is normally unemployed,
+in a weak financial position and therefore ordinarily unable to take issue with an
+adverse decision that in the end result has a dramatic effect on the lives of the people
+involved115,
+and further that disability disputes are 'the very sort of thing that this
+Tribunal ought to exist for.116 117
+113 Evidence p 186
+114 Davis, evidence p 105
+115 ibid, p 107
+116 ibid, p 109
+117 see also:
+Consumer Credit Legal Service (Vic) and Consumer Credit Legal Centre
+(NSW), SIS Sub No 53
+Australian Federation of Consumer Organisations, evidence p 204-205
+
+
+16.27 The Australian Consumers' Association submitted that it could see
+no reason why a superannuation complaints tribunal should not be able to
+hear medical cases. It noted that the trustees are not medical experts and
+this does not prevent trustees from making decisions. It submitted that the
+Tribunal could call on medical experts in the way that a court can do.118
+16.28 The concept of the Tribunal having access to a medical advice panel
+was mooted by the Committee. This idea was put to Mr Davis as an
+alternative to appointing medically qualified members to the Tribunal should
+the Tribunal have the jurisdiction to hear 'medical complaints'. Mr Davis
+regarded this as a good alternative.119
+Complaints involving medical issues to be excluded from procedural and
+substantive review
+16.29 The Bill allows cases involving these types of complaints to be
+excluded from the Tribunal's jurisdiction by way of prescribing 'excluded
+complaints' and 'excluded matters' pursuant to the regulation making
+provision. The Government has made statements indicating that 'disability
+cases' will be excluded. In the course of the Committee's inquiry, the type of
+cases that fall into the 'disability cases' category were more clearly defined.
+These sub-categories of 'disability cases’ have been outlined above. It has
+become clear to the Committee in the process of carefully examining the
+sub-categories of 'disability cases' and eliciting evidence in relation to each
+of these categories that the arguments for excluding 'disability cases' do not
+apply to all of the sub-categories.
+Alternative forums for these complainants
+16.30 The Committee explored possible alternative forums for complainants
+in 'disability cases'. When asked to address the issue of people who have
+complaints about disability having 'nowhere left to go', the ISC
+acknowledged that ’there are problems at the moment with the resolution
+of medical disputes'120.
+118 Mr R Drake, ACA, evidence p 161
+119 Davis, op cit, p 109
+Evidence p 187
+120
+
+
+16.31 The Committee asked other witnesses of possible alternative forums.
+Mr Davis submitted that an alternative forum 'does not readily come to
+mind'121 and Mr Robert Drake of the Australian Consumers' Association
+gave evidence that the current alternative of going to court is really no
+option at all.122
+Floodgates?
+16.32 Mr Davis submitted that in his experience it would not be the case
+that a majority of disputes would be of the nature of disability disputes
+although it is quite a common dispute.123 He further submitted that, in his
+experience, by allowing disability claims before the Tribunal the floodgates
+would not open.
+16.33 In response to questioning by the Committee on the issue of the
+floodgates problem, Mr Drake (ACA) submitted that the floodgates issue
+manifests as a result of problems with how complaints are handled, rather
+than as a result of delay.124
+16.34 With respect to permanent disability cases, Mr Pooley, Commissioner,
+ISC, was of the view that anybody who received an adverse decision from
+a trustee would not be satisfied and would go to the Tribunal. He submitted
+that if these cases were to be heard by the Tribunal it would be 'pretty
+swamped by all of those people and that would give it an awful lot of extra
+work'?25 No data was provided in support of these claims.
+Recommendation 16.2:
+I
+■■ W , > * \
+The Committee recommends that the Government not exclude from the
+Tribunal's jurisdiction, the parts of a complaint involving issues of
+procedural fairness and the legal interpretation of the term 'disability'
+deed.
+121
+Davis, p 109
+122 Evidence p 160
+123 Evidence p 108
+124 Evidence p 162
+Evidence p 185
+125
+
+
+CHAPTER 17:
+ISSUES: LEGAL REPRESENTATION
+AND CONSUMER ASSISTANCE
+Issues: Legal Representation and Consumer Assistance
+Legal Representation
+17.1 Mr Noel Davis submitted that a consumer need not necessarily be
+represented before the Tribunal provided there is the capacity for
+representation when necessary. He advised the Committee that part of the
+function of the Tribunal will be to assist people to present their case.126
+17.2 However, Mr Drake (ACA) stated that the legislation presents an
+anomaly as consumers are not permitted to have representation as of right
+whereas superannuation funds will, as incorporated bodies, necessarily
+require natural persons to represent them. ACA submitted that this creates
+a complete imbalance in representation.127 It noted that the Tribunal will
+have a discretion to allow complainants to be represented where the
+Tribunal considers it necessary, but submitted that the issue should be left
+at the complainant's discretion128.
+17.3 The ISC countered the views of ACA by stating that the widespread
+use of legal representation, as distinct from direct communication between
+the Tribunal and the parties to the complaint, could undermine the capacity
+of the Tribunal to achieve the objectives of fair, economical, informal and
+quick resolution of disputes. It emphasised the inquisitorial nature of the
+Tribunal which permits the Tribunal to inform itself of all the information
+that it requires to make the correct decision. The ISC submitted that with
+126 Davis, op cit, p 107
+127 Evidence p 162
+ibid
+128
+
+
+this type of process, and with the Tribunal staff giving all the necessary
+assistance to complainants, legal representation should rarely be needed and
+that when legal representation is required the Tribunal has the discretion to
+permit it.129
+17.4 The Committee has given careful consideration to the concerns
+raised by AC A. It also recognises the role of the Tribunal as an alternative
+dispute resolution forum in which the Tribunal has the mandate and the
+power to redress any imbalance of power or representation that may arise.
+Consumer Advisory Service
+An alternative to legal representation
+17.5 As a result of the submissions concerning legal representation in
+particular, the Committee was concerned to ensure that there was an
+appropriate balance between the objectives of fair, economical, informal and
+quick dispute resolution and the access to consumers of appropriate
+assistance and advice in the preparation of their matters before the
+Tribunal.
+17.6 For this reason the Committee was particularly attracted to the
+concept submitted by the Consumer Credit Legal Service (Vic) (CCLS) and
+the Consumer Credit Legal Centre (NSW) (CCLC) of an independent
+consumer advisory service, whether legal or multi-disciplinary. The
+Committee therefore explored this option with a number of the witnesses in
+order to test its potential.
+17.7 CCLS and CCLC submitted that as Australian employees are now
+compelled to become consumers of superannuation products, the
+Government should take responsibility for providing information and
+advisory services. They submitted that without such services many consumers
+will be unable to take advantage of the significant reforms in the area.131
+The Australian Pensioners' and Superannuants' Federation were similarly
+concerned that 'the value of the recent improvements in this area will be
+129
+Pooley, p 176
+SIS Sub No 53
+ibid
+130
+131
+
+
+diminished if consumers are unable to access independent specialist legal
+and information services to enable them to take advantage of the new
+supervisory and disclosure arrangements'.132
+17.8 Mr David Niven of CCLS gave evidence that the role of a consumer
+legal service reaches beyond the provision of advocacy services. He
+submitted that it involves providing consumers with 'assistance in
+understanding the nature of what their complaint is about' and 'assistance
+in [determining] whether they have a complaint that is legitimate or not'.
+The Committee was interested to learn that in the consumer credit sphere,
+the majority of cases dealt with by the CCLS are resolved by negotiation,
+with only two to three per cent of matters going to litigation.133
+17.9 Mr Niven proposed that the roles of a specific superannuation
+advisory service would include helping consumers to understand how to go
+about making their complaints; how to determine whether they have a
+legitimate complaint; and how to prepare the documents, the arguments and
+the proofs relevant to their case. The service would also play a role in the
+'macro' picture. By obtaining statistics and complaint data and by negotiating
+complaints, the service would be in a position to negotiate with industry and
+government in relation to changes in practice and policy. Mr Niven
+submitted that neither the macro nor the micro functions discussed above
+are the type of functions that should or could be dealt with by the Tribunal
+secretariat.134
+17.10 The Australian Consumers' Association commended the concept of
+a consumer legal service. It noted that in the area of consumer credit, this
+concept had worked very well and very cost-effectively.135 Similarly,
+AFCO and Mr Davis supported the idea of such a service.1
+17.11 It was noted by ASFA that the vast bulk of complaints will be dealt
+with through documents rather than through hearings. ASFA therefore sees
+it as important that a person preparing a document clearly understands what
+132
+SIS Sub No 73
+133 Evidence, Niven, p 24
+134 ibid, p 26-27
+135 Evidence p 164
+136 AFCO, evidence p 205
+Davis, evidence p 108
+
+
+it is that they need to establish, and the sorts of thresholds they have to
+reach.137
+17.12 The Committee foresees a community advisory service playing a vital
+role in providing complainants with assistance in preparing their matters for
+review.
+Funding
+17.13 In relation to funding, the CCLS and the CCLC submitted that part
+of the superannuation levy be used for the purpose of funding a community
+advisory service. Alternatively, they submitted that the Government would
+need to make other funding arrangements. The CCLS is funded for its
+consumer credit work approximately 50 per cent through the consumer
+affairs budget, which is a State Government budget, and the other 50 per
+cent through the legal aid budget, which is a State-Commonwealth mix
+pursuant to the federal-state relations in that area.138
+17.14 CCLS made submissions in respect to estimates of the funding that
+would be required to get a national coverage via centres in Melbourne and
+Sydney. It estimated that the costs would be approximately $200 000 per
+annum for a centre in Melbourne and a further $200 000 per annum for a
+centre in Sydney.139 In the Committee's view, this would be a cost
+effective arrangement.
+17.15 The Committee examined funding options, namely, a percentage of
+the supervisory levy on funds; unclaimed monies; and the surplus of the
+funding of the ISC. The Committee is aware that funding by way of these
+options may result in a heavier burden on some funds and consumers than
+on others. In addition, Mr Davis submitted that money should not be taken
+from the people for whom guarantee charge contributions have been
+made.140
+137
+138
+139
+140
+Evidence, p 93
+Niven, evidence p 23
+ibid, p 27
+Evidence, p 107
+
+
+Tribunal Secretariat Assistance to Complainants
+17.16 In the context of the issue of adequate advice being available to
+consumers, the Committee heard submissions on clause 16 of the Bill which
+requires the Tribunal to help complainants to make complaints.141
+What type of assistance will be provided?
+17.17 AFCO raised concerns that the role of the secretariat of the ISC was
+unclear, particularly in relation to the means by which the obligation of the
+Tribunal to assist complainants would be fulfilled. Mr Thomas of the ISC
+provided information that the requirement for assistance relates to 'to
+helping them [complainants] express their complaint and putting it in
+writing'.142 This would accord with Mr Niven’s concerns that it would be
+inappropriate for the Tribunal to assist complainants with the detailed
+preparation of their cases as this could create an appearance of bias, that
+is, the Tribunal could be seen to have a vested interest in the successful
+outcome for an applicant whom the Tribunal had assisted.143
+Funding
+17.18 With respect to the these functions of the Tribunal secretariat and
+the funding of the secretariat, the ISC recognises that 'it will be a very
+important part of the process and that adequate resources will have to be
+allocated to that function'144.
+17.19 The Committee notes that the funding of an independent advisory
+service has additional advantages. First, it would relieve the ISC secretariat
+of some of the more demanding consumer inquiries; and second, it would
+provide consumers with a service that is not only independent but also seen
+to be independent from the ISC. Some consumers may feel reluctant to
+show their hand to an advisory service operated by the watchdog body.
+141
+Clause 16 of the Bill
+142 Evidence, Thomas, p 213
+143 Evidence, Niven, p 29
+Evidence, Mr Thomas, p 213
+144
+
+
+i fi* 1 ■ juifinUvc
+estui . i ntTir ',)! in
+hv Ol
+Canjilrtmt:;
+rrr^utemtjfit
+III |‘ V'^II'
+Keen.‘ndatiiin 1" J
+
+
+CHAPTER 18:
+OTHER CONSUMER ISSUES
+Other Consumer Issues
+Oral Submissions
+18.1 Clause 34 provides that the Tribunal must conduct review meetings
+without oral submissions from the parties. The Committee received
+submissions from the Law Council and from William M Mercer raising the
+concern that this provision offended or infringed the principles of natural
+justice.
+18.2 The Committee understands that the ISC has considered these views
+and has received advice that the rules of natural justice will not be breached
+as a party has a right to make written submissions and the Tribunal has a
+discretion to allow oral representations to be made where the Tribunal
+thinks it is necessary. The Committee received a submission145 drawing its
+attention to the decisions of Heatley v Tasmanian Racing and Gaming
+Commission146 and Daguio v Minister for Immigration and Ethnic
+Affairs,147 It was held in these decisions that procedural fairness does not
+necessarily require hearings to be oral.
+Appeals to the Federal Court
+Grounds of appeal
+18.3 Parties to a dispute before the Tribunal have the right to appeal to
+the Federal Court. Appeals will be on a on a question of law only.148
+The Committee received submissions proposing the right to a de novo
+145
+Andrew Fairley and Associates, op cit, SIS Sub No 91
+146 (1977) CLR 487
+147 (1986) 71 ALR 173
+148 Clause 46 of the Bill
+Evidence, Pooley, p 176
+
+
+review149 at the level of the Federal Court. The Bill as it stands accords
+with the practice of the review of administrative decisions on the facts being
+limited to the Administrative Appeals Tribunal with appeals on questions of
+law only being heard by the Federal Court.
+Actions in the Federal Court and representative actions
+18.4 The Bill does not provide for de novo review at the level of the
+Federal Court, however it may be possible to commence some actions
+against trustees in the Federal Court under the SIS legislation. The SIS
+legislation does not expressly confer jurisdiction on the Federal Court but
+clause 10 of the Bill defines 'Court' to mean the Federal Court of Australia
+or the Supreme Court of a State or Territory. In defining 'Court' in this
+way, it could be said that the legislation impliedly confers jurisdiction on the
+Federal Court.
+18.5 The Bill only allows beneficiaries to bring certain actions against
+trustees in the Federal Court. These are for matters of misleading conduct
+(clause 142), unfair dealing on issue or redemption of a superannuation
+interest (clause 150), misleading conduct in relation to a public offer entity
+(clause 156) and contravention of provisions taken to be included in the
+governing rules of a public offer entity (clause 166). In these specific cases,
+the Committee notes that it is arguable that a representative proceeding
+could be brought in the Federal Court pursuant to Part IV A of the
+Federal Court of Australia Act 1976.
+Costs of appeals
+18.6 The Australian Consumers' Association raised the problem of how
+a consumer could afford to pay for an appeal to the Federal Court. It was
+submitted it should either be funded by the ISC, as it is the Tribunal's
+decision that is the subject of the appeal, or that the ISC should act as a
+respondent in the appeal. The Australian Consumers' Association would not
+be in a position to fund test cases.150
+149
+A fresh hearing on the facts and law.
+150 Evidence p 164
+
+
+Standard of Proof
+Clause 37(2) provides:
+The Tribunal must affirm the decision if it is satisfied that the decision,
+in its operation in relation to the complainant, was fair and reasonable
+in all the circumstances.
+18.7 The Committee is satisfied that this provision is adequately drafted
+to take account of the concerns raised that in any given set of circumstances
+there may be several reasonable but different decisions available to a
+trustee, and that the necessary choice of one of these reasonable options by
+a trustee should not be grounds for varying or setting aside that decision.
+18.8 The Committee is concerned that the standard of satisfaction
+required in clause 37(2) be explicitly stated in order to avoid unnecessary
+litigation on the point. It has been agreed by all who have addressed the
+issue before the Committee that they understand the standard of proof to
+be on the balance of probabilities'.
+Recommendation 18.1:
+The Committee recommends the Bill be amended to specify that the degree
+of satisfaction required for the Tribunal to affirm a decision pursuant to
+clause 37(2) of the Bill is that of reasonable satisfaction, that is, satisfaction
+on the balance of probabilities.
+Appointment of Members
+18.9 Submissions were received by the Committee proposing that one
+Tribunal member be appointed by the Minister of Consumer Affairs,
+however the Committee did not receive any representations from the
+Minister in relation to this proposal.
+151
+AFCO, op cit,
+CCLS, CCLC, op cit.
+
+
+18.10 The Bill provides for the appointment of a Chairperson, by the
+Governor General, and not fewer than five nor more than eight other
+members by the Minister 152 administering the Act.153 Clause 8(4) of
+the Bill provides that two of the Tribunal members are to be appointed after
+the Minister administering the legisation has consulted with the Minister for
+Consumer Affairs about their appointment.
+life Insurance Complaints Board
+18.11 The life insurance industry's revamped inquiries and complaints
+service came into operation in May 1991, following extensive consultation
+with industry, government and consumer groups. This body deals with
+disputes between life offices and trustees where there is a contractual
+arrangement between the two. Generally, it does not deal with disputes
+between fund members and trustees because there is no contractual
+arrangement between the fund member and the life office. However, it
+resolves disputes, involving personal superannuation, between fund members
+and life offices because there is a contractual relationship between the
+policyholder and the life office.
+18.12 The Life Insurance Federation of Australia has submitted that the
+industry's system, that is, the Life Insurance Complaints Board, should
+continue to deal with complaints about personal superannuation.154 As
+stated in paragraph 16.7, the Superannuation Complaints Tribunal will also
+deal with personal superannuation complaints.
+Notification of a Right of Review
+18.13 In the course of its inquiry, it appeared to the Committee that a
+large number of consumers were unaware of the existence of the Life
+Insurance Complaints Board and of their right to have adverse decisions
+reviewed155.
+152
+Clause 7 of the Bill
+153 Section 19A, Acts Interpretation Act 1901
+SIS Sub No 56
+Evidence, p 187
+155
+
+
+18.14 The Committee recognises that although clause 96 of the SIS Bill
+does not prescribe a precise mechanism for trustee internal review, the issue
+of a beneficiary being notified of the existence of the Tribunal, and their
+right to have an adverse decision reviewed, will need to be addressed by the
+ISC. It may be appropriate for the trustee to advise the beneficiary of the
+right of review at the time of notification of any adverse decision.
+
+
+
+
+MINORITY REPORT BY GOVERNMENT
+MEMBERS
+- Senators Childs, Evans and West - on Clause 64
+Prohibition on Superannuation Funds Acquiring Assets
+from Members or Relatives
+Minority Report by Government Members
+We strongly oppose the Committee's recommendation to provide exemptions
+to clause 64 involving property used wholly and exclusively in the business
+of a member together with certain strictly defined marketable securities and
+associated changes to alter the sole purpose test provision (clause 60).
+Clause 64 was introduced because the Government has been concerned for
+some time about abuses of the purpose of superannuation tax concessions.
+Such abuses include the selling of members private assets, for example cars,
+jewellery and boats to their superannuation fund in order to obtain cash.
+These transactions are clearly inconsistent with the purpose of providing
+concessional tax treatment to superannuation funds to encourage members
+to save for their retirement.
+The need for clause 64 was also highlighted by evidence given to the
+Committee by the Insurance and Superannuation Commissioner, Mr George
+Pooley, who claimed that there are quite a number of organisations who are
+giving advice on how funds can manipulate assets in a way that clause 64 is
+designed to prevent.
+Certain written submissions to the Committee also supported the
+introduction of clause 64. The Australian Superannuation Funds
+Association (ASFA) claimed that clause 64 should remain in its present
+from. According to ASFA, to attempt to distinguish between what assets
+are acceptable and what assets are not would be a very complicated task
+and may open the way for further abuse.
+Therefore, any relaxation to the blanket prohibition in its present form
+would lead to both administrative complexity, enforcement difficulties and
+even greater abuse of the tax concessions.
+
+
+Providing exceptions to clause 64 will result in inequity under the
+preservation rule, which for most Australians bars access to superannuation
+benefits before age 55, as some people will be in a position to sell assets to
+their superannuation fund whilst other people will not. This situation is
+clearly inconsistent with the current aim of making superannuation available
+to all on an equal basis.
+The exemptions recommended in the majority report on clause 64 may also
+lead to administrative complexity. The ASFA submission highlighted this
+point by claiming that attempting to draw a fine line between what is and
+what is not an unacceptable investment is a complicated task that will give
+rise to considerable administrative difficulties.
+The Committee has also recommended that the sole purpose test be
+amended to create additional powers designed to complement the exemption
+under clause 64, thereby giving the ISC greater scope to regulate against
+avoidance activities. However, this represents a move away from the
+traditional use of the sole purpose test, in that it will specifically relate to a
+special provision concerning business viability rather than the core and
+ancillary purposes of superannuation funds which focus on the generation
+of income in retirement.
+Further evidence on this point was provided by Mr Pooley who claimed that
+the ISC had originally examined the possibility of combating the type of
+abuse that clause 64 is designed to prevent by modifying the sole purpose
+test but had found this approach to be unworkable.
+Providing exemptions to clause 64 is also against the principle of
+diversification in investing superannuation funds. Many of the purchases by
+the smaller funds, which clause 64 addresses, involve assets which represent
+a substantial proportion of the total assets of the fund. For example, if a
+superannuation fund acquires a property from a member and the property
+then falls substantially in value, the member will have received little or no
+benefit from their superannuation fund, whereas investing in small parcels
+of assets can minimise the risk exposure of a fund.
+Recommendation: ——
+We recommend that the recommendation proposed in the majority report
+(Recommendation 4,1) relating to the amendment to clause 64 and the sole
+purpose test not be agreed to.
+
+
+APPENDIX A:
+LIST OF COMMITTEE REPORTS
+List of Committee Reports
+Super System Survey- A Background Paper on Retirement Income
+Arrangements in Twenty-one Countries (December 1991)
+Papers relating to the Byrnwood Ltd, WA Superannuation Scheme
+(March 1992)
+Interim Report on Fees, Charges and Commissions in the Life
+Insurance Industry (June 1992)
+First Report of the Senate Select Committee on Superannuation -
+Safeguarding Super - the Regulation of Superannuation (June 1992)
+Second Report of the Senate Select Committee on Superannuation -
+Super Guarantee Bills (June 1992)
+Super Charges - An Issues Paper on Fees, Commissions, Charges
+and Disclosure in the Superannuation Industry (August 1992)
+Third Report of the Senate Select Committee on Superannuation -
+Super and the Financial System (October 1992)
+Proceedings of the Super Consumer Seminar, 4 November 1992 (4
+November 1992)
+
+
+Fourth Report of the Senate Select Committee on Superannuation -
+Super - Fiscal and Social Links (December 1992)
+Fifth Report of the Senate Select Committee on Superannuation -
+Super Supervisory Levy (May 1993)
+Sixth Report of the Senate Select Committee on Superannuation -
+Super - Fees, Charges and Commissions (June 1993)
+Seventh Report of the Senate Select Committee on Superannuation
+- Super Inquiry Overview (June 1993)
+Eighth Report of the Senate Select Committee on Superannuation -
+Inquiry into the Queensland Professional Officers Association
+Superannuation Fund (August 1993)
+Ninth Report of the Senate Select Committee on Superannuation -
+Super Supervision Bills (October 1993)
+
+
+APPENDIX B:
+LIST OF WRITTEN SUBMISSIONS
+List of Written Submissions
+No 1 Howard V Smith & Associates Pty Ltd
+No 2 Mr Jack Morris
+No 3 Dr T D O’Neill
+No 4 Superannuation Trust of Australia (STA)
+No 5 Federation of Industrial, Manufacturing and Engineering
+Employees
+No 6 Hunt & Hunt, Lawyers
+No 7 Mr Alan W Mills
+No 8 Sun Super
+No 9 Self Managed Retirement Systems Pty Ltd
+No 10 Permanent Trustee Company Ltd
+No 11 Freedom of Choice Fund Management Ltd
+No 12 Supermaster Investments Pty Ltd
+No 13 Ms Sonia A Nolan
+No 14 Mr Noel Davis (Clayton Utz, Solicitors)
+No 15 Mr HE Ellis
+
+
+No 16 Mr John D Lindsay
+No 17 Mr H F Oostergo
+No 18 Mr Peter J Griffiths
+No 19 Phillips & Wilkins, Solicitors
+No 20 Connelly Temple Ltd
+No 21 Mackay and Allen
+No 22 Geoff & Margaret Bolt
+No 23 Chartered Pacific Superannuation Ltd
+No 24 Mr Ray Kingston
+No 25 Noble Lowndes Ltd
+No 26 National Australia Bank (Melbourne)
+No 27 Mr Andrew Skinner
+No 28 Mallesons Stephen Jaques
+No 29 Ian G Anderson & Associates
+No 30 Mr Clive Butler
+No 31 Ms Natalie Gallery
+No 32 Mr John Justin Cleeland
+No 33 Trustee Companies Association
+No 34 Mr John Whittimore-Hull
+No 35 Gells, Solicitors & Attorneys
+No 36 Bankers Trust Australia
+
+
+No 37
+No 38
+No 39
+No 40
+No 41
+No 42
+No 43
+No 44
+No 45
+No 46
+No 47
+No 48
+No 49
+No 50
+No 51
+No 52
+No 53
+No 54
+No 55
+No 56
+No 57
+Investment Funds Association
+Mr Howard Ellis
+Priestley & Morris
+John R Fraser Pty Ltd
+Mr Barry McLean
+Greenwood Challoner
+Australian Federation of Consumer Organisations
+Mr Wayne Vogt
+Australian Consumers' Association
+Master Builders Australia
+Compass Financial Services
+Arthur Andersen
+Council of Small Business Organisations of Australia (COSBOA)
+Edwards Karwacki Smith Pty Ltd
+Uni super
+Irwin & Richards
+Consumer Credit Legal Service
+Mr Howard Ellis
+TRANSFERRED TO SIS-5
+Life Insurance Federation of Australia (LIFA)
+Jacques Martin Industry
+
+
+No 58 Ms Edwina Blahout
+No 59 Shepard Webster & O'Neill
+No 60 Mr Graham & Mrs Patricia Strauss
+No 61 Mr E H Shallcross
+No 62 Gilshenan & Luton
+No 63 Madison Securities
+No 64 Dr G J Acton
+No 65 County Natwest
+No 66 Office of the Cabinet, Queensland
+No 67 Supa-Funds Management Pty Ltd
+No 68 Association of Superannuation Funds of Australia (ASFA)
+No 69 The Cabinet Office, New South Wales
+No 70 August Financial Management Ltd
+No 71 Mr A Palombi
+No 72 William M Mercer
+No 73 Australian Pensioners' and Superannuants' Federation
+No 74 Allanfield Financial Services
+No 75 Monitor Money
+No 76 Australian Association of Permanent Building Societies (AAPBS)
+No 77 IN CAMERA
+No 78 ASCPA/ICAA Joint Superannuation Committee
+
+
+No 79 Sly & Weigall
+No 80 Mallesons Stephen Jaques
+No 81 Blake Dawson Waldron
+No 82 Australian Institute of Valuers and Land Economists
+No 83 Freehill Hollingdale & Page
+No 84 Quaife Holdings Pty Ltd
+No 85 Macquarie Investment Management Ltd
+No 86 MLC Investments
+No 87 Mark Stoney
+No 88 Windmill Educational Supplies
+No 89 Potter Warburg Asset Management
+No 90 Joint Submission from NSW, Qld, WA, Tas and NT Governments
+No 91 Andrew Fairley & Associates
+No 92 Advance Bank Australia Limited
+No 93 Mr Leigh Fitton
+No 94 Privacy Commissioner
+
+
+
+
+APPENDIX C:
+LIST OF WITNESSES AT PUBLIC
+HEARINGS
+List of Witnesses at Public Hearings
+MELBOURNE, 22 SEPTEMBER 1993
+Mr Paul Bean, Manager, Life Insurance Complaints Board
+Mr Don Blyth, National Director, Trustee Companies Association
+of Australia
+Mr Darren Davis, Assistant Manager, Operations, Life Insurance
+Federation of Australia
+Mr Peter Edmiston, State Director for Western Australia, Jacques
+Martin Industry
+Mr John Fraser, Director, John R Fraser Pty Ltd
+Mr David Goodear, Fund Manager and Adviser, Jacques Martin
+Industry
+Mr David Gurney, Sales and Marketing Executive, Custodian
+Services Division, National Australia Bank Ltd
+Ms Anne Maree Howley, Legal Consultant, Noble Lowndes
+Superannuation Consultants Ltd
+Mr Torsten Krebs, Corporate Lawyer, National Australia Bank
+Mr Ian Kincaid, Director, Supermaster Investments Pty Ltd
+
+
+Mr John Maroney, Convenor Superannuation Committee, Life
+Insurance Federation of Australia
+Mr Denis Mead, Principal, William M Mercer Pty Ltd
+Mr Paul Murphy, Marketing Manager, County Natwest Australian
+Management Ltd
+Mr Roger Nairn, General Manager, Custodian Services Division,
+National Australia Bank Ltd
+Mr Mark Nipper, Boronia
+Mr David Niven, Coordinator, Consumer Credit Legal Service
+(Victoria)
+Mrs Sonia Nolan, Warrnambool
+Mr Raymond Stevens, Director, William M Mercer Pty Ltd
+Mr Kenneth Robinson, Superannuation Committee, Life Insurance
+Federation of Australia
+Mr Robert Rowett, Company Secretary, County Natwest Australia
+Investment Management Ltd
+Mr Kelvin Taylor, Director, Noble Lowndes Superannuation
+Consultants Ltd
+Mr John Treloar, Client Relationship Executive, Custodian
+Services Division, National Australia Bank
+Ms Marita Walls, Superannuation Committee Solicitor, Life
+Insurance Federation of Australia
+Mr Peter Weeks, Chirnside Park
+
+
+SYDNEY, 23 SEPTEMBER 1993
+Mr Ray Connelly, Joint Managing Director, Connelly Temple Ltd
+Mr Robert Coombe, Senior Legal Manager, Bankers Trust
+Mr David Davis, Managing Director, Permanent Trustee Co Ltd
+Mr Robert Drake, Policy Officer, Australian Consumers
+Association
+Mr Graeme Fowler, Product Development Manager, Funds
+Management, Bankers Trust
+Mr Carlisle Gorsuch, Member, Joint Superannuation Committee,
+Australian Society of Certified Practising Accountants, Institute of
+Chartered Accountants
+Mr Peter Hutley, Executive Director, Investment Funds
+Association of Australia
+Mr Kenneth Lockery, Deputy Federal President, Technical and
+Regulations, Association of Superannuation Funds of Australia
+Mr Robert Mansfield, Chairman, Joint Superannuation
+Committee, Australian Society of Certified Practising Accountants,
+Institute of Chartered Accountants
+Mr Anthony Marks, Deputy Chairman, Retirement Income
+Committee, Investment Funds Association of Australia
+Mr David McMahon, Director Policy, New South Wales
+Department of Industrial Relations, Employment, Training and
+Further Education
+Mr John Morgan, Member of Superannuation Committee, Law
+Council of Australia
+
+
+Mr Robert Richardson, Director, Greenwood Challoner Services
+Pty Ltd
+Mr Brian Scullin, Executive Director, Association oi
+Superannuation Funds of Australia
+Mr David Shirlow, Director of Policy Research, Association ol
+Superannuation Funds of Australia
+Mr Andrew Skinner, Chartered Accountant, Erskine Park
+Ms Elisabeth Slater, Deputy Chair of Superannuation Committee.
+Superannuation Committee of the Law Council of Australia
+CANBERRA, 24 SEPTEMBER 1993
+Mr Robert Bastian, Chief Executive, Council of Small Business
+Organisations of Australia
+Mr Des Breen, Executive Manager, Council of Small Business
+Organisations of Australia
+Mr Donald Duval, Australian Government Actuary, Insurance and
+Superannuation Commission
+Ms Gail Freeman, President's Representative, Council of Small
+Business Organisations of Australia
+Ms Jennifer Mack, Director, Australian Federation of Consumer
+Organisations
+Mr Denis Nelthorpe, Executive Member, Australian Federation ol
+Consumer Organisations
+
+
+Mr Frederick Pooley, Commissioner, Insurance and
+Superannuation Commission
+Senator Nick Sherry, Parliamentary Secretary to the Minister for
+Primary Industries and Energy
+Mr Trevor Thomas, Director, SIS Implementation Team,
+Insurance and Superannuation Commission
+
+
+
+
+APPENDIX D:
+DRAFT AMENDMENT TO CLAUSE 64 PREPARED
+FOR SENATOR WATSON
+Draft Amendment to Clause 64 Prepared for Senator Watson
+1993
+THE PARLIAMENT OF THE COMMONWEALTH OF AUSTRALIA
+THE SENATE
+SUPERANNUATION INDUSTRY (SUPERVISION) BILL 1993
+(Amendments to be moved by Senator Watson)
+This version is based on the clause numbers of the Bill that was introduced
+into the House of Representatives in the Autumn Sittings. The clauses were
+re-numbered in the third reading print
+Clause 62, page 49, subclause (1), line 37, insert "(other than a listed security)" after "an
+asset".
+Clause 62, page 50, paragraph (2)(a), line 8, insert "(other than a listed security)" after
+"an asset".
+Clause 62, page 50, subclause (4), before the definition of "relative" insert the following
+definition:
+"‘listed security’ means:
+(a) a share; or
+(b) a unit; or
+(c) a bond or debenture; or
+(d) a right or option; or
+(e) any other security;
+listed for quotation in the official list of a stock exchange in Australia;".
+
+
+
+
+APPENDIX E:
+FREEHILL’S advice on public offer
+transitional provisions
+FUNDS
+Freehiirs Advice on Public Offer Funds
+Transitional Provisions
+F R E E H I L L_
+Hollingdale
+&C P A G E
+Our Ref: JHG:MV:39G
+I October IV93
+Mr Peter Hutlev,
+Executive Director
+love stmentr unds Association
+Lnvcl J4 /
+J41George Street
+SYDNEY NSW 2000
+/
+Dear Peter
+Superannuation Industry (Supervision) Bill 1993
+We hive been * sited to consider proposals by which the Commonwealth Government might
+legislate to prevent the commercially undesirable consequences of section 369 of the
+Superannuation Industry (Supervision) Bill 1993 (“SIS"). This section has the effect of
+preventing a trust to which the section applies from issuing further superannuation interests
+except In limited circumstance* on or after 1 July 1994, if neither the trustee or the
+management company ha* resigned with effect on or before 30 June 1994.
+The recommendation* of the Law Reform Commission on collective investment* have now
+emerged and under these proposal*, it u suggested that if the manager and the trustee cannot
+agree as to which of them is us become the scheme operator within 18 month*, the manager
+may request to be appointed the scheme operator without the consent of the trustee.
+In response ro the suggestion that the legislation should force the trustee or the manager to
+retire, it has been suggested on behalf of the Commonwealth that the Commonwealth does
+not have the requisite legislative power under section 31 (xx) of the Confttitution
+(Corporation* Power) or under section 31(*xxi) (Acquisition of Property on Just Terms).
+Ac bo section 5)(xxxi), we do nut believe that requiring a trustee to resign constitute* an
+acquisition of property by the Commonwealth of a kind which requires "just terms" within
+the meaning of section St(xxxi). We do not regard the argument that a Commonwealth law
+which deprives a person of a nght which is not acquired by the Commonwealth as being
+unconstitutional because of the operation of section 5!(xxxi) ax having any application to
+the present circuowrances because of the solution suggested below.
+A* far as section 51 (xx) of the Constitution Ls concerned, it It well settled that the words
+"with respect to’ in section 51 of the Constitution are words of wide Import and should be
+construed with all the generality whlc^thc admit.
+MIC CtKTfttl MAftTIN fl At'.l
+IVUNLT COUTH *AUU 10W
+TSUfHOHS ((Hi Ji< fteiO IWT. (41 1] JJJ r«io I'AkSJUur mj| JU 44 la (01| J)i i ]74
+ftux AAI11IIJ fix Ul lYDNIr
+IMI» II.IIUI HKt.af lu.tu. n«A«>nir
+
+
+Page 120
+investment Fund* Association
+1 October 1993
+Page 2
+_F * II L II I t I.
+II O I. I I K (i l> * I. K
+fc P * c t
+Section K)ft9(l)(n) of tie Corporation* Law provide* that a deed (an approved deed
+cMahlixhing prescribed interests) shall contain covenants tu the effect of the covenant*
+prescribed by the regulation*. Regulation 7.l2.15(fi)fg) require* that a trust deed Include a
+covenant chat the management company will retire from office at the request of the trustee
+in any circumstance specified in sub-regulation (10). Sub-regulation (10)(f) provide* that
+one of the prescribed circumstances is "if the trustee reasonably believes that it it in the best
+interests of the holders of the prescribed interests for the management company to retire",
+In the context of part 7.12 -division 3 of the Corporation* Law, we believe that the
+mandatory inclusion in a crust deed of a provision such as that referred to above It within
+the legi.dative competence of the Commonwealth under section 51(jck) of the Constitution,
+ft is unlikely that the Commonwealth would assert otherwise.
+On that basis, it seems to us not unreasonable, that further regulation* could be passed
+incorporating additional covenant* Into trust deeds in order tn deal with the otherwise
+unacceptable commercial impost that will arise under the Government's present proposal* if
+neither the trustee nor the management company is prepared to stand down.
+Qlven that moat investors in publicly offered trusts invest because of the perceived vlrills of
+the management company and not because of the identity of the trustee, it seems not
+unreasonable that the onus should be reversed so that covenants are included to the effect
+that;
+(a) if neither the management company nor the trustee ha* resigned to take effect on or
+before 30 June 1994, the management company may request the trustee to retire
+from office if the management company believes that it I* In the he*t interests of the
+holders of interest* in (he (nut that further interests should be able to be issued after
+30 June 1994;
+(b) the trustee must resign if requested to do so by the management company purauam
+to (a) above; and
+(c) the tnistee cannot remove the management company for the same reason as that
+referred to in (a) above.
+f>IH3 YDC/V9 527 JOQI.l
+
+
+APPENDIX F:
+ATTORNEY GENERAL'S DEPARTMENT OPINION ON PUBLIC
+OFFER FUNDS TRANSITIONAL PROVISIONS
+Attorney Generals Department Opinion on Public Offer Funds Transitional
+Provisions „ _
+Pago 121
+Chief General Counsel
+OGC93467892
+21 October 1993
+MrDB Duval
+Australian Government Actuary
+POBox 178
+BELCONNEN ACT 2616
+Dear Mr Duval
+SUPERANNUATION INDUSTRY (SUPERVISION) BILL 1993 - TRANSITIONAL
+PROVISIONS
+I refer to your letter dated 18 October 1993 seeldM advice oa I proposal by solicitors
+acting for fund management companies, Freehill Hofllngdale and Page, relating to the
+transitional provisions of this Bill
+Background
+4. Management companies have obtained the FreehiHi advice which argues that
+requiring a trustee to resign Is not an ‘acquisition of property' within the meaning of
+section 51(xxxi). It suggests that the substance of the original approach could be validly
+achieved by provisions inserting Into the relevant cnist deeds covenants that would allow
+the management company to force the trustee to resign. The advice cites examples of
+C*"t» O'r.f* C'tv'L act noo ■ e»> >50 W't • f,j (OH 5*2'
+rtr s e*v9f(l>. 5>OsE>. wf'.iC-.'SsE S* SlASf ^*Th. a C f la Cl *01**’', DAXWiN, TOv.NSVl.lE
+
+
+provisions of the existing Corporations Law and Regulations which have the effect of
+deeming various covenants to be included in deeds.
+5. It seems to me, with respect, that the FreehiJis advice does not provide a solution.
+6. The Freehills advice outlines provisions for resignation by a fund trustee bat (rather
+curiously) omits to provide expressly for the fund assets to vest in the management
+company. Presumably Frethifis envisage that such a vesting will occur either (a) by direct
+force of the Commonwealth law, or (b) pursuant to a transfer authorized or required by or
+under the Commonwealth law, or (c) pursuant to action under the terms of the relevant
+trust deed relating to a vacancy in the office of trustee (though I understand that such deeds
+do not, at least usually, permit vesting in management companies), or (d) under the genera]
+law concerning a vacancy in the office of trustee,
+7. In each of these alternatives, the Commonwealth law providing for the resignation of
+the trustee could be characterised as a law ‘with respect to‘ the ‘acquisition of property* -
+ie the management company's acquisition, by force of Commonwealth law or otherwise,
+of the legal title from the retiring fund trustee. (I mention that section 51(xxxi) applies
+even where (he proprietary rights are obtained by some person other than the
+Commonwealth: see Australian Tape Manufacturers Association Ltd v The
+Commonwealth (1997) 112 ALR 53, at 66 • 67 and 78.)
+8. If the law is characterised as one ‘with respect to' the ‘acquisition of property', then it
+must provide ‘just terms’. There is some risk that this might be held to require
+compensation to the former fund trustee in respect of its involuntary loss resulting directly
+from the operation of the Commonwealth law • in particular, the loss of its income aa
+trustee.
+9. There is a contrary argument that the mere transfer of the legal title is not an
+‘acquisition of property’ of a kind to which section 51(xxxi) applies, and that them Is also
+no 'acquisition of property' involved in the deprivation of die fund trustee of its rights to
+earn fees for performing trustee functions (eg. R v Ludeke; Expane Australian Building
+Construction Employees and Builders Labourers' Federation (1985) 158 CLR 636 at 653).
+This raises issues on which two relevant High Court decisions are still awaited. (One is an
+appeal, argued on 9*10 March 1993, from the decision in PeverlU v Health Insurance
+Commission (1991) 104 ALR 449. The other is Mutual Pools <4 Staff Pty Ltd v The
+Commonwealth, argued on 10 February 1993.)
+10. Pending those decisions it is difficult to advise with any assurance. However,
+although my own inclination is to think that the Commonwealth law vesting the fund
+assets in the management company would not require 'just terms’ for the retiring fund
+trustee, the risk of invalidity if 'just tcnnj’ axe not provided cannot be safely disregarded.
+Yours sincerely
+Advice
+Chief General Counsel
+21 October 1992
+Superannuation InduiQ-y (SupcniiJatO BUI 1992 • TrioUHoflaJ Prcvulom
+2
+
+
+APPENDIX G:
+AIMGDRAFT PRACTICE NOTE ON SOFT DOLLAR DEALINGS
+A1MG Draft Practice Note on Soft Dollar Dealings
+AUSTRALIAN INVESTMENT MANAGERS’ GROUP
+PRACTICE NOTE
+SOFT DOLLAR DEALING
+INTRODUCTION
+This paper seeks to expand on the subject of "soft dollar" commission which is mentioned
+under Dealing Guidelines on page 4 of the AiMG Code of Conduct and should be read in
+conjunction with the Commentary attached. This paper is not intended to be a set of rules,
+but rather a statement of principles which should be adhered to by the members of AIMG.
+These principles provide a self-regulatory framework to give a greater degree of industry
+certainty with respect to soft dollar dealing and are consistent with the regulatory environment
+in force in the US and UK.
+PRINCIPLES
+An Investment Manager may enter into a soft dollar arrangement on behalf of a client
+providing:
+1. The goods or services acquired are of demonstrable benefit to the client (see Appendix
+attached).
+2. The cost of dealing will not disadvantage the client compared with similar dealing
+otherwise than under the soft dollar arrangement,
+3. The broker acting under the soft dollar arrangement does not act as principal in the
+transaction.
+4. There are no cash or money rebates involved which could be constituted to be a secret
+commission.
+5. The total commitment made on behalf of all clients of the Investment Manager for
+such arrangements does not jeopardise currently or prospectively the Manager's ability
+to maintain adequate financial resources. This will reflect the nature of the Manager's
+business and reasonable changes in market circumstances which could be expected.
+6. There is adequate disclosure to all clients of the Manager's policy relating to soft
+dollar arrangements.
+Where an investment manager participates in soft dollar management, as well as complying
+with the principles outlined above they should be in a position to furnish to any client, on
+request, the approximate nature and extent of soft dollar transactions entered into on their
+behalf.
+DATA*SOFT DEA
+JULY 1993
+
+
+appendix
+Typical Products and Services Purchased with Soft Dollars
+* Performance Measurement
+* Third Party Research
+* Fundamental Data-Bases
+* Technical Analysis Software
+* Portfolio Modelling Software
+* Stock Quotation Systems
+* Political or Economic Analysis
+DATA* SOFT DEA
+JULY 1993
+
+
+APPENDIX H:
+ATTORNEY GENERAL’S DEPARTMENT ADVICE ON
+APPLICATION OF CORPORATIONS POWER
+Attorney Generals Department Advice on Application
+of Corporations Powers
+Chief General Couns
+OGC93455418
+5 May 1993
+Mr D B Duval
+Australian Government Actuary
+PO Box 178
+CANBERRA ACT 2601
+Dear Mr Duval
+CONSTITUTIONALLY PROTECTED SUPERANNUATION FUNDS
+I refer to your memorandum dated 22 April 1993 concerning the application of the
+proposed new superannuation industry supervision legislation to funds which are prote:
+by s.l 14 of the Constitution from taxation in relation to part of their income.
+Background
+2. The proposed new supervisory regime will grant ‘complying fund' status to a fund
+for the purposes of tax laws if the fund satisfies one of the following conditions:
+(a) its trustee is a trading or financial corporation within the meaning of s.51(x.\
+the Constitution; or
+(b) its rules provide that its sole or dominant purpose is the provision of old-age
+pensions.
+It is intended that funds which meet these conditions will be regulated by Commonweal
+legislation under the corporations and pensions powers.
+Advice
+3. Your questions, and my answers to them, are set out below. For convenience, I ha
+dealt with your third question first.
+(i) Would a corporation whose sole function war to be trustee of one or more
+superannuation funds be classified as a trading or financial corporation with
+the meaning of s.51(xx) of the Constitution ?
+4. Yes. In my view, the investment activities of superannuation funds, together with
+their handling of contributions and payment of pensions, constitute ‘financial’ activities
+RoDt'i Off>ee». Nihonai Circuit. aC7 2600 • Telephone 061 250 60'6 • 106) 250
+OFFICES IN CANBERRA. SYDNEY, MELBOURNE. BRISBANE, PERTH, ADELAIDE hCBaRT. DaRwin. TOWNS’
+
+
+sufficient to enable a corporate trustee to be characterised as a ‘financial corporation' for
+constitutional purposes (.see State Superannuation Board v Trade Practices Commission
+(1982) 152 CLR 282).
+(ii) If a fund trustee satisfies condition (a) above, is the trustee necessarily subject
+to Commonwealth regulation under the corporations power7
+5. Subject to the provisions of the Constituuon (eg. s.l 14 * see paragraph 7 below), thr
+corporations power has been held by the High Court to support Commonwealth laws
+regulating at least the ‘trading’ and ‘financial’ activities of the corporations described in
+s.51(xx) and, in the case of trading corporations, activities undertaken by them for the
+purposes of trade (Commonwealth v Tasmania (the Tasmanian Dam case) (1983) 15S CL
+1 at 148-149, 179, 240-241, 269-271). Similarly, in the case of ‘financial’ corporation'
+the power would extend to activities undertaken for the purposes of their ‘financial’
+activities. Hence the performance by a corporation of the functions of a fund trustee mu;
+be regulated (since they ore ‘financial’ activities), and activities associated with the
+performance by a corporate trustee of its duties as trustee, even if they are not themseive
+‘financial’ activities, are undertaken for the purposes of ‘financial' activities and may aL-
+be regulated.
+6. The drafting of provisions to bring fund trustees within the scope of the corporater
+power is a matter for the Office of Parliamentary Counsel (OPC), which is currently
+working on the proposed legislation.
+(Hi) If a trustee satisfies condition (a) above, does it follow that the trustee cannot
+an agent or instrumentality of a State and that it is therefore not protected fr
+taxation by s.l 14?
+7. No. If the trustee was a company incorporated under the Corporations Law, the
+trustee would probably not be regarded as an agency or instrumentality of a State (cf.
+para.S of the advice of 11 September 1992 to which you refer). However, a trustee
+established by special State legislation could well be both a ‘financial’ corporation (this
+would depend on its activities and the purposes for which it was established) and an
+agency or instrumentality of the State (this would depend on its relationship with the
+State). In order to induce State schemes to give up the protection of s. 114, it would
+therefore be necessary to make it a condition of 'complying fund’ status that a fund’s
+trustee was a trading or financial corporation within the meaning of s.51(xx) of the
+Constitution and also a corporation formed under the Corporations Law. (I understand,
+however, that OPC’s instructions are that s.271 of the Income Tax Assessment Act 193r
+not to be repealed.)
+8. I am sending a copy of this advice to Mr Keith Bytes of OPC.
+Yours sincerelv
+DENNIS ROSE QC
+Chief General Counsel
+Telephone: 2506016
+Facsimile: 2505921
+5 May
+Constitutionally Protected Superannuation 1
+
+
+APPENDIX I:
+PRIME MINISTER'S LETTER TO STATE PREMIERS
+Prime Minister's Letter to State Premiers
+Prime Minister
+Canberra
+The Hon John Fahey, MP
+Premier of New South Wales
+Premia's Wing
+Stale Office Block
+Macquarie Street
+SYDNEY NSW 2000
+3 0 SEP 1993
+SUPERANNUATION INDUSTRY (SUPERVISION) BILL [SIS BILL]
+My dear Premier
+1 am writing in response to communications from several States concerning coverage of State
+superannuation scheme* by the SIS Bill, and have written in similar terms to all Premiers and
+Chief Ministers.
+The SIS Bill has three objectives: fair and equal treatment of contributors and beneficiaries;
+ensuring that superannuation is used for retirement income; and ensuring the security of
+retirement savings through appropriate prudential supervision.
+While it is desirable that all superannuation funds comply with the legislation, there is a case
+for exempting public sector schemes which are totally unfunded or backed by an explicit
+government guarantee. In this regard, while the Commonwealth’s mam schemes will be
+required to comply in full, only the main operative provisions, such as vesting, preservation
+and disclosure, will apply to the Governor-General, Parliamentarians and Judges schemes.
+In relation to Statc/Territory schemes, I propose that compliance with the SIS legislation be
+automatically required unless an exemption has been granted. Exemptions for individual
+schemes would be available, provided the relevant State/Terri lory government undertook to:
+guarantee the liabilities of the scheme by ranking the accrued liabilities of the scheme
+equally with Statc/Territory bonds; and
+ensure compliance with the main operative provisions of the SIS legislation (vesting,
+preservation, disclosure and, where applicable, prudent investment).
+In order to ensure public confidence is maintained, these undertakings would need to be
+included in the annual reports of schemes exempt from the SIS legislation. Appropriate
+legislative arrangements would be put in place to ensure that exempt schemes can be used as
+vehicles to satisfy the requirements of the Superannuation Guarantee legislation.
+If you are in broad agreement with this approach, the details could be settled by relevant
+Ministers - in the Commonwealth’s case, the Treasurer, Mr John Dawkins - and officials.
+Yours sincerely
+(Sgd) P J KEATING
+PJ KEATING
+
+
+
+
+APPENDIX J:
+GLOSSARY OF TERMS
+Glossary of Terms
+Allocated Pension A pension where the member has his own
+account against which pension payments are
+debited and to which any investment earnings
+are credited. The pension will continue until
+the death of the pensioner, or until the account
+is exhausted. Upon death, any balance
+remaining in the account is paid to a designated
+beneficiary as a (taxable) lump sum payment, or
+is applied to secure further pension payments to
+a surviving spouse.
+Annuity A regular periodic payment to a person
+(cf pension). Where weekly, fortnightly or
+monthly payments out of a superannuation fund
+are involved, the expression 'pension' is more
+commonly used.
+Fund A fund which has the purpose of holding lump
+sum superannuation benefits rolled over for the
+purpose of maintaining the concessional taxation
+treatment until the taxpayer attains preservation
+age.
+Arms' Length A term which refers to the relationship between
+the employer company and the members of a
+superannuation fund. If the members of the
+fund are employees of the sponsoring company,
+an arms' length fund is said to exist.
+Approved Deposit
+(ADF)
+
+
+Capital Adequacy This is the requirement that custodians or fund
+Requirement managers with custody of superannuation fund
+assets have a certain prescribed level of net
+tangible assets or be able to obtain an approved
+guarantee for that amount.
+Commutation Term used to describe the process whereby one
+type of superannuation benefit is commuted
+(changed) to another type, for example
+conversion from a pension to a lump sum.
+Defined Benefits Fund A superannuation fund that contracts to pay a
+member a fixed or defined amount of money
+that is linked to a member's salary level.
+Deferred Annuity An annuity under which the payments are
+delayed by a specified period or to the date of
+occurrence of a specified event.
+Eligible Termination Payments made to employees leaving
+Payments (ETP) employment. They include payments from a
+superannuation fund or other inducements to
+retire but exclude accrued annual and long
+service leave.
+Life Office A firm which sells life insurance and other
+insurance products, for example, life cover,
+super bonds, annuities and superannuation.
+Life Policy A contract of insurance agreed to when a
+person purchases life insurance.
+Lump Sum The amount which is paid to a retiree at the
+time of retirement (as opposed to a pension for
+life).
+Master Trust A trust arrangement which allows a single
+trustee appointed by the promoter of the fund
+to administer and manage the superannuation
+funds paid by a number of employers and
+employees.
+
+
+Maximum Deductible A rule which places a cap on the level of
+Contribution Limit superannuation contributions which employers
+(MDCL) or members can make for employees. When this
+limit is exceeded, the fund is deemed to be non-
+complying and loses concessional tax status.
+Marketable Securities A marketable security is defined in section
+1097(1) of the Corporations Law. It includes a
+share in or debenture of an eligible body. An
+eligible body is taken to include a company,
+body corporate (other than a company) or an
+unincorporated society association or body.
+Pooled Superannuation A Pooled Superannuation Trust (PST) is a
+Trust resident unit trust that is used for investing the
+assets of various superannuation funds,
+Approved Deposit Funds (ADFs), tax
+advantaged insurance funds of life insurance
+companies, tax advantaged business of
+registered organisations and tax exempt entities.
+Portability
+Preservation
+Prudential Controls
+Public Offer Funds
+Allowing a superannuation plan to be
+transferred from one fund (or one employer) to
+another.
+Maintenance of a member's entitlements in a
+superannuation fund until a specified minimum
+age (usually at least 55 years).
+The measures instituted to supervise and control
+activities in the superannuation industry to
+ensure the security of contributor's funds.
+A Public Offer Fund (POF), as defined in the
+SIS legislation, is a regulated superannuation
+fund that is not a standard employer sponsored
+fund, unless the ISC Commissioner has made a
+declaration under clause 18 (6) stating
+otherwise. In effect this means that a POF is
+any fund that is offered to the public through a
+registered prospectus.
+
+
+Reasonable Benefits Limit The maximum limit on the amount a member
+(RBL) can receive from superannuation, ADFs or
+DAFs, with preferential taxation treatment. The
+limit can be calculated from a member's highest
+average salary.
+Repatriation of Surplus The act of transferring surplus assets in a
+superannuation fund to the sponsoring
+employer.
+The funds into which eligible termination
+payments are deposited when a person leaves or
+changes employment. These funds are
+preserved until retirement age is reached.
+Rollover funds receive concessional tax
+treatment in that the tax liability is deferred
+until retirement age.
+Unit trusts that specialise in investments in
+specific asset classes. For example, property
+trusts, fixed interest trusts and cash trusts. These
+trusts have their own trust deed, trustee,
+custodian and manager.
+Financial instruments which are evidence of
+debt or of property. Bonds, certificates of stock
+and shares are documents which indicate the
+existence of a security.
+Superannuation Fund A fund designed to produce retirement benefits
+for members. To attract tax concessions, it must
+have these characteristics: (a) be indefinitely
+continuing, and (b) be maintained solely for
+following purposes: provision of benefits for
+fund members, or for dependants of each
+member in the event of death, or any other
+purpose allowed by the Insurance and
+Superannuation Commission in writing.
+Surplus A position reached in a superannuation fund
+whereby the accrued earnings and contributions
+exceed the funds accumulated liabilities.
+Rollover Funds
+Sector Trusts
+Securities
+
+
+Trust
+Trust Deed
+Trustee
+Unfunded Scheme
+A fiduciary relationship in which one person
+(the trustee) holds the title to property for the
+benefit of another (the beneficiary).
+The legal document which appoints trustees and
+defines their power.
+A person, usually one of a body of persons,
+appointed to administer the affairs of a
+company, institution, etc, who holds the title to
+property for the benefit of another.
+A superannuation scheme where the employer
+has not contributed to match liabilities, that is,
+benefits payable to members as they accrue.
+Instead, payments are made to members when
+they are due.
+Undeducted Purchase In relation to an annuity or superannuation
+Price pension, that portion of monies used to
+purchase the annuity or pension which has not
+been claimed as a deduction.
+Vesting Conferring on a superannuation fund member
+the ownership of all or part of the accrued
+benefit applicable to that member.
+
+
+THEMMMMENTOFTHE
+COMMONWEAUH OF AUSTRALIA
+PARLIAMENTARY
+PAPER
+Ho. 195 Of 1993
+B8N0727-41S

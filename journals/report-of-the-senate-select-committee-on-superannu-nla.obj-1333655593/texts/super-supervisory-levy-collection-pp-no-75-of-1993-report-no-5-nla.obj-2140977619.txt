@@ -1,0 +1,1531 @@
+
+
+Super
+Supervisory Levy
+Fifth Report of the
+Senate Select Committee on Superannuation
+Parliament of the Commonwealth of Australia
+May 1993
+
+
+
+
+Super
+Supervisory Levy
+Fifth Report of the
+Senate Select Committee on Superannuation
+Parliament of the Commonwealth of Australia
+Canberra
+May 1993
+
+
+© Commonwealth of Australia 1993
+ISBN 0 642 19279 0
+This document was produced from camera-ready copy prepared by the
+Senate Select Committee on Superannuation Secretariat, and printed by the
+Senate Printing Unit, Parliament House, Canberra.
+
+
+MEMBERS OF THE COMMITTEE:
+Members
+Secretariat Staff:
+Secretary:
+Principal Research Officer:
+Executive Assistant:
+Mr Richard Gilbert
+Mr Gary Bauer
+Ms Cath Drinkwater
+Address: The Senate
+Parliament House
+CANBERRA ACT
+Telephone: (06) 277 3439
+(06) 277 5719
+Facsimile:
+
+
+
+
+Contents
+Contents
+Page
+Members of the Committee . i
+Contents. iii
+Chapter 1 Introduction. 1
+Chapter 2 Outline of the Superannuation Supervisory Levy. 5
+Chapter 3 The Levy and ISC Costs . 9
+Chapter 4 The Levy Examined. 17
+Chapter 5 Small and Large Funds . 31
+Appendices:
+A. Terms of Reference for On-Going Inquiry . 43
+B. List of Witnesses re Supervisory Levy. 45
+C. List of Witnesses re On-Going Inquiry. 47
+D. Supervision Supervisory Levy Submission List. 53
+E. List of Submissions re On-Going Inquiry. 55
+- Numerical
+F. List of Submissions re On-Going Inquiry. 65
+- Alphabetical
+G. Submission from the Attorney General's Department . 75
+H. Glossary . 77
+
+
+
+
+CHAPTER 1 : INTRODUCTION
+Introduction
+1.1 On 5 June 1991, the Senate established a Select Committee on
+Superannuation to inquire into, and report on, a set of terms of reference
+which was one of the most detailed and comprehensive ever given to a
+Senate Committee.1 Since its appointment, the Committee has reported on
+its 17 terms of reference according to five themes:
+♦ the regulation of superannuation which was addressed in the
+Committee's first report Safeguarding Super;
+♦ the depth and breadth of superannuation coverage which was covered
+in the second report, Super Guarantee Bills, and a background paper
+titled Super System Survey;
+♦ the impact of superannuation on the financial sector was covered in
+the Committee's third report, Super and the Financial System, which
+also addressed the problem of unfunded liabilities in public sector
+superannuation;
+♦ the taxation arrangements applying to superannuation and the
+interaction of superannuation with social security was covered in the
+Committee's fourth report, Super - Fiscal and Social Links. This
+report also addressed the reference pertaining to vesting and
+preservation of benefits and;
+♦ fees, charges and commissions and their disclosure relating to the
+provision of superannuation. This matter was addressed in a number
+of reports and papers and the Committee's sixth report, Super - Fees,
+Charges and Commissions which will be presented in June 1993.
+1.2 Table 1.1 lists the Committee's reports and papers against the relevant
+terms of reference.
+1 see Appendix A
+
+
+Table 1.1
+List of Committee Reports and Papers
+The Committee has presented the following reports and papers to the Senate:
+1.3 This report, the fifth report of the Committee, addresses the
+superannuation supervisory levy and arose out of the following motion by
+Senator Richard Alston, Deputy Chair of the Committee, in the Senate on
+25 November 1992:
+(1) That the provisions of Statutory Rule No. 283 of 1992, increasing the
+Superannuation Supervisory Levy from $40 to $200 per $500 000 of assets
+in superannuation funds be referred to the Select Committee on
+Superannuation for inquiry and report on or before 14 March 1993.
+
+
+(2) That the Committee makes recommendations on the appropriate future
+levy mix on superannuation funds having regard to the particular needs
+of smaller funds and the need for further increases in future years.
+Conduct of the Inquiry
+1.4 Following the despatch of more than 550 letters to those persons and
+organisations on the Committee's list of submitters and interested persons,
+22 written submissions were received on the supervisory levy reference.2 A
+public hearing was held on 26 March 1993 in Canberra at which witnesses
+from the Insurance and Superannuation Commission, the Association of
+Superannuation Funds of Australia (ASFA) and the Life Insurance
+Federation of Australia (LIFA) appeared.
+1.5 In order to facilitate community discussion, the Committee agreed
+that, unless otherwise ordered, written submissions would be published on
+receipt. Likewise the Committee circulated uncorrected Hansard transcripts
+as soon as they became available. References in the Report to oral
+testimony are to page numbers in these uncorrected Hansard transcripts.
+1.6 The calling of a general election meant that the Committee was
+unable to present its report by the 14 March 1993 deadline. To this end the
+Chairman wrote to the President of the Senate advising him of this difficulty.
+On 13 May 1993 the Senate resolved that the Committee be reappointed
+with terms of reference which included reporting on the supervisory levy.
+1.7 The arrangements governing the supervisory levy are outlined at
+Chapter 2 of this report. Chapter 3 examines the reasons for the increase
+in the supervisory levy and canvasses the evidence received by the
+Committee on the increase. Chapter 4 examines the implications of the user-
+pays approach (including the nature of consultation with the industry) and
+which parts of the costs of regulation should be recoverable through the
+supervisory levy. The final chapter discusses the impact of the levy on small
+and large funds, the impact of small and large funds on the costs of
+regulation and the question of subsidisation.
+2
+Referred to as 'SL sub no xx'.
+
+
+
+
+CHAPTER 2 : OUTLINE OF
+THE SUPERANNUATION
+SUPERVISORY LEVY
+Outline of the Superannuation Supervisory Levy
+2.1 The superannuation supervisory levy is a tax on fund trustees the
+purpose of which is to fund the Insurance and Superannuation Commission's
+(ISC) supervision of the superannuation industry. It requires that a fund or
+trust which lodges an annual return with the ISC is liable each year to pay
+a levy which is graduated according to asset size. The levy has operated
+since 1990/91 when it replaced a flat fee.
+2.2 The superannuation supervisory levy is regulated by:
+♦ Superannuation Supervisory Levy Act 1991 (the'Levy Act');
+♦ Superannuation Supervisory Levy Regulations (the 'Levy
+Regulations'); and
+♦ Part IIIAA of the Occupational Superannuation Standards Act 1987
+(OSS Act).
+In addition, the ISC issued ISC Circular No. 24 in September 1991 which
+explains the operation of the levy (at that time) and provides useful
+background information to its introduction.
+2.3 For the purposes of the levy calculation, the assets of a fund are
+defined in Regulation 4 as the net balance of the fund at the end of the
+relevant year of income obtained from the audited accounts of the fund.
+The exception to this is where the fund consists entirely of policies of life
+insurance on the lives of individual members, in which case it is the amount
+assessed by the insurer as the current value of those policies.
+2.4 In addition to the basic levy amount, late lodgment and late payment
+penalties are payable where applicable.
+
+
+2.5 Pursuant to the High Court decision in Air Caledonie v
+Commonwealth 3, the ISC operates on the assumption that the supervisory
+levy is a tax.4 To satisfy section 55 of the Constitution the levy is imposed
+by the Levy Act while liability is described by the abovementioned sections
+of the OSS Act.
+2.6 The Levy Act received Royal Assent on 20 May 1991 and has only
+seven sections. Section 5 imposes the levy described by Part IIIAA of the
+OSS Act. Section 6 describes the amount payable and limits the basic levy
+amount at $30 000 for an annual return. Section 7 enables the making of
+regulations but requires the Commissioner to consult ASFA, LIFA and such
+other appropriate persons. The Superannuation Supervisory Regulations
+(SR No 154 of 1991) were gazetted on 28 June 1991 and prescribed the levy
+that was payable for funds when lodging their 1990/91 annual retuirn.
+2.7 Prior to the supervisory levy, a fee was payable for the lodging of ISC
+annual returns. For the 1987, 1988 and 1989 years the fee was set at $30.
+The Treasurer announced in the 1990 Budget statement that the fee would
+be replaced with a new levy of $40. Table 2.1 shows the scale of the levy for
+the 1990/91 and 1991/92 years.5
+TABLE Z1
+SUPERANNUATION SUPERVISORY LEVY RATES
+3 (1988) 92 ALR 385
+4 SL sub no 10
+5
+Statutory Rules Nos 154 of 1991 and 283 of 1992.
+
+
+Amounts Recovered
+2.8 The levy is intended to recover fully the ISC's costs of supervising the
+superannuation industry. In its first year of operation it was anticipated that
+the levy would raise $7.0 million, however, only $6.2 million was raised. In
+addition, the Occupational Superannuation Group of the ISC incurred costs
+of $9.2 million, $3 million greater than anticipated. Thus the levy raised only
+67.4 per cent of the operating costs of the group.6 Table 2.2 shows the costs
+and revenues associated with superannuation supervision since the
+establishment of the Insurance and Superannuation Commission.7 The ISC's
+budgeted outlays and revenue to be raised through the levy are outlined in
+Chapter 3.
+TABLE 212
+SUPERANNUATION COSTS AND REVENUE COLLECTIONS
+1986/87 TO 1991/92
+The supervisory levy was collected from 1991/92 (1990/91 return year) onwards.
+The estimate for the levy in 1991/92 was calculated in May 1991 and based on the
+projected costs for 1991/92.
+6 Annual Report of the Insurance and Superannuation Commission for the year
+ending 30 June 1992, page 45.
+SL sub no 10, supplementary submission of 26 February 1993.
+7
+
+
+
+
+CHAPTER 3 :
+THE LEVY AND ISC COSTS
+The Levy and ISC Costs
+3.1 This chapter examines the steep increase in the supervisory levy
+payable with 1991/92 annual returns and outlines the ISC's budget for the
+1992/93 year. Table 3.1 shows the manner in which Statutory Rule no. 283
+of 1992 increased the basic rate of the levy.
+TABLE at
+SUPERANNUATION SUPERVISORY LEVY
+1990/91 & 1991/92
+3.2 The ISC estimates that $26.3 million will be required to recover the
+full costs of superannuation supervision for 1992/93. In addition, certain
+costs are not recovered by the ISC through the supervisory levy. These
+include the costs of the ISC's role in administering the Superannuation
+Guarantee Charge (SGC) scheme. A breakdown of ISC budgeted costs for
+the 1992/93 year is provided at Table 3.2.
+
+
+INSURANCE AND SUPERANNUATION COMMISSION
+BUDGET 1992/938
+TABLE 3.2
+The Need for Greater Regulation
+3.3 The Committee's first report Safeguarding Super made 47
+recommendations concerning the regulation of superannuation. The
+Government responded to the Committee's report on 17 December 1992,
+accepting 18 recommendations, partially accepting or accepting with
+modification 16, deferring 4 and rejecting only 7. The reform process that
+had been accelerated by the Committee was consummated in several pieces
+of legislation introduced into the House of Representatives on 16 December
+1992. This legislation followed the Treasurer's statement of 21 October 1992
+- Strengthening Super Security. These bills were withdrawn pursuant to the
+issuing of writs for the Federal Election of 13 March 1993. It is understood
+that these bills will be reintroduced in the new Parliament.
+8 SL sub no 10, p7; Treasury Portfolio Program Performance Statements
+1992/93, p 94; and SL sub no 10, supplementary submission of 8 April 1993,
+Attachment C.
+
+
+3.4 The Committee reiterates its arguments for increased supervision of
+superannuation funds. In Safeguarding Super, the Committee noted that
+prudential supervision is necessary for a number of reasons. These are
+reproduced at Table 3.3.
+TABLE 3.3
+THE NEED FOR SUPERVISION
+The Cost of Regulation
+3.5 The ISC asserted that there are essentially six components in the cost
+of supervising the superannuation industry:
+♦ examination of annual returns;
+♦ recording of benefits received in order to determine whether they are
+within the reasonable benefit limits (RBLs);
+♦ technical correspondence on the operational standards and the RBLs,
+determination of benefits in excess of the benefit limits, early release
+of benefits and responding to appeals on the administration of the
+standard and benefit limits;
+♦ auditing of superannuation funds;
+
+
+♦ provision of policy advice and management of the preparation of
+legislation; and
+♦ education of the industry and community at large.9
+3.6 The ISC provided evidence which apportioned its recoverable costs
+among ten different cost categories. This is shown at Table 3.4.
+TABLE 3.4
+ESTIMATED FUNCTIONAL SPLIT OF COSTS
+3.7 The Committee recommended in its first report, Safeguarding Super,
+that sufficient resources be made available to the ISC so it could discharge
+its increased responsibilities as envisaged in that report.10 It also
+recommended that an independent review of the ISC's resources be carried
+out so that its resources are compatible with its increased regulatory
+responsibilities. In that same recommendation, the Committee endorsed the
+user-pays approach to funding for the increased responsibilities of the
+ISC*
+3.8 A joint review was undertaken by the Department of Finance and the
+ISC of the ISC's resource needs for discharging its existing functions in an
+9
+SL sub no 10, p 3.
+10 Safeguarding Super, Recommendation 4.8, p 44.
+ibid, Recommendation 4.2, p 41.
+li
+
+
+adequate manner.12 This review was undertaken in 1992 and found that
+an extra $4.2 million was required by the ISC for the 1992/93 year.13
+Furthermore, the Government decided in August 1992 to establish an audit
+and investigation program and to expand the inquiry service. This expansion
+entails an extra 107 people and will also allow the ISC to open offices in
+Adelaide, Brisbane, Hobart and Perth and increase staff in Canberra,
+Sydney and Melbourne. The total cost of salaries, establishment and
+administration of these measures is expected to be $7.8 million for the
+1992/93 year.14
+3.9 The ISC provided supplementary evidence of the apportionment of
+the ISC's budget among the various state offices and this is reproduced at
+Table 3.5.15 While useful, a more accurate idea of underlying anticipated
+costs would have been gained from three year forward estimates.
+TABLE 3.5
+NOTIONAL SPLIT OF RECOVERABLE COSTS BY STATE FOR 1992/93
+Note : The above amounts were notionally assigned to the state
+offices as an indication of costs recoverable through the
+Superannuation Supervisory Levy. The split does not indicate full
+cost attribution as in some cases it was either not sensible or
+convenient to do so (e.g. last year's shortfall, corporate overheads
+and property operating expenses).
+12
+SL sub no 10, p 7.
+ibid
+13
+14 ibid, p 7.
+SL sub no 10, supplementary submission of 8 April 1993, Attachment A.
+15
+
+
+Concern About Costs
+3.10 There was understandable concern at the steep increase in the
+levy.16 In addition to the Committee's evidence, the ISC advised that it had
+received approximately 500 telephone complaints, 30 letters to the ISC and
+117 Ministerial representations. 7
+3.11 Those who raised their concerns with the Committee asked what
+additional value superannuation funds could expect to receive from the
+increased levy.18 While it is always difficult to quantify the direct benefit
+that a fund receives from increased government regulation, the Committee
+believes that the overall integrity in which the industry is perceived and
+operates is sufficient indirect benefit for all superannuation funds.
+3.12 Several submitters called for scrutiny of the ISC budget inferring that
+it may have unnecessary items of expenditure or that the organisation could
+operate more efficiently. Similarly the Motor Trades Association expressed
+its dissatisfaction with the absence of any explanation as to the increased
+costs of the ISC. The Life Insurance Federation of Australia (LIFA)
+suggested that a detailed breakdown of how the annual budget is derived
+including a breakdown of functions to be performed by additional staff
+should be made available.19 The Committee notes that the ISC
+Commissioner is required to consult with the industry before setting the
+supervisory levy. The Committee also observes that LIFA is specifically
+included in the consultation process by section 7(2) of the Levy Act. The
+Committee will comment on the consultation process in Chapter 4.
+3.13 Some witnesses wished to revisit the underlying policy requiring this
+increase in resources.20 These witnesses questioned the level and
+16
+Shrapnel, Downing & Elks, SL sub no 2; Mr W.G. Ross, SL sub no 4; and
+Motor Trades Association of Australia, SL sub no 9.
+17 SL sub no 10
+18 Trustee Companies Association of Australia, SL sub no 13.
+19 SL sub no 17
+20 Chamber of Commerce and Industry (WA) and SL sub no 18; Chamber of
+Commerce and Industry (SA) SL sub no 3; Motor Trades Association of
+Australia, SL sub no 9.
+
+
+complexity of regulation or were concerned at the approach to supervision.
+Regulation policy was dealt with in the first report of the Committee and is
+beyond the scope of this report.
+3.14 Concern was also raised at the manner in which the increase
+apparently discriminated against small funds.21 The problem alluded to is
+that the levy cannot be averaged over a number of members in a small fund.
+The question of the impact on small funds of the supervisory levy is
+addressed in Chapter 4.
+3.15 The steep increase in the levy was another important issue raised in
+a number of submissions.22 LIFA argued that increases of the order of 400
+per cent should be spread over a number of years.23 The Committee
+believes that increases in the levy should be gradual and will comment on
+an appropriate strategy for this in Chapter 4.
+3.16 Finally, LIFA argued that shortfalls should not be recovered in one
+year.24 The Committee notes that the automatic inclusion of prior years'
+surpluses or deficits can lead to large movements in the levy from year to
+year. This was borne out in evidence to the Committee from representatives
+of the ISC who suggested that they could be facing a surplus in the order
+of $3 million to $8 million this year.25 Mr Ron Dean of the ISC said this
+would seem to suggest that there would be scope for a reduction in the
+levy. The amount of that reduction would depend on what surplus we
+achieved this year ... [and] ... depend on the estimate of the number of
+funds.26
+21 Bartier Perry Purcell, SL sub no 14; Trustee Companies Association of
+Australia, SL sub no 13; NSW Farmers Federation, SL sub no 15; Myuna Pty
+Ltd, SL sub no 16; and Mr WG Ross, SL sub no 4.
+22 Motor Trades Association of Australia, SL sub no 9.
+23 SL sub no 17; see also Queensland Government Superannuation Office, SL
+sub no 12.
+24 SL sub no 17
+25 SL Evidence, p 6.
+26 ibid, p 7.
+
+
+3.17 The Committee comments on the matter of shortfalls and deficits in
+Chapter 4.
+
+
+CHAPTER 4 :
+THE LEVY EXAMINED
+The Levy Examined
+4.1 This chapter examines two issues surrounding the supervisory levy.
+First, the validity of the user-pays concept and the nature of the consultation
+required by the legislation are examined. Second, the ISC's costs are
+examined to determine what should be recouped through the supervisory
+levy.
+User-pays or Subvention?
+4.2 The first issue to canvas, however, is the extent to which the ISC's
+operations should be funded by the industry. It was noted in Chapter 2 that
+the Government's policy is one of full cost recovery and it should be noted
+that when the levy was introduced, the user-pays nature of the charge was
+not subject to conjecture.27 The Committee in its first report, Safeguarding
+Super, endorsed the 'user-pays concept as a means of supplementing
+budgetary allocations'.28 It is now appropriate to revisit that opinion in
+light of new and detailed evidence received.
+4.3 At the time of introduction, the ISC's Circular No. 24 stated that:
+In accordance with the user-pays principle, the Government believes that
+it is fair that superannuation funds, and indirectly their members, should,
+in future, bear the full cost of supervising their access to taxation
+concessions, rather than having that cost borne by the general body of
+taxpayers.29
+4.4 ASFA suggested that there are two models that can be adopted in
+considering the funding of any regulator:
+♦ an 'independent regulator' approach whereby the paramount concern
+is the actual and perceived independence of the regulator. This
+27
+see generally Weekly Senate Hansard, 15 April 1991, p 2476 ff.
+28 Safeguarding Super, recommendation 4.2, p 41.
+ISC Circular No 24, para 15; and SL sub no 10, p .
+29
+
+
+implies that there should be no say by the industry in the conduct of
+the regulator and that the regulator should be funded by the
+community at large; and
+♦ the 'user-pays' approach. As ASFA stated 'this implies that the major
+beneficiaries of the activities of the regulator are the funds and their
+members and that they should therefore fund these activities'. ASFA
+told the Committee that 'it also implies that those who are paying the
+bills should have some say in how the regulator is run'.30
+4.5 ASFA asserted that they 'do not believe it is possible to marry these
+two approaches' and attempting to do so 'runs the risk of ending up with the
+worst of both worlds'.31 This option is apparently favoured by the ALRC
+which recommended that:
+The regulator should be funded solely from Consolidated Revenue. The
+funding should be fully independent of any levy that government may
+choose to impose on the superannuation industry.32
+4.6 The Committee received other evidence on the issue. The Life
+Insurance Federation of Australia (LIFA) suggested that as we approach
+universal superannuation coverage, a case could be made for all costs being
+met from consolidated revenue.33 Similarly, the Chamber of Commerce
+and Industry (WA) suggested that as there is a public benefit side to
+superannuation, the cost of supervision should be shared between the
+industry and the community at large.34 On the subject of subvention due
+to some amorphous global benefit, it should be noted that other industries,
+including insurance, do not enjoy such a benefit. The Motor Trades
+Association of Australia suggested that the ISC should be allowed to recoup
+the 'reasonable costs of supervision and regulation of the industry'.35
+30
+SL sub no 21, p 4.
+ibid
+31
+32 ALRC, Collective Investment Schemes - Superannuation, 1992, page 22.
+33 SL sub no 17
+34 SL sub no 18
+35
+SL sub no 9
+
+
+4.7 The Committee in its first report recommended that 'a panel of
+commissioners with proven expertise in superannuation from a wide cross-
+section of the community' be constituted to 'give a greater degree of
+statutory independence to the ISC'.36 This recommendation was rejected
+by the Government.37 On the basis of the government response, and taking
+into account the immutable nature of the levy, the Committee believes that
+the industry and the ISC would benefit from formalised and constant
+consultation within the current framework.
+Consultation
+4.8 Closely related to the user-pays question is the level and nature of
+industry consultation that should accompany the funding of the ISC. The
+ISC is required to subject itself to the 'full rigours of the budgetary process
+and constraints' while also being required to consult with the industry under
+the Levy Act.38 The ISC claimed it:
+places a high priority on carrying out its administrative responsibilities in
+a cost effective manner, and aims to keep the fees imposed on
+superannuation funds as low as possible consistent with full cost
+recovery.39
+The ISC further claimed that:
+The views of industry bodies on the ISC's operations also form part of the
+discipline which ensures the most cost effective administration.40
+4.9 Section 7(2) of the Superannuation Supervisory Levy Act 1991
+requires that the Commissioner consult with ASFA, LIFA and 'such other
+persons as the Commissioner considers appropriate' before regulations
+setting the levy are made. However, a failure to comply with this
+36 Safeguarding Super, Recommendation 4.3, p 41.
+37 Government Response of 17 December 1992.
+38 ISC, SL sub no 10, p 4.
+39 ibid
+40
+ibid
+
+
+requirement does not affect the validity of the regulations.41 The
+Committee received evidence on this subject from both the ISC and industry
+representatives.
+4.10 The ISC gave evidence that the Institute of Actuaries have also been
+involved in the consultation process.42 In addition, the ISC would in future
+also invite the Chairman of the Joint Superannuation Committee of the
+Australian Society of Certified Practising Accountants (ASCPA) and the
+Institute of Chartered Accountants in Australia (ICAA) because the
+members of those organisations are 'closely concerned with the management
+of small funds'.43 The Committee is concerned that the approach to
+consultation adopted by the ISC has been narrow. In addition, the ISC
+should have consulted with representatives of small funds before the
+arrangements contained in Statutory Rule No. 283 were struck.
+Recommendation 4*1:
+The Committee appreciates the move by the ISC to include the
+Chairman of the Joint Superannuation Committee of the Australian .
+Society of Certified Practising Accountants and the Institute of
+Chartered Accountants of Australia in its consultations on the
+supervisory levy* The Committee recognises that the interests of small:
+fund members will be best served by this initiative* The Committee
+recommends that section 7(2) of the Superannuation Supervisory Levy
+Act 1991 be amended accordingly*_ .
+4.11 Mr Nick Stuparich of the ISC advised the Committee that the ISC
+had consulted with ASFA, LIFA and the ICAA at various times during the
+year:
+In fact, the list of consultations shows that we had a preliminary meeting
+on 4 December 1991 with those organisations. That was followed up on
+41 Section 7(3), Superannuation Supervisory Levy Act 1991.
+42 SL Evidence, p 5.
+SL Evidence, p 5.
+43
+
+
+24 January 1992 when a much smaller level of expenditure than turned
+out to be the case was discussed with them.44
+4.12 The ISC agreed to submit copies of correspondence and information
+on the consultation process.45 In response to questioning from Senator
+John Watson, Mr Stuparich asserted that the ISC had met the requirements
+of section 7(2) of the Levy Act.46
+4.13 ASFA submitted that:
+The reality to date is that there have been extensive consultations on the
+shape of the levy but very little consultation on the ISC's cost structure,
+business plan, efficiency measures, etc.47
+In oral evidence, Mr Scullin of ASFA added that:
+I am not alleging a breach [of section 7(2)]. I am just saying that it is not
+the way we thought it would operate.48
+4.14 LIFA believed that:
+These consultations have been conducted in good faith by the ISC.
+However, their usefulness has been limited by the lack of information
+which is sufficiently detailed and meaningful.49
+4.15 Compounding those problems was the inappropriate timing of
+meetings with the industry. Mr Colin Grenfell of ASFA stated 'we are
+primarily being consulted after decisions have been made with the
+Department of Finance'.50 He suggested that:
+44 SL evidence, p 21.
+45 SL evidence, p 21.
+46 ibid
+47 SL sub no 21, p 5.
+48 SL evidence, p 33.
+49 SL evidence, p 30.
+SL evidence, p 34.
+50
+
+
+We could have regular, timed meetings throughout the year rather than
+meetings which are timed after the dollars have been decided. If there
+were, say, three meetings a year strategically placed, then we would have
+more say in the development of the issues like new resources.51
+4.16 On the basis of this evidence, there appears to be three problems, the
+timing of the consultations, the lack of information provided to participants
+and the nature of the 'consultation'. The Committee believes that there
+should be some clarification of the requirements of the consultation process.
+It seems that the ISC entered the consultation process with a pre-
+determined view of the levy as opposed to trying to achieve a genuine
+consensus. For such consultations to be of any worth they should be
+conducted at appropriate, predetermined junctures, with sufficient
+knowledge on both sides with due cognisance being made of industry
+opinion.
+4.17 The Committee believes that it is more appropriate for the industry
+and the Commissioner to arrange their consultations, subject to the Levy
+Act, rather than have such arrangements imposed on them. However, the
+Committee observes that there has been some breakdown of communication
+and is prepared to lay down some broad guidelines to which all parties
+should adhere.
+Cost of Regulation
+4.18 The ISC provided evidence to the Committee that there are six main
+elements in the cost of supervising the superannuation industry. These were
+outlined in Chapter 3. However, the Committee believes that it does not
+necessarily follow that because the ISC performs a particular function its
+cost should be recouped through the supervisory levy. Indeed, the ISC
+provided evidence that not all of its costs are recouped through the levy. In
+particular, the ISC's costs associated with the Superannuation Guarantee
+Charge scheme are not recoverable from the industry52 and in the past
+costs associated with the establishment of the RBL regime were not
+recovered.53
+51
+SL evidence, p 34.
+52 SL sub no 10, p 8.
+53 ISC Circular No 24, paragraph 16.
+
+
+Recommendation 4.2;
+The Committee is concerned that parties to the consultation process of
+the supervsiory levy have differing expectations as to what that process
+involves. The Committee recommends the following;
+♦ that the ISC consult with industry representatives throughout the
+year rather than after the resource needs of the ISC have been
+decided with the Department of Finance;
+♦ that the ISC consult with the industry on the way it will spend
+money rather than just the way it is raised; .
+♦ that the ISC provide the industry with budgets which dearly
+indicate the expenditure priorities for the year in question; and
+♦ that the ISC publish, as part of its annual report, a description of
+the consultative process it followed in determining the supervisory
+However, the Committee recognises that ultimately the ISC is the
+industry regulator and, as such, the opinions of the industry should not
+be binding on it.
+Reasonable Benefit Limits
+4.19 The Committee received evidence that certain other costs of the ISC
+should not be recoverable from the superannuation industry.
+4.20 The ISC is currently responsible for administering the RBL regime
+although this function will be transferred to the Australian Taxation Office
+on 1 July 1994.54 The purpose of RBLs is to limit the tax concessional
+benefit available to a fund member.55 When RBLs were introduced, a fund
+breached the OSS Regulations if it paid a benefit in excess of a member's
+54 Taxation Laws Amendment (Superannuation) Bill 1992
+Treasury, Sub no 195.
+55
+
+
+RBL. At that time, the recording of information for this purpose was carried
+out by the funds themselves. This was centralised within the ISC in 1990.
+4.21 RBLs can be said to have both a tax and a compliance focus,
+although since 1 July 1990 their tax focus predominates. Since that time,
+members have been allowed to receive benefits in excess of their RBLs, with
+the excess being taxed at marginal rates. In addition, such excess payments
+now do not affect the complying status of a superannuation fund.
+4.22 This begs the fundamental question of why the ISC monitors RBLs
+and why is this cost being borne by fund members through the supervisory
+levy. As mentioned earlier, the RBL function is being transferred shortly to
+the ATO. The Committee notes that this not only reflects administrative
+ease but also the true purpose of RBLs. This opinion is supported by
+ASFA56and LIFA.57
+Recommendation 4.3:
+The Committee recommends that the costs associated with administering
+the Reasonable Benefit limit regime not be recouped through the
+supervisory levy. This cost should be borne by the Government,. as it will
+be when it is transferred to the Australian Taxation Office.
+Annual Returns Processing
+4.23 The ISC provided evidence that the cost of processing an Annual
+Return should be the same for each fund. In future, the cost of processing
+an Annual Return should form a flat fee component of the levy. This would
+simply be determined by dividing the total cost of Annual Returns
+Processing by the estimated number of funds. The Committee notes that this
+is essentially how the ISC apportions that cost.
+56
+SL sub no 21, p 5; and SL evidence, p 32.
+SL evidence, pp 41-42.
+57
+
+
+Audit
+4.24 The Committee notes that aside from annual returns processing and
+the administration of the RBL regime, auditing accounts for almost 50 per
+cent of the ISC's ongoing costs. The ISC provided details of its anticipated
+audit program. Mr Stuparich stated that the ISC anticipated auditing 2 200
+funds in 1993/94 along the following lines:
+The breakdown is this: for funds with more than $10 million, we will audit
+80 of those funds; between $1 million and $10 million, 175; and less than
+$1 million, 1 960 funds. The breakdown is based on a frequency of audits
+of the large funds of once every six years; the middle sized ones, once
+every 14 years; and the small ones, once every 33 years.58
+4.25 With respect to resources, Mr Stuparich added that:
+The time we would expect to spend on doing those audits, using teams of
+four people, is about 40 person days on the large funds, about half that
+number of days on the middle sized funds and about four person days on
+the small funds.59
+4.26 The levels of staff involved with audits and their cost to the ISC was
+not certain. An internal charge-out system was to be a method of
+apportioning the costs attributable to small, medium and large funds.
+Furthermore, the ISC added that it would be using the services of
+commercial audit teams to train their staff and help plan their work.60
+4.27 With respect to emphasis, Mr Stuparich said that 'we will be
+concerned from a prudential point of view with the very large and the
+middle sized funds'61 and that risk assessment methods will be used 'to
+target both the large and the middle sized funds in particular'.62 Mr
+Stuparich listed some of the indicators that the ISC would be looking for in
+planning audit targets. These included commonality between employer and
+58
+SL evidence, p 21.
+59 ibid, p 22.
+60 SL evidence, p 23.
+61 SL evidence, p 23.
+ibid, p 24.
+62
+
+
+trustee, investments linked to the employer's industry and large
+exposures.63
+Policy and Legislation Costs
+4.28 The Committee believes that there is some question as to the
+appropriateness of the levy recouping these costs. ASFA suggested that
+'costs of advising the Government on the development of retirement incomes
+policy rather than the supervision of superannuation funds should be
+excluded'.64
+Other Functions
+4.29 It was suggested that the following costs could also be excluded from
+the supervisory levy calculations:
+♦ preservation rules (and perhaps vesting);
+♦ contribution limits;
+♦ sole purpose test and investment restrictions aimed at protecting the
+revenue; and
+♦ third party information requirements.65
+4.30 The important distinction that ASFA made is that:
+If members do not stand to benefit from a regulatory requirement then
+it is difficult to see why they should have to pay for the administration of
+that requirement.66
+Shortfalls
+4.31 The Committee notes that shortfalls or surpluses appear to be
+recouped or disbursed in the year after they are incurred. In particular, it
+notes that the $3 million shortfall from last year has been automatically
+included in this year's levy calculations. The ISC advised that it expected this
+63
+SL evidence, p 24.
+64 SL sub no 21, p 4-5.
+65 ASF A, SL sub no 21, p 5.
+SL sub no 21, p 5.
+66
+
+
+year's surplus to be between $3 million and $8 million, thus possibly allowing
+for a fall in the levy for next year. The Committee finds this a remarkable,
+and totally avoidable, situation. The ISC should aim to smooth increases in
+the levy where possible. The Levy Act does not prescribe what must be
+included in the levy budget from year to year and this would appear to be
+a matter determined by the ISC and the Department of Finance.
+4.32 In addition, the Committee received evidence that a substantial part
+of the shortfall related to the administration of the RBL regime. In
+accordance with the Committee's above recommendation, those parts of the
+shortfall attributable to non-recoupable costs should not be recouped.
+4.33 The Committee considers that a better way of determining the levy
+would be to use a more medium-term time frame. This might involve the
+ISC and the industry reviewing the resource needs of the ISC over a three
+to five year period and agreeing on an average for those years. This would
+allow for greater certainty and planning on both sides and would permit
+increases to be better managed.
+The Committee recommends that an averaging approach be adopted
+when setting the supervisory levy. This would prevent any large
+fluctuations in the levy from year to year and provide certainty in
+planning both in the ISC and the industry. _
+Arriving at a levy formula
+4.34 The levy is currently a mix of a flat fee and a fee based on asset
+size.67 In ISC Circular No. 24, the ISC suggested that:
+Perhaps, in theory, the most equitable basis for rescouping costs would be
+a fee schedule with three components - a flat rate for each fund; a
+component varying according to the size of membership of each fund; and
+a further component varying according to the size of assets of each
+fund.68
+67 SL evidence, p 18.
+ISC Circular No. 24, Attachment A, paragraph 8.
+68
+
+
+4.35 However, the ISC pointed out that:
+As a practical matter, however, this would be too complicated and,
+particularly as it would be reasonable to assume a correlation between
+asset size and taxation concessions received, a flat fee plus a
+supplementary component relating to asset size, with a maximum limit on
+the total fee is a reasonable balance.69
+4.36 The Committee received evidence that certain products will probably
+require less ISC attention than others. In particular, Macquarie Bank
+suggested that there are particular advantages associated with their personal
+Approved Deposit Funds which will lessen the supervisory role of the
+ISC.70 Similarly sentiments were expressed by Austrust & Executor
+Trustee.71 In addition, it is likely, based on the audit strategy outlined
+above, that public sector funds will require less attention than private sector
+funds. It would be prima facie equitable to take these factors into account
+in determining the supervisory levy.
+4.37 However, an important point was made by Mr Stuparich of the ISC:
+It is very difficult to set a levy which takes into account all of the different
+interests and the different situations. To be able to set a levy which is
+administratively manageable, it has to be an across-the-board type of levy,
+and it is not really possible to tailor the levy.72
+Levy by Number of Members
+4.38 The Committee received some evidence advocating a levy on the basis
+of the number of members in the fund.73 However, it is likely that these
+witnesses thought the supervisory levy just covered the cost of processing
+annual returns and that they misunderstood the full range of activities that
+the ISC performs. It would appear from Table 5.7 that the only area where
+69 ibid, paragraph 9.
+70 SL sub no 11.
+71 SL sub no 1.
+72 SL evidence, p 17.
+73 Mr W.G. Ross, SL sub no 4; and Queensland Government Superannuation
+Office, SL sub no 12.
+
+
+costs can be directly attributable to fund membership is the administration
+of RBLs. As the Committee recommended that these costs should not be
+recovered through the supervisory levy, the Committee can see no reason
+to set the fee on a per member basis.
+Flat Fee Levy
+4.39 The Committee received some evidence advocating a return to the
+flat fee approach.74 This evidence mainly came from small fund members
+who may not have been aware of the full range of activities that are
+involved with prudential supervision or their cost.
+The Committee believes that it is not in a position to recommend the
+precise model which could be used to set future ISC supervisory levies,
+however, the Committee does have recommendations on the broad
+parameters which should underlie the levy setting process. In summary
+the current formula based on a flat fee and a variable fee
+dependant on asset size should be retained;
+The costs of administering the RBL arrangements should not be
+recouped through the supervisory levy;
+the costs associated with the processing of annual returns should
+be recouped through a flat fee per fund;
+an attempt be made to identify the proportion of corporate
+overhead costs attributable to other functions which are required
+for prudential supervision; and
+the costs associated with the development of policy and legislation
+should not be recovered through the supervisory levy.
+74
+Mr W.G. Ross, SL sub no 4; and Myuna Pty Ltd, SL sub no 16.
+
+
+Recommendation 4.6:
+The Committee recommends that the current formula based on a fiat fee
+and a variable fee dependant on asset size be retained._
+
+
+CHAPTER 5 :
+SMALL AND LARGE FUNDS
+Small and Large Funds
+5.1 This chapter examines the effect of the levy on small and large funds
+and the costs to the ISC of supervising these funds. In addition, the issue of
+cross-subsidisation between different funds is examined. To begin, the
+demographics of the superannuation industry are examined. The
+superannuation industry is unique as it has a large number of funds at one
+end of the spectrum with few members and little total wealth while at the
+other end, large funds with many members and much total wealth. There is
+no evidence to suggest however that members of small funds are below-
+average income earners or deserving of any special assistance.
+Superannuation Fund Demographics
+5.2 The ISC provided most helpful written evidence on the breakdown of
+superannuation funds into size categories. In total, the ISC assumed that
+there are 73 087 superannuation funds (public and private sector), approved
+deposit funds and pooled superannuation trusts for the supervisory levy
+calculations. The break up is shown at Table 5.1.
+TABLE 5.1 NUMBER OF SUPERANNUATION FUNDS, ADFs and PSTS FOR 1992/9375
+75 SL sub no 10, supplementary submission of 26 February 1993, Attachment A
+(in camera).
+
+
+Public Sector Funds
+5.3 The ISC assumed that there are 158 public sector funds who would
+be liable to pay the levy. These 158 funds control approximately $50.5 billion
+in assets. Of those 158 funds, 33 have less than $1 million in assets each and
+together have only $12 million in assets. Meanwhile, 33 funds have assets in
+excess of $111.5 million each and together control $49.1 billion in assets. The
+ISC did not provide evidence of the number of members in these public
+sector schemes. An interesting question is whether public sector funds have
+a constitutional duty to pay the levy. As the levy is quite clearly a tax, and
+is based on the size of fund assets, it is arguable that it may be a breach of
+section 114 of the Australian Constitution to impose it on State
+superannuation schemes.76
+5.4 Therefore, the Committee sought a submission from the Attorney
+General's Department to clarify this point. In a submission which appears in
+Appendix G, the Committee was advised that the subject of the tax, the
+lodgement of a return, is unrelated to property and, therefore, it is likely
+that the High Court would consider the tax as being a tax on actions
+submitted to by funds which operate under the Occupational
+Superannuation Standards Act 1987177
+Private Sector Funds - Not all Assets in Life Insurance
+5.5 The ISC assumed that there are 62 117 superannuation funds whose
+assets are not all in life insurance and that these funds control $62.5 billion
+and have 3.95 million members. Of these funds, 55 241 have less than
+$500 000 in assets and these funds control only $6.3 million assets together
+and have 659 026 members. In this class, the 81 largest funds control more
+than $29 billion in assets and have 1.15 million members.
+Private Sector Funds - All Assets in Life Insurance
+5.6 The ISC assumed that there are 9 734 funds in this class and that
+these funds control almost $57.5 billion in assets with 1.87 million members.
+76 See generally, The State of South Australia & Anor v The Commonwealth of
+Australia & Anor (1992), 105 CLR 171.
+Attorney General's submission at Appendix G.
+77
+
+
+Of these funds, 9 248 have less than $500 000 in assets each, control $431
+million in assets and have 21 555 members. There are 55 funds with more
+than $100 million in assets each, controlling $54 billion in assets with 1.7
+million members.
+Approved Deposit Funds
+5.7 The ISC assumed that there are 978 ADFs in existence controlling
+$10.2 billion in assets and having 246 186 members. Of these funds, 748 have
+less than $500 000 each, control only $144 million together and have 1 459
+members. At the upper end, there are 16 ADFs with more than $100 million
+each, controlling $8.17 billion together with 163 125 members.
+5.8 The levy of $200 per $500 000 in assets has particular implications for
+small funds. The ISC provided detailed evidence on the asset profiles of
+small funds. Of particular interest is the fact that most funds have less than
+$100 000 in assets. Table 5.2 shows the percentage of superannuation funds
+that have less than $500 000 in assets that lodged returns for the 1990/91
+year divided into asset size groups of $100 000.
+TABLE 5.2
+Funds with Less Than $500 000 in Assets
+5.9 Table 5.3 shows the percentage of superannuation funds with between
+$0 and $100 000 in assets for 1990/91 divided into asset groups of $20 000.
+78
+SL sub no 10, supplementary submission of 26 February 1993, Attachment B.
+
+
+TABLE 53
+Funds with Less Than $100 000 in Assets
+* Funds that have $0 balances are mostly funds that have wound up during the
+year of lodgement.
+5.10 Table 5.3 is particularly illuminating in that it shows that, disregarding
+funds with $0 balances, almost one quarter of superannuation funds have
+assets of $40 000 or less. Table 5.4 shows the percentage of funds with
+between $1 and $20 000 in assets for 1990/91 divided into asset groups of
+$5 000.
+TABLE 5.4
+Funds with Less Than $20 000 in Assets
+5.11 Table 5.4 shows that funds with assets of less than $20 000 are evenly
+distributed among the $5 000 intervals.
+5.12 The figures provided by the ISC on the asset profiles of small funds
+are also enlightening. In particular, the revelation that approximately 75 per
+cent of funds have assets of less than $200 000 and 57 per cent less than
+$100 000. Furthermore, 25 per cent of funds have less than $40 000 in
+assets.
+Fund Rationalisation
+5.13 Assessing the rate of fund rationalisation has proven difficult.79 The
+ISC provided evidence that showed the decrease in numbers of funds
+79
+ISC, SL evidence, p 15.
+
+
+lodging annual returns from 1986/87 to 4 February 1993. Chart 5.1 shows the
+number of annual returns received for those years. It should be noted that
+funds can still lodge for previous years, although the ISC expects the figures
+for the 1986/87, 1987/88 and 1988/89 years to increase only marginally. As
+the ISC stated, 'this chart clearly shows the effect of the rationalisation of
+the superannuation industry'.80
+5.14 Mr Ron Dean of the ISC stated that
+There has been a significant downward trend from about 130 000 a few
+years back to about half that number now.81
+When asked for predictions of future numbers, he added that:
+80 SL sub no 10, supplementary submission of 26 February 1993.
+SL evidence, p 15.
+81
+
+
+there will be a continuation of the trend, but the actual rate - whether a
+straight line or slightly curved - is very hard to predict.82
+5.15 In setting the current levy, the ISC assumed a population of 73 000
+funds, and allowed for an attrition of 8 000. However, half-way through the
+lodgement cycle, the ISC had already received 42 000 annual returns which
+'may suggest that the rate of rationalisation has slowed down'.83
+5.16 Mr Brian Scullin of ASFA asserted that 'our own internal thinking is
+that we believe the number is relatively stable at the moment'.84 However,
+Mr Scullin foreshadowed that 'there will be another jolt with the
+introduction of the prudential supervision measures'85 and then 'the next
+jolt will be in 1995 when the in-house asset rules become fully operative'.86
+5.17 Against this decrease in fund numbers, the ISC provided evidence
+which indicated that 1 027 new funds were established between 1 July 1992
+and 31 March 1993. Table 5.5 shows the state-by-state breakdown of this
+new-fund growth.
+TABLE 53
+FUNDS ESTABLISHED BETWEEN 1 JULY 1992 AND 31 MARCH 1993 BY STATES
+82
+ibid
+83 SL evidence, p 7.
+84 SL evidence, p 37.
+85 ibid
+86
+ibid
+
+
+5.18 It is difficult to explain the reason for this growth in funds but one
+possible reason, in certain states at least, is the change to industrial
+legislation in Victoria and New South Wales which allows greater freedom
+of choice in member selection of superannuation fund.
+The Cost to Small and Large Funds
+5.19 The ISC provided the Committee with its models showing the levy
+payable by different size funds. The evidence was given in camera so as not
+to disclose the levy payable by certain funds. Table 5.6 however shows the
+average cost of the levy on funds in the smallest and largest categories with
+respect to the four classes of fund. Also shown are the membership and
+assets of funds in those categories.
+TABLE 5.6
+
+
+Average Casts to Members of the Supervisory Levy
+ADFs
+The Effect of the Levy on Small Funds
+5.20 The effect of the levy on small superanuation funds and ADFs is
+significant.87 A fund with only $20 000 in assets will devote one per cent
+of its wealth to the levy. Assuming a rate of return of 6 per cent per annum,
+over 16 per cent of fund income is consumed by the supervisory levy. The
+percentage is likely to be higher when one considers that many of these
+funds would be new and contributions would be made throughout the year.
+5.21 However, the effect of the levy on the rate of fund rationalisation is
+not so clear. Prima facie, a 400 per cent rise in the levy would suggest a
+large decrease in the number of small funds. But it is equally likely that fund
+rationalisation is occuring for reasons other than the increased levy. Mr
+Stuparich of the ISC said that:
+Certainly the levy is a component of the costs which small funds would
+take into account, but there are other expenditures that they have to
+incur, particularly to meet the requirements under prudential supervision
+and other supervisory costs which are far more significant than that.88
+5.22 This opinion was shared by Mr Scullin of ASFA who said:
+87
+Bartier Perry Purcell, SL sub no 14.
+SL evidence, p 17.
+88
+
+
+The levy is just one factor on the rationalisation of funds and not, in my
+view, the largest. The compliance costs on funds are much larger than the
+levy they pay to the ISC.
+The Cost of Regulating Small and Large Funds
+5.23 The ISC provided evidence of the proportion of the ISC's recoverable
+costs attributable to the supervision of small funds. Table 5.7 sets out an
+estimate of the costs attributable to certain identified functions which is
+based partly on allocations and partly on judgments. Also shown are the
+proportion of those costs which it appears reasonable to allocate to small
+funds with the resulting total costs.
+TABLE 5.7 Superannuation Supervisory Levy
+Estimated Functional Split of Costs
+and Assumed Allocation of Costs to Small Funds
+89
+SL evidence, p 38.
+
+
+5.24 On the basis of ISC evidence, it would appear that the cost of
+supervising 58 000 small funds is approximately $211 per fund ($12 232 800
+divided by 58 OOO)90 although this is affected largely by the arbitrary equal
+apportionment of $9.2 million of the ISC's costs. This cost compares to the
+levy cost of $200 for those funds with assets less than $500 000. If the cost
+of the levy to small funds is not contained there will be the potential to
+drive small funds into master trust and other large fund arrangements.
+Large Funds
+5.25 As previously stated, the Levy Act prescribes a maximum fee of
+$30 000 be imposed on trustees lodging annual returns. For the 1992/93
+year, the levy is capped at $14 000 per fund. As such, funds with more than
+$35 million in assets are only required to pay $14 000. The Committee notes
+that around 340 superannuation funds and ADFs controlling over $102
+billion in assets pay under $5 million for industry supervision i.e. 0.005 per
+cent of their wealth. At the other end of the spectrum, over 65 000
+superannuation funds and ADFs controlling only $7 billion in assets pay
+over $13 million for industry supervision i.e. 0.2 per cent of their wealth.
+5.26 Both ASFA and LIFA expressed concern at the maximum rising
+above $10 000 per fund.91 The justification for this was provided by ASFA:
+On what we understand to be ISC's average per person costs, a levy of
+$10 000 implies a supervisory effort of more than one person day per
+week - for large, but very straightforward funds, this level is clearly
+beyond the ISC's current supervisory effort in relation to those funds.92
+5.27 During debate on the Levy Bill in April 1991 Senator Richard Alston,
+Deputy Chair of the Committee, said:
+The Opposition will support each of these Bills, but we will be anxious to
+ensure that the Government keeps its word: that it does not even
+contemplate going beyond the indicative level of about $5 000 for large
+funds without full and thorough consultation with the relevant industry
+bodies.93
+90
+SL sub no 10, p 9.
+91 SL sub no 17 and SL sub no 21.
+92 SL sub no 21, p 2; and SL evidence, p 31-32.
+Senate Hansard, 15 April 1991, p 2478.
+93
+
+
+Subsidisation
+5.28 Senator Alston's motion referring the supervisory levy to the
+Committee specifically raises the question of cross-subsidies between larger
+funds and small funds. There seems, however, to be confusion about
+whether large funds are subsidising small funds or vice versa. On the basis
+of the ISC's allocation to small funds it would appear that large funds are
+subsidising small funds.94 This perception was also confirmed by ASFA,
+LIFA, the Motor Trades Association of Australia, the Australia Post
+Superannuation Scheme and the NSW Cabinet Office.95 However, prior
+to the introduction of the supervisory levy it was estimated that small funds
+collectively paid in excess of 90 per cent of revenue but incurred
+approximately half of the overall costs of supervision. Hence, small funds
+were subsidising the larger funds.96
+5.29 On the question of cross-subsidisation the views of ASFA provide
+some guidance:
+We are strongly of the view that there is nothing inherently deserving of
+cross-subsidisation in small funds. I would suspect - I have no empirical
+evidence - that members of small funds are usually much higher income
+earners and have much higher net worths than members of some of the
+very large funds. They tend to be driven by entrepreneurial individuals
+who want to back their own investment judgment. You could not say they
+are going to be below average income earners or some other reason
+where they deserve to be cross-subsidised.97
+5.30 Notwithstanding the fact that the levy is a tax and not a fee-for-
+service, the ISC does 'as far as possible' set the scale of the levy to 'reflect
+the actual costs of supervision of the relevant category of funds'.98 As
+indicated in Chapter 3, there was particular concern on the part of some
+94 see Table 5.7 and following paragraph.
+95 SL sub no 21; SL sub no 17; SL Evidence, p 41; Motor Trades Association of
+Australia, SL sub no 9; Australia Post Superannuation Scheme, SL sub no 8;
+and NSW Cabinet Office, SL sub no 20.
+96 ISC Circular No. 24, Attachment A, paragraph 5.
+97 SL evidence, p 40.
+98 ISC Circular No. 24, Attachment A, paragraph 10.
+
+
+witnesses that they could not see any extra benefit in the 400 per cent
+increase in the levy.
+5.31 The visibility of service affects both ASFA and LIFA in their opinions
+on the levy scale. As ASFA stated:
+We believe it is incumbent on the Commission, if it considers that it is
+costing more than $10 000 per annum to regulate a typical large fund, to
+produce figures which demonstrate how it might cost more. In the
+absence of such figures, it is difficult for trustees of large funds to view
+the excess levy over say $10 000 as anything more than just another
+tax.99
+Recommendation 5,1:
+The Committee recommends that cross-subsidisation between different
+sized funds should be kept to a minimum.
+Recommendation 52:
+The Committee recommends that cognisance be had of the likely service
+categories of funds would receive for the payment of the levy noting,
+however, that the levy is a tax and not a fee-for-service.
+99
+SL sub no 21; see also Motor Trades association of Australia, SL sub no 9.
+
+
+APPENDIX A : TERMS OF REFERENCE
+FOR ON-GOING INQUIRY
+Appendix A - Terms of Reference
+On 5 June 1991 the Senate established a Select Committee on
+Superannuation to inquire into, and report on, the following matters:
+(a) the constitutional arrangements governing superannuation;
+(b) the taxation arrangements which apply to superannuation;
+(c) the adequacy of prudential control arrangements applying to
+superannuation funds;
+(d) the implications for the financial system of the expected growth in
+superannuation fund assets;
+(e) the investment of moneys by superannuation funds;
+(f) the ownership of surpluses in defined benefit superannuation funds;
+(g) the level and structure of fees and commissions charged in relation to
+superannuation fund membership and asset management;
+(h) the information available to members of superannuation funds;
+(i) the representation of fund members in trustee structures of
+superannuation funds;
+(j) the dispute resolution mechanisms available to members of
+superannuation funds;
+(k) the rules applying to contributions and the vesting and preservation
+of benefits;
+(l) the appropriate means of providing adequate superannuation for part
+time and casual employees and the feasibility of providing
+superannuation for people outside the workforce;
+
+
+(m) the rate of employer non-compliance with superannuation awards;
+(n) the possibilities for simplifying superannuation;
+(o) the feasibility of providing improved benefits to superannuation
+arrangements in lieu of increased contributions under superannuation
+awards in appropriate circumstances;
+(p) the need for an appropriate target and timetable for the achievement
+of adequate levels of superannuation; and
+(q) any other relevant matters, including superannuation arrangements
+existing in other countries.
+
+
+APPENDIX B : LIST OF WITNESSES RE
+SUPERVISORY LEVY
+Appendix B - List of Witnesses re Supervisory Levy
+
+
+
+
+APPENDIX C : LIST OF WITNESSES RE ON-GOING
+INQUIRY
+Appendix C — List of Witnesses re On-going Inquiry
+
+
+
+
+
+
+
+
+
+
+
+
+APPENDIX D :
+SUPERVISION SUPERVISORY LEVY
+SUBMISSION LIST
+Appendix D — Supervision Supervisory Levy Submission List
+
+
+
+
+APPENDIX E : LIST OF SUBMISSIONS RE ON-
+GOING INQUIRY
+Appendix E: List Witnesses re On-going Inquiry (Numerical)
+- IN NUMERICAL ORDER
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+APPENDIX F : LIST OF SUBMISSIONS RE ON-
+GOING INQUIRY
+Appendix F: List Witnesses re On-going Inquiry (Alphabetical)
+- IN ALPHABETICAL ORDER
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+APPENDIX G: SUBMISSION FROM
+TORNEY GENERAL’S DEPARTMENT
+Office of General Counsel
+OGC93456329
+20 May 1993
+Mr Richard Gilbert
+Secretary
+Select Committee on Superannuation
+Australian Senate
+CANBERRA ACT 2600
+Dear Mr Gilbert
+CONSTITUTIONALITY OF IMPOSITION OF SUPERANNUATION SUPERVISORY
+LEVY ON STATE PUBLIC SECTOR SUPERANNUATION FUNDS
+I refer to your letter dated 3 May 1993 seeking advice whether the superannuation
+supervisory levy can be legally levied on State public sector superannuation funds and
+approved deposit funds in the light of the High Court’s decision in South Australia v
+Commonwealth (1992) 105 ALR 171. The Secretary has asked me to reply to you.
+2. In this Department’s view, the levy may be legally imposed on State public sector
+superannuation funds and approved deposit funds.
+3. Section 5 of the Superannuation Levy Act 1991 imposes levy payable in accordance
+with s. 15DA of the Occupational Superannuation Standards Act 1987. Section 15DA of
+the Occupational Superannuation Standards Act 1987 provides that trustees who lodge
+certain annual returns under the Act (namely, returns as to satisfaction of conditions under
+that Act) are liable to pay a levy on that lodgement. Levy is payable at the time of the
+lodgement of a return (s. 15DB). The amount of the levy is calculated in accordance with
+a formula set out in s. 6 of the Superannuation Supervisory Levy Act, the main operative
+element of which is the ‘basic levy amount’ which is ascertained in accordance with
+regulations made under that Act. Under the Superannuations Supervisory Levy
+Regulations, the basic levy amount varies in certain circumstances, but is generally
+calculated according to the assets of the levy payer, currently $200 for each $500,000, or
+part of $500,000, of the assets of the levy payer, or $14,000, which ever is the lesser.
+4. South Australia v The Commonwealth, of course, dealt with the application of s. 114
+of the Constitution, which prohibits the imposition by the Commonwealth of any tax on
+property of any kind belonging to a State. The High Court confirmed that a tax is properly
+characterised, for the purposes of s. 114, as a tax on property if, and only if, it is imposed
+upon a tax payer by reference to a relationship between the tax payer and the relevant
+property and the relationship is such that the tax represents a tax on the ownership or
+holding of the property in question (at p. 177). The Court also maintained the distinction
+first made in the Steel Rails Case (1908) 5 CLR 818 between a tax on property and a tax
+on transactions, but acknowledged that a tax framed as a tax on transactions may
+Robert Garran Offices, National Circuit, Barton ACT 2600 • Telephone (06)
+OFFICES IN CANBERRA, SYDNEY, MELBOURNE, 8RIS8ANE, PERTH, ADELAIDE,
+Central Office
+i 6666 • Fax (06) 250 5915
+>BART, DARWIN, TOWNSVILLE
+Appendix G: Submission from Attorney General's Department
+Attorney^
+GENERAL'S
+DEPARTMENT
+
+
+nevertheless in some circumstances amount to a tax on property. This was ‘because the
+prohibition contained in s. 114 is a matter of substance rather than of form and because a
+tax imposed by reference to the ownership or holding of property may take the form of tax
+on transactions’ (at p. 178). The Court in that case upheld the validity of a tax on income
+(including interest) produced by property agreed to belong to a State but held as invalid a
+tax on capital gains derived in respect of such property.
+5. In relation to the superannuation supervisory levy, the question of the application of
+s. 114 would, of course, only arise in so far as the trustees could be regarded as emanations
+of a State and their assets were therefore property of the State. It is, however, reasonable
+to assume that at least in some States this would be the case.
+6. On its face, the levy is clearly open to the construction that it is a tax on a transaction
+or action (ie. the lodgement of a return) rather than a tax on the assets held by the trustees.
+On this construction, the reference to the assets of the levy payer in the legislation
+functions merely as an element in the calculation of the amount of the levy. The method of
+calculation of the amount of the levy nevertheless raises the possibility of an argument that
+the levy is in substance a tax on the assets of the trustees. In this Department’s view,
+however, this argument would be rejected by the High Court.
+7. So far, the High Court, while acknowledging that s. 114 is concerned with substance
+rather than form, has focused principally on the ostensible subject of a tax rather than on its
+method of calculation. Thus where the ostensible subject of a tax, while not itself
+ownership, is sufficiently related to ownership (eg. possession or use), the tax may be held
+to be in substance a tax on ownership (see Deputy Commissioner of Taxation v State Bank
+of NSW (1992) 105 ALR 161). In the present case, the subject of the tax, the lodgement of
+a return, is unrelated to property. In our view, despite its method of calculation, the High
+Court would be likely to regard the tax as being essentially a tax on actions (ie. lodgements
+of returns) by which funds submit themselves to the regime set out in the Occupational
+Superannuation Standards Act 1987, a regime which enables them to qualify for tax
+concessions if they satisfy the conditions set out in the Act.
+8. Please do not hesitate to contact me if you or the Committee wish to discuss this
+advice.
+Yours sincerely
+Telephone: 250 6414
+Facsimile: 250 5915
+20 May 1993
+constitutionality of imposition of superannuation supervisory levy on state public sector superannuation funds
+
+
+APPENDIX H : GLOSSARY
+Appendix H: Glossary
+Allocated Pension
+Annuity
+Approved Deposit fund
+(ADF)
+Arms' Length
+A pension where the member has his own
+account against which pension payments are
+debited and to which any investment earnings
+are credited. The pension will continue until
+the death of the pensioner, or until the
+account is exhausted. Upon death, any
+balance remaining in the account is paid to a
+designated beneficiary as a (taxable) lump sum
+payment, or is applied to secure further
+pension payments to a surviving spouse.
+A regular periodic payment to a person
+(cf pension). Where weekly, fortnightly or
+monthly payments out of a superannuation
+fund are involved, the expression 'pension' is
+more commonly used.
+A fund which has the purpose of holding lump
+sum superannuation benefits rolled over for
+the purpose of maintaining the concessional
+taxation treatment until the taxpayer attains
+preservation age.
+A term which refers to the relationship
+between the employer company and the
+members of a superannuation fund. If the
+members of the fund are employees of the
+sponsoring company, an arms' length fund is
+said to exist.
+
+
+Commutation
+Defined Benefits Fund
+Deferred Annuity
+Eligible Termination
+Payments (ETP)
+Life Office
+Life Policy
+Lump Sum
+Term used to describe the process whereby
+one type of superannuation benefit is
+commuted (changed) to another type, for
+example conversion from a pension to a lump
+sum.
+A superannuation fund that contracts to pay a
+member a fixed or defined amount of money
+that is linked to the salary level.
+An annuity under which the payments are
+delayed by a specified period or to the date of
+occurrence of a specified event.
+Payments made to employees leaving
+employment. They include payments from a
+superannuation fund or other inducements to
+retire but exclude accrued annual and long
+service leave.
+A firm which sells life insurance and other
+insurance products, for example, life cover,
+super bonds, annuities and superannuation.
+A contract of insurance agreed to when a
+person purchases life insurance.
+The amount which is paid to a retiree at the
+time of retirement (as opposed to a pension
+for life).
+
+
+Master Trust
+Maximum Deductible
+Contribution Limit
+(MDCL)
+Portability
+Preservation
+Prudential Controls
+Reasonable Benefits
+Limit (RBL)
+Repatriation of Surplus
+A trust arrangement which allows a single
+trustee appointed by the promoter of the fund
+to administer and manage the superannuation
+funds paid by a number of employers and
+employees.
+A rule which places a cap on the level of
+superannuation contributions which employers
+or members can make for employees. When
+this limit is exceeded, the fund is deemed to
+be non-complying and loses concessional tax
+status.
+Allowing a superannuation plan to be
+transferred from one fund (or one employer)
+to another.
+Maintenance of a member's entitlements in a
+superannuation until a specified minimum age
+(usually at least 55 years).
+The measures instituted to supervise and
+control activities in the superannuation
+industry to ensure the security of contributor's
+funds.
+The maximum limit on the amount a member
+can receive from superannuation, ADFs or
+DAFs, with preferential taxation treatment.
+The limit can be calculated from a member's
+highest average salary.
+The act of transferring surplus assets in a
+superannuation fund to the sponsoring
+employer.
+
+
+Rollover Funds
+Securities
+Superannuation Fund
+Surplus
+Trust
+The funds in which eligible termination
+payments are deposited when a person leaves
+or changes employment. These funds are
+preserved until retirement age is reached.
+Rollover funds receive concessional tax
+treatment in that the tax liability is deferred
+until retirement age.
+Financial instruments which are evidence of
+debt or of property. Bonds, certificates of
+stock and shares are documents which indicate
+the existence of a security.
+A fund designed to produce retirement
+benefits for members. To attract tax
+concessions, it must have these characteristics:
+(a) be indefinitely continuing, and (b) be
+maintained solely for following purposes:
+provision of benefits for fund members, or for
+dependants of each member in the event of
+death, or any other purpose allowed by the
+Insurance and Superannuation Commission in
+writing.
+A position reached in a superannuation fund
+whereby the accrued earnings and
+contributions exceed the funds accumulated
+liabilities.
+A fiduciary relationship in which one person
+(the trustee) holds the title to property for the
+benefit of another (the beneficiary).
+
+
+Trust Deed
+Trustee
+Unfunded Scheme
+Undeducted Purchase
+Price
+Vesting
+The legal document which appoints trustees
+and defines their power.
+A person, usually one of a body of persons,
+appointed to administer the affairs of a
+company, institution, etc, who holds the title
+to property for the benefit of another.
+A superannuation scheme where the employer
+has not contributed to match liabilities, that is,
+benefits payable to members as they accrue.
+Instead, payments are made to members when
+they are due.
+In relation to an annuity or superannuation
+pension, that portion of monies used to
+purchase the annuity or pension which has not
+been claimed as a deduction.
+Conferring on a superannuation fund member
+the ownership of all or part of the accrued
+benefit applicable to that member.
+
+
+„THE PARLIAMENT OF THE
+COMMONWEALTH OF AUSTRALIA
+PARLIAMENTARY
+PAPER
+No, 75 Of 1993
+ORDS£DTD BE PRINTED
+ISSN 0727418

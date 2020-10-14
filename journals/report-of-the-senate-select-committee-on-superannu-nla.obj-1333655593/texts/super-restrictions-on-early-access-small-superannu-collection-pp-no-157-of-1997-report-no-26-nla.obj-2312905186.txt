@@ -1,0 +1,2629 @@
+
+
+Super - Restrictions on
+Early Access
+Parliament of the Commonwealth of Australia
+26th Report of the
+Senate Select Committee on Superannuation
+Small Superannuation Accounts
+Amendment Bill 1997
+and related terms of reference
+Canberra
+September 1997
+
+
+
+
+Super - Restrictions on
+Early Access
+Parliament of the Commonwealth of Australia
+26th Report of the
+Senate Select Committee on Superannuation
+Small Superannuation Accounts
+Amendment Bill 1997
+and related terms of reference
+Canberra
+September 1997
+
+
+© Commonwealth of Australia 1997
+ISBN 0 642 25149 5
+This document was produced from camera-ready copy prepared by the Senate Select
+Committee on Superannuation Secretariat, and printed by the Senate Printing Unit,
+Parliament House, Canberra.
+
+
+MEMBERS OF THE COMMITTEE
+Senator John Watson Chair
+Senator the Hon Nick Sherry Deputy Chair
+Senator Lyn Allison
+Senator Stephen Conroy
+Senator Chris Evans
+Senator Alan Ferguson
+Senator Julian McGauran
+Tasmania
+Tasmania
+Victoria
+Victoria
+Western Australia
+South Australia
+Victoria
+Secretariat Staff:
+Mr Rod Adams
+Mr James Greentree
+Ms Jade Ricza
+Mr Peter Hallahan
+Principal Research Officer:
+Senior Research Officer:
+Executive Assistant:
+Secretary:
+Address: The Senate
+Parliament House
+CANBERRA ACT 2600
+Telephone: (06) 277 3439
+Facsimile: (06)277 5719
+This report is also available on the Internet at:
+http://www.aph.gov.au/senate/coinmittee/commfp.html
+
+
+
+
+CONTENTS
+CONTENTS.j
+CHAPTER 1.1
+BACKGROUND.1
+Origin of the inquiry and terms of reference.1
+Conduct of the inquiry.2
+The Committee's task.2
+CHAPTER 2.5
+PRESERVATION OF SUPERANNUATION.5
+What preservation means.5
+The Government's policy.5
+The value of preservation.6
+The leakage problem.7
+These changes in the broader context of preservation, and of national savings.7
+RIM Modelling.8
+Cost to revenue.10
+Conclusions.10
+CHAPTER 3.13
+ABOLITION OF THE $500 THRESHOLD.13
+What this measure means. 13
+The Committee's previous work.13
+The new evidence.13
+Conclusion - what about a lower threshold?.15
+CHAPTER 4.17
+REPLACING THE HARDSHIP TEST... 17
+What this change does.17
+Transitional arrangements.17
+Previous consideration of hardship by this committee. 18
+Appropriateness of objective rules for access on hardship grounds.18
+Inflexibility and related problems.19
+Compassionate grounds.21
+Residual discretion or right of appeal?.22
+The recent history on hardship applications under the former rules.24
+Super - a first option in hardship?.24
+Combining objective and subjective tests for hardship.26
+Conclusions.27
+CHAPTER 5.29
+PERMANENT DEPARTURE.29
+Effect of the changes.29
+The Government's changes to the application of ..30
+
+
+Contents
+The changes to visa rules.31
+The Roach Committee.34
+The ambit of the Super Guarantee: do temporary residents fit in?.35
+Limiting SG exemption to the sub-class 413 visa criteria...37
+Temporary entrants and the labour market: are they job takers?.38
+The new old 413 requirements - administrative problems for employers.40
+What is achieved by removing early release for permanent departure?.43
+Retrospective, prospective, or another perspective?.45
+The notice period: transition impossible?.47
+What about the job makers?.49
+A threefold burden:.51
+One - the burden on temporary entrants.51
+Two - the burden on employers.52
+Three - the burden on superannuation funds.52
+Are temporary entrants likely to become reliant on Australian social security?.53
+International social security agreements.54
+Permanent departure of Australian citizens and permanent residents.55
+Generally - regarding superannuation.57
+Australian citizens and permanent residents.57
+Temporary residents.58
+CHAPTER 6.61
+RECOMMENDATIONS ON THE GOVERNMENT'S CHANGES.61
+Prelude.61
+The Committees recommendations.62
+Abolition of the $500 threshold.62
+Release of monies on departure overseas.62
+Hardship and compassionate grounds.63
+CHAPTER 7.65
+REPORT ON THE SMALL SUPERANNUATION ACCOUNTS AMENDMENT BILL 1997.65
+Background.65
+What the SHAR is.65
+The future of SHAR.66
+What the amending Bill does.66
+Hardship and compassionate grounds.68
+APPENDIX A.71
+LIST OF WRITTEN SUBMISSIONS.71
+APPENDIX B.73
+LIST OF WITNESSES AT PUBLIC HEARINGS.73
+MELBOURNE, 13 AUGUST 1997.73
+SYDNEY, 14 AUGUST 1997.73
+CANBERRA, 20 AUGUST 1997.74
+APPENDIX C.77
+LIST OF COMMITTEE REPORTS
+77
+
+
+CHAPTER 1
+BACKGROUND
+The early release principles dealt with in the Bill have been introduced already in the
+Superannuation Industry (Supervision) (SIS) Regulations which apply to complying funds.
+These principles ... have not had the opportunity of going through the same Parliamentary
+review process as an Act as they were introduced by way of regulations.1
+Origin of the inquiry and terms of reference
+1.1 On 19 June 1997, the Senate referred the Small Superannuation Accounts Amendment
+Bill 1997 to the Committee for inquiry and report by 28 August 1997. The provisions of this
+Bill tighten the arrangements relating to the early release of monies held in the
+Superannuation Holding Accounts Reserve (SHAR).
+1.2 The principles dealt with in this Bill are to be applied to the entire superannuation
+system. Accordingly, on 26 June the Senate extended this reference as follows:
+That the following matter be referred to the Select Committee on Superannuation for
+inquiry and report:
+(1) That the Senate notes that the Government has introduced the Small Superannuation
+Accounts Amendment Bill 1997 which contains three principles for tightening the
+provisions governing the early release of superannuation benefits as outlined by the
+Government in the 1997 budget documents:
+(a) to remove access to superannuation monies where the balance is less than $500;
+(b) to restrict access to superannuation monies for persons under preservation age
+who are permanently leaving Australia; and
+(c) to restrict access to superannuation monies on the grounds of severe financial
+hardship by instituting a new severe financial hardship test which requires
+persons to have been in receipt of specified Commonwealth income support
+payments for a continuous period of 52 weeks if under age 55, or for a
+cumulative period of 39 weeks if over age 55.
+(2) That, given that these principles are to be applied to the entire superannuation system,
+the issues in paragraph (1) be referred to the Select Committee on Superannuation for
+a comprehensive analysis and full public hearings on their implication, particularly
+their impact on low and middle income earners.
+(3) That the committee report by 28 August 1997.
+1
+Submission 11, ASFA, p. 1.
+
+
+Chapter 1
+1.3 The Committee was granted two extensions of time to report. On 27 August 1997, the
+Senate extended the reporting date to 11 September 1997, and on 4 September 1997 further
+extended the date to 25 September 1997.
+Conduct of the inquiry
+1.4 The Committee advertised the reference in the Australian Financial Review on 2 July 1997,
+and contacted a number of organisations directly inviting their submissions. Three public hearings
+were held: in Melbourne, Sydney and Canberra on 13, 14 and 20 August 1997 respectively. A total
+of 21 submissions were received and the names of those making submissions, together with a list of
+witnesses who gave evidence at the public hearing, are listed in Appendices A and B.
+1.5 The Committee thanks those persons and organisations who made submissions and
+gave evidence.
+The Committee's task
+1.6 The Committee was required to do two things:
+• to recommend on the provisions of the Small Superannuation Accounts
+Amendment Bill 1997 as referred; and
+• to inquire into and report on the matters raised in the Bill, in accordance with the
+broader terms of reference of 26 June 1996.
+The Small Superannuation Accounts Amendment Bill 1997
+1.7 The SHAR was established by the Small Superannuation Accounts Act 1995 (SSA
+Act), commenced operating on 1 July 1995 and is administered by the Australian Taxation
+Office. It is a fee-free collection system for small superannuation contributions, and provides
+for employers to pay superannuation contributions to the SHAR rather than to superannuation
+funds. SHAR was established to accept contributions from employers where the employer's
+superannuation fund will not accept a particular contribution because of requirements that
+fees and charges cannot exceed the interest earned on such amounts. It is part of the small
+amounts protection regime.
+1.8 Amendments in the Small Superannuation Accounts Bill restrict the circumstances
+when monies held in SHAR can be withdrawn. Those circumstances are as set out in the
+broader terms of reference (1) (a), (b) and (c) set out in paragraph 1.2 above. The
+amendments tighten the preservation arrangements in the SHAR. These amendments were to
+take effect on 1 July 1997, but do not apply to withdrawal requests lodged with the
+Commissioner of Taxation before that date.
+1.9 Chapter 7 of this report constitutes the separate report on the Committee's inquiry into
+this Bill.
+
+
+The broader reference
+1.10 As stated in the terms of reference, the matters raised in the amendments to the Small
+Superannuation Accounts Amendment Bill 1997 are also to apply to the whole of the
+superannuation system. To achieve the changes, the Superannuation Industry (Supervision)
+Regulations and the Retirement Savings Accounts Regulations needed to be amended with
+effect from 1 July 1997. Consequently, Statutory Rules Nos 150 - 153 amending those
+regulations were gazetted on 26 June 1997,2 and tabled in the Parliament on 25 August 1997. '
+1.11 While the Committee has no reference to examine the amended regulations
+themselves, the following information is given in the event of the disapproval of the Senate
+with those regulations. The Acts Interpretation Act 1901 provides that regulations 'shall be
+laid before each House of the Parliament within 15 sitting days of that House after the making
+of the regulations'.4 This allows for the disallowance provision to come into effect:
+If either House of the Parliament, in pursuance of a motion of which notice has
+been given within 15 sitting days after any regulations have been laid before
+that House, passes a resolution disallowing any of those regulations, any
+regulation so disallowed thereupon ceases to have effect.5
+1.12 The Committee's responsibility, however, was to inquire into the issues and not to
+recommend on the amending regulations themselves. Accordingly, the following chapters
+examine, in turn, the issue of preservation generally and then the three specific issues raised
+by the amendments, namely:
+• abolition of the $500 threshold;
+. release of monies to a non-resident only after preservation age; and
+. replacement of the 'severe financial hardship1 test with an objective test of
+hardship based on receipt of specified Commonwealth payments for a specified
+period.
+2
+Insurance and Superannuation Commission , ISC Policy Legislation Update, No. 5/97.
+3 Journals of the Senate, No. 116, pp. 2307-8.
+4 See section 48.
+Section 48(4) of the Acts Interpretation Act cited at p. 343 of Odgers' Australian Senate Practice, 7th Ed.
+5
+
+
+
+
+CHAPTER 2
+PRESERVATION OF SUPERANNUATION
+The broad principle underlying preservation rules is that benefits which have received
+concessional taxation treatment should be preserved. However, there is wide recognition that
+this principle is not fully reflected in current preservation rules}
+What preservation means
+2.1 Superannuation benefits are generally required to be "preserved" in the
+superannuation system until retirement age which is on or after age 55. However, early
+release is possible under certain circumstances.
+2.2 Subject to the governing rules of the individual superannuation funds, early release of
+preserved benefits has previously been permitted under superannuation law in the following
+circumstances:
+• permanent incapacity;
+• where the balance is less than $500 and the individual has ceased employment
+with all depositors;
+• permanent departure from Australia;
+• severe financial hardship; and
+• any other condition of release which the Insurance and Superannuation
+Commissioner approves to provide benefits for an ancillary purpose (most
+commonly compassionate grounds).
+The Government's policy
+2.3 The Government changes, under examination by the Committee, affect the last four ot
+the above circumstances for early release of preserved benefits.
+2.4 In the 1997-98 Budget the Treasurer and the Minister for Social Security issued a joint
+statement on savings and retirement incomes policy, Savings: Choice and Incentive. Included
+in that statement were measures to streamline and tighten arrangements for the early release
+of superannuation savings. To come into effect from 1 July 1997, the new measures aimed to
+ensure that superannuation is better directed towards the provision of retirement income.
+2.5 These new measures were:
+. removal of the "permanent departure from Australia" condition of release;
+1 Retirement Income Modelling Task Force, Aggregate Analyses of Policies for Accessing Superannuation
+Accumulations, June 1997, p. 4.
+
+
+Chapter 2
+removal of the $500 preservation threshold;
+. replacement of the current discretionary system for release on 'severe financial
+hardship' grounds (administered by the Insurance and Superannuation
+Commission), with an objective test to be administered by fund trustees and
+Retirement Savings Account providers; and
+. reform the 'compassionate grounds' condition of release."
+2.6 The last of these measures, compassionate grounds, has been dealt with by replacing
+the broad discretion of the Insurance and Superannuation Commissioner with defined criteria
+that must be satisfied for early release. This matter is dealt with in Chapter 4 alongside
+consideration of the new hardship provisions.
+2.7 As mentioned in paragraph 1.9, the Statutory Rules to amend the relevant regulations
+to give effect to these changes were gazetted on 26 June 1997. The relevant Superannuation
+Industry (Supervision) Regulations and Retirement Savings Accounts Regulations were
+thereby amended and the changes took effect at law.
+2.8 The Government decided, through the Small Superannuation Accounts Amendment
+Bill 1997, to extend the reforms to the Superannuation Holding Accounts Reserve (SHAR) 'to
+ensure complete coverage of all superannuation savings arrangements'. This application of
+the changes to SHAR was the subject of the initial reference of these reforms to the
+Committee for inquiry and report.
+The value of preservation
+2.9 Under superannuation law, preservation generally means that members of a
+superannuation fund cannot access the money in their superannuation account until
+retirement. This is consistent with the very notion of superannuation as the provision of
+retirement incomes.
+2.10 The SHAR currently only permits contributions to be accessed by an individual for
+whose benefit they are held, where that individual:
+• has a balance less than $500 and the person has ceased to be employed by all
+depositors;
+• is in severe financial hardship;
+• has retired because of permanent disability;
+• has turned 65; or
+. is not an Australian resident and not employed in Australia.
+2 Insurance and Superannuation Commission, Policy Legislation Update, No. 5/97.
+3 Small Superannuation Accounts Amendment Bill 1997, Second Reading Speech.
+ibid
+4
+
+
+The leakage problem
+2.11 This Committee has taken a consistent view that leakage of superannuation monies
+should be minimised. In its Fourth Report, Super - Fiscal and Social Links tabled in
+December 1992, the Committee said:
+Ideally, all net accumulation of funds, whether from contributions or fund
+earnings, should be retained until needed to produce retirement income and not
+dissipated on changing jobs or becoming unemployed as frequently occurs.5
+2.12 In that report, the Committee talked about the 'optimum operating conditions' for
+achieving the government's objectives of'increasing the incomes of retirees and reducing the
+burden of aged care on the national budget'. The Committee added:
+The final link in the chain is closed when the benefits are taken in the form of,
+or are used to, generate retirement income. The use of benefits for any other
+purpose, however necessary or worthy, detracts from the central purpose of
+superannuation, that is, the provision of retirement income.6
+These changes in the broader context of preservation, and of national savings
+2.13 Apart from the changes that are the subject of this report, the Government made two
+other major announcements in the 1997-98 Budget in relation to access to superannuation,
+They were:
+• that, from 1 July 1999, all future contributions (including member contributions)
+and earnings are to be preserved; and
+• to increase the preservation age from 55 to 60 by 2025 (as announced by the
+previous Government), to be phased in from 2020.
+Insert by Labor and Democrat Senators on inconsistencies in the Government's
+superannuation policy
+2.14 The Government's 1997 Budget Statement, Savings: choice and incentive states:
+This Government is committed to a retirement income policy that
+provides encouragement for individuals to achieve a higher
+standard of living in retirement than would be possible from the
+Age Pension alone, but also ensures that all Australians have
+security and dignity in retirement.7
+2.15 In addition, the Government has stated on numerous occasions that it believes
+superannuation monies should be used to provide a better standard of living for people in
+retirement. That is a laudable sentiment and one which the Australian Labor Party strongly
+5 Super - Fiscal and Social Links, p. 12,
+6 ibid
+7
+Savings: choice and incentive, Joint Statement by the Treasurer and the Minister for Social Security,
+13 May 1997, p. 2.
+
+
+endorses. Tightening the early release provisions is one way of ensuring a better retirement
+income than would have been expected if people access their superannuation funds before
+they are ready to retire.
+2.16 However, Labor and Democrat Senators consider that the Senate Select
+Committee's inquiry into the early release of superannuation has clearly highlighted the
+Government's inconsistent approach to superannuation and retirement incomes policy. The
+Government is, on the one hand, legislating to tighten the early release of superannuation
+and, on the other hand, it is asking people who are over age 55 but below retirement age
+and in receipt of an income support payment to draw down on their superannuation savings
+before they are ready to retire. This is completely contrary to the Government's claim that
+the changes to preservation and new tightening of early release measures will
+... increase national saving through greater accumulation of
+superannuation savings, leading to reduced pension outlays as
+individuals achieve higher levels of income in retirement.8
+2.17 People aged over 55 but below Age Pension age who are affected by the
+Government's inconsistent measures and have to draw down on their superannuation
+before retiring, will clearly not contribute to national savings, will potentially increase pension
+outlays once they have exhausted their modest retirement nest egg and will not achieve a
+higher level of income in retirement.
+2.18 Labor and Democrat Senators urge the Government to rethink its superannuation
+and retirement income objectives and policies which display a distinct lack of consistency.
+Insert by Coalition Senators
+2.19 Coalition Senators note that the measures introduced by the Howard Government
+concerning people who are over age 55, referred to by Labor Senators in paragraphs 2.16
+and 2.17, are only returning to the situation that existed under the previous Government
+until March 1993. Prior to that date, only compulsorily preserved superannuation assets
+were exempt from social security income and assets tests until age pension age.
+RIM Modelling
+2.20 The Retirement Income Modelling Task Force (RIM) undertook some detailed
+modelling on, inter alia, the change in national savings as a result of the new preservation
+policy announced in the Budget. Increases in national savings as a result of the package of
+new preservation measures are calculated to be $493 million or 0.08 per cent of GDP in
+1999-00, rising to $12 383 million or 0.87 per cent of GDP in 2019-20.9
+2.21 The new restriction on early access to superannuation will have an immediate positive
+impact on national savings. RIM estimates the effect of these changes in 1997-98 will be an
+increase of $115 million in national savings in 1997-98.10
+8 ibid, p. 18.
+9 June 1997 RIM paper, Aggregate Analyses of Policies for Accessing Superannuation Accumulations,
+p. 7.
+10 June 1997 RIM paper, p. 8.
+
+
+Insert by Labor Senators on the claims of immediate positive impact on national savings
+2.22 Labor Senators do not concur with the Committee's claim, based on figures
+produced by the RIM Taskforce, that the tightening of early release provisions will 'have an
+immediate and positive impact on national savings.' Labor Senators point out that there are
+inconsistencies between the assumptions made by the RIM taskforce to produce the figures
+on the increase in national savings and the ISC and DSS evidence. If the RIM assumptions
+are incorrect, the opposite effect to that intended could occur and national savings may
+decrease.
+2.23 The RIM taskforce modelling states that
+The essential input to the analysis is the extent of the reduced
+outflow from superannuation fund assets resulting from the policy
+... In the analysis presented ... the assumed reduction in total
+outflow is initially around $120m pa compared with current total
+hardship flows of $180m and uncertain amounts for persons going
+overseas on a permanent basis.11
+2.24 However, the evidence given to the Committee by the ISC and DSS apparently
+contradicts the assumption that the Government's policies on tightening the release of
+superannuation on severe financial hardship grounds will result in a reduction in leakage
+from the system, at least in terms of the number of applications for early release under
+severe financial hardship provisions.
+2.25 In response to Committee questioning about what influenced the decision to set the
+objective test limits at 52 and 39 weeks, the ISC replied
+One factor which informed the policy formulation of these
+measures was the statistic that approximately 65 per cent of
+current applicants [for severe financial hardship] are on DSS
+benefits and if you take that figure alone you have to conclude
+that this will result in some tightening of their own tests ... Our
+expectation is that these new rules will result in a greater
+tightening than would otherwise have been the case if the
+discretionary system remained.12
+2.26 The ISC had earlier stated that the number of applications for early release of
+superannuation on severe financial hardship grounds was 78,648 in 1996-97.
+2.27 However, the ISC did not 'have a clear indication' of the number of people who would
+be eligible for the early release of superannuation under the new objective test, assuming
+they had a superannuation account, stating simply that 'The number of people ... is very
+large'.14
+11 ibid
+12 Evidence, pp. 179-180.
+13 Evidence, p. 176.
+14 Evidence, p. 178.
+
+
+2.28 Evidence given by the DSS in response to Committee questioning on how many
+people would qualify was more definitive.
+It is in the order of one million.15
+2.29 With one million people automatically qualifying for access to their superannuation
+under the Government's new objective test for financial difficulty, the potential exists for
+many more than the 78,648 applications which accrued in 1996-97.
+2.30 While not all of the approximately one million people who are automatically eligible
+for the early release of up to $15,000 of superannuation under the new objective test would
+have superannuation assets, Labor Senators believe that the new measures could increase
+superannuation leakages from the system.
+2.31 In addition, Labor Senators consider that the RIM taskforce figures do not seem to
+have accounted for the certain increase in pension outlays as a result of the above
+mentioned measures to include superannuation assets in the Social Security means test for
+over 55s.
+Cost to revenue
+2.32 The Government's measures to tighten early release of superannuation will have a
+medium term fiscal cost.
+2.33 This is because the taxation on early release is payable at the rate of 20 per cent.
+Under the new preservation rules, the money will stay in Australia until individual expatriates
+are at least age 55 and retired. In those circumstances, the first $90 474 (as at 1 July 1997)
+will be received tax free.
+2.34 The Government has estimated the cost to revenue as follows:
+These measures will have a medium term fiscal cost, due to reduced tax receipts
+from lower withdrawals from superannuation. The cost of the changes is
+estimated to be $9.6 million in 1997-98, $10.2 million in 1998-99, $45.8 million
+in 1999-2000, and $t 16.4 million in 2000-2001.16
+Conclusions
+2.35 The Committee regards the principles of preservation as very important. However, the
+Committee recognises that some provision for early access to superannuation is a recognised
+feature of the established superannuation framework in this country.
+2.36 Australia has in place a sophisticated privately-funded universal superannuation
+system which in many respects is unique in the world. Part of the development of that regime
+has been providing for the early access to preserved benefits under certain circumstances. The
+15 Evidence, p. 178.
+16 Savings: choice and incentive, Joint Statement by the Treasurer and the Minister for Social Security,
+13 May 1997, p. 19.
+
+
+Committee believes the continuation of some restricted and disciplined means of early access
+is itself a principle which is needed as a pressure valve, and to promote belief and confidence
+in the system.
+2.37 During the course of its inquiry, the Committee came to believe that there may be a
+basic lack of understanding by the bureaucracy of the differences between Australia's
+superannuation system and overseas retirement incomes schemes.
+
+
+
+
+CHAPTER 3
+ABOLITION OF THE $500 THRESHOLD
+By accessing their super, members dissipate their own retirement income. With the
+introduction of member protection, the importance of cashing benefits under $500 to avoid
+onerous charges no longer exists.1
+What this measure means
+3.1 The effect of this amendment is that individuals will no longer be able to request
+payment of their superannuation account balances on the basis that the balance is less than
+$500. This had been the only automatic right to early access of superannuation benefits - for
+those persons who left employment and had only small balances in their superannuation
+accounts.
+The Committee's previous work
+3.2 In its Fifteenth Report, Super Guarantee Its Track Record tabled in February 1995,
+this Committee examined evidence on the consequences of allowing access to balances less
+than $500. The Committee recommended the removal of access to preserved amounts of less
+than $500 as the second of three elements in its proposal to alleviate the small accounts
+problem. (The other two elements were changing the Super Guarantee threshold from $450
+per month to a quarterly amount of less than $1350, and the removal of contributions tax for
+the first $500 of contributions.) To date there has been no Government Response to the
+Committee's Fifteenth Report.
+3.3 The Committee, in its Seventeenth Report Super and Broken Work Patterns tabled in
+November 1995, confirmed this recommendation 'that, subject to the small accounts problem
+being properly rectified, access to preserved amounts of less than $500 should be removed’.
+The new evidence
+3.4 In this inquiry into the Government's changes to early release of superannuation, the
+Committee was presented with arguments both for and against abolishing the $500 threshold.
+What may have initially seemed a fairly simple issue turned out to require serious
+examination, as the Committee was able to see this measure in the wider context of early
+access.
+1 Evidence, Ms Brenda Mills, p. 78.
+Super and Broken Work Patterns, p. 76.
+2
+
+
+Chapter 3
+A retrograde step?
+3.5 William M Mercer Pty Ltd submitted that this change was indeed a retrograde step
+and considered 'it would have been preferable to retain the $500 threshold'.3
+3.6 They said that many members of superannuation funds will not, or will not be able to,
+roll these small amounts over into larger benefits they already have. The resulting
+proliferation of small balances in the system, and the escalating costs of administering these
+accounts, are of concern to Mercers and to the Committee. Noting the fact that many
+employers find it easier to contribute for all employees rather than only those who earn more
+than $450 a month, Mercers submitted:
+We also expect that there will be numerous cases where amounts rolled over
+will be very small, say under $50. In many of these cases the cost of accepting
+and processing the rollover will exceed the monies received ...
+Whilst small balances themselves are subject to member protection provisions
+the related administration costs must fall somewhere and are consequently
+certain to retard the growth of other members' balances.4
+3.7 The number of superannuation accounts in the system continues to rise. The
+Committee notes the figures at the end of March 1997 of 'almost 16.4 million member
+accounts for the approximately 6.7 million workers who have superannuation'. This was up
+300 000 or 1.8 per cent over the previous quarter and the increase represented 'a return to the
+usual pattern'.5 While not directly a matter for this inquiry, the continual expansion of
+multiple small accounts is of concern to the Committee. Also, the introduction of retirement
+savings accounts from 1 July 1997 can only be expected to increase the number of
+fragmented superannuation benefits.
+Or reducing leakage?
+3.8 A different view from the above was taken by the Association of Superannuation
+Funds of Australia (ASFA). They believe abolition of the threshold is desirable in preventing
+leakage from the retirement incomes system:
+This is particularly relevant both for SHAR which has a predominance of
+accounts with less than $500 and for superannuation funds with low average
+fund balances.6
+3.9 The majority of SHAR (Superannuation Holding Accounts Reserve) account holders
+are low income or casual workers.7 ASFA believes:
+3 Submission 7, p. 2.
+4 ibid
+5 Insurance and Superannuation Bulletin, ISC March 1997, p. 26.
+6 Submission 11, p. 1.
+7 See Chapter 7 for further description of SHAR.
+
+
+It is desirable that these account holders be encouraged to save amounts less
+than $500 as this is the first step for these holders to start saving for their own
+retirement. By accessing these amounts, the actual holders may dissipate their
+own retirement income for present day purposes.8
+3.10 The Committee acknowledges that the removal of the threshold is not in the self-
+interest of superannuation funds, as payment of the $500 is easier to administer than to have
+the benefits retained in the fund or transferred to an eligible rollover fund. As a matter of
+principle, the Committee would support minimising leakage and encouraging low income
+earners to preserve and build on their small superannuation savings.
+3.11 With member protection on balances less than $1000 preventing such accounts from
+erosion from fees and charges, 'the importance of gaining access to benefits under $500 has
+diminished’.9 Member protection was one of the conditions of the Committee's previous
+recommendation as outlined in paragraphs 3.2 - 3.3 above. The Committee acknowledges
+ASFA's view that maintaining the $500 limit is 'based on a concern for the fund members'
+best interests and the integrity of the retirement income system'.10
+Maintaining a threshold if no rollover
+3.12 Although there was no evidence on the point, the Committee considered the
+possibility of maintaining a threshold only where, in individual circumstances, it could be
+demonstrated that a rollover into another account was not possible. However, the Committee
+decided that such an arrangement, while sound in principle, would be too difficult to
+administer.
+Access is still possible
+3.13 To place abolition of the $500 threshold in full context, the Committee notes the
+system still allows for access of such amounts if the permanent incapacity, financial hardship
+or compassionate grounds tests are satisfied.
+Conclusion - what about a lower threshold?
+3.14 The Committee had no direct evidence suggesting a lower threshold, but considers
+this may well be the solution to the problems raised by Mercers outlined above. A figure ol
+(say) $200 could be substituted for the former $500, as the threshold below which benefits
+may be automatically accessed.
+3.15 Such a lower threshold would accommodate the need to preserve amounts of some
+significance on which superannuation savings could reasonably be built. At the same time it
+would alleviate the funds of responsibility for maintaining accounts of no consequence to the
+holders of those accounts.
+8 Submission 11, p. 2.
+9 ibid
+10 ibid
+
+
+
+
+CHAPTER 4
+REPLACING THE HARDSHIP TEST
+We are aware that there is a need for early access on hardship grounds. We are also aware
+that the present system is lacking in objectivity and fairness.1
+What this change does
+4.1 One of the Government's key measures to restrict early access to superannuation was
+to create an objective test for severe financial hardship.
+4.2 Formerly, the hardship test allowed individuals to access their superannuation where
+the Insurance and Superannuation Commissioner determined in writing that the individual
+was in severe financial hardship. If the Commissioner so determined, persons were able to
+obtain access to preserved benefits of a single lump sum. The lump sum could not be more
+than the amount determined by the Commissioner. Persons were also able to obtain access to
+benefits on compassionate grounds.
+4.3 These former subjective tests for hardship have been replaced by objective tests
+requiring applicants to satisfy specific conditions, and a defined set of criteria for
+compassionate grounds. In the case of hardship, the new test involves receipt of
+Commonwealth income support payments for a minimum continuous period. The
+Government's changes also shift the responsibility for assessing hardship applications from
+the Commissioner to individual funds.
+4.4 The Commissioner still decides applications on compassionate grounds, but exercise
+of this discretion is now confined by a series of objective criteria spelt out in the new
+regulations.
+Transitional arrangements
+4.5 The changes to the provisions for granting access on severe hardship and
+compassionate grounds were subject to a transitional arrangement. Applications made before
+1 July 1997 would be considered under the old rules.
+4.6 Given that the new regulations were gazetted on 26 June 1997, there were effectively
+only a few days that individuals could make application under the old rules, if they were in
+fact aware of the changes.
+4.7 Of course, the changes had been announced in the May Budget statements, but hardly
+in such a way that a significant number of people who could be affected by the changes could
+reasonably be expected to have had notice of them. In any event, the nature of claims under
+these provisions is not something than can be planned in any real sense. Hardship just
+happens.
+1
+Evidence, Mr Davidson, p. 124.
+
+
+Chapter 4
+Previous consideration of hardship by this committee
+4.8 In its 4th Report, Super - Fiscal and Social Links, tabled in December 1992, the
+Committee stated 'that the abolition of early access to benefits in cases of hardship should be
+one of Australia's long term retirement incomes goals'.2 However, the Committee could not
+unanimously agree on a timetable to implement its abolition policy. Instead, the Committee
+recommended that the Insurance and Superannuation Commission (ISC):
+. work towards the abolition objective;
+• promulgate a policy to ensure consistent treatment of applications; and
+• develop tighter hardship rules.3
+Action by the previous government
+4.9 In June 1994, the then government made regulations to tighten the hardship test for
+early release of superannuation benefits. It amended the test from 'financial hardship' to
+'severe financial hardship'.4 Despite this stronger definition, it is generally accepted that the
+ISC has been less than severe in assessing applications of early release on the hardship
+ground in recent years.
+Appropriateness of objective rules for access on hardship grounds
+4.10 The Committee agrees with the Government that more objective criteria are
+appropriate for assessing early access on the grounds of hardship. However, the Committee
+has some problems with the inflexibly of the new provisions.
+4.11 To qualify for early release now, a person has to be:
+• aged less than 55 years and 39 weeks and satisfy the fund trustee that the person
+has been receiving Commonwealth income support for 52 weeks continuously;
+or
+• aged 55 years and 39 weeks and satisfy the funds trustee that the person has
+been receiving such income support for a cumulative period of 39 weeks after
+the person turned 55.5
+2
+3
+4
+Super - Fiscal and Social Links, December 1992, p. 29.
+ibid - also noted in the Committee's 7th Report, Super Inquiry Overview, at p. 24.
+Part 1 of Schedule 1, Superannuation Industry (Supervision) Regulations, amended by SR No 189 of
+1994.
+5 New subregulation 6.01 (5) of the Superannuation Industry (Supervision) Regulations.
+
+
+Inflexibility and related problems
+Case studies on the restricted definitions for compassionate grounds and income support
+4.12 Two case studies provided in evidence to the Committee outline two aspects of the
+inflexible character of the new objective tests for hardship, and of the defined compassionate
+grounds.
+4.13 The first case is that of the Hutchinsons. This information was provided in a
+submission from the Tasmanian Assistant Ombudsman to whom the Hutchinsons had
+written.6
+4.14 On 9 June 1997, Mr Gordon Hutchinson received severe spinal injuries which totally
+incapacitated him for work. He was not covered by statutory compensation or private
+disability insurance. As the Hutchinsons were covered by private health insurance, Mr
+Hutchinson was hospitalised privately for some six or seven weeks and requires
+physiotherapy for about a year, costs which are not rebated under Medicare and only partly
+covered under their top private medical insurance cover.
+4.15 To satisfy the new compassionate grounds for meeting medical expenses, there is a
+requirement that:
+the treatment is not readily available to the person, or the dependant, through the
+public health system.7
+4.16 The Hutchinsons failed on that ground. It is something of a cruel irony that it was the
+use of the private medical system itself which caused the hardship. Mr Hutchinson is on the
+DSS sickness benefit while Mrs Hutchinson receives the DSS parenting allowance and a
+State Domiciliary Allowance. They have 'very little savings'.8 Accordingly, they had applied
+for the early release of $6 000 in superannuation to help meet the anticipated shortfall of
+between $ 10 000 and $ 15 000 on medical costs over the next year.
+4.17 In a second case examined in some detail by the Committee. Mr Gordon Haywood
+was a person retrenched from employment who had taken his wife and young family to a new
+country location to make a fresh start. They had bought a cheaper house in order to be free of
+a mortgage. Mr Haywood had commenced an accountancy course full-time in order to
+improve his prospects for worthwhile future employment.
+4.18 He had been in receipt of Austudy for over 12 months. While the family was
+managing successfully on a frugal budget, they were suddenly faced with an unforseen
+taxation bill. They had unsuccessfully sought early release of superannuation to cover this bill
+which could not be paid for out of any other source. The Haywoods were denied early release
+of their superannuation as neither Austudy, nor the income received by Mrs Haywood,
+6 Submission 15, Office of the Tasmanian Ombudsman, p. 3.
+7 See new subregulation 6.19A (3)(b) of the Superannuation Industry (Supervision) Regulations.
+8 Evidence, Mrs Hutchinson, p. 22.
+
+
+satisfied the definition of Commonwealth income support under the new rules on the early
+release of superannuation.
+Long term Commonwealth income support - not necessarily evidence of hardship
+4.19 A person may be on long term Commonwealth income support for various reasons,
+and may not be necessarily in hardship so as to warrant early access to preserved
+superannuation benefits. This point was raised by Mr Kit Hauptmann, a financial counsellor,
+who commented:
+They [the superannuation fund] do not ask any questions about what sort of
+hardship. My understanding at the moment is that if you meet that criteria you
+will get it.9
+4.20 An even stronger point is this. The inflexible nature of the income support definition
+may itself invite further leakage from the superannuation scheme, and encourage those in
+receipt of Commonwealth income support to access their superannuation regardless of any
+hardship.
+4.21 However, the Committee notes the statement of the ISC that the funds themselves
+may impose additional requirements before early access is granted (discussed in paragraph
+4.32 below). Just how well this would work in practice is unclear, given that individuals
+would have the reasonable expectation of succeeding in a hardship claim on the basis of what
+the SIS or parallel regulations provided.
+Not always a black and white situation
+4.22 Mr John Berrill, a superannuation lawyer, agreed that it was not always the case that
+people in receipt of Commonwealth income support for over 52 weeks were in financial
+hardship.
+4.23 More importantly, he also pointed out that there are people not in receipt of social
+security who are in financial hardship, yet will fall outside the new defined compassionate
+grounds.10 As Mr Berrill said:
+People have debt crises; there are people with substantial loans, with hire
+purchase arrangements; there are people who are in mortgage debt, where
+foreclosure is not imminent but renegotiations of loans take place on
+unfavourable terms."
+Cashing restrictions
+4.24 The new conditions for release on "severe hardship" grounds provide that the amount
+permitted to be released from an ADF is limited to a single sum in each 12 month period. The
+9 Evidence, p. 26.
+10 Evidence, p. 28.
+11 Evidence, p. 29.
+
+
+minimum amount is $1 000 except where the person's benefits are less than that amount, and
+the maximum is $15 000.12
+Compassionate grounds
+4.25 Specific provisions under the heading of "compassionate ground" have now been
+included in superannuation regulations, but not in the Small Superannuation Accounts
+Amendment Bill 1997 on which the Committee is separately reporting in Chapter 7.
+Previously, granting access on compassionate grounds was part of the then discretion of the
+ISC, as supplementary to the former severe financial hardship test.
+4.26 The new compassionate grounds cover the following payments:
+. to treat life threatening illnesses;
+. for medical transport;
+• to prevent foreclosure by a mortgagee, or the exercise of an express or statutory
+power of sale over the family home;
+. for home or vehicle modifications to accommodate the special needs of a
+severely disabled member or dependant; and
+. for palliative care, and funeral and burial expenses.13
+4.27 Under the new regulations, there are substantive evidentiary requirements before the
+Commissioner can be satisfied that early release can be made on one of these compassionate
+grounds. For example, the following are the requirements in relation to medical treatment and
+foreclosure:
+(3) The Commissioner cannot be satisfied that money is required for medical
+treatment unless 2 registered medical practitioners (at least one of whom must be a
+specialist) certify that:
+(a) the medical treatment is necessary to:
+(i) treat a life threatening illness or injury; or
+(ii) alleviate acute, or chronic, pain; or
+(iii) alleviate an acute, or chronic, mental disturbance; and
+(b) the treatment is not readily available to the person, or the dependant, through the
+public health system.
+12 Item 105 of Schedule 1 of SIS Regulations,
+13 Regulation 6.19A( 1) of SIS.
+
+
+(5) The Commissioner cannot be satisfied that money is required on the ground
+mentioned in paragraph (1) (b) [foreclosure or exercise of mortgagee power of sale] unless
+the person gives to the Commissioner a written statement from the mortgagee that:
+(a) payment of an amount is overdue; and
+(b) if the person fails to pay the amount, the mortgagee will:
+(i) foreclose the mortgage on the person's principal place of residence; or
+(ii) exercise its ... power of sale over the person's principal place of residence.14
+4.28 Release of benefits on compassionate grounds is, of course, also subject to the rules of
+the individual fund, which may or may not release benefits on compassionate grounds.
+Comments
+4.29 The Committee notes that the cashing restriction for release on a "compassionate
+ground" limits the amount payable to:
+a single lump sum not exceeding an amount determined by the Commissioner
+that is reasonably required in the circumstances taking into account the person's
+financial capacity.15
+4.30 However, in relation to payments to prevent foreclosure or exercise of a power of sale
+over the family home, the amount that can be released is limited, and:
+cannot exceed an amount equivalent to 3 months repayments and 12 months
+interest on the outstanding balance of the loan in any twelve month period.16
+4.31 In relation the release of benefits to prevent foreclosure, the Committee notes the
+comparison made by Ms Noelle Kelleher of Ernst and Young to the situation of someone
+renting:
+But, if you are a tenant, you are renting and you are facing eviction, there are
+really no grounds in there at all for the ISC to release your benefits to you. In
+some respects, I would have thought that that individual was probably in a
+worse-off position than someone who has a home.17
+Residual discretion or right of appeal?
+4.32 There is no discretion for the ISC to grant early release of superannuation benefits in
+relation to compassion or hardship other than according to fixed criteria outlined above. The
+appeal situation differs between hardship and compassionate grounds as follows.
+14 Regulation 6.19A(3) and (5) of SIS.
+15 Explanatory Statement, Statutory Rules 1997, No. 152.
+16 ibid
+17 Evidence, p. 64.
+
+
+On hardship
+4.33 In addition to the objective test for hardship, individual funds can ’either apply an
+additional objective test, if they wish, by way of amendment to their governing rules, or to
+provide for a subjective test'.18 This leaves them open to appeal, as the ISC explained:
+It is not something that most of them have been anxious to do, because as soon
+as you introduce a subjective test you expose that to challenge. You expose the
+trustee to potential complaints to the Superannuation Complaints Tribunal, and
+that is not something that most of them relish.19
+Compassionate grounds
+4.34 The ISC advised that, while there are no formal rights of appeal on the compassionate
+grounds, the ISC itself will be 'maintaining the arrangements which have existed to this point;
+that is, that there will be an internal ISC review if a person complains'. They added:
+My understanding is that there have already been a couple of requests for
+reconsideration of a knock back on a request on compassionate grounds. That
+revisiting is done in an area on the ISC quite separate from the area which is
+making the primary decisions.20
+4.35 The Committee notes that any further appeal is to the Federal Court.21
+4.36 Ms Robin Hopcroft, the Tasmanian Assistant Ombudsman, argued for a discretion
+rather than an appeal, 'because if they went on an appeal and review and the review body
+applied exactly the same tests, they would find that they would be excluded by the
+regulations'.22 With special reference to the case of the Hutchinsons discussed above at
+paragraphs 4.13 to 4.16, Ms Hopcroft said:
+It would really have to be a discretion so that their circumstances can be
+assessed, because, when they took out that private medical insurance precisely
+to guard against the type of accident that subsequently happened and that caused
+their financial hardship and led to their application of compassionate grounds,
+they had no idea that their private medical insurance would act as a disentitler to
+being able to access superannuation on compassionate grounds."’’
+18 Evidence, p. 179.
+19 Evidence, p. 179.
+20 Evidence, p. 181.
+21 Evidence, p 181.
+22 Evidence, p. 23.
+23 Evidence, p. 23.
+
+
+The recent history on hardship applications under the former rules
+4.37 The ISC provided figures on the number of applications for early release on financial
+hardship grounds in recent years.24 Also, for the last four years the breakup of the results of
+the applications are provided in the following table.25
+Table 4.1
+4.38 As can be seen by these figures, the number of applications doubled over the two
+years from 1994-95 to 1996-97.
+4.39 The total amount paid out in 1996-97 was $254 million or 0.09 per cent of total
+superannuation assets, compared to 1995-96 where the amount paid out was $249 million
+which represented 0.07 per cent of superannuation assets.26 The corresponding figures for
+1993-94 and 1994-95 were $203 million (or 0.04 per cent) and $223 million (or 0.05 per cent)
+respectively.27
+4.40 The Committee accepts these figures as ample evidence that changes needed to be
+made to the policy of early release for hardship.
+Super - a first option in hardship?
+4.41 An area of concern to the Committee was the indication in some of the evidence that
+individuals in financial difficulty may be encouraged to access their superannuation as almost
+a first option. Mr Hauptmann (a financial counsellor) described the process as follows:
+Part of our investigation into their financial situation is to ask if they have been
+working. If people say, 'Yes ... I say to them, 'Have you been working in the
+24 Evidence, p. 176.
+25 Additional details provided later by the ISC.
+26 Evidence, pp. 177-8.
+27 Answers to Questions taken on Notice, Treasury Advice of 2 September 1997, p. 6.
+
+
+past 10 years?' If they say yes, I say, 'There could be superannuation that we
+can access to relieve this diabolical situation.' It is mainly a tool that is coming
+to me as a practitioner, and a lot of my colleagues would do the same.28
+4.42 Mr Hauptmann cited past cases he had been involved with, where early access to
+superannuation had enabled people to manage their way out of very difficult circumstances,
+and where, to some extent at least, the new rules would prevent access.
+4.43 While in no way seeking to prevent those in genuine financial hardship from being
+assisted to recover from their difficulties, the Committee considers there does need to be strict
+limits on the use of superannuation for this purpose. The Committee appreciated the frank
+and helpful evidence on this issue from those associated with welfare groups.
+4.44 Of course, some evidence conflicted with the Committee's view. For example, Mr
+Peter Davidson, from the Australian Council of Social Service, said:
+To provide a bit of context, we have argued consistently, including before this
+committee, that superannuation should be broadened to cover other long-term
+saving needs...29
+4.45 Mr Davidson did not regard early release of superannuation on hardship grounds 'as a
+backdoor route towards achieving those ends', and accepted 'that the rules need to be
+reasonably tight'/0 He said:
+We would support the use of the standard social security income and assets test
+as a hurdle which people must cross before they can attain early access on these
+grounds.31
+4.46 The Committee cannot agree, as it sees the relationship of universal superannuation to
+the social security system in Australia in terms of superannuation alleviating the burden on
+the age pension. As a fundamental matter of principle, superannuation has no role in
+supporting or underpinning the social security system.
+4.47 Australia's superannuation system provides for compulsory and other contributions to
+be made to individuals' accounts which grow and are held for the benefit of those individuals'
+retirement, or on attaining preservation age. That is the policy behind the granting ot
+concessional taxation to superannuation savings.
+4.48 In Super - Fiscal and Social Links, the Committee noted 'that the principal purpose of
+superannuation is to provide for retirement and thereby alleviate possible future hardship' .
+The report said of superannuation:
+It should not be regarded as a fund available for stand-by relief during the
+period of a normal working life. In those circumstances, the Committee believes
+28 Evidence, p.
+29 Evidence, p.
+30 Evidence, p.
+31 Evidence, p.
+30.
+125.
+125.
+125.
+
+
+that social security is the proper channel through which emergency relief is
+available, rather than through a loss of future superannuation benefits/2
+4.49 It is, of course, open to the Government to establish some other kind of public or
+compulsory savings regime specifically aimed to assist individuals in times of severe
+financial difficulty.
+Combining objective and subjective tests for hardship
+4.50 The Association of Superannuation Funds of Australia (ASFA) has provided the
+Committee with guidelines about how the release of benefits on hardship grounds could
+combine both objective and subjective tests. The text of that advice reads as follows:
+1) Prior to age 55, persons must have been in receipt of Commonwealth Income support
+payments continually for three months at the date of application and must have
+evidence of this.
+In satisfying the objective test, trustees can be reasonably satisfied that the person is
+suffering financial hardship.
+Trustees would then assess the individual's circumstances to determine whether
+additional funds (over and above the social security benefit) were necessary. The
+release of any benefits would be at the discretion of the trustees and it would be
+possible (either via regulation or via the governing rules) to limit payments to meet
+accounts which must be paid by trustees from the individual's account. This would
+avoid benefits being received directly by the individual.
+2) For persons aged 55 or more, the objective test would be a statement by the
+appropriate Government department or agency that the person satisfies the criteria for
+a support payment (the person may not be eligible because their superannuation
+benefits may preclude them from receipt of the payment).
+The trustees would apply the subjective test as above with payment limited to the
+discretion of the trustees and to the accounts presented to trustees.33
+4.51 The Committee appreciates this contribution by ASFA, but has some problems with
+the directing of payments in the way suggested.
+4.52 A three month receipt of income support period is a sensible proposal. Also, the
+Committee is mindful of the need to attach a subjective test, if for no other reason than to
+avoid the situation of automatic early access to superannuation following a period on income
+support.
+32 Super - Fiscal and Social Links, p. 28.
+33 Information provided by fax on 2 September 1997.
+
+
+Conclusions
+4.53 The Committee considers the former system for the making and assessment of
+hardship claims for early release of superannuation was leading to an unacceptably high level
+of leakage in the superannuation system.
+4.54 Perhaps more important though was the implied message, that:
+• early access to superannuation was easy to obtain; and
+• accrued superannuation entitlements could be a "first port of call" when in any
+financial difficulty.
+4.55 This situation was unhealthy if the integrity of superannuation as part of a retirement
+incomes policy was to be upheld.
+4.56 However, the Committee considers the detail in the changes made by the Government
+to the hardship and compassionate grounds provisions may have "thrown the baby out with
+the bath water". While the concept of individual hardship is often difficult to reconcile with
+the need to preserve superannuation for retirement, the Committee considers the Government
+may have over-reacted to the understandable problems of the ISC in administering the former
+provisions.
+4.57 The Committee considers that the new objective grounds for hardship may have not
+been fully researched. Restricting the definition of income support to certain Commonwealth
+payments seems unduly restrictive, while the lack of additional criteria beyond a period in
+receipt of payments may actually encourage the early access of superannuation.
+4.58 Other forms of income support would seem equally relevant for purposes of this
+objective test. Also, the Committee considers the period in receipt of such income needs to be
+reduced to three months, and a subjective test needs to be attached.
+Insert by Labor Senators on reducing the qualifying period
+4.59 In a climate of high unemployment, high redundancy rates and community wide job
+insecurity, workers who are retrenched or are made redundant should be able to access
+their superannuation, if in severe financial difficulty, after a reasonable waiting period.
+Further Committee conclusions
+4.60 Some form of official guidance to superannuation funds in applying an additional
+subjective test seems appropriate. A total inability to meet essential and immediate living
+expenses would seem a reasonable subjective criteria.
+4.61 In the compassionate grounds area, the Committee is inclined to view the new
+objective criteria as having more the character of defined desperation than compassion. To
+attempt to strictly define such grounds, although no doubt based on the ISC's experience
+under the former tests for hardship, is a conceptually flawed exercise. In the Committee's
+
+
+view, the concept of "compassionate ground" necessarily implies a sympathetic discretion,
+albeit to be exercised only in rare circumstances.
+Labor Senators' further Conclusion
+4.62 Labor Senators conclude that a reasonable waiting period in continuous receipt of
+income support needed to satisfy the objective test for severe financial hardship should be
+twelve weeks.
+
+
+CHAPTER 5
+PERMANENT DEPARTURE
+Subsequently, I met with Treasury in Canberra -1 do not know who they were - and I tried to
+help them understand the visas.... The quotation I got back -1 can quote it because it was so
+memorable - was that 'they had to consider the macroeconomic indicator shift effect of
+making such a decision'.1
+Effect of the changes
+5.1 Before the changes to early release provisions, persons with preserved superannuation
+benefits could access such benefits if they could satisfy the superannuation fund's trustee that
+they were departing Australia permanently.2 As a result of the changes, preserved benefits
+will be released to a person who claims to have left Australia permanently only if that person
+has reached preservation age.
+5.2 This change has been effected simply by omitting 'permanent departure from
+Australia1 as a condition of release of benefits.'
+There are two aspects
+5.3 This removal of early access to superannuation is highly significant in itself, as it
+affects both
+. Australian citizens and permanent residents; and
+. those expatriates returning overseas after limited stays in this country.
+5.4 However, the Committee found the more important issue raised in evidence to be the
+application of the Super Guarantee (SG) to temporary entrants to Australia. If SG does not
+apply to temporary entrants, then the issue of early access does not arise.
+5.5 The Committee has divided this chapter into three parts. Part A will deal with
+exemptions from SG. Part B will cover the early release of superannuation benefits on
+permanent departure, and Part C sets out the Committee's conclusions.
+1 Evidence, Ms Pauline Mathewson, p. 139. On this issue see the section 'Limiting SG exemption to the
+sub-class 413 visa criteria' below.
+2 Permanent departure means as from Australia.
+3 See the Retirement Savings Accounts Regulations (Amendment) regulation 3, which omits subregulation
+4.01(2) of the Retirements Savings Accounts Regulations; and Superannuation Industry (Supervision)
+Regulations (Amendment) regulation 3, which omits subregulation 6.01(2) of the Superannuation
+Industry (Supervision) Regulations.
+
+
+Chapter 5
+PART A:
+EXEMPTIONS FROM SUPER GUARANTEE
+The Government’s changes to the application of SG
+5.6 Following the report of the Committee of Inquiry into the Temporary Entry of
+Business People and Highly Skilled Specialists (the Roach Committee, see paragraphs 5.26-
+5.31 below), the Government established new visa sub-classes for business temporary
+entrants effective from 1 August 1996. This changed the application of SG to business
+people. There had been an exemption from SG requirements for holders of the sub-class 413
+(executive) visa, but not for other visa sub-classes used by business temporary entrants.
+5.7 Following the recommendations of the Roach Committee, the Government established
+a new visa sub-class, 457 (business (long stay)) visa, which applies to business temporary
+entrants from 1 August 1996. Initially there was no exemption from SG for 457 visa holders.
+However, on 25 June 1997 the Assistant Treasurer announced that an exemption will apply to
+those holders of a 457 visa who would have qualified for the formerly issued sub-class 413
+visa.4 As noted above, holders of the 413 visa had been exempt from SG requirements, and of
+course those holders of 413s issued prior to 1 August 1996 (the date of commencement of the
+457 visa) remain exempt.?
+5.8 The Government said in the 25 June 1997 press release that the announced exemption
+from SG requirements was justified because the executives involved 'are usually in Australia
+for only short periods and have retirement income arrangements in place in their home
+countries'.6 The exemption will not extend to the much larger number of sub-class 457
+business temporary entry visa holders:
+as to do so would be likely to give rise to labour market distortions by making
+non-residents cheaper to employ than similarly skilled Australians. Favouring
+non-residents in this way would not conform with the Government's job creation
+priorities for Australians.7
+5.9 The measure was described by the Government as 'broadly consistent with overseas
+practice'. In recognition of the concerns of non-residents affected by the changes to
+preservation rules:
+the Government, through the Department of Social Security, has entered into
+negotiations with other countries to include provisions within bilateral social
+security agreements that would exempt employers of temporary non-residents
+from each country's compulsory contributory pension schemes. Such
+arrangements are common practice among most industrialised countries.8
+4 Press Release No. AT/10 of 1997.
+5 See the Superannuation Guarantee (Administration) Regulations, subregulation 7(1).
+6 Press Release No. AT/10 of 1997.
+7 ibid
+8 ibid
+
+
+Page 31
+5.10 The Government has also said it would be prepared to negotiate agreements to allow
+non-residents to transfer superannuation monies to an approved pension plan in their home
+country.9 In return, Australians leaving foreign countries could transfer their pension
+entitlements back to approved superannuation funds in Australia.
+The changes to visa rules
+5.11 In 1996, the Government made changes to the visa rules in relation to business
+temporary entrants, following the report of the Roach Committee.
+Temporary residents
+5.12 Prior to the changes to visa rules, business people entered Australia, as temporary
+residents, under the following visa sub-classes:
+. 411:exchange;
+. 412: independent executive;
+. 413: executive; and
+• 414: specialist."
+5.13 To give effect to the Roach Committee's recommendations, the Government
+established the sub-class 457 visa which applies to business temporary entrants from 1
+August 1996. This 457 visa replaced the 412, 413 and 414 visas. People who already held a
+visa of one of the sub-classes which was replaced continued to hold that visa. As at 11 July
+1997 there were 6,296 sub-class 413 visa holders in Australia.12
+5.14 The 411 visa was retained. This covers:
+. the temporary entry of 'skilled people from overseas to come to Australia to
+broaden their work experience and skills while guaranteeing Australian residents
+similar opportunities overseas; or
+. people under certain bilateral exchange agreements'. J
+9 ibid
+10 Business Temporary Entry: Future Directions - Report by the Committee of Inquiry into the Temporary’
+Entry of Business People and Highly Skilled Specialists (the Roach Committee Report (1995).
+11 The Roach Committee Report, p. 57. It also noted that business people entered Australia as visitors,
+under 672 (business visitor (short stay)) and 682 (business visitor (long stay)) visas. These visas have
+subsequently been superseded by the 456 (business (short stay)) visa (see paragraph 5.19 below).
+12 Statistics provided by the Department of Immigration and Multicultural Affairs (DIMA).
+13 DIMA, Fact Sheet 53: Temporary Residence in Australia (1997), p. 2. This fact sheet provides a
+convenient description of visa sub-classes being considered in this chapter.
+
+
+457 Visas
+5.15 The 457 visa covers business entry of three months to four years for:
+• personnel (executives, managers and specialists) for companies operating in
+Australia;
+• personnel from offshore companies seeking to establish a branch in Australia,
+participate in joint ventures, or fulfil a contact awarded to an offshore company;
+• independent executives seeking to establish a new business or joining existing
+businesses in Australia; and
+• personnel coming under a labour or Regional Headquarters agreement.14
+5.16 The holder of a 457 can apply for an additional 457 visa after the initial one expires. It
+is also possible to enter the country on a sub-class 457 visa, but stay for less than three
+months.
+5.17 The issue of sub-class 457 visas is about 25 000 each year.15 As at 11 July 1997 there
+were 26 138 holders of 457 and equivalent (412, 413, and 414) visas currently resident in
+Australia.16 About 60 per cent of 457s are held by primary applicants, and about 40 per cent
+are held by their dependants (who are mainly spouses and children).17 All holders of 457
+visas, whether they are primary applicants or dependants, have rights to work in Australia.18
+5.18 It should also be noted that there is a separate visa for the domestic staff of
+independent executives and senior executives holding 457 visas.19 Holders of the sub-class
+427 (domestic worker (overseas executive)) visa may not change employer or remain in
+Australia after the permanent departure of their employer.20
+456 Visas
+5.19 In addition to the 457 visa, there is also the sub-class 456 (business (short stay)) visa.
+There are several differences between 456 and 457 visas, but they both basically cover the
+same kinds of people. The important difference between the two is that a 456 visa allows
+entry for up to three months,21 although this stay can be extended. A 456 visa can be issued
+for single entry, or for multiple entry for five years or the life of the passport, whichever is the
+longer period.22
+14 DIMA, Fact Sheet 53, p. 1.
+15 Evidence, DIMA, p. 150.
+16 Australia, DIMA, unpublished statistics.
+17 Evidence, DIMA, p. 158.
+18 Evidence, DIMA, p. 157-8.
+19 DIMA, Fact Sheet 53, p. 2.
+20 Facsimile message from Mr R. Vagg, DIMA, to Committee Secretariat of 1 September 1997, p. 8,
+21 Evidence, DIMA, p. 150.
+22 Evidence, DIMA, p. 150.
+
+
+5.20 Holders of the 456 visa (whether primary applicants or dependants) have work rights
+in Australia. Such rights allow holders to undertake their business activity in Australia. It
+should be appreciated that the visa is designed for business visitors, rather than being
+intended to operate as a short stay work visa.
+5.21 Approximately 300 000 sub-class 456 visas are issued a year, and 'the average length
+of stay is of the order of 10 days or less'.23 Examples of business conducted by 456 visa
+holders are attending negotiations and conferences.24 Approximately five per cent of 456
+visas are held by dependants.25
+5.22 Both the 456 and 457 visa sub-classes belong to the Temporary Business Entry (Class
+UC) visa class.
+Other relevant visas
+5.23 There are other visa sub-classes which may be relevant to some industries, for
+example visas in relation to entertainment, sporting and cultural activities. Examples
+include the:
+. 419 (visiting academic) visa;
+. 420 (entertainment) visa;
+. 421 (sport) visa;
+. 423 (media and film staff) visa; and
+. 424 (public lecturer) visa.
+5.24 Other relevant visa sub-classes include the 417 (working holiday) visa, and the 410
+(retirement) visa.
+New Zealand visitors
+5.25 Following the introduction of The Migration Reform Act on 1 September 1994, there
+was a legal requirement for all non-Australians to hold a visa authorising their entry to, and
+stay in, Australia. As a result, a special category temporary residence visa (SCV) was
+introduced for New Zealand citizens. The method of issuing, and the conditions attached, are
+as follows:
+• when presenting their passports for immigration clearance in Australia New
+Zealand visitors are considered to have applied for a visa, and subject to health
+and character concerns, will automatically receive an SCV which is issued
+electronically;
+• their passports are stamped, showing the date of arrival in Australia which is the
+only evidence provided or necessary to show they are holders of an SCV;
+23 Evidence, DIMA, p. 150.
+24 Evidence, DIMA, p. 150.
+25 Facsimile letter from DIMA, 1 September 1997, p. 1
+26 Evidence, DIMA, pp. 158-159.
+
+
+. there are no conditions attached to the visa, and the New Zealand citizen is able
+to work and study in Australia without restriction as long as he or she remains a
+New Zealand citizen.27
+The Roach Committee
+5.26 This Committee was established in 1994 to examine business temporary entry to
+Australia. The Roach Committee recommended 'simplified and streamlined procedures which
+will enable employers of good standing to bring in key business personnel quickly and
+smoothly'.28 One of the Roach Committee's central recommendations was the creation of a
+new visa class for all business temporary entrants.29
+5.27 The Roach Committee noted that the 'policies and procedures governing the
+temporary entry of key business personnel were developed at a time when the objective was
+to achieve an Australian workforce self-sufficient in all skills'.30 However, the Committee
+said:
+A country of Australia's size cannot expect to be completely self-sufficient at
+the leading edge of all skills in the area of key business personnel. When world
+trade in services is based on different countries developing specialised skills in
+different areas, it is not realistic for Australia to attempt to develop specialised
+skills in all areas.31
+5.28 In relation to the application of SG to business temporary entrants, the Roach
+Committee noted that:
+In the majority of cases, key business personnel are employed in Australia for
+less than 2 years, and the administration costs of collecting SGC for such short
+time frames, and of withdrawal at the time of departure from Australia are
+significant. More importantly, many temporary residents already contribute to a
+business pension or superannuation fund overseas ... They are in effect required
+to contribute to two funds at the same time.32
+Key recommendation
+5.29 In the light of the above comments, the Roach Committee recommended:
+that employers be exempt from the requirement to pay the Superannuation
+Guarantee Charge in respect of all holders of the proposed single business
+temporary entry visa.”
+27 Fact Sheet issued by DIMA, faxed to secretariat on 17 September 1997.
+28 The Roach Committee Report, p. 4.
+29 Roach Committee, p. 27.
+30 Roach Committee, p. 1. Emphasis in original.
+31 Roach Committee, p. 2.
+32
+33
+Roach Committee, p. 42.
+ibid.
+
+
+5.30 The Government did not follow this recommendation. This was one of only two of the
+Roach Committee's recommendations which were not followed.34 The Committee was
+informed that the SG issue was a Treasury portfolio matter, rather than an Immigration
+matter.35
+5.31 As outlined in paragraph 5.7 above, initially there was no exemption from SG for 457
+visa holders, but on 25 June 1997 the Assistant Treasurer announced that an exemption will
+apply in respect of those who would have qualified for the formerly issued 413 (executive)
+visa.36 Several witnesses expressed concern over how this policy will be administered (see the
+section on 'The new old 413 requirements' below).
+The ambit of the Super Guarantee: do temporary residents fit in?
+5.32 The Superannuation Guarantee (SG) was introduced in 1992. The policy behind SG
+were outlined in the Second Reading Speech to the Superannuation Guarantee
+(Administration) Bill 1992, where the then Treasurer outlined expectations of what SG would
+achieve:
+The increased self-provision for retirement will permit a higher standard of
+living in retirement than if we continued to rely on the age pension alone. The
+increased self-provision will also enable future Commonwealth governments to
+improve the retirement conditions for those Australians who were unable to fund
+adequately their own retirement incomes.
+... self-provision will increase the flexibility in the Commonwealth's Budget in
+future years, especially as our population ages, and will increase our national
+savings overall, thus reducing our reliance on the savings of foreigners to fund
+our development. 7
+5.33 SG became relevant to this inquiry because many submissions and witnesses argued
+that there should be an exemption from SG requirements for temporary residents employed in
+Australia. This evidence came from:
+. the American Chamber of Commerce in Australia (AmCham) - in favour of
+exemption for holders of sub-class 457 visas;38
+. Arthur Andersen - in favour of exemption for 'exempt visitors' under section 517
+of the Income Tea Assessment Act 1936, or for 456 and 457 visa holders;
+• the Association of Superannuation Funds of Australia Ltd (ASFA) - in favour of
+exemption for 'travellers' (which appears to include the sub-class 457 visa
+among others);40
+34 Evidence, Ms Pauline Mathewson, p. 132. Ms Mathewson who is a Partner, Migration Services, Cooper
+& Lybrand, was a member of the Roach Committee. The other recommendation which was not followed
+was that there be an exemption from the Medicare levy for temporary entrants (ibid, p. 132).
+35 Evidence, DIMA, p. 156.
+36 Press Release No. AT/10.
+37 House of Representatives, Hansard, 2 April 1992, p. 1764.
+38 Evidence, Mr Charles Blunt, p. 105. Mr Blunt is the Chief Executive of AmCham.
+39 Submission 19, Arthur Andersen, p. 2.
+40 Evidence, p. 79.
+
+
+• Coopers & Lybrand - in favour of exemption for 457 visa holders;41
+. Ernst & Young - in favour of exemption for all temporary entrants to
+Australia;42
+• Gilton Business Consultants, Immigration and Visa Specialists - in favour of
+exemption for 457 visa holders;43
+. the accountancy firm Greenwood Challoner & Co - in favour of exemption for
+all temporary entrants;44
+. the International Banks and Securities Association of Australia (IBSA) - in
+favour of exemption for 'temporary non-resident employees';45
+. John Swire & Sons Pty Ltd - in favour of exemption for 'all temporary business
+visa holders with existing superannuation arrangements';46
+. K.PMG, Chartered Accountants - in favour of exemption for 457 visa holders;47
+• Price Waterhouse - in favour of exemption for 456 and 457 visa holders; and
+also in favour of exemption for non-residents, employed by a non-resident
+employer, who are exempt from Australian income tax and fringe benefits tax
+pursuant to a double taxation agreement;48 and
+. William M. Mercer Pty Ltd - in favour of exemption for all temporary entrants
+who are in Australia for less than a certain period of time.49
+The pro-exemption principle
+5.34 While different views were put as to the desired scope of an exemption from SG, the
+Committee found a common principle behind the support for exemption. This was perhaps
+best expressed in the submission of John Swire & Sons Pty Ltd:
+We believe the problem is that the government seems to be losing sight of the
+purpose of compulsory superannuation, which is to ensure that as many
+41 Submission 8, Coopers & Lybrand, p. 6. Coopers & Lybrand also suggested an exemption along the lines
+of the provision for 'exempt visitors' under section 517 of the Income Tax Assessment Act 1936. See
+Evidence, Mr Mike Forsdick, p. 136. Mr Forsdick is a Partner of Coopers & Lybrand.
+42 Evidence, Ms Noelle Kelleher, p. 62. Ms Kelleher is Principal, Director - Superannuation, Ernst &
+Young.
+43 Submission 4, Gilton Business Consultants.
+44 This appears to follow from the discussion between Mr Bill Baillie, Partner, Greenwood Challoner & Co,
+and the Chairman of the Committee at Evidence, pp. 107-108. But cf the reference to exemption for 'non
+residents visiting for short term assignments' in Submission 12, Greenwood Challoner & Co, p. 11.
+45 Submission 20, IBSA, p. 2.
+46 Submission 3, John Swire & Sons Pty Ltd, p. 3.
+47 Submission 5, KPMG, p. 8. However, in his oral submission, Mr Emery Feyzeny, Superannuation
+Partner, KPMG, stated that KPMG supported exemption from SG for all temporary residents, saying 'I
+think that is really what we are putting' (Evidence, Mr Emery Feyzeny, p. 94).
+48 Submission 9 Supp, Price Waterhouse, p. 7.
+49 Evidence, Mr Ray Stevens, p. 7. Mr Stevens is a director of William M. Mercer Pty Ltd.
+
+
+Australians as possible are self-funding in retirement and not dependent on the
+pension.30
+5.35 Mr Robert Gillen, a Partner of Price Waterhouse, related this principle to the relevant
+visa holders:
+The people we are seeking the exemption for [holders of sub-class 456 and 457
+visas] are not allowed to retire here. If they wish to, they have to change their
+visa...51
+5.36 The Committee in its Fifteenth Report said:
+As the SG arrangements were designed to provide for or to supplement the
+retirement benefit of Australians, there seemed to be little rationale for
+legislating for overseas workers temporarily employed in Australia to be subject
+to SG obligations.52
+5.37 Coalition Senators recognise there is a case for exempting temporary residents from
+SG on this principle. (See however para 5.150.)
+5.38 Labor and Democrat Senators disagree, believing that on balance, there is no case
+for exempting any temporary residents from SG.
+Limiting SG exemption to the sub-class 413 visa criteria
+5.39 As noted above, on 25 June 1997 the Assistant Treasurer announced that an
+exemption from SG requirements will apply to those holders of a 457 visa who would have
+qualified for the formerly issued 413 (executive) visa.33 The basic reasons advanced by the
+Government for exempting holders of a sub-class 457 visa who would have qualified for the
+formerly issued sub-class 413 visa was that:
+the executives are usually in Australia for only short periods and have
+retirement income arrangements in place in their home countries'.54
+50 Submission 3, John Swire & Sons Pty Ltd, p. 2. John Swire & Sons Pty Ltd is an Australian subsidiary of
+the global Swire Group. The Swire Group employs over 800 staff in Australia, operating in transport and
+agriculture, among other areas (see ibid, p. 1).
+51 Evidence, p. 53; and see also Submission 9 Supp, Price Waterhouse, p. 1. Mr Gillen's position is Partner
+and Australasian Director, International Assignment Services, Price Waterhouse. For other similar
+statements to the Committee see: Evidence, Mr Feyzeny, p. 89, and Submission 5, KPMG, pp. 3-4;
+Evidence, Mr Baillie, p. 108; and Evidence, Mrs Theresa. Rasmussen, p. 114.
+52 Super Guarantee: Its Track Record (1995), p. 131. In that report the Committee recommended that 'the
+Government extend exemptions from the requirements of SG to all non-resident workers where there is
+sufficient evidence that superannuation is being paid in the country of residence' (Recommendation 11.1,
+p. 132).
+53 Press Release No. AT/10.
+ibid.
+54
+
+
+5.40 In regard to this decision, Treasury said:
+There were basically two main reasons: the labour market distortions and
+assisting Australia's negotiating position in relation to social security
+agreements.55
+5.41 The issue of labour market distortions is considered below and social security
+agreements are considered in Part B of the chapter.
+Temporary entrants and the labour market: are they job takers?
+5.42 The Committee has considered the Government's argument that an exemption from
+SG requirements in respect of holders of 457 visas would cause labour market distortions by
+making temporary entrants cheaper to employ than similarly skilled Australians.56 There was
+evidence on the remuneration of expatriate employees in this visa sub-class;37 and the costs to
+employers of expatriate employees in comparison with the costs of employing comparable
+Australians.
+5.43 The Committee found that holders of 457 visas tend to be from the more highly
+remunerated segments of the workforce. The Department of Immigration and Multicultural
+Affairs (DIMA) told the Committee that, on the basis of DIMA's monitoring of the 457 visa:
+it is fairly clear that the usage is at the top end of the labour market - that is,
+executives and highly skilled workers - usually in areas where there is an
+acknowledged shortage of Australian skills available.58
+5.44 Price Waterhouse referred to a 1996 survey of 120 companies in Australia, which
+stated that the average annual salary of these companies' expatriate employees was $96 621/
+5.45 Mr Gillen, of Price Waterhouse, explained the significance of expatriate employees'
+place in the workforce this way:
+The expatriates we are really talking about are generally senior level people or
+those with specific skills and, as such, they are effectively employment creators.
+They are not taking employment away from other Australians.60
+5.46 This issue is considered in detail in the section 'What about the job makers?' below.
+55 Evidence, p. 157. In relation to labour market distortions, see the quotation from the Assistant Treasurer's
+Press Release No. AT/10 reproduced at paragraph 5.8 above.
+56 See paragraph 5.8 above.
+57 Given that the 456 visa permits stay of up to three months (although stay can be extended), it would be
+unusual for it to be used by an expatriate employee. As was noted above in paragraph 5.20, the 456 visa
+is designed for business visitors. Accordingly, this section only discusses the 457 visa. However,
+additional costs such as travel costs, referred to in paragraph 5.46, would apply regardless of the specific
+visa which a temporary entrant holds.
+58 Evidence, p. 151.
+59 Evidence, Mr Gillen, p. 50.
+60 Evidence, p. 42.
+
+
+5.47 The Committee received consistent evidence that expatriate employees are
+significantly more costly to employ than comparable Australians. Mr Gillen said 'the cost of
+bringing expatriates into Australia is somewhere between two to three times the cost of
+employing a local'.61 Coopers & Lybrand has a rule of thumb that an expatriate costs 'between
+200 to 300 per cent of the cost of an Australian'.62
+5.48 Mrs Theresa Rasmussen, of Outokompu Mining Australia Pty Ltd, told the
+Committee that in her company's experience:
+the cost of employing an expatriate versus a local, including repatriation, is over
+200 per cent higher and the annual cost of employment is about 45 per cent
+higher for an expatriate.63
+5.49 John Swire & Sons Pty Ltd submitted that:
+By the time we arrange visa applications and sponsorship, cover airfares,
+resettlement and housing costs and the myriad other expenses involved in
+relocating employees, the cost far exceeds that for any local equivalent.
+5.50 DIMA told the Committee that the information which it consistently receives from a
+wide range of companies is that:
+for an Australian company to bring in an overseas skilled worker would cost
+between 2'h times to four times that of an Australian worker because of travel
+costs, housing costs, education costs, medical costs and so on.
+5.51 The Committee is aware that the sub-class 457 visa includes the dependants of
+primary applicants (also true with the 456 visa). As has been noted above, such dependants
+do have work rights. Treasury said:
+If those spouses and dependants come here, have a job in Australia, it is possible
+that if they were exempt from SG that would create labour market distortions,
+obviously depending on what work they took.
+5.52 While acknowledging Treasury's concern, the Committee believes that the matter
+should be put into perspective. As at 11 July 1997 there were 26 138 holders of sub-class 457
+and equivalent (ie 412, 413, and 414) visas in Australia.67 According to DIMA, about 40 per
+cent of these visas are held by dependants,68 which gives a figure of about 10,500 dependants
+61 Evidence, p. 43.
+62 Evidence, Ms Mathewson, p. 137.
+63 Evidence, p. 114. Mrs Rasmussen is the Manager - Administrative Services of Outokompu Mining
+Australia Pty Ltd, a subsidiary of the Finnish metals company Outokompu Oy, which operates globally
+(Submission 2, p. 1). Outokompu Mining Australia Pty Ltd 'employs approximately 200 people,
+including contractors' (Evidence, p. 113).
+64 Submission 3, John Swire & Sons Pty Ltd, p. 2.
+65 Evidence, p. 151. For a description of the additional costs incurred in employing an expatriate employee,
+in the case of the ANZ Banking Group, see Submission 9 Supp, Price Waterhouse, Appendix 3.
+66 Evidence, p. 157.
+67 Australia, DIMA, unpublished statistics.
+68 Evidence, DIMA, p. 158.
+
+
+on sub-class 457 visas in Australia as at 11 July 1997. Many of those dependants would not
+be seeking employment in Australia, for example because they are children, or because they
+choose not to be in the workforce.
+5.53 Accordingly, the Committee considers that an exemption from SG requirements69 for
+457 visa holders would not cause labour market distortions, or at least not any significant
+distortions, by making sub-class 457 visa holders cheaper to employ than similarly skilled
+Australians. However, the Committee is also aware of the perceptions of distortion and
+relative advantage that exempting these visa holders may create.
+The new old 413 requirements - administrative problems for employers
+5.54 The Committee was told that there would be friction between staff if holders of the
+same visa sub-class were treated differently in relation to SG.70 In 1995-96 the numbers of
+413 and 414 visas were, 4 299 (sub-class 413); and 8 488 (sub-class 414).71
+5.55 The Committee has some difficultly in seeing how the exemption for holders of the
+sub-class 457 visa, who would have previously qualified for the 413 visa, will be
+implemented. The Committee understands that monitoring and compliance will be handled
+by the ATO.72
+5.56 When asked whether the sub-class 413 visa requirements would be laid down in
+legislation, the ATO, replied:
+I would expect that is a method by which that could be given effect. It is too
+early to say whether that would be the way it would go.7 ’
+5.57 The Committee does not share the view that nearly two months after the Assistant
+Treasurer's public announcement of the exemption is 'too early' to know how it will be
+implemented.
+The criticisms
+5.58 Mr John Gillespie, an experienced migration agent and the principal of Gilton
+Business Consultants, said:
+I think that it is absurd when we have a system that uses a criteria which no
+longer exists to make a judgment'.74
+69 SG is currently set at 6 per cent of salary, and is scheduled to increase to 9 per cent.
+70 Evidence, Ms Mathewson, p. 140.
+71 DIMA, Fact Sheet 53: Temporary Residence in Australia (1997), p. 2.
+72 Evidence, Treasury, p. 154.
+73 Evidence, p. 155.
+74 Evidence, p. 77.
+
+
+5.59 Ms Brenda Mills of ASFA stated that:
+We believe that employers would be performing quasi-immigration duties by
+determining visa criteria, which would lead to those criteria being applied
+unevenly according to employers' willingness or expertise at administering
+them.75
+5.60 Mr Feyzeny of KPMG described it as 'somewhat unsatisfactory' that employers would
+have to apply a subjective test in determining whether a person meets the sub-class 413 visa
+requirements.76
+5.61 IBSA submitted that, on the basis of its discussions with the ATO:
+the classification guidelines [for the 413 visa requirements] are too broad and
+subjective to afford certainty ... and, consequently, provide an unsatisfactory
+outcome for employers.77
+5.62 Mr Ray Stevens, of William M. Mercer Pty Ltd told the Committee that:
+to ask an employer to decide whether this person would have qualified for a 413
+visa, when even the Department of Immigration experts have problems putting
+people into the right category, is an unreasonable imposition on the employer.78
+5.63 Mr Stevens further described the exemption as 'a bandaid approach'.79
+From a member of the Roach Committee
+5.64 Ms Pauline Mathewson, a Partner in Coopers & Lybrand who was a member of the
+Roach Committee, explained that one of the reasons that the Committee recommended
+rationalising the business entry visa sub-classes was the difficulty in distinguishing between
+the separate visa sub-classes:
+One of the reasons we wanted to have one visa class was that it was simply
+confusing. There was a blurring of distinction between 413 and 414. I guess the
+best example is if you have, say, a geological engineer who is working in a mine
+and earning $200,000 a year. I would deem that person who might be running
+the mine to be an executive but the chances are that an immigration officer
+might say that is a technical role, so he is a 414 visa holder. We said that is
+meaningless and it does not make any difference. There is no point in having the
+distinction.80 ^
+5.65 Ms Mathewson described self-assessment as being 'an unworkable situation'.81
+75 Evidence, p. 79. See also Submission 11, ASFA, p. 6.
+76 See Evidence, pp. 93-94.
+77 Submission 20, IBSA, p. 2.
+78 Evidence, p. 8.
+79 Evidence, p. 9.
+80 Evidence, p. 132.
+81 Evidence, p. 133.
+
+
+Treasury's response
+5.66 Treasury, however, appeared to be either unaware of difficulties for employers in
+applying the sub-class 413 visa test, or to regard any such difficulties as being insignificant.
+The Department told the Committee she 'understood that it is not all that difficult for
+employers to know who would have fallen into that category [the sub-class 413 visa]'.82
+Treasury did not explain the basis for its understanding.
+Comment
+5.67 The Committee is concerned that the responsibility for a complicated test, the test for
+whether or not one meets the criteria of the 413 visa, which was originally undertaken by an
+expert agency will be transferred to employers with no experience of this test. The reason for
+this approach is not obvious, and was not explained to the Committee.
+82 Evidence, p. 154.
+
+
+PART B:
+EARLY RELEASE OF SUPER ON PERMANENT DEPARTURE
+What is achieved by removing early release for permanent departure?
+5.68 Treasury outlined the Government's approach to early release of superannuation
+benefits as follows:
+Given that the basic rationale of the superannuation system is to improve
+retirement incomes, the starting point for considering these measures would
+seem to be that benefits should only be released in limited circumstances. It is
+also important to have a set of rules which are as simple as possible, efficient,
+transparent and effective. It is almost inevitable in these circumstances that a
+line will need to be drawn.8j
+National savings
+5.69 Treasury explained the Government's belief that tightening early release of
+superannuation benefits would increase national savings:
+Obviously, intuitively, these measures will increase national savings. There will
+be a reduction of leakage of moneys from the superannuation system, so there
+will be more money in the form of superannuation assets than there would
+otherwise be. As a consequence of that, there should be an increase in national
+84
+savings.
+5.70 However, as the Government's Retirement Income Modelling Task Force (RIM), has
+noted:
+Unfortunately for some components of early release, particularly for the release
+of benefits for persons going overseas on a permanent basis, there are no data
+available on the current arrangements'83
+Abuse of the system
+5.71 The Government is concerned at abuse of the permanent departure ground for early
+release of superannuation benefits. Treasury outlined the Government's concern at abuse in
+the following way:
+One difficulty is that there is anecdotal evidence that under the previous
+arrangements people were providing false evidence that they were leaving
+Australia.86
+83
+84
+85
+86
+Evidence, p. 144.
+Evidence, p. 148.
+Aggregate Analyses of Policies for Accessing Superannuation Contributions (1997), p. 8
+Evidence, p. 164.
+
+
+5.72 Anecdotal evidence was also referred to by ASFA,87 and Coopers & Lybrand.88
+Treasury acknowledged that their anecdotal evidence of abuse of the permanent departure
+ground related to Australians rather than temporary entrants.89
+5.73 Of course, removing permanent departure as a ground for early release of benefits
+would reduce early withdrawals from the superannuation system, and that should have a
+positive effect on national savings. The Committee also accepts that there is a potential for
+abuse of the current arrangements, although there was no evidence provided of actual abuse.
+RIM's work
+5.74 In estimating the effects of all measures to tighten early release of superannuation
+benefits announced in the 1997-98 Budget, RIM has stated:
+the assumed reduction in total outflow is initially around $120m pa, compared
+with current total hardship flows of $180m and uncertain amounts for persons
+going overseas.90
+5.75 Given the significance of the other grounds for early release of benefits, it would
+appear that the amount of money currently leaving the superannuation system due to
+permanent departure is significantly less than $120 million. The amount would be even less
+in respect of temporary entrants.
+5.76 These figures also need to be considered against total superannuation assets of $279.5
+billion as at the end of March 1997.91
+Comments
+5.77 The Committee does not have detailed information on the problems of abuse, and of
+reduction in national savings, which the Government is attempting to address by removing
+the permanent departure ground. However, it is clear that the dollar figures involved are not
+large in terms of the superannuation system as a whole.
+5.78 Although the Committee appreciates the Government's concerns in relation to
+reduction in national savings, as they apply to Australians and permanent residents, the
+applicability of these concerns to temporary entrants is not immediately obvious. In this
+context the Committee notes the observation of Mr Kevin Casey, Member of the Tax Policy
+Committee of ASFA:
+87 ASFA stated that 'there has been anecdotal evidence of Australian residents who have claimed to have
+permanently departed by producing evidence based on the purchase of a one-way air ticket but have in
+fact returned to Australia' (Submission 11, p. 5).
+88 Coopers & Lybrand stated that they 'understand that there is strong anecdotal evidence' of false
+declarations of permanent departure by superannuation fund members to trustees (Submission 8, Coopers
+& Lybrand, p. 3).
+89 Evidence, p. 165.
+90 Aggregate Analyses of Policies for Accessing Superannuation Contributions (1997), p. 8. The prediction
+is that the measures will have a positive effect on national saving of .02 per cent of GDP in 1997-98.
+91 Insurance and Superannuation Commission Bulletin, March Quarter 1997, p. 26.
+
+
+If that person is only here temporarily, is that money really set aside for
+retirement in the Australian environment? You would have to say no; therefore I
+would not count allowing its release out of the system when that person
+emigrates back to their home country as leakage out of the Australian system.92
+5.79 However, Treasury explained the Government's concern in relation to temporary
+entrants' savings for retirement as follows:
+I accept that in a lot of cases these people will not come back to Australia, but in
+a number of cases they could very well come back to Australia. They might find
+it such a suitable place for their particular lifestyles that they do actually want to
+come back here and retire, and in those circumstances we would not want them
+falling back on the aged pension system.9'’
+5.80 This concern is considered below in the section 'Are temporary entrants likely to
+become reliant on Australian social security?'.
+5.81 The Government has also stated that the removal of permanent departure as a ground
+for early release of superannuation benefits 'is broadly consistent with overseas practice1.
+However, it is not clear if the Government regards this as a reason for adopting its course.
+Treasury did not appear to put much weight on this point:
+The other thing, too, is it actually brings our arrangements more into line with
+overseas practice. We were talking about the US before and this is a situation
+that they have over there as well. That is not necessarily a reason why we should
+follow it, of course, but there is a range of issues.95
+Retrospective, prospective, or another perspective?
+5.82 There was serious concern expressed by parties affected by the removal of permanent
+departure as a ground for early release of superannuation benefits, that this measure is
+retrospective, as it applies to benefits existing before the measure's commencement. The
+retrospectivity argument was advanced in broadly similar terms by several organisations:
+. Arthur Andersen submitted that denying 'access to contributions made prior to
+the [1997-98] budget and based on the law at that time, effectively amounts to
+retrospective application of the proposed changes';96
+. Coopers & Lybrand stated that the measure was retrospective 'as existing
+benefits are caught';97 and
+• IBSA contended that 'the proposal is retrospective, as it affects arrangements
+already in place'.98
+92 Evidence, p. 79.
+93 Evidence, p. 165.
+94 1997-98 Budget Paper No. 2: Budget Measures 1997-98, p. 193.
+95 Evidence, p. 165.
+96 Submission 19, Arthur Andersen, p. 4.
+97 Submission 8, Coopers & Lybrand, p. 4. See also Submission 10, AmCham, p. 3
+98 Submission 20, IBSA, p. 1.
+
+
+5.83 Mr Feyzeny, of KPMG, saw the application to existing superannuation benefits of the
+removal of the permanent departure ground as being contrary to a politically bipartisan policy
+against retrospectivity:
+Certainly, the view has been that for quite some time now retrospective
+legislation was a no-no as both governments had agreed that they did not wish
+to alter people's planning towards retirement expectations or imposts. So I think
+that [the measure] seems to be contrary to unwritten policy..."
+5.84 The Government did not accept that the measure is retrospective. Treasury appeared to
+see the issue of retrospectivity as being in large part a matter of one's point of view:
+[W]here new measures are implemented there are obviously a number of ways
+in which they can be implemented, ranging from totally prospective - and each
+person has a different view about what is prospective and things like that. I
+could say that these measures are prospective, because they were announced on
+13 May and took effect from 1 July.100
+5.85 Treasury was asked by the Committee whether the Government had considered
+having transitional provisions, so that temporary entrants in Australia prior to the
+commencement of the measure were not affected by the new rule. The Department indicated
+that this was considered to create too many complexities.101
+5.86 There are clearly different views between Government and the superannuation
+industry as to what constitutes retrospectivity. The following is the view of Pearce and
+Geddes as outlined in their text Statutory Interpretation in Australia:
+All legislation impinges on existing rights and obligations. Conduct that could
+formerly be engaged in will have to be modified to fit in with the new law. It
+cannot therefore be said that in this sense legislation is retrospective because this
+is true of all legislation. Legislation only operates retrospectively if it provides
+that rights and obligations are changed with effect prior to the commencement
+of the legislation.102
+5.87 Mr Charles Blunt, the Chief Executive Officer of AmCham, told the Committee that:
+Most of the employees of foreign companies that are impacted by this measure
+are fairly senior people. If they are of US origin, retrospective removal of a
+benefit is an anathema to them. They find it particularly offensive, and it is most
+unlikely to occur in a US jurisdiction. They equate that sort of change with the
+sort of change that you would expect to have in a country that is not democratic.
+Hence it does nothing to enhance our reputation in boardrooms overseas.103
+99 Evidence, p. 91. See also Submission 5, KPMG, p. 5.
+100 Evidence, p. 173.
+101 Evidence, pp. 173-174.
+102 D.C. Pearce and R.S. Geddes, Statutory Interpretation in Australia (4th ed 1996), p. 244, See also A.
+Palmer and C. Sampford, 'Retrospective Legislation in Australia: Looking Back at the 1980s' (1994) 22
+F L Rev 217, esp at p. 219.
+103 Evidence, p. 102.
+
+
+The notice period: transition impossible?
+5.88 There was criticism of the notice period given in relation to the removal of the
+permanent departure ground, and in particular of the notice given of the transitional
+arrangement.
+5.89 The removal of the permanent departure ground was announced in the 1997-98
+Budget on 13 May 1997. The relevant part of the Budget Papers stated:
+The Government will reform the current arrangements for early release of
+superannuation benefits, with effect from 1 July 1997.... Superannuation funds
+will be able to release benefits to a person who claims to have left Australia
+permanently only after that person has reached preservation age. This is broadly
+consistent with overseas practice.104
+5.90 The regulations removing permanent departure as a ground for the early release of
+superannuation benefits were made on Wednesday 25 June 1997, published in the
+Commonwealth Gazette on Thursday 26 June 1997, and commenced on Tuesday 1 July
+1997 |(b RegUiatjon 5 0f SR 1997 No. 153 provided a transitional arrangement, as follows:
+. a written request to a trustee before 1 July 1997 would be dealt with as if the
+early release provisions had not been amended by SR 1997 No. 153.106
+The criticism
+5.91 William M Mercer Pty Ltd stated their concern at the short notice between the Budget
+announcement and commencement of the new provisions.107 They suggested that in future a
+period of six months notice should be given for comparable changes; this would allow
+superannuation funds to make necessary administrative changes, and allow individuals to
+'adjust their expectations'.108
+5.92 Mr Michael Forsdick, of Coopers & Lybrand, said that his multinational clients who
+employ expatriates, were 'quite horrified' by the Government's measure in relation to the
+permanent departure ground: 'not only the retrospective nature of it, but also the very short
+time frame in which it was announced'.109
+104 1997-98 Budget Paper No. 2: Budget Measures 1997-98, p. 193.
+105 The regulations were the Retirement Savings Account Regulations Amendment (Statutory Rules (SR)
+1997 No. 151) and the Superannuation Industry (Supervision) Regulations (Amendment) (SR 1997 No.
+153).
+106 A transitional provision was not necessary in respect of SR 1997 No. 151, as the legislation establishing
+retirement savings accounts (the Retirement Savings Accounts Act 1997) did not itself commence until 1
+July 1997.
+107 Submission 7, William M Mercer Pty Ltd, p. 1. This concern applied to all the measures being
+considered by the Committee, not only to the removal of permanent departure as a ground for the early
+release of superannuation benefits.
+108 ibid
+109 Evidence, p. 134. Mr Forsdick is a Partner of Coopers & Lybrand. Retrospectivity is considered above.
+
+
+5.93 There was consistent criticism of the shortness of the period between the gazettal of
+the SIS Regulations Amendment and its commencement (from Thursday 26 June 1997 to
+Tuesday 1 July 1997). Ernst & Young submitted that superannuation fund members had 'at
+most two working days to become aware of this regulation and to act upon it ... this was
+grossly unfair'.110 At a public hearing, Ms Noelle Kelleher of Ernst & Young said regarding
+the shortness of the notice period:
+It is impossible for people to do business like that."1
+5.94 Mr Blunt said that AmCham had conducted a survey of its members on the changes to
+preservation rules, which had invited comments:
+Some of the comments about the transitional arrangements are, to put it politely,
+quite rude. They suggest that to have three or four days' notice that there is an
+opportunity to apply for a return of funding is just a joke.112
+The Government's response
+5.95 The Government did not accept criticism of the notice period as valid. In response to a
+question as whether the notice period for the transitional arrangement under SR 1997 No. 153
+was four days. The Insurance and Superannuation Commission (ISC) replied that this was not
+the case. Instead, they said the relevant notice was:
+From the time of the budget announcement, because that was clear cut in respect
+of the permanent departure overseas."’
+5.96 Treasury supported this view when it said:
+The measure was announced in the Budget on 13 May. It took effect from 1
+July. So people did have some indication of what was to happen.... Obviously a
+line needs to be drawn somewhere."4
+Comment
+5.97 The Committee considers it would be preferable to give greater notice of future
+comparable changes than from the Budget announcement to commencement on 1 July 1997.
+In respect of the transitional arrangement for overseas departure, the Committee considers
+that, for all practical purposes, notice was from gazettal. The notice period which was
+provided, from Thursday 26 June 1997 to Tuesday 1 July 1997, was then clearly inadequate.
+110 Submission 6, Ernst & Young, p. 2.
+111 Evidence, p. 61.
+112 Evidence, p. 103.
+113 Evidence, p. 168.
+114 Evidence, p. 159.
+
+
+What about the job makers?
+5.98 There was evidence which indicated that the removal of the permanent departure
+ground, as it affects expatriates, will discourage employment of expatriates in Australia, and
+the establishment of operations in Australia by foreign companies, in particular the
+establishment of Regional Headquarters (RHQs).
+5.99 Mr Gillen of Price Waterhouse described overseas perception of the measure as:
+not good.115
+5.100 Mr Blunt told the Committee that the perception that Government would make
+changes to law affecting business retrospectively would have an impact on business
+confidence:
+There are certain very positive factors associated with investing and locating in
+Australia, and there are a number of hurdles. This is perceived as another
+hurdle. I would not like to try and quantify the impact that the perception that
+the government will introduce retrospective changes will have on future
+decisions, but it is there.116
+5.101 Ms Mathewson said that the complexity of the Australian taxation system discouraged
+foreign companies from establishing operations in Australia, and that the application of SG to
+expatriate employees added to this complexity.117
+Value of expatriates
+5.102 The Committee was told that Australia was heavily reliant on expatriates to introduce
+new skills and business practices, particularly in high technology fields.118 Outokompu
+Mining Australia Pty Ltd stated that it employed expatriates for two principal reasons: to
+obtain specialist expertise, and to provide experience to undergraduate trainees.119
+5.103 IBSA submitted that expatriate employees 'make a significant contribution to both the
+investment banking sector and the economy through the transfer of new skills and alleviating
+identified skill shortages', as well as assisting employment growth of the association's
+members 'which was 30% over the three years to mid-1996'.120 DIMA informed the
+Committee that following the deregulation of the financial sector in the mid-1980s,
+115 Evidence, p. 48. Price Waterhouse's submission was supported by twenty-two business, including large
+employers of expatriates. See Submission 9 Supp, Price Waterhouse, Appendix 8.
+116 Evidence, p. 104.
+117 Evidence, pp. 136-137. See also Submission 19, Arthur Andersen, p. 4.
+118 Submission 8, Coopers & Lybrand, p. 4.
+119 Submission 2, Outokompu Mining Australia Pty Ltd, p. 3.
+120 Submission 20, IBSA, p. 2. Forty-nine institutions engaged in wholesale banking and financial market
+related business belong to IBSA, see attachment to Submission 20.
+
+
+approximately 200 permanent residents and 2 000 temporary entrants have come to Australia
+to work in the financial sector.121
+5.104 DIMA stated that the Australian financial sector had lacked specialists in foreign
+exchange dealing and Information Technology to cope with the post-deregulation expansion
+of the sector, and that since deregulation 'something like 10 000 additional jobs have been
+created for Australian workers'.122
+Incentives for Regional Headquarters
+5.105 There are concessions available under the Income Tax Assessment Act 1936 to
+encourage multinational companies to establish RHQs in Australia. Price Waterhouse
+explained the role of an RHQ as follows:
+An RHQ provides support services to its associated companies located in other
+countries in the same region and acts as an intermediary between those
+associated companies and the parent company located elsewhere.
+5.106 The Committee can readily appreciate that the location of RHQs in Australia is
+significant for growth in trade and employment.
+Competing with other countries for RHQs
+5.107 Price Waterhouse undertook a comparison of Australia with other regional
+jurisdictions where multinational companies could consider locating Asia Pacific RHQs. The
+results of the comparison were as follows.
+5.108 Temporary entrants, or their employers, were not required to make contributions to a
+superannuation or pension fund in China, Hong Kong, Malaysia, New Zealand or Thailand.
+There was a requirement to make contributions in Indonesia, Japan and Singapore. However,
+in the case of Singapore it was possible to obtain an exemption from this requirement, and
+Price Waterhouse were of the view that this exemption was routinely granted. In Indonesia
+and Japan the expatriate was able to obtain a lump sum payment of their benefit on permanent
+departure from the country.124
+SG as a disincentive for RHQs
+5.109 Price Waterhouse considered that SG, as it affects expatriates, was a disincentive to
+establish an RHQ in Australia, as compared to other locations in the Asia Pacific region.
+Ms Noelle Kelleher, of Ernst & Young, told the Committee that she had been involved in
+costings for companies considering where to establish an Asia Pacific RHQ. She said that
+Australia was 'invariably' more expensive than the alternatives, and that:
+121 Evidence, DIMA, p. 152.
+122 ibid
+123 Submission 9 Supp, Price Waterhouse, p. 3.
+124 The following information is from Submission 9 Supp, Appendix 4.
+125 Submission 9 Supp, Price Waterhouse, p. 3.
+
+
+A lot of the feedback that we are getting here is that, if there is one more impost
+here in Australia, they [companies] just really will not consider Australia for a
+regional headquarters.'26
+5.110 The Committee considers that the requirement that superannuation benefits must be
+preserved until preservation age for 456 and 457 visa holders, will be a discouraging factor to
+those foreign companies wanting to establish operations such as RHQs in Australia.
+A threefold burden:
+5.111 The Committee was told that the removal of the permanent departure ground, as it
+affects temporary residents, will place burdens on the temporary residents themselves, their
+employers and on the trustees of their superannuation funds.
+One - the burden on temporary entrants
+5.112 The point was made to the Committee that the amount of superannuation benefits
+which might be preserved would often not be a large sum, certainly not in a person's overall
+retirement plans. Mr Feyzeny said 'the employee sees the money that goes into the
+superannuation as being something which is almost intangible'.127
+5.113 Mr Blunt talked of the disadvantage of preservation to persons permanently departing
+Australia, who would otherwise have received their accumulated SG.128
+5.114 Mr Gillen, of Price Waterhouse, neatly summarised the costs which would be placed
+on temporary entrants in obtaining access to their preserved superannuation benefits:
+The expatriates themselves do not understand why they are required to
+contribute. They do not plan to retire here.... If you look to 20 or 30 years time
+when they retire, these individuals are going to need to file an Australian tax
+return. Whether their tax file number is still current will be doubtful... They are
+then, presumably, going to have to pay someone to do their Australian tax
+return, because they most probably have not lived here for a period of time. It is
+just creating unnecessary work for what would generally be reasonably small
+amounts of money.129
+5.115 The Committee was also informed that temporary entrants could be liable to double
+taxation in respect of the earnings of their superannuation savings.130
+126 Evidence, p. 64.
+127 Evidence, p. 92.
+128 Evidence, p. 104.
+129 Evidence, p. 44.
+130 On this issue see Submission 5 Supp. KPMG considered the situation regarding the US. On the basis of
+case studies, KPMG concluded 'that there is genuine potential for double tax' in the circumstances of
+their case studies (p. 5). Furthermore, KPMG stated that currently 'there is no efficient mechanism or
+authority under the domestic tax laws of Australia and the US, or in fact under the Treaty between the
+two countries, to relieve this double tax exposure'.
+
+
+Two - the burden on employers
+5.116 The Committee received evidence that the preservation of superannuation benefits of
+expatriate employees until preservation age will increase costs to employers. This issue is
+significant, as it is conservatively estimated that the cost of SG to employers in respect of
+expatriate employees is currently over $85 million per annum.131
+5.117 It appears that most expatriate employees continue in home country retirement plans
+while in Australia. Mr Gillen said:
+the large majority of employers actually maintain their people in their home
+country superannuation or pension plans while they are in Australia.132
+5.118 Some, but not all employers who maintain home country superannuation, require the
+employee to pay their SG to the employer when it is accessed by the employee. This is called
+'equalisation'.1'3 Ms Noelle Kelleher, Principal, Director - Superannuation, Ernst & Young
+told the Committee that the removal of the permanent departure ground:
+effectively means that they [employers] have then got the added superannuation
+burden for actually having those people come to Australia, because there is just
+no way of actually having any form of equalisation policy in place.1’4
+Three - the burden on superannuation funds
+5.119 It seems that the removal of the permanent departure ground will place additional
+administrative expenses on superannuation funds,13' which means a cost ultimately to all
+members of superannuation funds. There are additional costs to superannuation funds in
+relation to members overseas as compared to those members in Australia.
+5.120 Mrs Elke Malcolm, of Mercantile Mutual Life, said it can be 'quite costly' to keep in
+touch with overseas members.136 There will be cases where temporary entrants work in
+Australia for a very short period of time at an early point of their life. Preservation of such
+people's superannuation benefits in Australia will create disproportionate costs.
+131 Evidence, Mr Gillen, p. 49. This figure rises (assuming no inflation) to about $130 million in 2003, when
+SG will have risen to 9 per cent of salary.
+132 Evidence, p. 44. Ernst & Young advised that about 90 per cent of expatriate employees of their clients
+would continue to contribute to home country retirement plans (Submission 6 Supp).
+133 This is explained in Evidence, Ms Louise Fitt, p. 91. Ms Fitt is Director, International Executive tax,
+KPMG.
+134 Evidence, p. 60. See also Submission 21, Arthur Andersen (Tokyo Office). The Committee was also told
+that organisations employing foreign entertainers are expecting that they will have to pay additional
+money to entertainers so as to compensate for the unavailability of SG on permanent departure
+(Evidence, Mr Baillie, p. 109).
+135 'superannuation fund' refers generally to superannuation providers.
+136 Evidence, p. 116. Mrs Malcolm is the Manager - Administration, Corporate Markets Group of
+Mercantile Mutual Life. Mrs Malcolm gave as examples of additional costs: overseas postage, and
+(where contact has been lost) costs in attempting to find the member at the time of paying out benefits.
+
+
+5.121 Mr Peter Lamrock, company secretary of John Swire & Sons Pty Ltd and a trustee of
+the Swire group retirement plan, said:
+the administrative effort in order to track a small amount of money over a
+period of up to 30 or 40 years until the age of 55 would be out of all proportion
+to the amount of money actually held.1”
+5.122 ASF A expressed concern that most of the expatriate employees' money which will be
+preserved due to the removal of the permanent departure ground, would become unclaimed
+money (which falls to government) as it would be impossible to trace members.138 It is to be
+hoped that ASFA's prediction is not realised. However, it would appear that, to quote KPMG:
+the longer the period between departure from Australia and the entitlement to a
+benefit, the greater the likelihood that it will become impossible to trace the
+139
+owner.
+5.123 The preservation of temporary entrants' superannuation benefits will clearly bring
+with it additional administrative costs to superannuation funds. To the extent that such
+preserved benefits will become unclaimed moneys, the removal of the permanent departure
+ground appears to incur additional costs with no benefit to any members.
+Are temporary entrants likely to become reliant on Australian social security?
+5.124 The Government has expressed concern that temporary entrants might retire in
+Australia and become a burden on Australian social security (see paragraph 5.78 above).
+Temporary entrants could retire in Australia through becoming permanent residents, or by
+obtaining a specific retirement visa which gives temporary residence (the sub-class 410 visa).
+5.125 To obtain a 410 (retirement) visa the applicant must meet a financial test.140 Holders
+of this visa are ineligible for Medicare or Social Security benefits, and they should therefore
+ensure satisfactory medical insurance coverage. Holders of this visa do not have work rights.
+The visa is for temporary residence only. The initial visa is for four years, but it is possible to
+receive extensions with each extension being for no more than two years. Holders of 410
+visas are not a burden on the Australian social security system. As at 11 July 1997 there were
+1171 holders of sub-class 410 visas in Australia.
+5.126 The Committee considers that the Government's concern in this area, which it has not
+quantified, must be weighed against the burdens imposed by the removal of the permanent
+departure ground. There are burdens on the temporary entrants themselves, on employers and
+137 Evidence, p. 75; see also Submission 3, John Swire & Sons Pty Ltd, p. 2. This view was also put by other
+witnesses, see: Evidence, Mr Stevens, p. 10; Mr Gillen, p. 44; and Mr Murton, p. 49. Mr Stevens is a
+Director of William M Mercer Pty Ltd. Mr Murton is a Senior Consultant at Price Waterhouse.
+138 Submission II, p. 3. This risk was also referred to by KPMG
+139 Submission 5, KPMG, p. 6.
+140 The applicant (or the applicant and his/her spouse) must have: resources available for transfer to
+Australia not less than $500 000; or the applicant (or the applicant and his/her spouse) must have
+resources available for transfer to Australia not less than $150,000 and also have pension rights and/or
+investment capital which are sufficient to provide an income stream of not less than $35 000 per year.
+Letter from DIMA, 29 August 1997.
+
+
+on superannuation funds; and there is a discouraging effect on foreign companies wanting to
+establish operations in Australia.
+International social security agreements
+5.127 The Committee was told that removal of the permanent departure ground would assist
+the Government in negotiating international social security agreements with other countries.
+Such agreements would cover matters such as providing exemptions for Australians working
+overseas from foreign social security taxes. The Department of Social Security (DSS),
+described the effect of the measure as follows:
+The US is the best example. If we were to give a unilateral exemption, there
+would be no particular reason why they would give us one, because we would
+have already given away the exemption.141
+5.128 There appeared to be a degree of confusion among Government advisers about the
+role which international social security negotiations had played in the Government's deciding
+to remove the permanent departure ground. Treasury said the following about the decision to
+limit the exemption:
+There were basically two main reasons: the labour market distortions and
+assisting Australia's negotiating position in relation to social security
+. 142
+agreements.
+5.129 However, DSS said this in reply to a question on the effect of removing the permanent
+departure ground on international social security negotiations:
+I do not think that motivated these changes at all.143
+5.130 DSS told the Committee that Australia has eleven social security agreements with
+foreign countries.144 Currently S712 million is paid into Australia per year in foreign social
+security payments, and Australia pays out $137 million per year to those countries with
+whom we have agreements.14'^
+Using superannuation in international negotiations
+5.131 The Committee is concerned about the use of superannuation policy as a bargaining
+chip in relation to international social security negotiations. Firstly, as ASFA has noted,
+bilateral agreements 'would take a significant amount of time to establish before they can be
+utilised'.146
+141 Evidence, p. 163.
+142 Evidence, p. 157.
+143 Evidence, p. 163.
+144 Evidence, p. 175.
+145 Answers to Questions taken on Notice, Treasury Advice of 2 September 1997, p. 5
+146 Submission 11, ASFA, p. 7.
+
+
+5.132 Secondly, the Committee was told that it is difficult to compare Australia's SG system
+with foreign social security taxes, as the SG system is privately administered rather than a tax
+arrangement.147 However, DSS said that the Australian system was comparable 'in so far as
+there is a mandated percentage that you have to put in'.148
+5.133 Thirdly, the Committee notes that it would appear that the measure may add to
+difficulties in other areas of international relations. The Committee notes public reporting of
+the US International Trade Commission's criticism of Australia's business migration policies
+as a barrier to trade in services.149 The Committee believes that the changes to preservation
+rules in relation to permanent departure, in so far as they apply to temporary business
+entrants, may complicate relations with foreign countries in respect of these issues.
+5.134 However, given the often delicate, and necessarily confidential, nature of international
+negotiations, it is difficult for the Committee to comment further on the Government's
+assessment of the value of its stance on preservation of benefits in relation to international
+social security negotiations.
+Permanent departure of Australian citizens and permanent residents
+5.135 The Committee received evidence from Mr Charles Moses, an Australian citizen who
+will be personally affected by the changes to preservation rules. He was the only Australian
+citizen personally affected by these changes to make a submission to the Committee.
+5.136 Mr Moses has applied for permanent residence in Canada. He expects to permanently
+depart Australia soon, so as to live in Canada with his wife who is a Canadian citizen. Mr
+Moses was highly critical of his inability to access his superannuation benefits:
+I am now dictated to by the government to maintain my retirement investment
+in a country of which I will no longer be a resident and possibly a citizen.130
+5.137 Mr Moses was concerned that he will have to begin saving for retirement afresh when
+he is in Canada as he will not be able to transfer his Australian superannuation into a
+Canadian retirement savings vehicle.11'1 Also he said he 'will be disadvantaged by monitoring
+the performance of my superannuation from the other side of the world, something I am not
+looking forward to'.152 Mr Moses was also greatly concerned that his Australian
+superannuation savings would be eroded by management fees and inflation.
+5.138 The Committee notes Mr Moses' personal circumstances, and can understand his
+concerns. However, the Committee believes that the issues which he raises are more related
+147 Evidence, Ms Fitt, pp. 95-96.
+148 Evidence, p. 162.
+149 AAP, 'US questions labour trade restrictions', The Australian Financial Review, 26 August 1997, p. 3
+150 Submission 1, p. 2.
+151 ibid
+152 Submission 1, p. 3.
+153 Submission 1, p. 2. Also see Evidence, p. 57.
+
+
+to member protection, rather than relating directly to the removal of the permanent departure
+ground.
+5.139 As was noted above, the Committee accepts that removing the permanent departure
+ground would reduce early withdrawals from the superannuation system, and that this, in
+turn, should have a small positive effect on national savings. The Committee accepts that
+there is a potential for abuse of the current arrangements.
+5.140 The Committee had much less of a problem understanding the Government's
+proposals in respect of the departure of Australian citizens and permanent residents, than it
+did with temporary residents.
+
+
+PART C:
+CONCLUSIONS
+Generally - regarding superannuation
+5.141 The Committee reiterates its view that the primary purpose of superannuation in
+Australia is the provision of retirement income for Australians. The importance of this social
+and economic objective is reflected in the concessional taxation treatment which
+superannuation receives. Providing for Australians' retirement will be undermined if their
+superannuation savings are dissipated. The Committee supports rules which will promote the
+purposes of superannuation.
+5.142 The Committee is concerned, at a time when there is general community support for
+measures to increase the level of meaningful employment in this country, that the
+Government's measure to remove the permanent departure ground for early access may have
+this unintended side effect. Foreign companies may be dissuaded from establishing
+operations in Australia, and there may be a consequent dampening of growth in trade and
+employment for resident Australians.
+5.143 The Committee notes that there is a lack of data on the magnitude of early
+withdrawals from the superannuation system due to permanent departure. However, the
+Committee recognises that removing permanent departure as a ground for early release of
+benefits would reduce early withdrawals from the superannuation system, and this should
+have a positive effect on national savings. The Committee also accepts that there was at least
+a potential for abuse under the old arrangements.
+Australian citizens and permanent residents
+5.144 The Committee therefore concludes that, in the case of Australian citizens, permanent
+departure should not be a ground for early release of superannuation benefits. The Committee
+is aware that, particularly given the cultural diversity of the Australian community, there will
+be Australians who spend much of their lives overseas. Nevertheless, given the right of an
+Australian to reside in Australia in their retirement, the Committee concludes that the
+superannuation savings of Australians who have permanently departed Australia should be
+preserved until preservation age.
+5.145 If an Australian citizen who has permanently departed Australia were to subsequently
+lose their citizenship, then there may be a case for early release of superannuation benefits in
+such circumstances, as the former citizen would have lost his or her right of return to
+Australia (although the person could apply for a visa to enter Australia). The Committee
+notes that where an Australian loses their Australian citizenship that this would generally be
+due to a choice made by that Australian (for example, by voluntarily taking citizenship of
+another country).154
+5.146 Although the Committee does not consider a recommendation necessary on this
+matter, the Government may wish to give further consideration to provide for the early
+154 See section 17 of the Australian Citizenship Act 1948.
+
+
+release of superannuation benefits to Australians who have permanently departed Australia
+and subsequently lose their Australian citizenship.
+5.147 The Committee understands that permanent residents do not have the same rights of
+return enjoyed by Australian citizens. However, the Committee believes that there is a
+significantly higher probability that such persons will retire in Australia than non-Australians
+who are only in Australia temporarily.
+5.148 Accordingly, the Committee is satisfied that the superannuation savings of permanent
+residents of Australia who have permanently departed Australia should also be preserved
+until preservation age. However, as outlined in paragraph 145, the Government may wish to
+consider providing for early release of benefits to permanent residents who have permanently
+departed Australia, and who are subsequently unable to legally return to Australia.
+Temporary residents
+5.149 The case of temporary entrants to Australia is different from that of Australian citizens
+and permanent residents. Temporary entrants are welcomed and valued members of our
+community while they are here, but there the Committee sees no need for them to be required
+to save in Australia for a retirement that they will not share with us.
+5.150 The weight of evidence supported exemption from SG for holders of 456 and 457
+visas. However, for reasons of consistency, the Committee considers there should be no
+exemption, but these people should be granted early access to their superannuation on their
+permanent departure from Australia.
+5.151 Committee members differ in their views about when the Government should move to
+allow early access on permanent departure. Coalition Senators considered that such access
+should be delayed until the conclusion of social security agreements (see recommendation
+6.3).
+5.152 The Committee's inquiry was not involved directly with other temporary visa holders.
+But on the principle described in paragraph 5.149, the Committee concludes there is a good
+case for such people to also be granted early access to superannuation on their permanent
+departure overseas.
+5.153 In summary, the Committee concludes that the Government's removal of permanent
+departure as a ground for early release of superannuation benefits should be supported, except
+as it applies to temporary entrants, all of whom should be exempt from the measure (within
+the constraints described in paragraph 5.151).
+Insert by Coalition Senators
+5.154 The Coalition Senators recognise the strong evidence in favour of exemption from
+SG for business class (456 and 457) visa holders and, in the absence of exemption, at least
+full access to benefits on permanently departing overseas. However, the Government
+wishes to maintain the integrity of its changes in order to successfully negotiate social
+security agreements with other countries. (See Chapter 6 for details on the Government's
+position.)
+
+
+5.155 While the Coalition Senators appreciate the Government's position, they express
+their concern at:
+. the length of time it takes to conclude these social security agreements; and
+. the lack of appreciation by the bureaucracy of the difference between
+Australia's superannuation system and those of other countries.
+
+
+
+
+CHAPTER 6
+RECOMMENDATIONS ON THE GOVERNMENT'S CHANGES
+Discussion with experts could have allowed the government's objectives to be achieved in a
+more simple manner.1
+Prelude
+6.1 The Committee fully supports the principles behind the preservation of
+superannuation entitlements for retirement income purposes. The Committee's views on
+preservation were outlined in Chapter 2.
+The Government's position
+6.2 Following the receipt of so much evidence critical of the Government's changes to the
+application of Super Guarantee (SG) to holders of business class visas, the Committee
+approached the Assistant Treasurer seeking details of the situation of Australians who
+temporarily reside in certain countries which are our major trading partners. The Assistant
+Treasurer responded in the following terms.
+While scheme details vary between countries, payroll-based social security taxes are levied
+which, among other things, provide employees with pension benefits in retirement. As the size
+of the pension benefit depends on the level of lifetime contributions, and 'contributions' are
+compulsory (including for Australians who are temporarily resident overseas), these schemes
+are taken to be broadly equivalent to our Superannuation Guarantee.
+Generally, such contributions are non-refundable and benefits are non-transferable. Further,
+most countries have a minimum contribution period before any entitlement to a pension
+benefit arises. Thus, Australians who temporarily reside in the countries under consideration
+are generally not entitled to a refund of their contributions either on permanent departure or
+retirement. ...
+• Australians temporarily employed in the US derive no benefit from their
+contributions unless they remain in the US for at least 10 years.
+• Australians temporarily employed in Japan nearly always forfeit at least some
+and potentially a large share of their direct contributions. Contributions made
+after three years in Japan are non-refundable.
+Until April 1985 Japan allowed foreigners a full refund on departure. This
+was replaced by a "no refund" policy for all contributors. This changed to
+the current arrangements in late 1994T
+1 Evidence, Mr Ward, Manager Research and Information, William M. Mercer Pty Ltd, p. 3
+Letter to the Chair from the Assistant Treasurer, 3 September 1997.
+2
+
+
+Chapter 6
+6.3 The Committee also questioned whether the tightening of the early release of benefit
+rules would assist Australia's negotiating position in bilateral social security agreements, in
+particular with the United States. The Minister replied as follows.
+I understand the United States has indicated to the Department of Social Security that
+unilateral refunds of contributions or exemptions on Australia's part are an obstacle to an
+agreement. It is embedded in US social security law that US agreements must operate to
+prevent double contributions. If double contributions are not an issue, the US is not required
+to avoid double contributions and therefore has no need for an agreement.3
+Comments
+6.4 The Committee understands that most other countries have a system where
+superannuation is included as part of government's taxation regime, similar in character to
+Australia's Medicare system for example. In Australia, superannuation under SG is paid into
+personal accounts for the benefit of individuals and protected by the principles of the law of
+trusts. Accordingly, Australia's scheme is different in both concept and in practice.
+The Committees recommendations
+6.5 Recommendations on the three areas of the broader reference follow. The original
+reference on the SHAR Bill is considered separately in the following chapter.
+Abolition of the $500 threshold
+Recommendation 6.1
+The Committee supports the abolition of the $500 threshold but recommends the Government
+a lower threshold of $200.
+Senator Lyn Allison does not support this recommendation. The Australian Democrats are
+not persuaded that low income workers are better off being required to hold such small
+amounts in superannuation funds and will reserve their position on this matter.
+Release of monies on departure overseas
+Recommendation 6.2
+In relation to Australian citizens or permanent residents departing overseas for whatever
+period, the Committee recommends retaining the Government's change for the release of
+superannuation benefits only after such persons have reached preservation age.
+recommendation the Labor and Democrat Senators add the following:
+3
+ibid
+
+
+There should be a reasonable transition period of six months from the date of operation of the
+revised regulations to allow those people who were leaving Australia to notify their
+superannuation fund of their intention.
+The transition period for people notifying their superannuation fund should end on 30
+December 1997 and will only apply to those people who are planning on leaving Australia
+before 30 December 1998.
+Recommendation 6.3
+For temporary residents in Australia holding temporary visas, Labor and Democrat Senators
+recommend that, on their permanent departure overseas, these visa holders be granted full
+access to all preserved superannuation benefits.
+The Coalition Senators acknowledge that the evidence received during the inquiry
+overwhelmingly supports the position that temporary residents in Australia holding
+temporary visas be granted full access to all preserved superannuation benefits on their
+permanent departure overseas.
+However, the Coalition Senators note the continued unfavourable treatment of Australians
+employed overseas in respect of social security taxes in countries such as the United States, as
+described in the Assistant Treasurer's letter. The Coalition Senators consider that if the
+Government agreed to grant full access to all preserved benefits for temporary residents at
+this time, this may unduly weaken its position in respect of the social security agreement
+negotiations yet to be concluded.
+The Coalition Senators believe that, in the longer term, holders of 456, 457 and 411 visas
+should be granted access to their superannuation on permanent departure. Such access should
+occur as social security agreements are concluded. The Coalition Senators express their
+concern at the slow rate of making these agreements, and the lack of understanding of the
+differences between Australia's superannuation system and that of other countries.
+Recommendation 6.4
+The Committee recommends that there be no exemption beyond those already granted from
+the application of the Super Guarantee for temporary residents.
+Hardship and compassionate grounds
+Recommendation 6.5
+The Committee recommends that the following changes be made to the Government's new
+test for severe financial hardship:
+
+
+(a) the income support definition be extended, beyond those Commonwealth
+income support payments presently specified, to include all like payments;
+(b) the required period of receipt of such payments be reduced; and
+(c) a subjective test be added, being the total inability to meet reasonable and
+immediate family living expenses.
+Labor Senators conclude that a reasonable waiting period in continuous receipt of income
+support needed to satisfy the objective test for severe financial hardship should be twelve
+weeks.
+Recommendation 6.6
+The Committee recommends that the Insurance and Superannuation Commission be the
+appropriate body to assess claims on grounds of severe financial hardship.
+Recommendation
+The Committee recommends that the criteria designated under the compassionate grounds
+provisions be expanded to include a residual discretion for the Insurance and Superannuation
+Commissioner to release benefits, other than in accordance with the listed criteria, where such
+serious and special circumstances exist as to justify compassionate consideration.
+
+
+CHAPTER 7
+REPORT ON THE SMALL SUPERANNUATION ACCOUNTS
+AMENDMENT BILL 1997
+These amendments are consistent with measures announced in the 1997-98 Budget reforming
+current arrangements for the early release of superannuation benefits to members.1
+Background
+7.1 As outlined in Chapter 1, the first step in the inquiry behind the first six chapters of
+this report was the Senate referring the Small Superannuation Accounts Amendment Bill
+1997 to the Committee on 19 June 1997 for inquiry and report by 28 August 1997. The
+provisions of this Bill tighten the arrangements relating to the early release of monies held in
+the Superannuation Holding Accounts Reserve (SHAR).
+7.2 The Committee is still required to make a separate report on the above Bill, and that is
+the subject of this chapter.
+What the SHAR is
+7.3 The SHAR is a collection mechanism administered by the Australian Taxation
+Office.2 It was established to receive superannuation contributions from employers which are
+required to be paid under the Super Guarantee Scheme (SG). SHAR was foreshadowed by the
+then Treasurer in June 1994 as part of a policy to protect small superannuation accounts from
+being eroded by fees and charges. The legislation establishing SHAR was the Small
+Superannuation Accounts Act 1995.
+7.4 SHAR comprises separate notional accounts for individuals, with each individual only
+allowed one account. Money credited to an individual's account is not held on trust.
+Accordingly, the money may not be dealt with in any other way other than in accordance with
+the SHAR legislation.
+7.5 This reserve is not a superannuation fund or superannuation scheme. Deposits are not
+superannuation contributions and do not attract contributions tax within SHAR. However,
+employers may treat such deposits as superannuation contributions for the purpose of SG and
+be able to claim these deposits as deductions for income tax purposes.
+7.6 While SHAR was established primarily for the collection of deposits in lieu of
+contributions under SG, it may also accept other amounts. For example, employers may wish
+to provide superannuation support for certain employees even though SG may not be required
+for them if, say, their monthly wages are below $450.
+1 Second Reading Speech, Small Superannuation Accounts Amendment Bill 1997.
+2 Information in this section has been drawn from Australian Superannuation Law and Practice, CCH.,
+paras 55-100 to 55-120.
+
+
+Chapter 7
+The future of SHAR
+7.7 The Committee notes that it is 'the Government's intention that SHAR will be
+gradually phased out over a 2 year period':
+Whilst the Government has not finalised the precise details of this process,
+individuals who have money held on their behalf in SHAR and do not access
+their money before SHAR is phased out, will not lose access to their money.
+The Government will ensure arrangements are put in place so that those
+individuals will retain access to money consistent with the rules which apply to
+access to other superannuation entitlements.3
+7.8 The following table provides details of SHAR membership as at 25 August 1997.4
+Table 7.1
+Insert by Labor and Democrat Senators
+7.9 Labor and Democrat Senators wish to highlight their concern for the monies
+contained in SHAR accounts whose owners are untraceable or have unconfirmed
+addresses, which totalled some $172 436 as at 2 September 1997. The Government has
+indicated its intention to phase out SHAR but has not announced the detail of this proposal.
+Labor and Democrat Senators are not yet convinced that SHAR should be phased out, or
+that the Government has in place adequate alternative mechanisms to deal with the problem
+of small accounts. Labor and Democrat Senators recommend that the Senate closely
+examines the Government's legislation with the intention of ensuring that people do not lose
+their funds if the Government closes SHAR.
+What the amending Bill does
+7.10 The Bill amends the Small Superannuation Accounts Act 1995 'to tighten the
+arrangements relating to the early release of monies' held in the SHAR./ The amendments
+have the following effects:
+abolishing the $500 threshold;
+3 Answers to Questions taken on Notice, Treasury Advice of 2 September 1997, p. 4.
+4 ibid
+5 Second Reading Speech, Small Superannuation Accounts Amendment Bill 1997.
+
+
+• replacing the "severe hardship" test with an objective test of hardship based on
+receipt of specified income support payments for a certain period; and
+• releasing monies to non-residents only after preservation age (currently age 55).
+7.11 In the previous four chapters, the above effects have been examined in relation to the
+superannuation system proper, and recommendations have been made in Chapter 6. In the
+case of the SHAR accounts the Committee makes the same findings.
+7.12 The Committee notes that no provision for early release on compassionate grounds
+was included in the Bill. For the sake of unifomiity, the Committee considers that
+compassionate grounds should be provided for in SHAR in the same manner as for the
+superannuation system proper.
+7.13 Accordingly, the Committee recommends that the Small Superannuation Accounts
+Amendment Bill be amended to give effect to the following recommendations.
+Recommendation 7.1
+The Committee supports the abolition of the $500 threshold but recommends the Government
+substitutes a lower threshold of $200.
+Senator Lyn Allison does not support this recommendation. The Australian Democrats are
+not persuaded that low income workers are better off being required to hold such small
+amounts in superannuation funds and will reserve their position on this matter.
+Recommendation 7.2
+In relation to Australian citizens or permanent residents departing overseas for whatever
+period, the Committee recommends retaining the Government's change for the release of
+superannuation benefits only after such persons have reached preservation age.
+To this recommendation the Labor and Democrat Senators add the following:
+There should be a reasonable transition period of six months from the date of operation of the
+revised regulations to allow those people who were leaving Australia to notify their
+superannuation fund of their intention.
+The transition period for people notifying their superannuation fund should end on 30
+December 1997 and will only apply to those people who are planning on leaving Australia
+before 30 December 1998.
+
+
+Recommendation 7.3
+For temporary residents in Australia holding temporary visas, Labor and Democrat Senators
+recommend that, on their permanent departure overseas, these visa holders be granted full
+access to all preserved superannuation benefits.
+The Coalition Senators acknowledge that the evidence received during the inquiry
+overwhelmingly supports the position that temporary residents in Australia holding
+temporary visas be granted full access to all preserved superannuation benefits on their
+permanent departure overseas.
+However, the Coalition Senators note the continued unfavourable treatment of Australians
+employed overseas in respect of social security taxes in countries such as the United States, as
+described in the Assistant Treasurer's letter. The Coalition Senators consider that if the
+Government agreed to grant full access to all preserved benefits for temporary residents at
+this time, this may unduly weaken its position in respect of the social security agreement
+negotiations yet to be concluded.
+The Coalition Senators believe that, in the longer term, holders of 456, 457 and 411 visas
+should be granted access to their superannuation on permanent departure. Such access should
+occur as social security agreements are concluded. The Coalition Senators express their
+concern at the slow rate of making these agreements, and the lack of understanding of the
+differences between Australia’s superannuation system and that of other countries.
+Recommendation 7.4
+The Committee recommends that there be no exemption beyond those already granted from
+the application of the Super Guarantee for temporary residents.
+Hardship and compassionate grounds
+Recommendation 7.5
+The Committee recommends that the following changes be made to the Government’s new
+test for severe financial hardship:
+(a) the income support definition be extended, beyond those Commonwealth
+income support payments presently specified, to include all like payments;
+(b) the required period of receipt of such payments be reduced; and
+(c) a subjective test be added, being the total inability to meet reasonable and
+immediate family living expenses.
+
+
+Labor Senators conclude that a reasonable waiting period in continuous receipt of income
+support needed to satisfy the objective test for severe financial hardship should be twelve
+weeks.
+Recommendation 7.6
+The Committee recommends that the Insurance and Superannuation Commission be tire
+appropriate body to assess claims on grounds of severe financial hardship.
+Recommendation 7.7
+The Committee recommends that compassionate grounds be provided for on the same basis
+as in the superannuation system proper. This would include a provision for a residual
+discretion for the Insurance and Superannuation Commissioner to release benefits, other than
+in accordance with the listed criteria, where such serious and special circumstances exist as to
+justify compassionate consideration.
+Senator John Watson
+Chairman
+
+
+
+
+APPENDIX A
+LIST OF WRITTEN SUBMISSIONS
+
+
+
+
+APPENDIX B
+LIST OF WITNESSES AT PUBLIC HEARINGS
+MELBOURNE, 13 AUGUST 1997
+Mr John Berrill, Partner, Superannuation, Maurice Blackburn & Co
+Mr Robert Gillen, Partner, Australasian Director, International Assignment Services,
+Price Waterhouse
+Mr Kit Hauptmann, Chief Executive Officer and Senior Financial Counsellor, Financial
+Counselling Service Southern
+Mr Ronald Haywood
+Mrs Marion Haywood
+Ms Robyn Hopcroft, Acting Assistant Ombudsman and Acting Public Guardian, Office
+of the Ombudsman, Tasmania
+Mrs Debbie Hutchison
+Ms Noelle Kelleher, Principal, Director - Superannuation, Ernst & Young
+Mr Michael Moses
+Mr John Murton, Senior Consultant, Price Waterhouse
+Mr Raymond Stevens, William M. Mercer Pty Ltd
+Mr Michael van Schaik, Associate Director, International Assignment Services, Price
+Waterhouse
+Mr John Ward, Manager, Research and Information, William M. Mercer Pty Ltd
+SYDNEY, 14 AUGUST 1997
+Mr William Baillie, Partner, Greenwood Challoner and Company
+Mr Charles Blunt, Chief Executive Officer, The American Chamber of Commerce in
+Australia
+Mr Kevin Casey, Member, Tax Policy Committee, Association of Superannuation
+Funds of Australia
+
+
+Appendix 2
+Mr Peter Davidson, Senior Policy Officer, Australian Council of Social Service
+Mr Emery Feyzeny, Superannuation Partner, KPMG
+Ms Louise Fitt, Director, International Executive Tax, KPMG
+Mr Michael Forsdick, Partner, Coopers & Lybrand
+Mr John Gillespie, Principal, Gilton Business Consultants
+Mr Peter Lamrock, Company Secretary, John Swire and Sons Pty Ltd
+Mrs Elke Malcolm, Manager, Administration - Corporate Markets Group, Mercantile
+Mutual Life
+Ms Pauline Mathewson, Partner, Migration Services, Coopers & Lybrand
+Ms Brenda Mills, Manager, Regulatory Information, Association of Superannuation
+Funds of Australia
+Mrs Theresa Rasmussen, Manager, Administrative Services, Outokumpu Mining
+Australia Pty Ltd
+Mr Matthew Wilson, Corporate Lawyer - Superannuation, and Manager, Mercantile
+Mutual Custodians, Mercantile Mutual
+CANBERRA, 20 AUGUST 1997
+Mr Leslie Blacklow, Assistant Secretary, International Programs Branch, Department
+of Social Security
+Mr Eric Brookbanks, Assistant Secretary. Business Branch, Department of Immigration
+and Multicultural Affairs
+Mr Roger Brown, Assistant Commissioner, Supervision Branch, Insurance and
+Superannuation Commission
+Mrs Deidre Gerathy, Assistant Secretary, Superannuation Policy Branch, Department of
+the Treasury
+Mr Grant Goodwin, Director, Superannuation, Australian Taxation Office
+Mr Robert Heferen, Senior Officer, Legislative Services, Australian Taxation Office
+Mr John Larkin, Assistant Commissioner (Policy), Insurance and Superannuation
+Commission
+
+
+Mr Tony McDonald, Acting Director, Superannuation Section, Superannuation Policy
+Branch, Financial Institutions Division, Department of the Treasury
+Mr Steve Meredith, Director, Skilled Entry, Department of Immigration and
+Multicultural Affairs
+Mr Neil Oleson, Assistant Commissioner, Australian Taxation Office
+Ms Bernadette Power, Director, Policy, Services and Treaties, International Programs
+Branch, Department of Social Security
+Mr Eric Rojahn, Director, Financial Markets Policy, Retirement Programs Branch,
+Department of Social Security
+
+
+
+
+APPENDIX C
+LIST OF COMMITTEE REPORTS
+Super System Survey - A Background Paper on Retirement Income Arrangements in
+Twenty-one Countries (December 1991)
+Papers relating to the Bymwood Ltd, WA Superannuation Scheme (March 1992)
+Interim Report on Fees, Charges and Commissions in the Life Insurance Industry
+(June 1992)
+First Report of the Senate Select Committee on Superannuation - Safeguarding Super -
+the Regulation of Superannuation (June 1992)
+Second Report of the Senate Select Committee on Superannuation - Super Guarantee
+Bills (June 1992)
+Super Charges - An Issues Paper on Fees, Commissions, Charges and Disclosure in the
+Superannuation Industry (August 1992)
+Third Report of the Senate Select Committee on Superannuation - Super and the
+Financial System (October 1992)
+Proceedings of the Super Consumer Seminar, 4 November 1992 (4 November 1992)
+Fourth Report of the Senate Select Committee on Superannuation - Super - Fiscal and
+Social Links (December 1992)
+Fifth Report of the Senate Select Committee on Superannuation - Super Supervisory
+Levy (May 1993)
+Sixth Report of the Senate Select Committee on Superannuation - Super - Fees,
+Charges and Commissions (June 1993)
+Seventh Report of the Senate Select Committee on Superannuation - Super Inquiry
+Overview (June 1993)
+Eight Report of the Senate Select Committee on Superannuation - Inquiry into the
+Queensland Professional Officers Association Superannuation Fund (August 1993)
+Ninth Report of the Senate Select Committee on Superannuation - Super Supervision
+Bills (October 1993)
+Tenth Report of the Senate Select Committee on Superannuation - Super Complaints
+Tribunal (December 1993)
+
+
+Eleventh Report of the Senate Select Committee on Superannuation - Privilege Matter
+Involving Mr Kevin Lindeberg and Mr Des O'Neill (December 1993)
+A Preliminary Paper Prepared by the Senate Select Committee on Superannuation for
+the Minister for Social Security, Options for Allocated Pensions Within the Retirement
+Incomes System (March 1994)
+Twelfth Report of the Senate Select Committee on Superannuation - Super for Housing
+(May 1994)
+Thirteenth Report of the Senate Select Committee on Superannuation - Super Regs I
+(August 1994)
+Fourteenth Report of the Senate Select Committee on Superannuation - Super Regs II
+(November 1994)
+Fifteenth Report of the Senate Select Committee on Superannuation - Super Guarantee
+-Its Track Record (February 1995)
+Sixteenth Report of the Senate Select Committee on Superannuation - Allocated
+Pensions (June 1995)
+Seventeenth Report of the Senate Select Committee on Superannuation - Super and
+Broken Work Patterns (November 1995)
+Eighteenth Report of the Senate Select Committee on Superannuation - Review of the
+Superannuation Complaints Tribunal (April 1996)
+Nineteenth Report of the Senate Select Committee on Superannuation - Reserve Bank
+Officers ’ Super Fund (June 1996)
+Twentieth Report of the Senate Select Committee on Superannuation - Provisions of the
+Social Security Legislation Amendment (Further Budget and Other Measures) Bill 1996
+- Schedule 1 (November 1996)
+Twenty-first Report of the Senate Select Committee on Superannuation - Investment of
+Australia's Superannuation Savings (December 1996)
+Twenty-second Report of the Senate Select Committee on Superannuation - Retirement
+Savings Accounts Legislation (March 1997)
+Twenty-third Report of the Senate Select Committee on Superannuation -
+Superannuation Surcharge Legislation (March 1997)
+Twenty-fourth Report of the Senate Select Committee on Superannuation - Schedules 1,
+9 & 10 of Taxation Laws Amendment Bill (No. 3) 1997 (June 1997)
+
+
+List of Committee Reports
+Twenty-fifth Report of the Senate Select Committee on Superannuation - The
+Parliamentary Contributory Superannuation Scheme & the Judges' Pension Scheme
+(September 1997)
+Twenty-sixth Report of the Senate Select Committee on Superannuation - Super -
+Restrictions on Early Access: Small Superannuation Accounts Amendment Bill 1997
+and related terms of reference. (September 1997)
+
+
+THE PARLIAMENT OF THE
+COMMONWEALTH OF AUSTRALIA
+PARLIAMENTARY
+PAPER
+No. 157 of 1997
+ORDERED TO BE PRINTED
+ISSN 0727-4181
